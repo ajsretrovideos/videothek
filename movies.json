@@ -1,0 +1,1790 @@
+{
+  "generatedAt": "2026-10-23T09:25:21.644Z",
+  "shelves": [
+    {
+      "genre": "Alex' Tips",
+      "room": 1,
+      "wall": "back",
+      "count": 0
+    },
+    {
+      "genre": "Neuheiten",
+      "room": 1,
+      "wall": "back",
+      "count": 5
+    },
+    {
+      "genre": "Klassiker",
+      "room": 1,
+      "wall": "back",
+      "count": 0
+    },
+    {
+      "genre": "RomCom",
+      "room": 1,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Leichte Kost",
+      "room": 1,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Familie",
+      "room": 1,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Animation",
+      "room": 1,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Drama",
+      "room": 1,
+      "wall": "right",
+      "count": 22
+    },
+    {
+      "genre": "Dokus",
+      "room": 1,
+      "wall": "right",
+      "count": 0
+    },
+    {
+      "genre": "Sportfilme",
+      "room": 1,
+      "wall": "right",
+      "count": 0
+    },
+    {
+      "genre": "Deutsches Kino",
+      "room": 1,
+      "wall": "right",
+      "count": 0
+    },
+    {
+      "genre": "Action",
+      "room": 2,
+      "wall": "back",
+      "count": 0
+    },
+    {
+      "genre": "Heroes",
+      "room": 2,
+      "wall": "back",
+      "count": 0
+    },
+    {
+      "genre": "Thrill",
+      "room": 2,
+      "wall": "back",
+      "count": 24
+    },
+    {
+      "genre": "Horror",
+      "room": 2,
+      "wall": "back",
+      "count": 24
+    },
+    {
+      "genre": "Sci-Fi",
+      "room": 2,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Fantasy",
+      "room": 2,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Western",
+      "room": 2,
+      "wall": "right",
+      "count": 0
+    },
+    {
+      "genre": "Eastern",
+      "room": 2,
+      "wall": "right",
+      "count": 0
+    }
+  ],
+  "movies": [
+    {
+      "title": "PAW Patrol: Der Dino Film",
+      "originalTitle": "PAW Patrol: The Dino Movie",
+      "year": "2026",
+      "genres": [
+        "Animation",
+        "Abenteuer",
+        "Familie",
+        "Fantasy",
+        "Komödie"
+      ],
+      "runtime": "88",
+      "rating": "8.3",
+      "overview": "Nachdem ihr Schiff in einen mysteriösen Sturm gerät, landen die PAW-Patrol-Welpen auf einer unbekannten tropischen Insel, auf der Dinos leben. Dort treffen sie auf Rex, einen Welpen, der vor Jahren auf der Insel gestrandet ist und sich seitdem zu einem Dino-Experten entwickelt hat. Als Bürgermeister Besserwisser, Erzrivale der PAW Patrol, rücksichtslos mit dem Abbau der natürlichen Ressourcen der Insel beginnt, löst er damit unbeabsichtigt den Ausbruch eines großen Vulkans aus. Die PAW-Patrol-Welpen werden in eine Reihe von spannenden, riesigen Dinosaurier-Rettungsaktionen verwickelt, größer als alles, was sie je zuvor erlebt haben, während sie Besserwisser aufhalten müssen, um die Insel zu schützen.",
+      "poster": "https://image.tmdb.org/t/p/w500/hJxwQlDquPLO99dMJoHlChNCdrm.jpg",
+      "director": "Cal Brunker",
+      "cast": [
+        "Carter Young",
+        "Mckenna Grace",
+        "Terry Crews"
+      ],
+      "tmdbId": 1185806,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HCK4NBYJ?&linkCode=ll2&tag=ajsretro-21&linkId=4a3dcfa99e671463929cab35f9d6ebea&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Minions & Monster",
+      "originalTitle": "Minions & Monsters",
+      "year": "2026",
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Komödie",
+        "Familie",
+        "Fantasy"
+      ],
+      "runtime": "89",
+      "rating": "7.6",
+      "overview": "MINIONS & MONSTER erzählt die abgefahrene, aberwitzige und natürlich absolut wahre Geschichte der Minions und wie sie Hollywood erobern, Filmstars werden, alles verlieren, Monster auf die Welt loslassen und sich dann heldenhaft daranmachen, den Planeten vor genau dem Chaos zu retten, das sie selbst angerichtet haben.",
+      "poster": "https://image.tmdb.org/t/p/w500/2x46FB9SKEZlYiBK6bXNv3FWFpu.jpg",
+      "director": "Pierre Coffin",
+      "cast": [
+        "Pierre Coffin",
+        "Trey Parker",
+        "Christoph Waltz"
+      ],
+      "tmdbId": 1315772,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H61Y7RV6?&linkCode=ll2&tag=ajsretro-21&linkId=23be5f9cc40c796bfd4764508c939a58&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Deputy",
+      "originalTitle": "The Deputy",
+      "year": "2026",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "100",
+      "rating": "6.3",
+      "overview": "Der Teilzeit-Deputy Toby Sawyer wird von Chief Krueger wachgerüttelt und beauftragt, eine Leiche zu bewachen, bis der Gerichtsmediziner eintrifft. Als die Leiche auf mysteriöse Weise verschwindet, startet Toby eine hektische Suche und entdeckt dabei unwissentlich jahrzehntelanges Fehlverhalten ... und mehrere Polizisten, die ein Auge zugedrückt haben, darunter Deputy Billy Banks, der Toby unter Druck setzt, seine Erkenntnisse zu ignorieren. Nur Deputy Amanda Jackson scheint vertrauenswürdig zu sein. Verzweifelt, um seinen Job zu behalten, muss Toby das tiefe Netz der Korruption in der Stadt entwirren, bevor er und seine Karriere so tot sind wie die verschwundene Leiche.",
+      "poster": "https://image.tmdb.org/t/p/w500/8nfKGR162OGuIrWeDRS0iGLhBBd.jpg",
+      "director": "Matt Sukkar",
+      "cast": [
+        "Duke Nicholson",
+        "William H. Macy",
+        "Tiffany Haddish"
+      ],
+      "tmdbId": 1291366,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Girls Like Girls",
+      "originalTitle": "Girls Like Girls",
+      "year": "2026",
+      "genres": [
+        "Liebesfilm",
+        "Drama"
+      ],
+      "runtime": "95",
+      "rating": "7.5",
+      "overview": "Vor dem nostalgischen Hintergrund des Sommers 2006 erzählt Girls Like Girls die Geschichte der 17-jährigen Coley, die nach dem Tod ihrer Mutter ins ländliche Oregon zieht, um bei ihrem entfremdeten Vater zu leben. Dort lernt sie Sonya kennen, ein beliebtes Mädchen, das seine sexuelle Orientierung geheim hält und einen besitzergreifenden Freund namens Trenton hat. Aus ihrer engen Freundschaft entwickelt sich nach und nach eine zarte erste Liebesbeziehung. Beide Teenager müssen sich dabei mit den Vorurteilen einer Kleinstadt, persönlicher Trauer und dem Mut auseinandersetzen, sich selbst so zu akzeptieren, wie sie sind.",
+      "poster": "https://image.tmdb.org/t/p/w500/zBoh9btGGVrPT5aHXPUa6yQ1KHD.jpg",
+      "director": "Hayley Kiyoko",
+      "cast": [
+        "Maya da Costa",
+        "Myra Molloy",
+        "Zach Braff"
+      ],
+      "tmdbId": 1397485,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H61V93LD?&linkCode=ll2&tag=ajsretro-21&linkId=e61f4a71f2d982212da93fb04ebae095&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mother Mary",
+      "originalTitle": "Mother Mary",
+      "year": "2026",
+      "genres": [
+        "Musik",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "110",
+      "rating": "5.7",
+      "overview": "Mother Mary ist ein Megastar – auf der Bühne eine glamouröse und unvergleichliche Erscheinung, doch hinter den Kulissen erschöpft und einsam. Überwältigt von ihrem mit Spannung erwarteten Bühnen-Comeback sucht sie Zuflucht bei ihrer einstigen Freundin und Weggefährtin Sam, einer Modedesignerin, die den ikonischen Stil von Mother Mary zu Beginn ihrer Karriere geprägt hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/fdXIDJGNHfAjG5bWZfzrooglOh.jpg",
+      "director": "David Lowery",
+      "cast": [
+        "Anne Hathaway",
+        "Michaela Coel",
+        "Hunter Schafer"
+      ],
+      "tmdbId": 1102883,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=75cb3c3635d59649643ab7ccc8626026&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "originalTitle": "Teenage Sex and Death at Camp Miasma",
+      "year": "2026",
+      "genres": [
+        "Komödie",
+        "Horror",
+        "Liebesfilm"
+      ],
+      "runtime": "106",
+      "rating": "6.2",
+      "overview": "Nach Jahren liebloser Fortsetzungen und schwindender Fanbasis wird das Slasher-Franchise Camp Miasma einer ambitionierten jungen Regisseurin zur Wiederbelebung überlassen. Als sie den einstigen Star der Originalfilme besucht, eine mittlerweile zurückgezogen lebende Schauspielerin, die von Geheimnissen umgeben ist, geraten die beiden Frauen in eine blutgetränkte Welt voller Begehren, Angst und Wahnvorstellungen.",
+      "poster": "https://image.tmdb.org/t/p/w500/bg5hTWIbMeiYgn5BJudWz9HUT3B.jpg",
+      "director": "Jane Schoenbrun",
+      "cast": [
+        "Hannah Einbinder",
+        "Gillian Anderson",
+        "Amanda Fix"
+      ],
+      "tmdbId": 1240889,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HBWRYGRN?&linkCode=ll2&tag=ajsretro-21&linkId=83a302b1a84772c2876f1a11ae3bebea&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "We Bury the Dead",
+      "originalTitle": "We Bury the Dead",
+      "year": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "95",
+      "rating": "6.1",
+      "overview": "Nachdem der verheerende Test einer neuen Massenvernichtungswaffe des US-Militärs vor der Küste Tasmaniens eine halbe Million Menschen das Leben gekostet hat, erwachen einige der Todesopfer wieder zum Leben. Den Behörden zufolge geht von ihnen keine Gefahr aus. Zu den Freiwilligen, die das betroffene Gebiet auf der Suche nach Leichen durchkämmen, gehört auch Ava (Daisy Ridley), deren Ehemann seit dem Vorfall vermisst wird. In der Sperrzone wird das Bergungsteam allerdings schon bald mit der grausamen Realität konfrontiert: Die angeblich harmlosen Untoten werden nicht nur immer mehr, sondern mit jeder Stunde gewalttätiger, unerbittlicher und aggressiver ...",
+      "poster": "https://image.tmdb.org/t/p/w500/xZqo0yPARmyF8TACVNyaOACkYWG.jpg",
+      "director": "Zak Hilditch",
+      "cast": [
+        "Daisy Ridley",
+        "Brenton Thwaites",
+        "Mark Coles Smith"
+      ],
+      "tmdbId": 1198984,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GRKSGVKW?&linkCode=ll2&tag=ajsretro-21&linkId=6a1076a9299cb7050120098fe2cd59ed&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Blood & Sinners",
+      "originalTitle": "Sinners",
+      "year": "2025",
+      "genres": [
+        "Horror",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "138",
+      "rating": "7.5",
+      "overview": "Beim Versuch, ihr von Problemen geplagtes Leben hinter sich zu lassen, kehren Zwillingsbrüder in ihre Heimatstadt zurück, um dort einen Neuanfang zu wagen. Doch schon bald müssen sie feststellen, dass bei ihrer Rückkehr ein noch größeres Übel auf sie wartet.",
+      "poster": "https://image.tmdb.org/t/p/w500/prlk4Qnuw2cGyc7Plsoqq1ldPsZ.jpg",
+      "director": "Ryan Coogler",
+      "cast": [
+        "Michael B. Jordan",
+        "Hailee Steinfeld",
+        "Miles Caton"
+      ],
+      "tmdbId": 1233413,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0F1TH7FKS?&linkCode=ll2&tag=ajsretro-21&linkId=bc08f7a0363adb9c78550f3039a5ba3a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Nosferatu - Der Untote",
+      "originalTitle": "Nosferatu",
+      "year": "2024",
+      "genres": [
+        "Horror",
+        "Fantasy"
+      ],
+      "runtime": "133",
+      "rating": "6.7",
+      "overview": "Eine Geschichte über die Besessenheit zwischen einer gequälten jungen Frau und dem furchteinflößenden Vampir, der in sie vernarrt ist und unbeschreiblichen Schrecken hinterlässt.",
+      "poster": "https://image.tmdb.org/t/p/w500/yig53WzBjX84iSYWKb2BCYYxFLM.jpg",
+      "director": "Robert Eggers",
+      "cast": [
+        "Lily-Rose Depp",
+        "Nicholas Hoult",
+        "Bill Skarsgård"
+      ],
+      "tmdbId": 426063,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0DNMNTRZ7?&linkCode=ll2&tag=ajsretro-21&linkId=7e863f35b8292cfd84784ea96d7c04d1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Speak No Evil",
+      "originalTitle": "Speak No Evil",
+      "year": "2024",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "110",
+      "rating": "7.1",
+      "overview": "Eine amerikanische Familie möchte ein erholsames Wochenende im Landhaus ihrer britischen Freunde verbringen, die sie kurz zuvor im Urlaub kennengelernt hat. Doch was als traumhafter Kurztrip geplant war, gerät schon bald in Schieflage und wird zu einem verstörenden Albtraum.",
+      "poster": "https://image.tmdb.org/t/p/w500/eATkVZTqLxXaWlwImloZb5ONjvZ.jpg",
+      "director": "James Watkins",
+      "cast": [
+        "James McAvoy",
+        "Mackenzie Davis",
+        "Scoot McNairy"
+      ],
+      "tmdbId": 1114513,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0DC188JTF?&linkCode=ll2&tag=ajsretro-21&linkId=84e57f7545a18e109676b7dea2f4b2fe&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Smile - Siehst du es auch?",
+      "originalTitle": "Smile",
+      "year": "2022",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtime": "115",
+      "rating": "6.7",
+      "overview": "Nachdem Dr. Rose Cotter Zeugin eines bizarren, traumatischen Vorfalls mit einem ihrer Patienten war, wird sie zunehmend mit erschreckenden und unerklärlichen Ereignissen konfrontiert. Eine bösartige, übernatürliche Kraft scheint fortan ihr Leben zu bestimmen und sie zu terrorisieren. Um zu überleben und dieser schrecklichen neuen Realität zu entkommen, muss sich Rose den Dämonen ihrer eigenen Vergangenheit stellen.",
+      "poster": "https://image.tmdb.org/t/p/w500/gP8a3F36DTE2ytkxIo9gzSQvId1.jpg",
+      "director": "Parker Finn",
+      "cast": [
+        "Sosie Bacon",
+        "Kyle Gallner",
+        "Jessie T. Usher"
+      ],
+      "tmdbId": 882598,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG7STYCM?&linkCode=ll2&tag=ajsretro-21&linkId=b1358ab93065fa7a4bb79336ca51a9ff&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Malignant",
+      "originalTitle": "Malignant",
+      "year": "2021",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtime": "111",
+      "rating": "6.7",
+      "overview": "Madison wurde einst als traumatisiertes Mädchen von einer liebevollen Pflegefamilie adoptiert. Als erwachsene Frau wird sie nun von ihrer tragischen Vergangenheit eingeholt, denn Gabriel, ihr vermeintlich imaginärer bester Freund aus Kindheitstagen, scheint sehr wohl zu existieren. Allerdings verfolgt ihr einstiger Wegbegleiter keineswegs gute Absichten, sondern reißt Madison vielmehr mit in einen dunklen Strudel hinab: Gabriel begeht nämlich eine Reihe brutaler Morde, die Madison aufgrund ihrer besonderen Verbindung zu ihm mit ansieht, als wäre sie live selbst mit dabei. Aber geschehen die Taten wirklich oder existieren die blutigen Vorfälle nur in ihren Gedanken? Die Grenze zwischen Wahrheit und Einbildung sind längst verschwommen.",
+      "poster": "https://image.tmdb.org/t/p/w500/7MtE8auHJwWIccRvSlXuCneegO0.jpg",
+      "director": "James Wan",
+      "cast": [
+        "Annabelle Wallis",
+        "Maddie Hasson",
+        "George Young"
+      ],
+      "tmdbId": 619778,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0BX2WGS77?&linkCode=ll2&tag=ajsretro-21&linkId=fc89a24cf71ce734ba2bd8c302ff1a98&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Child's Play",
+      "originalTitle": "Child's Play",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime": "87",
+      "rating": "6.0",
+      "overview": "Mutter Karen schenkt ihrem Sohn Andy aufgrund des ungeliebten Umzugs in eine neue Stadt eine „Buddi doll“ zum Geburtstag. Diese Puppe ist ein Hightech-Spielzeug der Firma Kaslan Corp, die von Henry Kaslan entwickelt wurde und Andy eigentlich viel Spaß bereiten soll. Doch weder Karen noch Andy sind sich der unheimlichen Natur Chuckys bewusst. Bei einer Sabotageaktion hat ein frustrierter Sweat-Shop-Arbeiter im Werk in Vietnam nämlich die Sicherheitsprotokolle der Puppe deaktiviert. Andy wird also schon bald erfahren, wie weit sein Spielkamerad geht, um ihm seine Wünsche zu erfüllen. Unterdessen versucht sein Nachbar Detective Mike Norris, eine Reihe mysteriöser Morde aufklären...",
+      "poster": "https://image.tmdb.org/t/p/w500/qbENIaS2oQ7lZoES8DeYA2IHcwr.jpg",
+      "director": "Lars Klevberg",
+      "cast": [
+        "Gabriel Bateman",
+        "Aubrey Plaza",
+        "Mark Hamill"
+      ],
+      "tmdbId": 533642,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GN3KVVT1?&linkCode=ll2&tag=ajsretro-21&linkId=59e69e39f1ce668f9be1bd3b0fe15217&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Zombie",
+      "originalTitle": "Dawn of the Dead",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime": "126",
+      "rating": "7.5",
+      "overview": "Es herrschen Panik und Chaos auf der Welt. Der nationale Notstand wird ausgerufen. Aus unbekannten Gründen verwandeln sich die Körper kürzlich Verstorbener in fleischhungrige Untote. Auf den Straßen wandeln die Zombies umher. Vier Menschen können sich mit einem Hubschrauber aus Fängen des Grauens retten. Sie verstecken sich in einem gigantischen Shopping-Center und verschanzen sich dort. Anfangs scheint dies ein sicherer Ort zu sein, doch schon bald müssen sie feststellen, dass die lebenden Toten viel gefährlicher sein können, als zuerst angenommen. Gemeinsam beginnen sie einen Kampf gegen die Zombie-Übermacht und müssen sich bald noch brutaleren Gegnern stellen.  George A. Romeo setzte mit „Zombies: Dawn of the Dead“ seinen Kultklassiker „Night of the Living Dead“ fort und schuf gleichzeitig einen neuen Meilenstein des Horrorkinos.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TIVjqgJdkiH6iHUbZpQRcLIQHv.jpg",
+      "director": "George A. Romero",
+      "cast": [
+        "David Emge",
+        "Ken Foree",
+        "Scott H. Reiniger"
+      ],
+      "tmdbId": 923,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GV5CBKG2?&linkCode=ll2&tag=ajsretro-21&linkId=77b1faf045e68f42cdb86e6269f5db56&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dolly",
+      "originalTitle": "Dolly",
+      "year": "2026",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "83",
+      "rating": "5.7",
+      "overview": "Chase will seine Freundin Macy bei einer Wanderung mit einem Heiratsantrag überraschen. Das Glück scheint perfekt, doch die beiden betreten auf ihrem Weg versehentlich das Revier von Dolly, einem zentnerschweren, maskierten Monstrum, das gerne mit Puppen spielt – am liebsten mit menschlichen. Nach einer blutigen Konfrontation wird Macy von Dolly in ihr abgelegenes Haus verschleppt. Dort wartet ein Alptraum aus Schmerzen und Demütigungen auf sie, denn aus Dollys Puppenhaus kam noch niemand lebend wieder heraus. Was als romantischer Ausflug begann, wird zum gnadenlosen Kampf ums Überleben.",
+      "poster": "https://image.tmdb.org/t/p/w500/mBm8E5PPl4OMRK1tdWfgkHHOj85.jpg",
+      "director": "Rod Blackhurst",
+      "cast": [
+        "Max the Impaler",
+        "Fabianne Therese",
+        "Seann William Scott"
+      ],
+      "tmdbId": 1309083,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0H49NPRQV?&linkCode=ll2&tag=ajsretro-21&linkId=43c13d9f777a7c99d34ea54ce98a0c80&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Welcome Home Baby",
+      "originalTitle": "Welcome Home Baby",
+      "year": "2025",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "115",
+      "rating": "4.8",
+      "overview": "Die Berliner Notärztin Judith erbt eine Villa in Österreich und gelangt in eine dämonische von Frauen dominierten Gemeinschaft. Während sie versucht, das Rätsel ihrer Herkunft zu lösen, entfesselt Judith dämonische Kräfte, die alles in Frage stellen, was sie über ihr Leben, ihre Familie und Ehe gedacht hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/nyjCStYlX3FNPEz2Dz0Mz1OqPWE.jpg",
+      "director": "Andreas Prochaska",
+      "cast": [
+        "Julia Franz Richter",
+        "Reinout Scholten van Aschat",
+        "Gerti Drassl"
+      ],
+      "tmdbId": 1404180,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0G5PW5BTS?&linkCode=ll2&tag=ajsretro-21&linkId=f26df9cfbc8f089ff748f56b45974969&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Wormtown",
+      "originalTitle": "Wormtown",
+      "year": "2025",
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Abenteuer"
+      ],
+      "runtime": "107",
+      "rating": "5.7",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
+      "director": "Sergio Pinheiro",
+      "cast": [
+        "Caitlin McWethy",
+        "Rachel Ryu",
+        "Emily Soppe"
+      ],
+      "tmdbId": 1235192,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0FWZP4PTD?&linkCode=ll2&tag=ajsretro-21&linkId=9e5555162b3f38cbf02fe41b9e7a3797&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Front Room",
+      "originalTitle": "The Front Room",
+      "year": "2024",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "95",
+      "rating": "5.1",
+      "overview": "Für die frisch schwangere Belinda geht alles zur Hölle, nachdem ihre Schwiegermutter eingezogen ist. Als der teuflische Gast versucht, das Kind in seine Krallen zu bekommen, muss Belinda irgendwo eine Grenze ziehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/zjkU6mZH9dMbQK2B622MlsRT8uw.jpg",
+      "director": "Max Eggers",
+      "cast": [
+        "Brandy Norwood",
+        "Andrew Burnap",
+        "Kathryn Hunter"
+      ],
+      "tmdbId": 1016848,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0DLZ5PM5T?&linkCode=ll2&tag=ajsretro-21&linkId=fab6e9dfe4bb1a927cf1ec2e878c9a0f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Blackening",
+      "originalTitle": "The Blackening",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Komödie"
+      ],
+      "runtime": "97",
+      "rating": "5.8",
+      "overview": "Sieben afroamerikanische Freunde treffen sich für ein Wochenende im Wald. Dort treibt jedoch ein Mörder sein Unwesen. Wird ihr Wissen über Horrorfilme ihnen helfen am Leben zu bleiben?",
+      "poster": "https://image.tmdb.org/t/p/w500/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
+      "director": "Tim Story",
+      "cast": [
+        "Grace Byers",
+        "Antoinette Robertson",
+        "Jermaine Fowler"
+      ],
+      "tmdbId": 1008392,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0C5BHHY4P?&linkCode=ll2&tag=ajsretro-21&linkId=ccf83015c2ae86c22df387779b943324&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Midsommar",
+      "originalTitle": "Midsommar",
+      "year": "2019",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Mystery"
+      ],
+      "runtime": "148",
+      "rating": "7.1",
+      "overview": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommer-Festival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt und die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert.",
+      "poster": "https://image.tmdb.org/t/p/w500/53p7M8w35cGCjQVsgVLpPIYEck0.jpg",
+      "director": "Ari Aster",
+      "cast": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper"
+      ],
+      "tmdbId": 530385,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLY3MLKM?&linkCode=ll2&tag=ajsretro-21&linkId=0e25cc39cd18fbc84456d8288f3077b6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Even Lambs Have Teeth",
+      "originalTitle": "Even Lambs Have Teeth",
+      "year": "2015",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "runtime": "78",
+      "rating": "5.6",
+      "overview": "Um sich einen teuren Shopping-Trip nach New York zu finanzieren, beschließen die besten Freundinnen Sloane und Katie auf einer Farm in einer abgelegenen ländlichen Stadt zu arbeiten. Dort angekommen, geraten die beiden in die Fänge einer skrupellosen Familie, die eine ganz andere Beschäftigung für die Neuankömmlinge im Sinn hat und sie unter Drogen setzt. Angekettet an Schiffscontainern im tiefsten Wald, wachen die beiden Schönheiten am nächsten Morgen auf und dienen fortan dem Vergnügen der männlichen Hinterwäldler. Als die Mädchen sich schließlich befreien und fliehen können, beschließen sie zurückzukehren, um sich gnadenlos an ihren Peinigern zu rächen.",
+      "poster": "https://image.tmdb.org/t/p/w500/A6LTDfwuDCZtMdVd6mWgfHtJwxA.jpg",
+      "director": "Terry Miles",
+      "cast": [
+        "Kirsten Zien",
+        "Tiera Skovbye",
+        "Darren Mann"
+      ],
+      "tmdbId": 359245,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B01MQCKHYQ?&linkCode=ll2&tag=ajsretro-21&linkId=a202cc10f1fbd058ea0d01b41d868425&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The House At The End Of Time",
+      "originalTitle": "La casa del fin de los tiempos",
+      "year": "2013",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtime": "101",
+      "rating": "6.8",
+      "overview": "Dulce (Ruddy Rodríguez) lebt mit ihren zwei Söhnen Leopoldo (Rosmel Bustamante) und Rodrigo (Hector Mercado) sowie ihrem Mann Juan José (Gonzalo Cubero) in einem großen, alten Haus. Eines Tages hat sie dort plötzlich eine übernatürliche Begegnung mit einer geheimnisvollen Erscheinung, die sie davor warnt, dass Juan José in nicht allzu ferner Zukunft ihre Kinder umbringen wird. Wenig später wird diese düstere Prophezeiung tatsächlich zur schrecklichen Realität. Doch auch ihr Mann selbst wird ermordet aufgefunden. Dulce wird daraufhin verhaftet und erst 30 Jahre später wieder freigelassen. Nach ihrer Entlassung kehrt die nun gealterte Frau zu dem mysteriösen Haus zurück, um den Geheimnissen und Tragödien der Vergangenheit, die sie so lange geplagt haben, endlich auf den Grund zu gehen und Erlösung zu erlangen...",
+      "poster": "https://image.tmdb.org/t/p/w500/l0T7V360nBS7Rz6ziteT1le9dW5.jpg",
+      "director": "Alejandro Hidalgo",
+      "cast": [
+        "Ruddy Rodriguez",
+        "Gonzalo Cubero",
+        "Guillermo García"
+      ],
+      "tmdbId": 207686,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWMC3FQ6?&linkCode=ll2&tag=ajsretro-21&linkId=5903507f5f4b449e42168fc03b295277&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Intruders",
+      "originalTitle": "Intruders",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Fantasy"
+      ],
+      "runtime": "100",
+      "rating": "5.5",
+      "overview": "Zwei Städte, zwei Familien. Die Kinder Juan und Mia werden in verschiedenen Ländern von ähnlichen Albträumen heimgesucht – ein dämonisches Wesen will von ihnen Besitz ergreifen. Als ihre Eltern die unheimliche Bedrohung am eigenen Leib erfahren, stehen sie der Gefahr ohnmächtig gegenüber. Es gibt nur einen Ausweg: Sie müssen sich den eigenen Ängsten stellen, um ihre Kinder zu retten …",
+      "poster": "https://image.tmdb.org/t/p/w500/erGjRCwzKOGHxJ32fR5ObGYtBBK.jpg",
+      "director": "Juan Carlos Fresnadillo",
+      "cast": [
+        "Clive Owen",
+        "Carice van Houten",
+        "Ella Purnell"
+      ],
+      "tmdbId": 63207,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GPL5QHJB?&linkCode=ll2&tag=ajsretro-21&linkId=2f4f272cfea1b4edd480aa8873652832&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Shutter - Sie sehen dich",
+      "originalTitle": "Shutter",
+      "year": "2008",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "85",
+      "rating": "5.5",
+      "overview": "Eine finanziell aussichtsreiche Anstellung lockt den Modefotografen Benjamin Shaw (Joshua Jackson) und seine Frau Jane (Rachael Taylor) in die japanische Hauptstadt. Dort freut sich das Paar über den Geldsegen, hat ein schickes Apartment und genießt das Leben in der Metropole. Doch dann passiert ein mysteriöser Autounfall. Hier wird zwar niemand ernsthaft verletzt, doch Jane hat eine beunruhigende Entdeckung gemacht, auf der sie beharrt: Sie sagt, kurz vor dem Zusammenprall eine geheimnisvolle junge Frau auf der Straße gesehen zu haben. Gerade wurde der Vorfall abgehakt, da sind auf Benjamins Fotos plötzlich unheimliche milchige Fratzen zu sehen. Er behauptet, die geisterhaften Erscheinungen seien unbedeutende Entwicklungsfehler, aber Jane lässt sich davon nicht beruhigen und beginnt eine Recherche. Dabei entdeckt sie dunkle Seiten an ihrem Ehemann, die ihr bisher verborgen waren...",
+      "poster": "https://image.tmdb.org/t/p/w500/jQgdaG8THhaOVyAzve6MZLZdxSZ.jpg",
+      "director": "落合正幸",
+      "cast": [
+        "Joshua Jackson",
+        "Rachael Taylor",
+        "奥菜恵"
+      ],
+      "tmdbId": 10885,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HDMXMQNM?&linkCode=ll2&tag=ajsretro-21&linkId=c4f9b05a9dceb2c49776fdb3ce2a5ca1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Bug",
+      "originalTitle": "Bug",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "98",
+      "rating": "6.1",
+      "overview": "Kurz nach einigen Telefon-Attacken ihres gewalttätigen, vereinnahmenden Ex-Freundes Jerry steht der schüchterne und etwas wunderliche Peter vor der Tür der Kellnerin Agnes. Über einen kurzen Zeitraum hinweg entwickelt sich zwischen den beiden eine seltsame Liebe, die jäh zu enden droht, als Peters manische Angst vor Insekten, insbesondere Käfern, offenbar wird - und sich zunehmend auf Agnes überträgt. Zwischen Zuneigung und Ablehnung steigert man sich gemeinsam in einen fiebrigen Wahnsinn, der tödlich zu enden droht.",
+      "poster": "https://image.tmdb.org/t/p/w500/yjTmmAngldFoyDhHxNM8fHblk3O.jpg",
+      "director": "William Friedkin",
+      "cast": [
+        "Ashley Judd",
+        "Michael Shannon",
+        "Harry Connick Jr."
+      ],
+      "tmdbId": 12526,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0H4GDGTC8?&linkCode=ll2&tag=ajsretro-21&linkId=2af1a15fdc942339d18e31f8970e7b34&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Black Christmas",
+      "originalTitle": "Black Christmas",
+      "year": "2006",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtime": "84",
+      "rating": "5.2",
+      "overview": "Billys Kindheit ist trist, die Mutter vernachlässigt ihn. Die Liebe nach der er sich sehnt, verweigert sie ihm. Statt in einem freundlichen Kinderzimmer aufzuwachsen, muss er in einer staubigen Dachkammer hausen. Sein schwacher Vater wird derweilen von der Ehefrau betrogen. Und dann ist der plötzlich verschwunden. Tot, ermordet? Niemand weiß es. Dafür taucht ein neuer Mann auf. Eine kleine Schwester kommt hinzu. Der Sonnenschein der Familie. Was den vernachlässigten Billy die Nerven verlieren lässt. Seine Rache ist furchtbar … Schnitt. – Die traurigen Ereignisse liegen Jahre zurück. Kaum einer erinnert sich noch an sie. Lange stand das Haus leer, nun ziehen sechs Studentinnen der gleichen Verbindung ein: Kelli, Dana, Lauren, Megan, Heather und Melissa. Gemeinsam mit ihrer Hausmutter freuen sie sich auf Weihnachten, das Fest der Liebe.",
+      "poster": "https://image.tmdb.org/t/p/w500/9WvDWOInEnM7dGNCsdHv1nDwVpq.jpg",
+      "director": "Glen Morgan",
+      "cast": [
+        "Katie Cassidy",
+        "Michelle Trachtenberg",
+        "Mary Elizabeth Winstead"
+      ],
+      "tmdbId": 9656,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0FJ6HX3NQ?&linkCode=ll2&tag=ajsretro-21&linkId=a31fd845285842a908dbfcf1ed47eae1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Halloween H20 - 20 Jahre später",
+      "originalTitle": "Halloween H20: 20 Years Later",
+      "year": "1998",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "86",
+      "rating": "6.0",
+      "overview": "Genau zwanzig Jahre ist es her, daß Laurie Strode ihrem mordenden Bruder Michael Myers in der Halloween-Nacht entkommen konnte. Jetzt lebt sie unter dem Namen Keri Tate als Direktorin eines exklusiven Internats in Nordkalifornien. Doch den Fluch ihrer Existenz konnte sie nicht abschütteln: ihr Trauma und ihre Alkoholsucht entfremden sie von ihrem Sohn John. Will Brennan, ihr Kollege und Geliebter, weiß noch nichts von ihrer schmerzhaften Vergangenheit. Laurie ahnt: ihr Martyrium ist noch nicht vorbei. Lauries schlimmste Befürchtungen werden wahr. Ihr Bruder lebt. Und er hat seine Schwester ausfindig gemacht.",
+      "poster": "https://image.tmdb.org/t/p/w500/4l64DZIdtN7lk3V3HuEgqBlsRjs.jpg",
+      "director": "Steve Miner",
+      "cast": [
+        "Jamie Lee Curtis",
+        "Josh Hartnett",
+        "Adam Arkin"
+      ],
+      "tmdbId": 11675,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN87DYVY?&linkCode=ll2&tag=ajsretro-21&linkId=25bd2604e97bd17f511eb170681cbb59&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rabid – Der brüllende Tod",
+      "originalTitle": "Rabid",
+      "year": "1977",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "87",
+      "rating": "6.3",
+      "overview": "Karl und seine schwer verletzte Freundin Rose werden nach einem Motorradunfall in eine nahegelegene Klinik gebracht. Karl kann das Krankenhaus schon bald wieder verlassen, doch seiner Freundin geht es nicht so gut, sie liegt immer noch im Koma. Doch die Operation, deren Methode noch völlig unerforscht war, hat Rose in grauenhafter Weise verändert. Sie ist zu einem Monster geworden, dessen einziger Lebenstrieb sein immenser Blutdurst ist...",
+      "poster": "https://image.tmdb.org/t/p/w500/2UgNOBquWqRUefdlMvRuSvQ9Otl.jpg",
+      "director": "David Cronenberg",
+      "cast": [
+        "Marilyn Chambers",
+        "Terri Hanauer",
+        "Frank Moore"
+      ],
+      "tmdbId": 29437,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GMRND9CX?&linkCode=ll2&tag=ajsretro-21&linkId=68e8ab9367f5ba9bf14f57a6276bcb6e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die neunschwänzige Katze",
+      "originalTitle": "Il gatto a nove code",
+      "year": "1971",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "85",
+      "rating": "6.7",
+      "overview": "Ein Reporter namens Franco Arno verlor bei einem Unfall sein Augenlicht und konnte deswegen seinen Job als Reporter nicht mehr ausüben. Als Blinder ist er auf die Hilfe seiner jungen Nichte angewiesen. Er verdient sich trotzdem immer noch Geld bei der Zeitung, indem er Kreuzworträtsel herstellt. Als er eines Tages mit seiner Nichte spazierengeht, hört er vor einem medizinischen Institut zufällig eine Unterhaltung von zwei Männern in einem Auto mit. Später in der Nacht, bricht jemand ohne ersichtlichen Grund in dieses Institut ein und tötet dabei einen Wachmann. Der neugierige Arno beschließt darauf, ein wenig auf eigene Faust nachzuforschen und erhält dabei Hilfe von dem Reperter Carlo Giordani. Bald folgt eine Serie an mysteriösen Morden, die mit dem Ereignis im Institut zusammenhängen zu scheint. Die beiden finden neun verschiedene Hinweise, denen sie nachgehen müssen um das Rätsel um den geheimnisvollen Mörder und seinen bestialischen Taten lösen zu können...",
+      "poster": "https://image.tmdb.org/t/p/w500/6xzrx0jZ4FW5KTIPLfeZ7We7RKM.jpg",
+      "director": "Dario Argento",
+      "cast": [
+        "James Franciscus",
+        "Karl Malden",
+        "Catherine Spaak"
+      ],
+      "tmdbId": 27431,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHW36QNG?&linkCode=ll2&tag=ajsretro-21&linkId=2f58afe1cbdc59e018c51f84dff61580&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Black Bag - Doppeltes Spiel",
+      "originalTitle": "Black Bag",
+      "year": "2025",
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "93",
+      "rating": "6.4",
+      "overview": "Die legendären Geheimagenten George Woodhouse (Michael Fassbender) und seine Frau Kathryn (Cate Blanchett) stehen im Zentrum eines politischen Sturms, als Kathryn plötzlich des Landesverrats beschuldigt wird. Für George, der sowohl seiner Frau als auch seinem Land bedingungslos treu ist, beginnt ein innerer Konflikt. Während er versucht, die Wahrheit hinter den Anschuldigungen aufzudecken, muss er entscheiden, wem seine Loyalität wirklich gilt – der Frau, die er liebt, oder dem Land, dem er geschworen hat zu dienen.",
+      "poster": "https://image.tmdb.org/t/p/w500/zEjIdwjTxPO1NRg5QgvZ3JogiHS.jpg",
+      "director": "Steven Soderbergh",
+      "cast": [
+        "Cate Blanchett",
+        "Michael Fassbender",
+        "Tom Burke"
+      ],
+      "tmdbId": 1233575,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0DWZNRZZZ?&linkCode=ll2&tag=ajsretro-21&linkId=985caa8752e0fe4d1ff707643272700d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Bark - Nichts bleibt verborgen",
+      "originalTitle": "Bark",
+      "year": "2024",
+      "genres": [
+        "Thriller"
+      ],
+      "runtime": "89",
+      "rating": "5.3",
+      "overview": "Mitten in einem einsamen Wald an einen Baum gefesselt - so wacht Nolan auf. Ohne Wasser und Nahrung und vor allem ohne sich daran zu erinnern, wie er dorthin gelangt ist. Die Zeit läuft ihm gnadenlos davon, bis ein mysteriöser Fremder auftaucht - der ihn aber nicht retten wird. Nolan muss sich seiner Vergangenheit stellen, um zu Überleben und einen Ausweg aus diesem Albtraum zu finden.",
+      "poster": "https://image.tmdb.org/t/p/w500/2B36jmKUsHBlACttZb8HQD9ct70.jpg",
+      "director": "Marc Schölermann",
+      "cast": [
+        "Michael Weston",
+        "A.J. Buckley",
+        "Ricky Watson"
+      ],
+      "tmdbId": 1146892,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0FHH9JT4W?&linkCode=ll2&tag=ajsretro-21&linkId=51063798fdf5d474b535e98300e66905&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "A Haunting in Venice",
+      "originalTitle": "A Haunting in Venice",
+      "year": "2023",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Krimi"
+      ],
+      "runtime": "104",
+      "rating": "6.6",
+      "overview": "Der berühmte Detektiv Hercule Poirot, der inzwischen im Ruhestand und im selbstgewählten Exil in Venedig lebt, nimmt nur widerwillig an einer Halloween-Séance in einem verfallenen Spukpalast teil. Als einer der Gäste ermordet wird, gerät der Detektiv in eine düstere Welt voller Schatten und Geheimnisse.",
+      "poster": "https://image.tmdb.org/t/p/w500/lBAjaK97ClPy6dA2aVNfzhkSZmG.jpg",
+      "director": "Kenneth Branagh",
+      "cast": [
+        "Kenneth Branagh",
+        "Kyle Allen",
+        "Camille Cottin"
+      ],
+      "tmdbId": 945729,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0CGVSZ18K?&linkCode=ll2&tag=ajsretro-21&linkId=b953b1ffb1c4c4e2291d31bab3c55674&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Tod auf dem Nil",
+      "originalTitle": "Death on the Nile",
+      "year": "2022",
+      "genres": [
+        "Mystery",
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "127",
+      "rating": "6.4",
+      "overview": "Hercule Poirot schließt sich einer bunt gemischten Reisegruppe an, die auf einem Dampfer den Nil bereist. Auf der Fahrt kommt es zum Mord an der schönen und reichen Linnet Doyle, doch die Hauptverdächtige – Jacqueline de Bellefort, der Linnet ihren Verlobten Simon Doyle weggeschnappt hat – hat zum Tatzeitpunkt ein Alibi. Poirot nimmt die Ermittlungen auf und muss unter den zahlreichen anderen Verdächtigen, darunter Linnets Dienstmädchen Louise Bourget, ihr Treuhänder Andrew Katchadourian und die berühmte Marie Van Schuyler, den Tätern finden …",
+      "poster": "https://image.tmdb.org/t/p/w500/jYw8JxC2vNX70kP9DIKk8Yh2lMP.jpg",
+      "director": "Kenneth Branagh",
+      "cast": [
+        "Kenneth Branagh",
+        "Tom Bateman",
+        "Annette Bening"
+      ],
+      "tmdbId": 505026,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B09SJ49SX1?&linkCode=ll2&tag=ajsretro-21&linkId=57ebe642f9d2bcb86a5f27c24897507f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Don't Worry Darling",
+      "originalTitle": "Don't Worry Darling",
+      "year": "2022",
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "123",
+      "rating": "6.8",
+      "overview": "Alice lebt friedlich mit ihrem Mann Jack in einer Eigentumswohnung in der Gemeinschaft von Victory, einer Firmenstadt, in der die Männer für das streng geheime Victory-Projekt arbeiten. Es sind die 1950er-Jahre und Alice führt ein Leben, das hauptsächlich aus Putzen, Kochen und nächtlichen Partys mit den ortsansässigen Leuten besteht. Die Idylle scheint perfekt, und die Bedürfnisse aller Bewohner werden von der Firma und ihrem CEO Frank erfüllt. Alles, was er im Gegenzug verlangt, ist bedingungsloses Engagement für die Sache von Victory. Doch als ihr paradiesisches Leben Risse bekommt und sich hinter der attraktiven Fassade etwas viel Unheimlicheres verbirgt, muss Alice sich fragen, was genau sie in Victory tun und warum. Ist Alice wirklich bereit, ihr scheinbar perfektes Leben hinter sich zu lassen, um herauszufinden, was es mit dem Projekt auf sich hat?",
+      "poster": "https://image.tmdb.org/t/p/w500/bPQcmImavYDoJzrdMRAKQvvgd76.jpg",
+      "director": "Olivia Wilde",
+      "cast": [
+        "Florence Pugh",
+        "Harry Styles",
+        "Chris Pine"
+      ],
+      "tmdbId": 619730,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8MTYKFS?&linkCode=ll2&tag=ajsretro-21&linkId=1e029faf538176bc29ae50da5eca2646&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "She Said",
+      "originalTitle": "She Said",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "129",
+      "rating": "7.1",
+      "overview": "Die Journalistinnen Jodi Kantor und Megan Twohey arbeiten bei der New York Times und gehen den Vorwürfen sexuellen Fehlverhaltens von Harvey Weinstein auf den Grund. Sie decken ein Netz von Lügen und sexuellen Missbräuchen auf. Mit ihrer Arbeit haben sie dazu beigetragen, die #MeToo-Bewegung ins Leben zu rufen und das jahrzehntelange Schweigen über das Thema sexuelle Übergriffe in Hollywood zu brechen.",
+      "poster": "https://image.tmdb.org/t/p/w500/22YteqWe8fM3PZvH3kEtO5wF0vN.jpg",
+      "director": "Maria Schrader",
+      "cast": [
+        "Carey Mulligan",
+        "Zoe Kazan",
+        "Patricia Clarkson"
+      ],
+      "tmdbId": 837881,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8MH2RTV?&linkCode=ll2&tag=ajsretro-21&linkId=72b5c96dff1830de3ab827bef358b1a5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Just Mercy",
+      "originalTitle": "Just Mercy",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Historie"
+      ],
+      "runtime": "136",
+      "rating": "7.8",
+      "overview": "Der junge, afroamerikanische Anwalt Bryan Stevenson kämpft für Gerechtigkeit. Nach seinem Abschluss in Harvard hatte er die Wahl zwischen zahlreichen lukrativen Jobs, doch stattdessen geht er nach Alabama, um die dort zu unrecht Verurteilten zusammen mit der dort lebenden Anwältin Eva Ansley zu verteidigen. Einer seiner ersten ist der von Walter McMillian der 1987 wegen des berüchtigten Mordes an einem 18-jährigen Mädchen zu Tode verurteilt wurde, obwohl genug Beweise für seine Unschuld vorliegen.",
+      "poster": "https://image.tmdb.org/t/p/w500/yYHKcHY7MChJ76nfHq5s7DYN3FK.jpg",
+      "director": "Destin Daniel Cretton",
+      "cast": [
+        "Michael B. Jordan",
+        "Brie Larson",
+        "Jamie Foxx"
+      ],
+      "tmdbId": 522212,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0D62Y7LN3?&linkCode=ll2&tag=ajsretro-21&linkId=4828957dabbc0552caa22e3247314a76&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Hate U Give",
+      "originalTitle": "The Hate U Give",
+      "year": "2018",
+      "genres": [
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "132",
+      "rating": "8.1",
+      "overview": "Starr Carters Leben spielt sich ständig zwischen zwei Welten ab: da ist zum eine das arme, hauptsächliche schwarze Viertel, in dem sie lebt und zum anderen gibt es die reiche, hauptsächlich weiße Privatschule, die sie besucht. Das empfindliche Gleichgewicht zwischen diesen Welten wird erschüttert, als sie Zeugin wird, wie Khalil, ihr bester Freund aus Kindertagen, von einem Polizisten erschossen wird. Nun ist es an Starr, trotz des Drucks, der von allen Seiten auf sie ausgeübt wird, ihre Stimme zu erheben und für Gerechtigkeit einzustehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/2icwBom0t5nmOuZI9FVXF3gkMK0.jpg",
+      "director": "George Tillman Jr.",
+      "cast": [
+        "Amandla Stenberg",
+        "Regina Hall",
+        "Russell Hornsby"
+      ],
+      "tmdbId": 470044,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0GGXF6K37?&linkCode=ll2&tag=ajsretro-21&linkId=84360a7a03da2055fc20a063db5ac540&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Richter - Recht oder Ehre",
+      "originalTitle": "The Judge",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "141",
+      "rating": "7.3",
+      "overview": "Der smarte Hank Palmer hat seinem kleinen Geburtsort schon vor Jahren den Rücken gekehrt und arbeitet seither als erfolgreicher Anwalt in der Großstadt. Nicht nur räumlich hat er sich weiterbewegt, auch zu seiner Familie hat Hank den Kontakt längst abgebrochen. Als er vom Tod seiner Mutter erfährt, kehrt er das erste Mal nach langer Zeit nach Hause zurück, wenn auch nur sehr widerwillig. Nach seiner Ankunft wird der Großstädter auch gleich mit weiteren familiären Problemen konfrontiert: Sein Vater Joseph, der vor seinem Ruhestand als Richter des Städtchens fungierte, ist an Alzheimer erkrankt und wird des Mordes angeklagt. Um diesen Anschuldigungen zu begegnen, übernimmt Hank die Verteidigung seines Vaters vor Gericht. Durch die Krankheit wird der Beweis der Unschuld jedoch erheblich erschwert und Hank findet in seinen persönlichen Ermittlungen mehr über die Familie heraus als ihm lieb ist...",
+      "poster": "https://image.tmdb.org/t/p/w500/yZjvpdgHw2CbCdlCraRlAXe4oC0.jpg",
+      "director": "David Dobkin",
+      "cast": [
+        "Robert Downey Jr.",
+        "Robert Duvall",
+        "Vera Farmiga"
+      ],
+      "tmdbId": 205587,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0DRWH9C5L?&linkCode=ll2&tag=ajsretro-21&linkId=a91a5077a74f7037a9cc626361a729b2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gangster Squad",
+      "originalTitle": "Gangster Squad",
+      "year": "2013",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "113",
+      "rating": "6.4",
+      "overview": "Los Angeles 1949: Der skrupellose Gangsterboss Mickey Cohen aus Brooklyn beherrscht die Stadt und sahnt bei allen illegalen Geschäften ab: Drogen, Waffenhandel, Prostitution. Wenn es nach ihm ginge, würde er auch bei jeder Pferdewette westlich von Chicago seinen Anteil kassieren. Mickeys Imperium gründet sich nicht nur auf die von ihm bezahlte Schlägertruppe - auch die Polizei und die Politik tanzen nach seiner Pfeife. Das reicht, um selbst die unerschrockensten, mit allen Wassern gewaschenen ehrlichen Cops einzuschüchtern ... außer vielleicht eine kleine geheime Einheit von Außenseitern des LAPD unter der Leitung von Sgt. John O'Mara und Jerry Wooters, die Cohen gemeinsam von seinem Thron stürzen wollen.",
+      "poster": "https://image.tmdb.org/t/p/w500/stUxrGMh5vBBzD5P6SCBrturoeT.jpg",
+      "director": "Ruben Fleischer",
+      "cast": [
+        "Josh Brolin",
+        "Ryan Gosling",
+        "Sean Penn"
+      ],
+      "tmdbId": 82682,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYTGKQU?&linkCode=ll2&tag=ajsretro-21&linkId=da149cb9384f7e472d7d3b03b603631d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Argo",
+      "originalTitle": "Argo",
+      "year": "2012",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "120",
+      "rating": "7.3",
+      "overview": "Auf dem Höhepunkt der iranischen Revolution wird am 4. November 1979 die US- Botschaft in Teheran gestürmt - militante Studenten nehmen 52 Amerikaner als Geiseln. Doch mitten in diesem Chaos gelingt es sechs Amerikanern, sich davon zu schleichen und in das Haus des kanadischen Botschafters zu fliehen. Es ist nur eine Frage der Zeit, bis der Verbleib der sechs bekannt wird - ihr Leben steht auf dem Spiel. Deshalb entwirft der auf das \"Ausfiltern\"spezialisierte CIA-Agent Tony Mendez einen riskanten Plan, um die Flüchtlinge außer Landes und in Sicherheit zu bringen. Dieser Plan ist so unglaublich, dass er sich nur im Kino abspielen kann...",
+      "poster": "https://image.tmdb.org/t/p/w500/rLneZNaulvXFfCJeJMy8gN2VvhQ.jpg",
+      "director": "Ben Affleck",
+      "cast": [
+        "Ben Affleck",
+        "Bryan Cranston",
+        "Alan Arkin"
+      ],
+      "tmdbId": 68734,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYTAX22?&linkCode=ll2&tag=ajsretro-21&linkId=95bd14496c5acf4e13f2c1d2a890ac39&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Headhunters",
+      "originalTitle": "Hodejegerne",
+      "year": "2011",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Action"
+      ],
+      "runtime": "100",
+      "rating": "7.2",
+      "overview": "Roger Brown hat alles: Er ist einer der erfolgreichsten Headhunter, verheiratet mit der schönen und geheimnisvollen Galeristin Diana und im Besitz einer traumhaften Villa. Doch, was niemand weiß, er führt ein Doppelleben: Den luxuriösen Lebensstil finanziert er, indem er seine Klienten ausraubt. Seine Spezialität: kostbare Kunstwerke. Als er für ein namhaftes GPS-Unternehmen einen neuen Geschäftsführer finden soll, lernt er den Geschäftsmann Clas Greve kennen...",
+      "poster": "https://image.tmdb.org/t/p/w500/s0R2waXhoq5wEijsnpAXVfMPgDt.jpg",
+      "director": "Morten Tyldum",
+      "cast": [
+        "Aksel Hennie",
+        "Synnøve Macody Lund",
+        "Nikolaj Coster-Waldau"
+      ],
+      "tmdbId": 70670,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGFTC972?&linkCode=ll2&tag=ajsretro-21&linkId=b3563d7bb335b0f9977f80927d9e79ac&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Salt",
+      "originalTitle": "Salt",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "100",
+      "rating": "6.4",
+      "overview": "Evelyn Salt genießt bei der CIA den Ruf, eine der besten Agentinnen des Geheimdienstes zu sein. Loyalität und Patriotismus stehen bei ihr an vorderster Stelle. Niemand würde ihre Integrität in Frage stellen. Bis ein Überläufer sie beschuldigt, eine russische Spionin zu sein. Salt setzt sich ab. Während sie ihre gesammelten Fähigkeiten einsetzt, um ihre Verfolger zu täuschen und abzuschütteln, müht sie sich darum, ihre Unschuld zu beweisen. Damit bewirkt sie aber nur das Gegenteil. Offenbar gibt es ein Geheimnis, von dem keiner erfahren soll.",
+      "poster": "https://image.tmdb.org/t/p/w500/ywlfN9ZiRJSxVsxEWEY5U0Ixo7S.jpg",
+      "director": "Phillip Noyce",
+      "cast": [
+        "Angelina Jolie",
+        "Liev Schreiber",
+        "Chiwetel Ejiofor"
+      ],
+      "tmdbId": 27576,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXZPCYP9?&linkCode=ll2&tag=ajsretro-21&linkId=d815ea8a4f69ec48ab018ec1d89026e3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gone Baby Gone - Kein Kinderspiel",
+      "originalTitle": "Gone Baby Gone",
+      "year": "2007",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "runtime": "114",
+      "rating": "7.3",
+      "overview": "In einem der ärmeren Viertel Bostons kommt es zu einem tragischen Vorfall: die 4-jährige Amanda McCready verschwindet spurlos aus der eigenen Wohnung, in der sie mit ihrer drogenabhängigen Mutter Helene wohnt. Diese vernachlässigte sie schon seit geraumer Zeit und auch an diesem Abend vergnügte sie sich mit ihrem Liebhaber Ray in einer Bar, anstatt auf ihr Kind aufzupassen. Amandas Onkel Lionel und seine Frau Beatrice schalten zusätzlich die beiden Privatdetektive Patrick Kenzie und seine Freundin Angie Gennaro ein, die die Polizei, unter der Führung von Jack Doyle, bei der Suche unterstützen sollen. Erst einige Informationen, die Helene Patrick und Angie zukommen lässt, der Polizei aber verschwieg, bringen sie auf eine erste Spur. Gemeinsam mit den Detectives Bressant und Poole verfolgen sie den Drogendealer Cheese, dem Helene und Ray Geld klauten. Allerdings ist das erst der Anfang der Ermittlungen...",
+      "poster": "https://image.tmdb.org/t/p/w500/w98tAPUjNPxGAMCipNDWDt8PJo.jpg",
+      "director": "Ben Affleck",
+      "cast": [
+        "Casey Affleck",
+        "Michelle Monaghan",
+        "Morgan Freeman"
+      ],
+      "tmdbId": 4771,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8TJP1GT?&linkCode=ll2&tag=ajsretro-21&linkId=175464ac56f3adc7dcff4cf2c290de9e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Machtlos",
+      "originalTitle": "Rendition",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "122",
+      "rating": "6.4",
+      "overview": "Das Leben der El-Ibrahims verändert sich von Grund auf, als Anwar El-Ibrahim nach seinem Südafrika Aufenthalt nicht bei seiner Frau Izabella in den Vereinigten Staaten eintrifft. Izabella versucht verzweifelt etwas über den Verbleib ihres Gatten in Erfahrung zu bringen wobei sie feststellen muss, dass die CIA ihn ins Ausland entführt hat. Im Namen der nationalen Sicherheit wird Anwar von der Homeland Security als unmittelbare, terroristische Bedrohung eingestuft und daraufhin in ein Gefangenlager deportiert. Dort arbeitet zum Zeitpunkt seines Eintreffens ein junger, aufstrebender CIA-Analyst Douglas Freeman, welcher einer brutalen Befragung El-Ibrahims beiwohnen muss. Aufgrund dieses menschenverachtenden Verhörs stellt Douglas die Vorgehensweise seines Arbeitgebers in Frage und sucht nach einer plausiblen Rechtfertigung dieser unvertretbaren Strategie im Kampf gegen den Terrorismus.",
+      "poster": "https://image.tmdb.org/t/p/w500/vSTuRlhbtAbUf9FdgGGiYjWMCRC.jpg",
+      "director": "Gavin Hood",
+      "cast": [
+        "Reese Witherspoon",
+        "Jake Gyllenhaal",
+        "Meryl Streep"
+      ],
+      "tmdbId": 5125,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B00J8VOC6U?&linkCode=ll2&tag=ajsretro-21&linkId=769c5a78a279a6490a1ea69fc0aef197&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Red Eye - Nachtflug in den Tod",
+      "originalTitle": "Red Eye",
+      "year": "2005",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "runtime": "86",
+      "rating": "6.4",
+      "overview": "Lisa Reisert hat panische Flugangst, doch sie muss nach Miami und deshalb überwindet sie ihre Angst und steigt in ein Flugzeug - ein fataler Fehler wie sich schnell herausstellt. Kurz nach Start der Maschine stellt sich ihr Nachbar Jackson Rippner als Auftragskiller vor, der auf diesem Flug einen Mord verüben soll. Dafür braucht er allerdings Lisa, mit deren Hilfe er einen Geschäftsmann umbringen soll. Als sie nicht einwilligt, weiß er sich zu wehren und erpresst sie: Wenn sie ihm nicht hilft, stirbt ihr Vater Joe",
+      "poster": "https://image.tmdb.org/t/p/w500/ylWzfTbFqZBfZf58KAtw8Ibwsue.jpg",
+      "director": "Wes Craven",
+      "cast": [
+        "Rachel McAdams",
+        "Cillian Murphy",
+        "Brian Cox"
+      ],
+      "tmdbId": 11460,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HL5CKLB4?&linkCode=ll2&tag=ajsretro-21&linkId=0608c563a0a7666db4f0dd7571f3be74&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Syriana",
+      "originalTitle": "Syriana",
+      "year": "2005",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "128",
+      "rating": "6.4",
+      "overview": "Der langjährige CIA-Agent und Terrorismusexperte Robert Baer muss mit Erschrecken feststellen, dass die CIA trotz wachsender Terrorgefahr seine Budgets kürzt. Gleichzeitig widerfährt dem Öl-Makler Bryan Woodman und seiner Frau Julie eine familiäre Tragödie, durch die er sich mit dem idealistischen persischen Prinzen Nasir anfreundet. Außerdem wird der Anwalt Bennett Holiday von Gewissensbissen geplagt, nachdem er die fragwürdige Fusion zweier Öl-Konzerne einfädelte.",
+      "poster": "https://image.tmdb.org/t/p/w500/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
+      "director": "Stephen Gaghan",
+      "cast": [
+        "George Clooney",
+        "Matt Damon",
+        "Jeffrey Wright"
+      ],
+      "tmdbId": 231,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0GSS2WJ5N?&linkCode=ll2&tag=ajsretro-21&linkId=0b270ea30d5465d0e37c34bb37a95043&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Insomnia - Schlaflos",
+      "originalTitle": "Insomnia",
+      "year": "2002",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "118",
+      "rating": "7.0",
+      "overview": "Der berühmte Detective Will Dormer aus Los Angeles fliegt mit seinem Partner Hap Eckhart nach Nightmute/Alaska, weil dort ein alter Bekannter, Chief Nyback, in einem undurchsichtigen Mordfall Hilfe braucht. Ganz freiwillig sind Will und Hap allerdings nicht ans Ende der Welt geflogen: Nyback weiß bereits, dass die Polizeiaufsicht von L.A. eine interne Untersuchung gegen die beiden Cops eingeleitet hat…",
+      "poster": "https://image.tmdb.org/t/p/w500/nDjJyjHkNfWllvBVsbA7BIB7J8C.jpg",
+      "director": "Christopher Nolan",
+      "cast": [
+        "Al Pacino",
+        "Robin Williams",
+        "Hilary Swank"
+      ],
+      "tmdbId": 320,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Fargo",
+      "originalTitle": "Fargo",
+      "year": "1996",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "98",
+      "rating": "7.8",
+      "overview": "Es könnte der Plan zum perfekten Verbrechen sein: Der abgebrannte Autoverkäufer Jerry Lundegaard engagiert zwei Galgenvögel, die seine Ehefrau entführen und vom ebenso reichen wie geizigen Schwiegervater ein Lösegeld erpressen sollen. Doch die beiden Schmalspur-Gangster, der eine ein hypernervöses Wrack, der andere ein schweigsamer Psychopath, gehen derart stümperhaft zu Werke, daß mit einemmal drei Menschen tot in der verschneiten Einöde Minnesotas liegen. Ein Fall für Marge Gunderson. Die hochschwangere Polizistin nimmt die Spur auf – Blutstropfen für Blutstropfen.",
+      "poster": "https://image.tmdb.org/t/p/w500/6QqEsIx9KuLqD8auHmXWe7vJhOy.jpg",
+      "director": "Joel Coen",
+      "cast": [
+        "Frances McDormand",
+        "William H. Macy",
+        "Steve Buscemi"
+      ],
+      "tmdbId": 275,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHM7GDM6?&linkCode=ll2&tag=ajsretro-21&linkId=d4475917fb6e0c015118571d5f7b48ab&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Jury",
+      "originalTitle": "A Time to Kill",
+      "year": "1996",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "149",
+      "rating": "7.4",
+      "overview": "In dem kleinen Mississippi-Städtchen Canton wird ein junger Anwalt mit einem mörderischen Fall betraut, als nach der Vergewaltigung und dem Mord an einem farbigen Mädchen der Vater im Gerichtsgebäude Rache nimmt und die vermeintlichen Täter erschießt. Nun steht der Vater vor Gericht und der Klu-Klux-Klan in der Gegend wird ebenfalls wieder aktiv. Unterstützt von einer jungen Studentin gerät das Leben aller Beteiligten in Gefahr, als Anschläge verübt werden. Doch die größte Gefahr lauert vor Gericht, in Person des gewieften Staatsanwalts Buckley",
+      "poster": "https://image.tmdb.org/t/p/w500/tBPZl3rWcyzRsmXn6C5wjJzga11.jpg",
+      "director": "Joel Schumacher",
+      "cast": [
+        "Matthew McConaughey",
+        "Sandra Bullock",
+        "Samuel L. Jackson"
+      ],
+      "tmdbId": 1645,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0BYTHKV24?&linkCode=ll2&tag=ajsretro-21&linkId=7576698bbced97a94fff8c8ab1b38795&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Klient",
+      "originalTitle": "The Client",
+      "year": "1994",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Krimi",
+        "Mystery"
+      ],
+      "runtime": "119",
+      "rating": "6.7",
+      "overview": "Der Straßenjunge Mark Sway beobachtet den Selbstmord von Jerome Clifford, einem berühmten Anwalt aus Louisiana, dessen letzter Klient der Mafiakiller Barry Muldano war. Bevor Jerome sich tötet, erzählt er Mark, wo die Leiche von Senator Boyd Boyette vergraben liegt. Schon bald sind sowohl die Mafia, als auch das FBI hinter dem Jungen her, der Hilfe von der Anwältin Reggie Love bekommt.",
+      "poster": "https://image.tmdb.org/t/p/w500/iluwa99YfI8nB0bsNB3STMcJuSk.jpg",
+      "director": "Joel Schumacher",
+      "cast": [
+        "Brad Renfro",
+        "Susan Sarandon",
+        "Tommy Lee Jones"
+      ],
+      "tmdbId": 10731,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0FRS8TN15?&linkCode=ll2&tag=ajsretro-21&linkId=856e30267ac508a19ced5ee0d9ccca25&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Royal Hotel",
+      "originalTitle": "The Royal Hotel",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "91",
+      "rating": "5.4",
+      "overview": "Die Kanadierinnen Hanna (Julia Garner) und Liv (Jessica Henwick) sind beste Freundinnen, die mit dem Rucksack in Australien unterwegs sind. Als ihnen das Geld ausgeht, überredet die abenteuerlustige Liv Hanna, vorübergehend hinter der Bar eines Pubs namens „The Royal Hotel\" in einer abgelegenen Bergbaustadt im australischen Outback zu arbeiten. Der Barbesitzer Billy (Hugo Weaving) und eine Reihe von Einheimischen machen die Mädchen auf die harte Tour mit der Trinkkultur in Down Under vertraut. Dabei geraten sie unter anderem mit Matty (Toby Wallace) und Dolly (Daniel Henshall) aneinander. Und Billy scheint wenig Interesse daran zu haben, seine beiden neuen Mitarbeiterinnen vor den übergriffigen Locals zu schützen. Daraufhin eskaliert die Situation endgültig: Billy landet nach einem Streit im Krankenhaus, Liv und Hanna feiern eine alkoholreiche Party mit den Locals und anderen Royal-Gästen, die zunehmend aus dem Ruder läuft – bis es brennt...",
+      "poster": "https://image.tmdb.org/t/p/w500/t1Ng2bDTgNqaCHvEHKb0m5eR2W1.jpg",
+      "director": "Kitty Green",
+      "cast": [
+        "Julia Garner",
+        "Jessica Henwick",
+        "Hugo Weaving"
+      ],
+      "tmdbId": 944952,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0CQ6WK1HN?&linkCode=ll2&tag=ajsretro-21&linkId=b0f88358ccf1e62df2e0b9011b0814fb&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Collide",
+      "originalTitle": "Collide",
+      "year": "2016",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "runtime": "99",
+      "rating": "5.6",
+      "overview": "Der amerikanische Backpacker-Tourist Casey verbringt zusammen mit seiner Freundin Juliette Zeit in Deutschland. Doch durch die Verkettung unglücklicher Umstände braucht Juliette eine Nierentransplantation und um das nötige Geld zusammenzubekommen, besinnt Casey sich auf seine kriminelle Vergangenheit als Autodieb und lässt sich von Geran anheuern.  Der geplante Raubzug läuft allerdings nicht so wie geplant. Casey trifft unvermutet auf den Gangsterboss Hagen Kahl, der ihn nun seinerseits erpressen will, und so findet Casey sich bald mit Bleifuß auf der deutschen Autobahn bei München wieder, um seine Freundin zu retten. Eine Hetzjagd um sein und ihr Leben beginnt.",
+      "poster": "https://image.tmdb.org/t/p/w500/zR10C2hHXSr1WEzIw9i2x0CUtXV.jpg",
+      "director": "Eran Creevy",
+      "cast": [
+        "Nicholas Hoult",
+        "Felicity Jones",
+        "Anthony Hopkins"
+      ],
+      "tmdbId": 195590,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHS131ZK?&linkCode=ll2&tag=ajsretro-21&linkId=581b8a9fc549847387a7d30138e6e634&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Notorious B.I.G.",
+      "originalTitle": "Notorious",
+      "year": "2009",
+      "genres": [
+        "Musik",
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "122",
+      "rating": "7.0",
+      "overview": "Zu Beginn der Neunzigerjahre hat sich Christopher Wallace in seinem Viertel in Brooklyn bereits einen Namen gemacht als Drogendealer und Zuhälter. Nach einem Gefängnisaufenthalt tut er sich mit dem ambitionierten Produzenten Puff Daddy zusammen und nimmt für ihn unter dem Namen The Notorious B.I.G. sein erstes Album auf, das sich als Sensationserfolg erweist. Wallace schließt Freundschaft mit dem bereits berühmten Westküsten-Rapper Tupac Shakur. Als Shakur in seinem Aufnahmestudio angeschossen wird, gibt er B.I.G. die Schuld. Ein wilder Krieg beginnt.",
+      "poster": "https://image.tmdb.org/t/p/w500/oT6kuZw8BOiwYo3FrI7Id7unJUE.jpg",
+      "director": "George Tillman Jr.",
+      "cast": [
+        "Jamal Woolard",
+        "Derek Luke",
+        "Naturi Naughton"
+      ],
+      "tmdbId": 14410,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B00ILNCIAS?&linkCode=ll2&tag=ajsretro-21&linkId=971d86562f55765bb2bc35892fb5d8a5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Sentimental Value",
+      "originalTitle": "Affeksjonsverdi",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "133",
+      "rating": "7.5",
+      "overview": "Nora und Agnes verbindet eine komplexe Beziehung zu ihrem Vater, der seine Arbeit stets über die Familie stellte. Nun steht Gustav nach Jahren der Funkstille plötzlich wieder vor der Tür – mit einem charmanten Grinsen und dem emotionalen Gepäck eines halben Lebens. Augenblicklich geraten alte Familiendynamiken ins Rollen. Und nach und nach wird deutlich, dass sich Vater und Töchter ähnlicher sind, als sie glaubten. Vielleicht ist es doch nicht zu spät für einen Neuanfang?",
+      "poster": "https://image.tmdb.org/t/p/w500/zOeMU4kot9ek7N23SL5v885vVCN.jpg",
+      "director": "Joachim Trier",
+      "cast": [
+        "Renate Reinsve",
+        "Stellan Skarsgård",
+        "Inga Ibsdotter Lilleaas"
+      ],
+      "tmdbId": 1124566,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Bienenhüterin",
+      "originalTitle": "The Secret Life of Bees",
+      "year": "2008",
+      "genres": [
+        "Familie",
+        "Abenteuer",
+        "Drama"
+      ],
+      "runtime": "110",
+      "rating": "7.5",
+      "overview": "Die 14-Jährige Lily sucht gemeinsam mit ihrem farbigen Kindermädchen Rosaleen Unterschlupf bei den Boatwright-Schwestern in South Carolina. Auf der Flucht vor ihrem einsamen Leben und ihrem gewalttätigen Vater, sucht sie nach der Wahrheit um den Tod ihrer Mutter und hofft Antworten in dem kleinen Städtchen zu finden. Doch zunächst findet sie die Wärme und Herzlichkeit der Boatwright-Schwestern, die ihnen das Imkern zeigen, und ihnen einen Ort der Ruhe schenken.",
+      "poster": "https://image.tmdb.org/t/p/w500/y4O1sCvcR4vUKHmzISwBOE57S4g.jpg",
+      "director": "Gina Prince-Bythewood",
+      "cast": [
+        "Dakota Fanning",
+        "Queen Latifah",
+        "Jennifer Hudson"
+      ],
+      "tmdbId": 12837,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8S4VJ95?&linkCode=ll2&tag=ajsretro-21&linkId=b4a922764363751ed2261fc075c85e7b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "There Will Be Blood",
+      "originalTitle": "There Will Be Blood",
+      "year": "2007",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "158",
+      "rating": "8.1",
+      "overview": "Daniel Plainview versucht Ende des 19. Jahrhunderts sein Glück als Schürfer auf der Suche nach Silber, doch er entdeckt bei der harten Arbeit eines Tages eine Ölquelle. Für den nur auf Profit eingestellten Einzelgänger erschließt sich eine neue Obsession und schon bald beginnt er seine Arbeit im Ölgeschäft. Schon früh kommt sein Partner zu Tode, woraufhin Daniel sich dessen Sohnes annimmt, der als Waise zurück blieb. Doch auch diesen Schritt wählt Daniel nur, um sich Vorteile zu erschleichen und so steigt er durch Rücksichtslosigkeit, Betrug und harte eigene Arbeit zu einem schwerreichen Ölbaron auf. Sein Ziehsohn H.W. dagegen verliert sein Gehör bei einem Unfall an der Ölpumpe. Im Laufe der Jahre wächst Daniels Vermögen und mit ihm sein grenzenloser Hass auf die Menschen …",
+      "poster": "https://image.tmdb.org/t/p/w500/r3VUQ6prbQ7O96BYd8PiMWzdQcm.jpg",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Daniel Day-Lewis",
+        "Paul Dano",
+        "Kevin J. O'Connor"
+      ],
+      "tmdbId": 7345,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGW2PJ75?&linkCode=ll2&tag=ajsretro-21&linkId=7e9c53f93839e632e97566299e39708c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "About Schmidt",
+      "originalTitle": "About Schmidt",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "runtime": "120",
+      "rating": "6.9",
+      "overview": "Warren Schmidt wird als Versicherungsvertreter in Pension geschickt. Als auch noch seine Frau Helen stirbt, droht er völlig zu verwahrlosen, denn mit dem Rentnerdasein kommt Schmidt überhaupt nicht zurecht. Die Zeit erscheint ihm nutzlos, weil er keine Aufgabe mehr hat. Mit seiner erwachsenen Tochter kommt es zu einem Streit. Als Schmidt zusätzlich herausfindet, dass seine verstorbene Frau mit seinem besten Freund Ray im Bett war, bricht seine Welt völlig zusammen. Er macht sich darauf in einem Wohnmobil auf eine Reise zu Orten aus seiner Vergangenheit, um sich selbst wieder finden zu können. Die Konfrontation mit den Stationen seiner Jugend entfaltet aber nicht die Bedeutung, die sich Schmidt gewünscht hat. Er fährt darauf zur Hochzeit seiner Tochter, ohne die Balance wiedergefunden zu haben. Das bleibt nicht ohne Folgen.",
+      "poster": "https://image.tmdb.org/t/p/w500/3zUD0PYsXFDudoMPNrbrJOdK46x.jpg",
+      "director": "Alexander Payne",
+      "cast": [
+        "Jack Nicholson",
+        "Kathy Bates",
+        "Hope Davis"
+      ],
+      "tmdbId": 2755,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GPX1Q32M?&linkCode=ll2&tag=ajsretro-21&linkId=ef679259e9d44206477177ab68145ebd&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Das Haus am Meer",
+      "originalTitle": "Life as a House",
+      "year": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "125",
+      "rating": "7.1",
+      "overview": "George Monroe ist geschieden und arbeitet in einem Architekturbüro. Als er seinen Job verliert, bricht für ihn eine Welt zusammen. Kurz darauf erfährt er, dass er Krebs im Endstadium hat. Sein letzter Wunsch ist es nun, ein Haus am Meer zu bauen. Dafür benötigt er die Hilfe seines Sohnes mit dem er nicht mehr wirklich eng ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/g74mWcujxZI76u3eOMmPRhG4Mwp.jpg",
+      "director": "Irwin Winkler",
+      "cast": [
+        "Kevin Kline",
+        "Hayden Christensen",
+        "Kristin Scott Thomas"
+      ],
+      "tmdbId": 11457,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0C6TG2R94?&linkCode=ll2&tag=ajsretro-21&linkId=a9c8162ab272fb30894867dac261fdfa&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ich bin Sam",
+      "originalTitle": "I Am Sam",
+      "year": "2001",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "127",
+      "rating": "7.6",
+      "overview": "Der geistig zurückgebliebene Sam hat einen festen Job in einem Coffee Shop und zieht Dank der Hilfe seines mitfühlenden Freundeskreises die Tochter Lucy alleine auf. Als die Kleine jedoch sieben Jahre alt wird und somit die mentale Reife ihres Vaters erreicht, meldet sich das Jugendamt, um Sams Tochter zu Pflegeeltern zu geben. Doch der liebende Vater kämpft gegen die Bürokratie und schafft es sogar, eine Staranwältin und die zurückgezogen lebende Nachbarin davon zu überzeugen, für ihn und sein Mädchen auf die Barrikaden zu gehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/r97hra9v1KWlFN5n3W3lW2MlOlO.jpg",
+      "director": "Jessie Nelson",
+      "cast": [
+        "Sean Penn",
+        "Michelle Pfeiffer",
+        "Dianne Wiest"
+      ],
+      "tmdbId": 10950,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXF78KXR?&linkCode=ll2&tag=ajsretro-21&linkId=6feef8de9c52bde593c33617b26b5aaa&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Magnolia",
+      "originalTitle": "Magnolia",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "188",
+      "rating": "7.7",
+      "overview": "24 Stunden in L.A. Neun Menschen. Neun Schicksale. Wie ein Spinnennetz sind alle miteinander verwoben. Und ein gewaltiger Sturm an Gefühlen bricht über sie herein. Wie bei Frank T.J. Mackay. Ist es Zufall, daß der charismatische Sex-Prediger gerade heute, nach so vielen Jahren, seinen Vater wiedersieht? Seine verhaßte Kindheit kommt wieder hoch, und dennoch wurde er genau wie sein Vater, der erfolgreiche TV-Produzent Earl Partridge, ein Star im Medienrummel. Und was ist mit der schönen, mondänen Linda, Earl's Frau? Sie besitzt alles, was mit Geld zu kaufen ist, ist aber grenzenlos einsam. Erst dann, als Earl im Sterben liegt, findet sie heraus, was Liebe heisst.",
+      "poster": "https://image.tmdb.org/t/p/w500/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg",
+      "director": "Paul Thomas Anderson",
+      "cast": [
+        "Tom Cruise",
+        "Philip Baker Hall",
+        "Philip Seymour Hoffman"
+      ],
+      "tmdbId": 334,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0C7JMMGZF?&linkCode=ll2&tag=ajsretro-21&linkId=96a0ae5a53bffb00b80a33a9e03b640f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dreams - Gefährliches Verlangen",
+      "originalTitle": "Dreams: Sueños",
+      "year": "2025",
+      "genres": [
+        "Liebesfilm",
+        "Thriller",
+        "Drama"
+      ],
+      "runtime": "98",
+      "rating": "6.1",
+      "overview": "Jennifer ist ebenso reich wie attraktiv und genießt ein glamouröses Leben als Philanthropin in der amerikanischen High Society. Niemand ahnt, dass sie während ihrer regelmäßigen Aufenthalte in Mexiko eine leidenschaftliche Beziehung mit dem jungen Balletttänzer Fernando führt – einem vielversprechenden Talent ihrer Kulturstiftung. Verliebt und voller Hoffnung auf eine bessere Zukunft in den USA wagt Fernando eines Tages den gefährlichen Weg über die Grenze. Als er plötzlich in Jennifers luxuriösem Apartment in San Francisco auftaucht, gerät ihre sorgfältig kontrollierte Welt aus den Fugen.",
+      "poster": "https://image.tmdb.org/t/p/w500/vDOHlAega35IvNz2GdEgDo4cudW.jpg",
+      "director": "Michel Franco",
+      "cast": [
+        "Jessica Chastain",
+        "Isaac Hernández",
+        "Rupert Friend"
+      ],
+      "tmdbId": 1134463,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZ886YY9?&linkCode=ll2&tag=ajsretro-21&linkId=f7fa78e3d7f433ef2731c5b6b9207c64&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Drive Back Home",
+      "originalTitle": "Drive Back Home",
+      "year": "2024",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "103",
+      "rating": "6.9",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/a8IF63PoJeTbl7cjKSpCMgLKCAK.jpg",
+      "director": "Michael Clowater",
+      "cast": [
+        "Alan Cumming",
+        "Charlie Creed-Miles",
+        "Clare Coulter"
+      ],
+      "tmdbId": 1194985,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0FV2C6TZ5?&linkCode=ll2&tag=ajsretro-21&linkId=9879083b658976318becd6c335cb11d5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Room Next Door",
+      "originalTitle": "La habitación de al lado",
+      "year": "2024",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "110",
+      "rating": "6.7",
+      "overview": "Ingrid, eine Freundin von Marthas Mutter, wird Zeugin des Schmerzes und der Verbitterung der beiden. Martha ist Kriegsberichterstatterin, Ingrid ist Autorin von Romanen. Beide beschäftigt so auf unterschiedliche Arten und Weisen die grenzenlose Grausamkeit von Kriegen und wie diese Realität in den unterschiedlichen Dareichungsformen der beiden Frauen abgebildet werden kann. In einem Haus inmitten eines Naturschutzgebietes in Neuengland treffen sich die beiden Freundinnen nach etlichen Jahren wieder und erleben schließlich eine Situation, die sowohl extrem als auch überraschend zärtlich ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/aFeEXvKtKZ9wY3EMsR7yp9Izfej.jpg",
+      "director": "Pedro Almodóvar",
+      "cast": [
+        "Julianne Moore",
+        "Tilda Swinton",
+        "John Turturro"
+      ],
+      "tmdbId": 1088514,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0CW58SY1R?&linkCode=ll2&tag=ajsretro-21&linkId=a8761af08080b0d45c42f65905a6ecdc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lolita lesen in Teheran",
+      "originalTitle": "Reading Lolita in Tehran",
+      "year": "2024",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "107",
+      "rating": "7.2",
+      "overview": "Als islamische Sittenpolizei willkürliche Razzien in Teheran durchführt und Fundamentalisten die Universitäten in Beschlag nehmen, versammelt Azar Nafisi, eine inspirierte Lehrerin, heimlich sechs ihrer engagiertesten Studentinnen, um verbotene westliche Klassiker zu lesen.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OJRGTbgUCaI5nEJBfQE4rnefE5.jpg",
+      "director": "Eran Riklis",
+      "cast": [
+        "گلشیفته فراهانی",
+        "Zar Amir Ebrahimi",
+        "Mina Kavani"
+      ],
+      "tmdbId": 1096846,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0FD5VPK1J?&linkCode=ll2&tag=ajsretro-21&linkId=e3d6d7c8e0940482081c19912bc525db&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "A Mistake",
+      "originalTitle": "A Mistake",
+      "year": "2023",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "runtime": "101",
+      "rating": "6.2",
+      "overview": "Mitten in einer neuen Regelung zur öffentlichen Berichterstattung über die Leistungen von Chirurgen gerät das Leben der begabten Chirurgin Liz Taylor  aus den Fugen, als ihre Kollegen beginnen, die Reihen zu schließen, und sogar ihre Partnerin, die Krankenschwester im Krankenhaus ist, sich von ihr abwendet.",
+      "poster": "https://image.tmdb.org/t/p/w500/j6bpNu94Nah75ED2WQVxt2iOX.jpg",
+      "director": "Christine Jeffs",
+      "cast": [
+        "Acacia O'Connor",
+        "Elizabeth Banks",
+        "Simon McBurney"
+      ],
+      "tmdbId": 1078959,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0DBT95X4M?&linkCode=ll2&tag=ajsretro-21&linkId=20c05692dd4411998e47a0f40b2f3401&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Blue Bayou",
+      "originalTitle": "Blue Bayou",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "118",
+      "rating": "7.4",
+      "overview": "Antonio LeBlanc  ist als koreanisches Adoptivkind in einer kleinen Stadt an den Gewässern Louisianas aufgewachsen. Er ist mit der Liebe seines Lebens Kathy verheiratet und Stiefvater ihrer geliebten Tochter Jessie. Antonio arbeitet hart dafür, um seine Familie zu ernähren und ihr Leben weiter zu verbessern. Gleichzeitig muss er sich den Geistern seiner Vergangenheit stellen, als er eine bedrückende Nachricht erhält: Es könnte sein, dass er abgeschoben wird aus dem einzigen Land, das er jemals Heimat genannt hat...  Inspiriert von wahren Ereignissen.",
+      "poster": "https://image.tmdb.org/t/p/w500/waIo0ufcAulmhvDAF9XtqyRnhBd.jpg",
+      "director": "Justin Chon",
+      "cast": [
+        "Justin Chon",
+        "Alicia Vikander",
+        "Mark O'Brien"
+      ],
+      "tmdbId": 644089,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0DRCT5RZ2?&linkCode=ll2&tag=ajsretro-21&linkId=cc83369fdf210f350984af9ead42ae39&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Last Vermeer",
+      "originalTitle": "The Last Vermeer",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "118",
+      "rating": "6.5",
+      "overview": "Kurz nach dem Zweiten Weltkrieg ermittelt der Soldat Joseph Piller, ob der renommierte niederländische Künstler Han van Meegeren sich tatsächlich mit den Nazis verschworen hat. Es wird vermutet, dass Han den Nazis ein Gemälde verkauft hat. Obwohl sich die Beweise häufen, wächst in Piller die Überzeugung, dass Han unschuldig ist. Letztlich fühlt sich Piller dazu verpflichtet, das Leben des Malers zu retten.",
+      "poster": "https://image.tmdb.org/t/p/w500/7CKxIyEIdHgkQzDixn68Hvwua90.jpg",
+      "director": "Dan Friedkin",
+      "cast": [
+        "Guy Pearce",
+        "Claes Bang",
+        "Vicky Krieps"
+      ],
+      "tmdbId": 622977,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN6KGMV8?&linkCode=ll2&tag=ajsretro-21&linkId=61817428387baa3378a397d9e3246357&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Unforgettable - Tödliche Liebe",
+      "originalTitle": "Unforgettable",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "100",
+      "rating": "5.9",
+      "overview": "Als die Ehe von Tessa Connover (Katherine Heigl) zu Bruch geht, steht sie vor dem Scherbenhaufen ihres Lebens und leidet noch lange unter der gescheiterten Beziehung. Im Gegensatz dazu findet ihr Ex-Mann David (Geoff Stults) schnell wieder eine neue Liebe, die er ebenso schnell zu heiraten beschließt: Julia Banks (Rosario Dawson). Julia zieht gemeinsam mit David in das Haus, in dem dieser einst mit Tessa lebte, und übernimmt auch die Rolle der Stiefmutter für Tessas und Davids Tochter Lilly (Isabella Rice) – eine große Aufgabe für Julia, die sich an ihre neue Verantwortung erst noch gewöhnen muss, aber sich David zuliebe aufopferungsvoll um ihre neu gewonnene Stieftochter kümmert. Doch für die alleingelassene Tessa ist dies ein emotionaler Tiefschlag, von dem sie sich nicht erholen kann, und sie setzt es sich zum Ziel, der neuen Frau ihres Ex das Leben zur Hölle zu machen...",
+      "poster": "https://image.tmdb.org/t/p/w500/882ynbMWxhsN5SpeoqC3tGY13Oa.jpg",
+      "director": "Denise Di Novi",
+      "cast": [
+        "Rosario Dawson",
+        "Katherine Heigl",
+        "Geoff Stults"
+      ],
+      "tmdbId": 418437,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0D957H287?&linkCode=ll2&tag=ajsretro-21&linkId=5eaf1bcb3c16f5c02faa257bc3cb354c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Birth Of A Nation - Aufstand zur Freiheit",
+      "originalTitle": "The Birth of a Nation",
+      "year": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "120",
+      "rating": "6.6",
+      "overview": "Der Süden der Vereinigten Staaten von Amerika, 30 Jahre vor dem Bürgerkrieg: Nat Turner ist ein gebildeter Prediger, der als Sklave unter Samuel Turner lebt. Der Sklavenhalter steht kurz vor dem Bankrott, als er ein Angebot erhält, das viel Geld verspricht: Nats Fertigkeiten als Prediger sollen dazu missbraucht werden, Sklaven unter Kontrolle zu bekommen, die Widerstand leisten. Der Priester wird zum Handlanger seines eigenen Unterdrückers und muss viele Grausamkeiten ertragen bzw. mitansehen. Es trifft ihn, es trifft seine Freunde und es trifft seine Frau Cherry. Die anhaltenden Demütigungen treiben Nat schließlich zu einer radikalen Entscheidung: Er führt einen Aufstand herbei, in der Hoffnung, endlich allen Sklaven die Freiheit zu ermöglichen.",
+      "poster": "https://image.tmdb.org/t/p/w500/29cLbZ1BCT0LzzBDg95HbMrwZtV.jpg",
+      "director": "Nate Parker",
+      "cast": [
+        "Nate Parker",
+        "Armie Hammer",
+        "Aja Naomi King"
+      ],
+      "tmdbId": 339408,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6NK1PQL?&linkCode=ll2&tag=ajsretro-21&linkId=224b4dac390f87330e728844107397a6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mutter Theresa",
+      "originalTitle": "The Letters",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "114",
+      "rating": "5.7",
+      "overview": "Dieses bewegende und inspirierende Porträt von Mutter Theresa begleitet die unermüdliche Fürbitterin der Armen und Vergessenen 40 Jahre lang auf ihrem unglaublichen Lebensweg die Aufnahme bei den Loretoschwestern in Dublin, ihre Reise nach Darjeeling, die Gründung der Missionarinnen der Nächstenliebe zur Hilfe der Ärmsten, ihre unschätzbaren Opfer in den Slums von Kalkutta und die Auszeichnung mit dem Friedensnobelpreis.",
+      "poster": "https://image.tmdb.org/t/p/w500/8qnZycQWka7I8TbZ7UcvJ6I3weB.jpg",
+      "director": "William Riead",
+      "cast": [
+        "Rutger Hauer",
+        "Juliet Stevenson",
+        "Max von Sydow"
+      ],
+      "tmdbId": 218275,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B01L96HTAC?&linkCode=ll2&tag=ajsretro-21&linkId=025d121a79c0583123c9aa30e84f7f4e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Cesar Chavez",
+      "originalTitle": "Cesar Chavez",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "102",
+      "rating": "6.2",
+      "overview": "César Estrada Chávez ist ein Migrant, der wie viele andere den Weg in die USA wagt, um hier ein besseres Leben zu finden. Dabei heuert er als Arbeiter auf einer Farm in Kalifornien an, doch schon sehr bald ist er angewidert von den menschenunwürdigen Arbeitsbedingungen, unter denen die vornehmlich immigrierten Arbeiter hier schuften müssen. Er beschließt daher, etwas gegen das Unrecht zu tun: Das ist die Geburtsstunde der US-Landarbeitergewerkschaft ‚United Farm Workers‘, der schon bald über 50 000 Personen angehören. Doch mit seinem überwältigendem Erfolg ist der Menschenrechtsaktivist auch vielen einflussreichen Leuten ein Dorn im Auge – besonders in der Politik. Für ihre Interessen tritt Bogdanovitch ein, der mit seinen Leuten alles daran setzt, die von Chávez angestoßene Bewegung zu zerschlagen.",
+      "poster": "https://image.tmdb.org/t/p/w500/eOHHJ1WINcAxyHUrRRMO4pjeJLn.jpg",
+      "director": "Diego Luna",
+      "cast": [
+        "Michael Peña",
+        "Rosario Dawson",
+        "America Ferrera"
+      ],
+      "tmdbId": 230779,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B01924NC68?&linkCode=ll2&tag=ajsretro-21&linkId=53eb6155f81a321285fecba8d20623b7&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ziemlich beste Freunde",
+      "originalTitle": "Intouchables",
+      "year": "2011",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "runtime": "112",
+      "rating": "8.3",
+      "overview": "Philippe ist zwar reich und intelligent, aber er benötigt im Alltag auch Hilfe, da er vom Hals abwärts gelähmt ist. Als er sich einen neuen Pfleger engagiert entscheidet er sich zum Entsetzen seiner Freunde für den jungen schwarzen Driss, der gerade aus dem Gefängnis entlassen wurde. Der direkte und fröhliche Charakter von Driss beeindruckt Philippe, der besonders unter dem allgegenwärtigen Mitleid seiner Umgebung leidet. Zwischen den beiden entwickelt sich eine ungewöhnliche Männerfreundschaft, die alle ethnischen und sozialen Grenzen überschreitet.",
+      "poster": "https://image.tmdb.org/t/p/w500/2VhCnmycro2ySRHYtaqTWrdSjBt.jpg",
+      "director": "Olivier Nakache",
+      "cast": [
+        "François Cluzet",
+        "Omar Sy",
+        "Anne Le Ny"
+      ],
+      "tmdbId": 77338,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0H6KJFXL9?&linkCode=ll2&tag=ajsretro-21&linkId=108c5add580c20bda885eacc5d53ee25&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dance! Jeder Traum beginnt mit dem ersten Schritt",
+      "originalTitle": "Take the Lead",
+      "year": "2006",
+      "genres": [
+        "Drama",
+        "Musik"
+      ],
+      "runtime": "108",
+      "rating": "6.9",
+      "overview": "Als der kultivierte New Yorker Tanzlehrer Pierre Dulaine zufällig Zeuge wird, wie der unterprivilegierte High-School-Rüpel Rock das Auto eines guten Bürgers demoliert, verzichtet er auf den Anruf bei der Polizei. Stattdessen versucht er, desorientierte Knaben mit den Mitteln des Gesellschaftstanzes auf den Pfad der Tugend zu führen. Doch nicht jedes seiner neuen Schäfchen zeigt dafür Begeisterung.",
+      "poster": "https://image.tmdb.org/t/p/w500/hoJPmUcet0fw0blZFVN8JfVPVp6.jpg",
+      "director": "Liz Friedlander",
+      "cast": [
+        "Antonio Banderas",
+        "Rob Brown",
+        "Yaya DaCosta"
+      ],
+      "tmdbId": 12763,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B00FAHB458?&linkCode=ll2&tag=ajsretro-21&linkId=de681af0a7dbac5fe91b36412101cc7f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Saving Face - Liebe und was noch?",
+      "originalTitle": "Saving Face",
+      "year": "2004",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "runtime": "93",
+      "rating": "7.2",
+      "overview": "Als die 48-jährige Witwe Ma ihrem alles andere als verständnisvollen Vater sagt, dass sie schwanger ist, verbannt er sie aus Flushing, bis sie ihm entweder einen neuen Ehemann oder Beweise für eine unbefleckte Empfängnis präsentiert. Mangels geeigneter Alternativen zieht Ma zu ihrer erwachsenen Tochter Wil, die in Manhattan als Ärztin arbeitet und der unfreiwilligen Wohngemeinschaft nicht gerade positiv gegenübersteht - insbesondere da sie gerade erst ihre attraktive junge Freundin Vivian kennen gelernt hat. Also tut Wil, was jede pflichtbewusste Tochter einer schwangeren, unverheirateten Mutter tun würde: Sie organisiert Blinddates mit jedem begehrten Junggesellen der Stadt.",
+      "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
+      "director": "Alice Wu",
+      "cast": [
+        "Joan Chen",
+        "Michelle Krusiec",
+        "Lynn Chen"
+      ],
+      "tmdbId": 19316,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B00FZEVXI4?&linkCode=ll2&tag=ajsretro-21&linkId=4ed255f4e2980bd32ae8ad78a8e883bd&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gia - Der Preis der Schönheit",
+      "originalTitle": "Gia",
+      "year": "1998",
+      "genres": [
+        "Liebesfilm",
+        "Drama",
+        "TV-Film"
+      ],
+      "runtime": "117",
+      "rating": "7.1",
+      "overview": "Die schöne Gia Carangi zieht es mit gerade einmal 17 Jahren nach New York um dort eine Karriere als Modell zu starten. Und ihr großer Traum scheint in Erfüllung zu gehen, bekommt sie doch sehr schnell gute Angebote und entwickelt sich innerhalb kürzester Zeit zu einem der gefragtesten Modells in der Branche. Kein Magazin, das die junge und wilde Gia nicht auf ihrem Cover haben will. Doch mit dem Erfolg kommen auch die Schattenseiten des Geschäfts zum Vorschein und die junge Frau verfällt dem Sog aus Ruhm und Drogen. Sie lernst die Visagistin Linda kennen und die beiden verlieben sich in einander. Gia steht offen zu ihrer Homosexualität und stellt dies offen zur Diskussion. Doch die junge Liebe ist schon früh zum Scheitern verdammt, verfällt das Modell doch mehr und mehr den Drogen. Bis sie eines Tages eine erschütternde Diagnose erhält, die ihr junges Leben für immer verändern soll…",
+      "poster": "https://image.tmdb.org/t/p/w500/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
+      "director": "Michael Cristofer",
+      "cast": [
+        "Angelina Jolie",
+        "Elizabeth Mitchell",
+        "Eric Michael Cole"
+      ],
+      "tmdbId": 14533,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXCJY5Y7?&linkCode=ll2&tag=ajsretro-21&linkId=9f6378c93c33ede8d9bfe0ecebe20a44&ref_=as_li_ss_tl"
+    }
+  ]
+}

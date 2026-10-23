@@ -1,0 +1,34 @@
+name: Filmdaten aktualisieren
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # alle 12 Stunden
+  workflow_dispatch:          # jederzeit manuell ausloesbar
+  push:
+    paths:
+      - "data/wishes.txt"     # sofort, wenn du die Liste aenderst
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm run build
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: movies.json committen
+        run: |
+          git config user.name "videothek-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add movies.json
+          git diff --staged --quiet || git commit -m "Filmdaten aktualisiert"
+          git push

@@ -1,0 +1,668 @@
+/* ===========================================================
+   Videothek – ein Raum zum Reingehen
+   Tür -> Laden (3D-Raum mit Regalen an den Wänden) -> Zoom aufs Regal
+
+   Wichtig: Die klickbaren Regalflächen liegen NICHT im 3D-Kontext
+   (siehe .hotspots in index.html), sondern als flaches Overlay darüber.
+   Safari und Chrome liefern Klicks auf 3D-transformierte Kinder mit
+   backface-visibility:hidden unzuverlässig aus - deshalb die Trennung.
+   =========================================================== */
+
+:root {
+  --wall:      #15235a;
+  --wall-dark: #0b1438;
+  --sign:      #ffd23f;
+  --sign-ink:  #0b1640;
+  --wood:      #3a2418;
+  --wood-hi:   #6a4428;
+  --neon:      #ff2e88;
+  --neon-2:    #22d3ee;
+  --text:      #f4eef7;
+  --dim:       #a9a3c0;
+
+  --depth: 1100px;      /* Tiefe des Raums */
+  --persp: 800px;       /* Augenabstand    */
+  --radius: 6px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #05060d;
+  color: var(--text);
+  font-family: "Helvetica Neue", Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button { font: inherit; }
+
+/* ===========================================================
+   Eingangstür
+   =========================================================== */
+
+.door {
+  position: fixed; inset: 0; z-index: 40;
+  display: grid; place-items: center;
+  background: #05060d;
+  transition: background .8s ease;
+}
+.door.open { background: transparent; pointer-events: none; }
+
+.door-panel {
+  position: absolute; top: 0; bottom: 0; width: 50%;
+  background:
+    linear-gradient(115deg, rgba(255,255,255,.09) 0 16%, transparent 16% 28%,
+                            rgba(255,255,255,.05) 28% 31%, transparent 31%),
+    linear-gradient(180deg, #10204a, #070d22);
+  border: 16px solid #1c1c24;
+  box-shadow: inset 0 0 80px rgba(0,0,0,.6);
+  transition: transform 1.1s cubic-bezier(.7,0,.2,1);
+}
+.door-panel.left  { left: 0;  border-right-width: 8px; }
+.door-panel.right { right: 0; border-left-width: 8px; }
+.door.open .door-panel.left  { transform: translateX(-102%); }
+.door.open .door-panel.right { transform: translateX(102%); }
+
+.handle {
+  position: absolute; top: 50%; width: 10px; height: 160px;
+  margin-top: -80px; border-radius: 6px;
+  background: linear-gradient(90deg, #8a8f9c, #e3e6ee, #8a8f9c);
+}
+.left  .handle { right: 28px; }
+.right .handle { left: 28px; }
+
+.push {
+  position: absolute; top: calc(50% + 100px);
+  font-size: .7rem; letter-spacing: .3em; text-transform: uppercase;
+  color: rgba(255,255,255,.35);
+}
+.left  .push { right: 14px; }
+.right .push { left: 14px; }
+
+.door-center {
+  position: relative; z-index: 2;
+  text-align: center; padding: 2rem;
+  transition: opacity .35s ease;
+}
+.door.open .door-center { opacity: 0; }
+
+.door-sign, .store-sign h1 {
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow:
+    0 0 6px rgba(255,255,255,.9),
+    0 0 18px var(--neon),
+    0 0 46px var(--neon),
+    0 0 90px rgba(255,46,136,.55);
+}
+.door-sign {
+  font-size: clamp(2.8rem, 10vw, 6rem);
+  animation: flicker 4s infinite;
+}
+.door-claim {
+  margin: .6rem 0 1.8rem;
+  color: var(--dim);
+  letter-spacing: .1em; text-transform: uppercase; font-size: .8rem;
+}
+
+.enter {
+  border: 0; cursor: pointer;
+  padding: .9rem 2.2rem;
+  border-radius: 4px;
+  background: var(--sign); color: var(--sign-ink);
+  font-weight: 900; font-size: 1.05rem;
+  letter-spacing: .12em; text-transform: uppercase;
+  box-shadow: 0 0 0 3px var(--sign-ink), 0 0 40px rgba(255,210,63,.45);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.enter:hover { transform: translateY(-2px); box-shadow: 0 0 0 3px var(--sign-ink), 0 0 60px rgba(255,210,63,.7); }
+.enter:focus-visible { outline: 3px solid var(--neon-2); outline-offset: 4px; }
+
+.door-hours {
+  display: inline-flex; align-items: center; gap: .5rem;
+  margin-top: 1.6rem; font-size: .78rem; color: var(--dim);
+}
+.dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #46e07a; box-shadow: 0 0 10px #46e07a;
+  animation: pulse 2s infinite;
+}
+
+@keyframes flicker {
+  0%, 91%, 100% { opacity: 1; }
+  92% { opacity: .4; } 94% { opacity: 1; } 96% { opacity: .55; }
+}
+@keyframes pulse { 50% { opacity: .35; } }
+
+/* ===========================================================
+   Der Raum (CSS-3D: Rückwand, zwei Seitenwände, Boden, Decke)
+   =========================================================== */
+
+.zoom {
+  position: fixed; inset: 0;
+  transform-origin: 0 0;
+  transition: transform 1s cubic-bezier(.65,0,.25,1), filter 1.1s ease;
+  will-change: transform;
+}
+.zoom.entering { transform: scale(1.3); filter: blur(6px) brightness(.35); }
+
+.viewport {
+  position: absolute; inset: 0;
+  overflow: hidden;
+  perspective: var(--persp);
+  perspective-origin: 50% 42%;
+}
+.viewport::after {
+  content: ""; position: absolute; inset: 0; pointer-events: none;
+  background: radial-gradient(ellipse at 50% 45%, transparent 45%, rgba(0,0,0,.55) 100%);
+}
+
+.room { position: absolute; inset: 0; transform-style: preserve-3d; }
+
+.plane { position: absolute; backface-visibility: hidden; }
+
+.wall {
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.035) 0 2px, transparent 2px 140px),
+    linear-gradient(180deg, var(--wall) 0%, var(--wall) 55%, var(--wall-dark) 100%);
+}
+
+.wall-back {
+  left: 0; top: 0; width: 100%; height: 100%;
+  transform: translateZ(calc(var(--depth) * -1));
+}
+.wall-left {
+  left: 0; top: 0; width: var(--depth); height: 100%;
+  transform-origin: 0 50%;
+  transform: rotateY(90deg);
+}
+.wall-right {
+  right: 0; top: 0; width: var(--depth); height: 100%;
+  transform-origin: 100% 50%;
+  transform: rotateY(-90deg);
+}
+
+.floor {
+  left: 0; bottom: 0; width: 100%; height: var(--depth);
+  transform-origin: 50% 100%;
+  transform: rotateX(90deg);
+  background:
+    radial-gradient(circle at 20% 30%, rgba(255,46,136,.55) 0 3px, transparent 4px) 0 0 / 70px 70px,
+    radial-gradient(circle at 70% 60%, rgba(34,211,238,.5) 0 3px, transparent 4px) 0 0 / 90px 90px,
+    radial-gradient(circle at 40% 80%, rgba(255,210,63,.45) 0 2px, transparent 3px) 0 0 / 55px 55px,
+    linear-gradient(180deg, #160a24, #2a1240);
+}
+
+.ceiling {
+  left: 0; top: 0; width: 100%; height: var(--depth);
+  transform-origin: 50% 0;
+  transform: rotateX(-90deg);
+  background:
+    repeating-linear-gradient(180deg, transparent 0 150px, rgba(235,245,255,.95) 150px 162px, transparent 162px 300px) 50% 0 / 30% 100% no-repeat,
+    repeating-linear-gradient(90deg, rgba(255,255,255,.04) 0 2px, transparent 2px 120px),
+    linear-gradient(180deg, #1a1d36, #0d0f20);
+}
+
+.store-sign { position: absolute; top: 5%; left: 0; right: 0; text-align: center; }
+.store-sign h1 { margin: 0; font-size: 130px; line-height: 1; animation: flicker 5s infinite; }
+.store-sign p {
+  margin: 14px 0 0; font-size: 30px;
+  letter-spacing: .3em; text-transform: uppercase; color: var(--dim);
+}
+
+/* ===========================================================
+   Regale an den Wänden – reine Deko, ohne Klick (pointer-events: none)
+   =========================================================== */
+
+.shelves {
+  position: absolute;
+  display: flex; align-items: flex-end; justify-content: center;
+  gap: 40px;
+  pointer-events: none;
+}
+.wall-back  .shelves { left: 6%;  right: 6%; top: 31%; bottom: 0; gap: 26px; }
+.wall-left  .shelves { left: 20%; right: 4%; top: 20%; bottom: 0; gap: 22px; }
+.wall-right .shelves { left: 4%;  right: 20%; top: 20%; bottom: 0; gap: 22px; }
+
+/* Ein oder zwei Regale rücken in die Mitte, statt sich breit zu ziehen */
+.shelves .unit:only-child { max-width: 300px; }
+.shelves .unit:first-child:nth-last-child(2) { max-width: 280px; }
+.shelves .unit:last-child:nth-child(2) { max-width: 280px; }
+
+/* Auf der Rückwand sitzt rechts der Durchgang – Regale weichen ihm aus */
+.wall-back .shelves { right: 38%; }
+
+.unit {
+  flex: 1 1 0; min-width: 0; max-width: 460px; height: 100%;
+  display: flex; flex-direction: column;
+}
+
+.unit-sign {
+  display: block;
+  padding: 14px 18px 12px;
+  background: var(--sign); color: var(--sign-ink);
+  border-radius: 8px 8px 0 0;
+  text-align: center;
+  box-shadow: 0 0 40px rgba(255,210,63,.35);
+  transition: box-shadow .2s ease;
+}
+
+.unit-genre {
+  display: block;
+  font-size: 44px; font-weight: 900; line-height: 1.05;
+  letter-spacing: .03em; text-transform: uppercase;
+  white-space: nowrap; overflow: hidden;
+}
+.unit-count {
+  display: block; margin-top: 4px;
+  font-size: 17px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase;
+  opacity: .7;
+}
+
+.unit-rack {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  gap: 0 8px;
+  padding: 10px 12px 0;
+  border: 12px solid var(--wood); border-top: 0; border-bottom-width: 26px;
+  background:
+    repeating-linear-gradient(180deg, transparent 0 calc(25% - 12px), var(--wood-hi) calc(25% - 12px) 25%),
+    linear-gradient(180deg, #24160f, #140c08);
+  box-shadow: 0 30px 50px -20px rgba(0,0,0,.9);
+}
+
+.mini {
+  align-self: end;
+  width: 100%;
+  aspect-ratio: 2 / 3;
+  max-height: calc(100% - 10px);
+  margin-bottom: 6px;
+  justify-self: center;
+  border-radius: 2px;
+  background: #2a2f55 center / cover no-repeat;
+  filter: blur(1.4px) saturate(.85) brightness(.85);
+  box-shadow: 0 2px 6px rgba(0,0,0,.6);
+}
+.mini.empty { background: rgba(255,255,255,.04); box-shadow: none; filter: none; }
+
+.wall-notice {
+  align-self: center;
+  font-size: 34px; color: var(--dim); text-align: center; max-width: 900px;
+}
+
+/* ===========================================================
+   Klickflächen – flaches Overlay über dem Raum, KEIN 3D-Kontext
+   =========================================================== */
+
+.hotspots {
+  position: absolute; inset: 0;
+  z-index: 3;
+  pointer-events: none;   /* nur die Buttons darin sind klickbar */
+}
+
+.hot {
+  position: absolute;
+  pointer-events: auto;   /* hier landet der Klick zuverlässig */
+  padding: 0; margin: 0;
+  border: 0; border-radius: 8px;
+  background: transparent;
+  cursor: pointer;
+}
+.hot-highlight { display: none; }   /* kein Rahmen mehr – nur der Zeiger */
+
+/* Tastaturbedienung braucht eine sichtbare Markierung */
+.hot:focus-visible { outline: none; }
+.hot:focus-visible .hot-highlight {
+  display: block;
+  position: absolute; inset: -4px;
+  border: 4px solid var(--neon-2);
+  border-radius: 10px;
+  box-shadow: 0 0 0 4px rgba(34,211,238,.3);
+}
+
+/* ===========================================================
+   Zweiter Raum, Durchgang und Wegweiser
+   =========================================================== */
+
+.room[hidden] { display: none; }
+
+/* Beim Raumwechsel geht die Kamera kurz heraus und wieder hinein */
+.zoom.switching { transform: scale(1.18); filter: blur(4px) brightness(.4); }
+
+/* Der Durchgang sitzt in der Rückwand des Hauptraums, rechts neben dem Regal.
+   Er ist reine Deko – geklickt wird die flache Fläche .backdoor-hot. */
+.backdoor {
+  position: absolute;
+  right: 7%; bottom: 4%;
+  width: 30%; max-width: 420px;
+  height: 62%;
+  pointer-events: none;
+  overflow: hidden;
+  border-radius: 4px 4px 0 0;
+}
+
+/* Holztür mit vier Füllungen, Maserung und Messingknauf */
+.backdoor-light {
+  position: absolute; inset: 0;
+  /* Maserung plus vier abgesetzte Füllungen */
+  background:
+    linear-gradient(rgba(0,0,0,.22), rgba(0,0,0,.22)) 12% 8%  / 34% 36% no-repeat,
+    linear-gradient(rgba(0,0,0,.22), rgba(0,0,0,.22)) 12% 52% / 34% 40% no-repeat,
+    linear-gradient(rgba(0,0,0,.22), rgba(0,0,0,.22)) 54% 8%  / 34% 36% no-repeat,
+    linear-gradient(rgba(0,0,0,.22), rgba(0,0,0,.22)) 54% 52% / 34% 40% no-repeat,
+    repeating-linear-gradient(93deg, rgba(0,0,0,.16) 0 1px, transparent 1px 5px),
+    repeating-linear-gradient(88deg, rgba(255,255,255,.05) 0 1px, transparent 1px 9px),
+    linear-gradient(100deg, #6b4425, #8a5a31 22%, #74492a 55%, #61391f 100%);
+  box-shadow: inset 0 0 40px rgba(0,0,0,.55);
+}
+
+/* Messingknauf */
+.backdoor-light::after {
+  content: "";
+  position: absolute; top: 50%; right: 12%;
+  width: 26px; height: 26px; margin-top: -13px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #ffe9a8, #d9a13a 55%, #8a5f16);
+  box-shadow: 0 3px 8px rgba(0,0,0,.6), 0 0 22px rgba(255,210,63,.35);
+}
+
+/* Türrahmen: dunkles Holz mit Sturz */
+.backdoor-frame {
+  position: absolute; inset: 0;
+  border: 18px solid #2f1d10;
+  border-top-width: 30px;
+  border-bottom: 0;
+  box-shadow:
+    inset 0 0 70px rgba(0,0,0,.7),
+    0 0 0 3px #160d05,
+    0 20px 60px -10px rgba(0,0,0,.9);
+}
+
+.backdoor-sign {
+  position: absolute;
+  left: 50%; top: 6%;
+  transform: translateX(-50%);
+  display: block;
+  width: 78%;
+  padding: 16px 18px 18px;
+  background: var(--sign); color: var(--sign-ink);
+  border-radius: 6px;
+  text-align: center;
+  box-shadow: 0 0 60px rgba(255,210,63,.6), 0 0 0 3px #1a1206;
+}
+.backdoor-title {
+  display: block;
+  font-size: 34px; font-weight: 900; line-height: 1.05;
+  letter-spacing: .04em; text-transform: uppercase;
+}
+.backdoor-sub {
+  display: block; margin-top: 6px;
+  font-size: 22px; font-weight: 700; font-style: italic; letter-spacing: .03em;
+  opacity: .8;
+}
+
+.backdoor-push {
+  position: absolute;
+  left: 50%; bottom: 8%;
+  transform: translateX(-50%);
+  font-size: 18px; font-weight: 800;
+  letter-spacing: .3em; text-transform: uppercase;
+  color: rgba(255,240,220,.75);
+  text-shadow: 0 2px 6px rgba(0,0,0,.9);
+}
+
+/* Klickfläche des Durchgangs – flach, kein 3D-Kontext */
+.backdoor-hot {
+  position: fixed; z-index: 4;
+  padding: 0; margin: 0; border: 0;
+  border-radius: 10px;
+  background: transparent;
+  cursor: pointer;
+}
+.backdoor-hot[hidden] { display: none; }
+
+.backdoor-hot-ring {
+  position: absolute; inset: 0;
+  border: 0 solid transparent;
+  border-radius: 10px;
+  transition: border-color .15s ease, box-shadow .15s ease, background-color .15s ease;
+}
+.backdoor-hot:hover .backdoor-hot-ring {
+  border-width: 3px; border-color: var(--sign);
+  background: rgba(255,210,63,.07);
+  box-shadow: 0 0 50px rgba(255,210,63,.35);
+}
+.backdoor-hot:focus-visible { outline: none; }
+.backdoor-hot:focus-visible .backdoor-hot-ring {
+  border-width: 4px; border-color: var(--neon-2);
+  box-shadow: 0 0 0 4px rgba(34,211,238,.3);
+}
+
+/* Wegweiser, wenn man im zweiten Raum ist */
+.backroom {
+  position: fixed; left: 1.2rem; bottom: 1.4rem; z-index: 6;
+  padding: .55rem 1rem;
+  border: 2px solid var(--sign); border-radius: 4px;
+  background: rgba(5,6,13,.85); color: var(--sign);
+  font-weight: 800; font-size: .82rem; cursor: pointer;
+}
+.backroom:hover { background: var(--sign); color: var(--sign-ink); }
+.backroom:focus-visible { outline: 3px solid var(--neon-2); outline-offset: 3px; }
+.backroom[hidden] { display: none; }
+
+.store-sign-two h1 { font-size: 74px; }
+.store-sign-two p { font-size: 22px; }
+
+/* ===========================================================
+   HUD im Laden
+   =========================================================== */
+
+.hud {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 5;
+  padding: 1rem 1.2rem;
+  text-align: center; pointer-events: none;
+  background: linear-gradient(0deg, rgba(5,6,13,.85), transparent);
+}
+.hud[hidden] { display: none; }
+.hint { margin: 0; font-size: .9rem; letter-spacing: .05em; }
+.credit { margin: .35rem 0 0; font-size: .68rem; color: var(--dim); opacity: .8; }
+
+/* ===========================================================
+   Nahansicht – erst hier sind die Cover lesbar
+   =========================================================== */
+
+.detail {
+  position: fixed; inset: 0; z-index: 20;
+  overflow-y: auto;
+  background:
+    radial-gradient(1000px 500px at 50% -10%, #23305f, transparent 70%),
+    #0b1029;
+  opacity: 0; visibility: hidden;
+  transition: opacity .35s ease, visibility 0s linear .35s;
+}
+.detail.open { opacity: 1; visibility: visible; transition: opacity .35s ease; }
+
+.detail-head {
+  position: sticky; top: 0; z-index: 2;
+  display: flex; align-items: center; gap: 1rem; flex-wrap: wrap;
+  padding: .9rem clamp(1rem, 4vw, 3rem);
+  background: var(--sign); color: var(--sign-ink);
+  box-shadow: 0 8px 30px rgba(0,0,0,.5);
+}
+.detail-head h2 {
+  margin: 0; flex: 1;
+  font-size: clamp(1.4rem, 3.4vw, 2.3rem); font-weight: 900;
+  text-transform: uppercase; letter-spacing: .04em;
+}
+.detail-count { font-size: .78rem; font-weight: 800; letter-spacing: .18em; text-transform: uppercase; }
+
+.back {
+  border: 2px solid var(--sign-ink); background: transparent; color: var(--sign-ink);
+  padding: .45rem .9rem; border-radius: 4px; cursor: pointer;
+  font-weight: 800; font-size: .85rem;
+}
+.back:hover { background: var(--sign-ink); color: var(--sign); }
+.back:focus-visible { outline: 3px solid var(--neon); outline-offset: 3px; }
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: 1.6rem 1.1rem;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem clamp(1rem, 4vw, 3rem) 1rem;
+}
+
+.detail-foot {
+  max-width: 1280px; margin: 0 auto;
+  padding: 1.5rem clamp(1rem, 4vw, 3rem) 3rem;
+  font-size: .72rem; color: var(--dim);
+}
+.detail-foot a { color: var(--neon-2); }
+
+/* Filmkachel */
+.card {
+  display: block; color: inherit; text-decoration: none;
+  border-radius: var(--radius);
+  transition: transform .18s ease;
+  opacity: 0; transform: translateY(10px);
+  animation: cardIn .4s ease forwards;
+}
+@keyframes cardIn { to { opacity: 1; transform: none; } }
+.card:hover { transform: translateY(-5px); }
+.card:focus-visible { outline: none; }
+.card:focus-visible .poster-box { box-shadow: 0 0 0 3px var(--neon-2); }
+
+.poster-box {
+  position: relative; overflow: hidden;
+  aspect-ratio: 2 / 3;
+  border-radius: var(--radius);
+  background: linear-gradient(150deg, #242a52, #10142c);
+  border: 1px solid rgba(255,255,255,.08);
+  transition: box-shadow .2s ease;
+}
+.card:hover .poster-box { box-shadow: 0 16px 30px -10px rgba(0,0,0,.95), 0 0 0 2px var(--neon); }
+.poster-box img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+.no-poster {
+  display: grid; place-content: center; height: 100%;
+  padding: .8rem; text-align: center; font-size: .8rem; color: var(--dim);
+}
+
+/* ---------- Lupe: Kurztext groß und vollständig lesbar ---------- */
+
+.lens {
+  position: fixed; z-index: 60;
+  width: 380px; max-width: calc(100vw - 32px);
+  padding: 1rem 1.1rem 1.15rem;
+  border-radius: 10px;
+  background: linear-gradient(160deg, #fdfbf3, #efe9d8 60%, #e3dcc6);
+  color: #16131c;
+  border: 3px solid var(--sign);
+  box-shadow: 0 26px 60px -18px rgba(0,0,0,.85), 0 0 0 1px rgba(0,0,0,.35);
+  opacity: 0;
+  transform: scale(.96);
+  transform-origin: 50% 100%;
+  transition: opacity .18s ease, transform .18s ease;
+  pointer-events: none;
+}
+.lens.show { opacity: 1; transform: none; }
+
+/* kleiner Zeiger-Fortsatz unten, wie eine Sprechblase */
+.lens::after {
+  content: ""; position: absolute; left: var(--tail, 50%); bottom: -14px;
+  width: 22px; height: 14px; margin-left: -11px;
+  background: #e3dcc6;
+  clip-path: polygon(0 0, 100% 0, 50% 100%);
+}
+
+.lens-name { margin: 0 0 .45rem; font-size: 1.02rem; font-weight: 800; line-height: 1.2; }
+.lens-facts {
+  display: flex; flex-wrap: wrap; gap: .1rem .5rem;
+  margin-bottom: .6rem; font-size: .72rem; font-weight: 700;
+  letter-spacing: .06em; text-transform: uppercase; color: #6b6455;
+}
+.lens-facts .rating { color: #b8860b; }
+.lens-text { margin: 0; font-size: .95rem; line-height: 1.5; }
+
+.lens-cast { margin: 0 0 .6rem; font-size: .82rem; font-style: italic; color: #4d4739; }
+.lens-cast[hidden] { display: none; }
+
+/* Der Titel, über dem die Lupe steht, tritt leicht zurück */
+.card.has-lens .poster-box { box-shadow: 0 0 0 2px var(--sign); }
+
+.meta { padding: .5rem .1rem 0; }
+.meta .title {
+  font-size: .85rem; font-weight: 700; line-height: 1.25;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.meta .facts {
+  display: flex; flex-wrap: wrap; gap: .1rem .45rem;
+  margin-top: .2rem; font-size: .7rem; color: var(--dim);
+}
+.meta .rating { color: var(--sign); }
+.meta .cast {
+  margin-top: .25rem; font-size: .68rem; line-height: 1.35;
+  color: var(--dim); font-style: italic;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+
+.noscript { position: fixed; inset: auto 0 40%; text-align: center; z-index: 50; }
+
+/* ===========================================================
+   Kleinere Bildschirme
+   =========================================================== */
+
+@media (max-width: 1100px) {
+  .detail-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+}
+
+/* Handy: kein 3D-Raum, sondern ein Gang mit Regalen untereinander.
+   Zoom und Nahansicht funktionieren genauso. */
+@media (max-width: 760px) {
+  .viewport { perspective: none; overflow-y: auto; }
+  .viewport::after { position: fixed; }
+  .room { position: relative; inset: auto; transform-style: flat; display: flex; flex-direction: column; padding-bottom: 90px; }
+  .plane { position: relative; transform: none !important; backface-visibility: visible; }
+  .ceiling, .floor { display: none; }
+  .wall { width: 100% !important; height: auto; }
+  .wall-back  { order: 1; padding-top: 2rem; }
+  .wall-left  { order: 2; }
+  .wall-right { order: 3; }
+  .store-sign { position: static; margin-bottom: 1.5rem; }
+  .store-sign h1 { font-size: 3rem; }
+  .store-sign p { font-size: .75rem; }
+  .shelves, .wall-back .shelves, .wall-left .shelves, .wall-right .shelves {
+    position: static; flex-direction: column; align-items: stretch;
+    gap: 1.6rem; padding: 0 1rem 1.6rem;
+  }
+  .unit { max-width: none; height: 230px; flex: none; }
+  .unit-genre { font-size: 1.7rem; }
+  .unit-count { font-size: .7rem; }
+  .unit-rack { border-width: 6px; border-bottom-width: 12px; gap: 0 4px; padding: 6px 6px 0;
+    background:
+      repeating-linear-gradient(180deg, transparent 0 calc(25% - 6px), var(--wood-hi) calc(25% - 6px) 25%),
+      linear-gradient(180deg, #24160f, #140c08); }
+  .mini { margin-bottom: 6px; max-height: calc(100% - 8px); filter: blur(.8px) saturate(.85) brightness(.85); }
+
+  /* Auf dem Handy liegen die Klickflächen im Fluss, direkt unter dem Regalbild */
+  .hotspots { position: static; inset: auto; }
+  .hot { position: static; width: 100%; height: 64px; margin-top: -64px; }
+  .hot-highlight { display: none; }
+  .hot:hover .hot-highlight { display: none; }
+
+  .detail-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.1rem .7rem; }
+  .ov { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition-duration: 0s !important; animation: none !important; }
+  .card { opacity: 1; transform: none; }
+}

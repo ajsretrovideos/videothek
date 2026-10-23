@@ -1,0 +1,50 @@
+# Raum-Zuordnung der Regale
+#
+# Format:   Regalname | Raum | Wand
+#
+#   Raum  1 = Hauptraum, 2 = zweiter Raum hinter der Tür
+#   Wand  back = Rückwand, left = linke Wand, right = rechte Wand
+#
+# Die REIHENFOLGE in dieser Datei bestimmt die Position innerhalb einer Wand
+# (von links nach rechts). Die Wand selbst steht direkt in der Zeile.
+#
+# Die Wandspalte ist optional. Lässt du sie weg, verteilt das Script die Regale
+# gleichmäßig auf die drei Wände - aber dann ist nicht vorhersehbar, welches
+# Regal wo landet. Für eine bewusste Anordnung: Spalte ausfüllen.
+#
+# Umsortieren heißt: Zeilen verschieben. Danach npm run build.
+
+# ---- Raum 1: Hauptraum ----
+
+# Rückwand (3)
+Alex' Tips	 | 1 | back
+Neuheiten        | 1 | back
+Klassiker        | 1 | back
+
+# Linke Wand (4)
+RomCom           | 1 | left
+Leichte Kost     | 1 | left
+Familie          | 1 | left
+Animation        | 1 | left
+
+# Rechte Wand (3)
+Drama            | 1 | right
+Dokus            | 1 | right
+Sportfilme       | 1 | right
+Deutsches Kino   | 1 | right
+
+# ---- Raum 2: hinter der Tür ----
+
+# Rückwand (2)
+Action           | 2 | back
+Heroes		 | 2 | back
+Thrill           | 2 | back
+Horror           | 2 | back
+
+# Linke Wand (2)
+Sci-Fi           | 2 | left
+Fantasy          | 2 | left
+
+# Rechte Wand (2)
+Western          | 2 | right
+Eastern		 | 2 | right

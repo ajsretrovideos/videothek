@@ -1,0 +1,14 @@
+{
+  "name": "videothek",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Handkuratierte Filmempfehlungen im Videotheken-Stil - zwei Regale, 24 Titel, ein Klick zum Film.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "npx serve . -l 3000"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
