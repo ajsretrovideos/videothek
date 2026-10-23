@@ -630,6 +630,12 @@ button { font: inherit; }
 @media (max-width: 760px) {
   html, body { height: auto; min-height: 100%; overflow-y: auto; overflow-x: hidden; }
 
+  /* Die Basisregel .shelves { pointer-events: none } galt fuer die 3D-Deko
+     (dort waren die Overlay-Buttons klickbar). Im Gang ist das Regal selbst
+     der Knopf – hier muessen Klicks also ankommen. */
+  .shelves { pointer-events: auto; }
+  .unit, button.unit, .mobile-door { pointer-events: auto; }
+
   .viewport { position: static; inset: auto; perspective: none; overflow: visible; }
   .viewport::after { display: none; }
   .zoom, .zoom.entering { position: static; inset: auto; transform: none !important; filter: none; }
