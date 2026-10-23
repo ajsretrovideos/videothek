@@ -458,6 +458,7 @@ button { font: inherit; }
 .backroom[hidden] { display: none; }
 
 .store-sign-two h1 { font-size: 74px; }
+.store-sign-two { position: absolute; }
 .store-sign-two p { font-size: 22px; }
 
 /* ===========================================================
@@ -627,17 +628,21 @@ button { font: inherit; }
 /* Handy: kein 3D-Raum, sondern ein Gang mit Regalen untereinander.
    Zoom und Nahansicht funktionieren genauso. */
 @media (max-width: 760px) {
-  .viewport { perspective: none; overflow-y: auto; }
-  .viewport::after { position: fixed; }
-  .room { position: relative; inset: auto; transform-style: flat; display: flex; flex-direction: column; padding-bottom: 90px; }
-  .plane { position: relative; transform: none !important; backface-visibility: visible; }
+  .viewport { position: static; inset: auto; perspective: none; overflow: visible; }
+  .viewport::after { display: none; }
+  .zoom, .zoom.entering { position: static; inset: auto; transform: none !important; filter: none; }
+  .room { position: static; inset: auto; transform-style: flat; display: flex; flex-direction: column; padding-bottom: 1.5rem; }
+  .room[hidden] { display: none; }
+  .plane { position: static; transform: none !important; backface-visibility: visible; }
   .ceiling, .floor { display: none; }
-  .wall { width: 100% !important; height: auto; }
+  .wall { width: 100% !important; height: auto; min-height: 0; }
+  /* Die 3D-Tür gehört nicht in den Gang – dort führt ein eigener Button hinüber */
+  .backdoor { display: none; }
   .wall-back  { order: 1; padding-top: 2rem; }
   .wall-left  { order: 2; }
   .wall-right { order: 3; }
-  .store-sign { position: static; margin-bottom: 1.5rem; }
-  .store-sign h1 { font-size: 3rem; }
+  .store-sign { position: static; margin: 0 0 1.2rem; }
+  .store-sign h1 { font-size: 2.4rem; }
   .store-sign p { font-size: .75rem; }
   .shelves, .wall-back .shelves, .wall-left .shelves, .wall-right .shelves {
     position: static; flex-direction: column; align-items: stretch;
