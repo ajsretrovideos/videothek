@@ -652,11 +652,44 @@ button { font: inherit; }
       linear-gradient(180deg, #24160f, #140c08); }
   .mini { margin-bottom: 6px; max-height: calc(100% - 8px); filter: blur(.8px) saturate(.85) brightness(.85); }
 
-  /* Auf dem Handy liegen die Klickflächen im Fluss, direkt unter dem Regalbild */
-  .hotspots { position: static; inset: auto; }
-  .hot { position: static; width: 100%; height: 64px; margin-top: -64px; }
-  .hot-highlight { display: none; }
-  .hot:hover .hot-highlight { display: none; }
+  /* Auf dem Handy gibt es kein Overlay – das Regal selbst ist der Knopf */
+  .hotspots { display: none; }
+
+  /* Regal als Knopf: innerhalb des Gangs, mit Abstand und Antippfläche */
+  button.unit {
+    display: flex; flex-direction: column;
+    width: 100%; padding: 0; margin: 0;
+    border: 0; background: transparent; color: inherit;
+    text-align: left; cursor: pointer; -webkit-tap-highlight-color: transparent;
+  }
+  button.unit:active .unit-rack { transform: scale(.99); }
+  button.unit .unit-rack { transition: transform .15s ease; }
+  button.unit:focus-visible .unit-sign { outline: 3px solid var(--neon-2); outline-offset: 4px; }
+
+  /* Leere Regale bleiben sichtbar, aber nicht antippbar */
+  button.unit[disabled] { cursor: default; opacity: .55; }
+  button.unit[disabled]:active .unit-rack { transform: none; }
+
+  /* Der Wegweiser in den zweiten Raum */
+  .mobile-door {
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: .3rem; width: calc(100% - 2rem); margin: 0 1rem 1.6rem;
+    padding: 1.4rem 1rem;
+    border: 0; border-radius: 10px;
+    background: linear-gradient(180deg, #b7791f, #7b4a0d);
+    color: #fff8e1; font: inherit; cursor: pointer;
+    box-shadow: 0 10px 24px -12px rgba(0,0,0,.9), inset 0 1px 0 rgba(255,255,255,.25);
+  }
+  .mobile-door:active { transform: translateY(1px); }
+  .mobile-door-title { font-size: 1.15rem; font-weight: 900; letter-spacing: .06em; text-transform: uppercase; }
+  .mobile-door-sub { font-size: .8rem; font-style: italic; opacity: .9; }
+  .room-two .mobile-door { display: none; }
+
+  /* Die Lupe wird zur festen Karte am unteren Rand */
+  .lens { position: fixed; left: 10px; right: 10px; width: auto; max-width: none;
+    top: auto; bottom: 10px; }
+  .lens::after { display: none; }
+  .card.has-lens .poster-box { outline: 3px solid var(--sign); outline-offset: 2px; }
 
   .detail-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.1rem .7rem; }
   .ov { display: none; }

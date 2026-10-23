@@ -101,6 +101,16 @@ async function init() {
   els.backdoorHot.addEventListener("click", () => showRoom(2, true));
   els.backroom.addEventListener("click", () => showRoom(1, true));
 
+  // Handy: breiter Wegweiser am Ende von Raum 1 statt der 3D-Tür
+  const mb = document.createElement("button");
+  mb.type = "button";
+  mb.className = "mobile-door";
+  mb.innerHTML =
+    '<span class="mobile-door-title">Weitere Genres</span>' +
+    '<span class="mobile-door-sub">für härtere Nerven</span>';
+  els.rooms[1].walls.back.appendChild(mb);
+  mb.addEventListener("click", () => showRoom(2, true));
+
   route(false);
 }
 
@@ -195,14 +205,23 @@ function buildRooms() {
       }
 
       unit.append(sign, rack);
-      host.appendChild(unit);
-      s.unit = unit;
 
-      // 2) Klickfläche im flachen Overlay
+      // 2) Klickfläche im flachen Overlay.
+      //    Auf dem Handy entfällt das Overlay – dort ist das Regal selbst
+      //    der Knopf, weil es keinen 3D-Raum gibt, der Klicks verschluckt.
       const hot = document.createElement("button");
       hot.type = "button";
       hot.className = "hot";
       hot.innerHTML = `<span class="hot-highlight"></span>`;
+      if (isPhone()) {
+        unit = hot;
+        unit.className = "unit";
+        unit.innerHTML = "";
+        unit.append(sign, rack);
+      }
+      host.appendChild(unit);
+      s.unit = unit;
+      if (isPhone()) unit.disabled = !s.items.length;
       hot.setAttribute(
         "aria-label",
         s.items.length
@@ -232,10 +251,7 @@ let openedByClick = false;
 // Regale des gerade nicht sichtbaren Raums werden ausgeblendet,
 // damit sie keine Klicks abfangen.
 function layoutHotspots() {
-  if (isPhone()) {
-    els.hotspots.style.height = "";
-    return;
-  }
+  if (isPhone()) return;   // Handy: das Regal selbst ist der Knopf
   for (const s of shelves) {
     const visible = s.room === activeRoom;
     s.hot.hidden = !visible;
@@ -258,7 +274,7 @@ function layoutBackdoor() {
   const btn = els.backdoorHot;
   if (!art || !btn) return;
 
-  const show = activeRoom === 1;
+  const show = activeRoom === 1 && !isPhone();
   btn.hidden = !show;
   if (!show) return;
 
@@ -310,6 +326,13 @@ function showRoom(room, animate) {
   els.backroom.hidden = room !== 2;
   els.backdoor.hidden = room === 2;
 
+  if (isPhone()) {
+    from.hidden = true;
+    to.hidden = false;
+    layoutHotspots();
+    return;
+  }
+
   if (reduceMotion || !animate) {
     from.hidden = true;
     to.hidden = false;
@@ -359,6 +382,20 @@ async function enterShelf(s, animate) {
   current = s;
   busy = true;
 
+  if (isPhone()) {
+    renderDetail(s);
+    els.detail.classList.add("open");
+    els.detail.removeAttribute("inert");
+    els.detail.setAttribute("aria-hidden", "false");
+    els.zoom.setAttribute("inert", "");
+    els.hotspots.setAttribute("inert", "");
+    els.hud.hidden = true;
+    els.detail.scrollTop = 0;
+    els.detailBack.focus({ preventScroll: true });
+    busy = false;
+    return;
+  }
+
   if (animate && !reduceMotion) {
     const r = s.unit.getBoundingClientRect();
     const scale = Math.min((innerWidth * 0.92) / r.width, (innerHeight * 0.86) / r.height);
@@ -399,6 +436,7 @@ function closeDetail() {
   busy = true;
 
   els.detail.classList.remove("open");
+  hideLens();
   els.detail.setAttribute("inert", "");
   els.detail.setAttribute("aria-hidden", "true");
   els.zoom.removeAttribute("inert");
@@ -479,6 +517,20 @@ function buildCard(m) {
 
   a.appendChild(meta);
 
+  if (isPhone()) {
+    // Erster Tipp zeigt die Beschreibung, zweiter Tipp öffnet den Film.
+    a.addEventListener("click", (e) => {
+      if (!a.classList.contains("has-lens")) {
+        e.preventDefault();
+        document.querySelectorAll(".card.has-lens").forEach((c) => c.classList.remove("has-lens"));
+        a.classList.add("has-lens");
+        showLens(a, m, factsLine(m));
+        mutePhoneLens();
+      }
+    });
+    return a;
+  }
+
   const openLens = () => showLens(a, m, factsLine(m));
   a.addEventListener("mouseenter", openLens);
   a.addEventListener("focus", openLens);
@@ -529,6 +581,13 @@ function placeLens(card) {
   const lens = els.lens;
   const c = card.getBoundingClientRect();
 
+  if (isPhone()) {
+    lens.style.left = "10px";
+    lens.style.top = "auto";
+    lens.style.setProperty("--tail", "50%");
+    return;
+  }
+
   const lw = lens.offsetWidth;
   const lh = lens.offsetHeight;
 
@@ -546,7 +605,13 @@ function placeLens(card) {
   lens.style.setProperty("--tail", tail + "px");
 }
 
+// Handy: die Lupe bleibt stehen, statt beim Verlassen der Maus zu verschwinden
+function mutePhoneLens() {
+  clearTimeout(lensHideTimer);
+}
+
 function hideLens() {
+  if (isPhone()) return;
   lensHideTimer = setTimeout(() => {
     els.lens.classList.remove("show");
     els.lens.setAttribute("aria-hidden", "true");
