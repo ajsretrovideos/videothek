@@ -204,24 +204,27 @@ function buildRooms() {
         rack.appendChild(mini);
       }
 
-      unit.append(sign, rack);
-
-      // 2) Klickfläche im flachen Overlay.
-      //    Auf dem Handy entfällt das Overlay – dort ist das Regal selbst
-      //    der Knopf, weil es keinen 3D-Raum gibt, der Klicks verschluckt.
+      // Klickfläche: am Rechner ein unsichtbarer Button im flachen Overlay,
+      // auf dem Handy das Regal selbst. Der Grund: Im 3D-Raum nehmen
+      // transformierte Elemente Klicks nicht zuverlässig an.
       const hot = document.createElement("button");
       hot.type = "button";
       hot.className = "hot";
       hot.innerHTML = `<span class="hot-highlight"></span>`;
-      if (isPhone()) {
-        unit = hot;
-        unit.className = "unit";
-        unit.innerHTML = "";
-        unit.append(sign, rack);
+
+      const phone = isPhone();
+      const node = phone ? hot : unit;
+      if (phone) {
+        hot.className = "unit";
+        hot.innerHTML = "";
+        hot.setAttribute("aria-hidden", "false");
       }
-      host.appendChild(unit);
-      s.unit = unit;
-      if (isPhone()) unit.disabled = !s.items.length;
+      node.append(sign, rack);
+
+      host.appendChild(node);
+      s.unit = node;
+      if (phone) hot.disabled = !s.items.length;
+
       hot.setAttribute(
         "aria-label",
         s.items.length
@@ -233,10 +236,10 @@ function buildRooms() {
         openedByClick = true;
         location.hash = "regal/" + s.slug;
       });
-      hot.addEventListener("focus", () => unit.classList.add("is-hot"));
-      hot.addEventListener("blur", () => unit.classList.remove("is-hot"));
+      hot.addEventListener("focus", () => node.classList.add("is-hot"));
+      hot.addEventListener("blur", () => node.classList.remove("is-hot"));
 
-      els.hotspots.appendChild(hot);
+      if (!phone) els.hotspots.appendChild(hot);
       s.hot = hot;
       s.room = room;
       s.wall = wall;

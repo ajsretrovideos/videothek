@@ -645,8 +645,9 @@ button { font: inherit; }
   .store-sign h1 { font-size: 2.4rem; }
   .store-sign p { font-size: .75rem; }
   .shelves, .wall-back .shelves, .wall-left .shelves, .wall-right .shelves {
-    position: static; flex-direction: column; align-items: stretch;
-    gap: 1.6rem; padding: 0 1rem 1.6rem;
+    position: static; inset: auto; left: auto; right: auto; top: auto; bottom: auto;
+    display: flex; flex-direction: column; align-items: stretch;
+    height: auto; gap: 1.6rem; padding: 0 1rem 1.6rem;
   }
   .unit { max-width: none; height: 230px; flex: none; }
   .unit-genre { font-size: 1.7rem; }
@@ -698,6 +699,15 @@ button { font: inherit; }
 
   .detail-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.1rem .7rem; }
   .ov { display: none; }
+
+  /* --- Sicherheitsnetz: muss die Basisregeln sicher überschreiben --- */
+  .shelves { position: static !important; inset: auto !important; height: auto !important; }
+  .wall-back .shelves, .wall-left .shelves, .wall-right .shelves {
+    left: auto !important; right: auto !important; top: auto !important; bottom: auto !important;
+  }
+  .unit { height: auto; min-height: 230px; }
+  .unit-rack { min-height: 150px; }
+  .plane.wall { position: static !important; display: block; }
 }
 
 @media (prefers-reduced-motion: reduce) {
