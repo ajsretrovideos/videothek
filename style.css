@@ -628,6 +628,8 @@ button { font: inherit; }
 /* Handy: kein 3D-Raum, sondern ein Gang mit Regalen untereinander.
    Zoom und Nahansicht funktionieren genauso. */
 @media (max-width: 760px) {
+  html, body { height: auto; min-height: 100%; overflow-y: auto; overflow-x: hidden; }
+
   .viewport { position: static; inset: auto; perspective: none; overflow: visible; }
   .viewport::after { display: none; }
   .zoom, .zoom.entering { position: static; inset: auto; transform: none !important; filter: none; }
@@ -699,6 +701,16 @@ button { font: inherit; }
 
   .detail-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.1rem .7rem; }
   .ov { display: none; }
+
+  /* HUD bleibt am unteren Rand, der Gang braucht Platz darunter */
+  .hud { position: fixed; }
+  .room { padding-bottom: 5.5rem; }
+
+  /* Regale flacher, damit mehr als eines ins Bild passt */
+  .unit { height: 170px; min-height: 0; }
+  .unit-genre { font-size: 1.2rem; }
+  .unit-count { font-size: .62rem; margin-top: 2px; }
+  .unit-rack { min-height: 0; height: 118px; }
 
   /* --- Sicherheitsnetz: muss die Basisregeln sicher überschreiben --- */
   .shelves { position: static !important; inset: auto !important; height: auto !important; }
