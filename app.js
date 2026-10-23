@@ -108,7 +108,8 @@ async function init() {
   mb.innerHTML =
     '<span class="mobile-door-title">Weitere Genres</span>' +
     '<span class="mobile-door-sub">für härtere Nerven</span>';
-  els.rooms[1].walls.back.appendChild(mb);
+  // Am Ende des Gangs, unter allen Regalen – nicht zwischen ihnen.
+  els.rooms[1].el.appendChild(mb);
   mb.addEventListener("click", () => showRoom(2, true));
 
   route(false);
