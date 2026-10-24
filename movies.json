@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:52:27.227Z",
+  "generatedAt": "2026-10-24T20:18:24.416Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -11,7 +11,7 @@
       "genre": "Neuheiten",
       "room": 1,
       "wall": "back",
-      "count": 5
+      "count": 7
     },
     {
       "genre": "Klassiker",
@@ -23,7 +23,7 @@
       "genre": "RomCom",
       "room": 1,
       "wall": "left",
-      "count": 0
+      "count": 23
     },
     {
       "genre": "Leichte Kost",
@@ -71,7 +71,7 @@
       "genre": "Action",
       "room": 2,
       "wall": "back",
-      "count": 22
+      "count": 23
     },
     {
       "genre": "Heroes",
@@ -117,6 +117,53 @@
     }
   ],
   "movies": [
+    {
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "year": "2026",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "runtime": "150",
+      "rating": "8.5",
+      "overview": "Vier Jahre sind seit den Ereignissen von „No Way Home“ vergangen. Peter ist nun erwachsen und lebt für sich allein, nachdem er sich freiwillig aus dem Leben und den Erinnerungen derer, die er liebt, ausgelöscht hat. Er bekämpft Verbrechen in einem New York, das ihn und seinen Namen nicht mehr kennt, und widmet sich ganz dem Schutz seiner Stadt: Spider-Man in Vollzeit. Doch mit den steigenden Anforderungen löst der Druck eine überraschende körperliche Veränderung aus, die seine Existenz bedroht – gerade als eine seltsame neue Art von Verbrechen eine der mächtigsten Bedrohungen hervorbringt, denen er je gegenüberstand.",
+      "poster": "https://image.tmdb.org/t/p/w500/xT3lJ57sQ13iHDIDC01wt6P7YL2.jpg",
+      "director": "Destin Daniel Cretton",
+      "cast": [
+        "Tom Holland",
+        "Sadie Sink",
+        "Tramell Tillman"
+      ],
+      "tmdbId": 969681,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8PGRYZ9?&linkCode=ll2&tag=ajsretro-21&linkId=cca67e293d6c26e7db46a13d56472dcb&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Toy Story 5",
+      "originalTitle": "Toy Story 5",
+      "year": "2026",
+      "genres": [
+        "Animation",
+        "Familie",
+        "Komödie",
+        "Abenteuer"
+      ],
+      "runtime": "102",
+      "rating": "8.3",
+      "overview": "Die Kult-Spielzeuge sind zurück – und diesmal trifft Spielzeug auf Technik. Woody, Buzz Lightyear, Jessie und der Rest der Bande stehen vor einer ganz neuen Herausforderung, als sie auf Lilypad treffen, ein funkelnagelneues Tablet, das sehr eigenwillige Vorstellungen davon hat, was für ihr Kind Bonnie am besten ist. Wird das Spielen jemals wieder so sein wie zuvor?",
+      "poster": "https://image.tmdb.org/t/p/w500/geypzdXdx8LooxB691r3bhlrybB.jpg",
+      "director": "Andrew Stanton",
+      "cast": [
+        "Joan Cusack",
+        "Tom Hanks",
+        "Tim Allen"
+      ],
+      "tmdbId": 1084244,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H9ZLPJ9J?&linkCode=ll2&tag=ajsretro-21&linkId=27f8fdfcbe1a61e492d04f6d07253cce&ref_=as_li_ss_tl"
+    },
     {
       "title": "PAW Patrol: Der Dino Film",
       "originalTitle": "PAW Patrol: The Dino Movie",
@@ -436,6 +483,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GV5CBKG2?&linkCode=ll2&tag=ajsretro-21&linkId=77b1faf045e68f42cdb86e6269f5db56&ref_=as_li_ss_tl"
     },
     {
+      "title": "Insidious: Out of the Further",
+      "originalTitle": "Insidious: Out of the Further",
+      "year": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "106",
+      "rating": "7.7",
+      "overview": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezty0cBhJjoFP4Oj88hJ0u0Go.jpg",
+      "director": "Jacob Chase",
+      "cast": [
+        "Amelia Eve",
+        "Island Austin",
+        "Brandon Perea"
+      ],
+      "tmdbId": 1291595,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HC76SVYY?&linkCode=ll2&tag=ajsretro-21&linkId=cc512b9c91e7dcd01c8e38b044aa51b6&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Dolly",
       "originalTitle": "Dolly",
       "year": "2026",
@@ -567,6 +636,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HLY3MLKM?&linkCode=ll2&tag=ajsretro-21&linkId=0e25cc39cd18fbc84456d8288f3077b6&ref_=as_li_ss_tl"
     },
     {
+      "title": "Insidious: The Last Key",
+      "originalTitle": "Insidious: The Last Key",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "104",
+      "rating": "6.3",
+      "overview": "Parapsychologin Elise Rainier wohnt mittlerweile mit den zwei Geisterjägern Specs und Tucker  zusammen. Gemeinsam sind sie die Firma Spectral Sightings, die auf das Austreiben von Dämonen spezialisiert ist, die aus einer Parallelwelt angreifen. Ihr neuester Fall führt das ungleiche Trio in Elises Vergangenheit – in ihr Elternhaus in New Mexico, wo sie als Kind Schreckliches erlebte und in dem nun eine andere Familie in Gefahr ist. Elise muss sich ihrer Vergangenheit und ihrer größten Angst stellen und es mit einer unsterblichen Kreatur namens Key Face aufnehmen, einem Dämon, den sie als Kind versehentlich befreite. Sollte ihr das gelingen, sind all die von Key Face gefangenen Seelen frei, doch sollte sie scheitern, wird auch Elises Geist für immer der Verdammnis anheimfallen …",
+      "poster": "https://image.tmdb.org/t/p/w500/ioTovi3rNVgAtdCRS16BThlr1g.jpg",
+      "director": "Adam Robitel",
+      "cast": [
+        "Lin Shaye",
+        "Leigh Whannell",
+        "Angus Sampson"
+      ],
+      "tmdbId": 406563,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0C941QH72?&linkCode=ll2&tag=ajsretro-21&linkId=a6b71079fc05f772d80129608af3200a&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Even Lambs Have Teeth",
       "originalTitle": "Even Lambs Have Teeth",
       "year": "2015",
@@ -610,6 +701,27 @@
       "tmdbId": 207686,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0GWMC3FQ6?&linkCode=ll2&tag=ajsretro-21&linkId=5903507f5f4b449e42168fc03b295277&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "7 Below - Haus der dunklen Seelen",
+      "originalTitle": "7 Below",
+      "year": "2012",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "89",
+      "rating": "3.6",
+      "overview": "Eine Gruppe junger Leute fährt über das Land, als plötzlich auf der Straße eine gespenstische Frauengestalt auftaucht und den Fahrer veranlasst, den Wagen vor den nächsten Baum zu setzen. Ein scheinbar freundlicher Einheimischer fordert die Kids daraufhin auf, vor dem aufziehenden \"Sturm des Jahrhunderts\" Zuflucht zu suchen in seinem etwas unheimlichen Häuschen ganz in der Nähe. Dort kommt es bald zu mysteriösen Vorfällen, welche die Eingeschlossenen erst an ihrem Verstand und dann an der Physik zweifeln lassen.",
+      "poster": "https://image.tmdb.org/t/p/w500/qP7tRnSpuQngVD7MPnHH3yqewiO.jpg",
+      "director": "Kevin Carraway",
+      "cast": [
+        "Val Kilmer",
+        "Ving Rhames",
+        "Luke Goss"
+      ],
+      "tmdbId": 84577,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0H3WL33RX?&linkCode=ll2&tag=ajsretro-21&linkId=51849983b10f6945927a59c26dbb53ef&ref_=as_li_ss_tl"
     },
     {
       "title": "Intruders",
@@ -681,92 +793,49 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H4GDGTC8?&linkCode=ll2&tag=ajsretro-21&linkId=2af1a15fdc942339d18e31f8970e7b34&ref_=as_li_ss_tl"
     },
     {
-      "title": "Black Christmas",
-      "originalTitle": "Black Christmas",
-      "year": "2006",
+      "title": "Jason X",
+      "originalTitle": "Jason X",
+      "year": "2001",
       "genres": [
         "Horror",
-        "Mystery"
+        "Science Fiction"
       ],
-      "runtime": "84",
-      "rating": "5.2",
-      "overview": "Billys Kindheit ist trist, die Mutter vernachlässigt ihn. Die Liebe nach der er sich sehnt, verweigert sie ihm. Statt in einem freundlichen Kinderzimmer aufzuwachsen, muss er in einer staubigen Dachkammer hausen. Sein schwacher Vater wird derweilen von der Ehefrau betrogen. Und dann ist der plötzlich verschwunden. Tot, ermordet? Niemand weiß es. Dafür taucht ein neuer Mann auf. Eine kleine Schwester kommt hinzu. Der Sonnenschein der Familie. Was den vernachlässigten Billy die Nerven verlieren lässt. Seine Rache ist furchtbar … Schnitt. – Die traurigen Ereignisse liegen Jahre zurück. Kaum einer erinnert sich noch an sie. Lange stand das Haus leer, nun ziehen sechs Studentinnen der gleichen Verbindung ein: Kelli, Dana, Lauren, Megan, Heather und Melissa. Gemeinsam mit ihrer Hausmutter freuen sie sich auf Weihnachten, das Fest der Liebe.",
-      "poster": "https://image.tmdb.org/t/p/w500/9WvDWOInEnM7dGNCsdHv1nDwVpq.jpg",
-      "director": "Glen Morgan",
+      "runtime": "91",
+      "rating": "4.9",
+      "overview": "Irgendwo in der unterirdischen „Crystal Lake Research Facility“, irgendwann zu Beginn des 21. Jahrhunderts: Trotz der Bedenken Rowans, einer jungen Projektleiterin, soll das Forschungsobjekt „Jason Voorhees“ von einem kleinen Militärtrupp in ein anderes Labor verlegt werden. Jason befreit sich aus seinen Ketten, macht mit den erfahrenen Soldaten kurzen Prozess und wird anschließend von Rowan in eine Cryo-Kammer gelockt. Dort gelingt es ihr zwar, das Monster einzufrieren, sie selbst entkommt dem lähmenden Eis allerdings genauso wenig. Im Jahr 2455 landet ein Forschungsschiff auf der inzwischen zerstörten Erde, sichert die beiden Funde und macht sich wieder auf den Weg nach „Erde 2“, wo die Menschheit eine neue Heimat fand. Rowan kann reanimiert werden, was bei Jason selbstredend automatisch geschieht. Einmal wach, begibt sich der Killer auf eine blutige Jagd nach den an Bord befindlichen Teenagern.",
+      "poster": "https://image.tmdb.org/t/p/w500/jQDFn4P3KTA8ArehzfqqExZ5EyL.jpg",
+      "director": "James Isaac",
       "cast": [
-        "Katie Cassidy",
-        "Michelle Trachtenberg",
-        "Mary Elizabeth Winstead"
+        "Kane Hodder",
+        "Jeff Geddis",
+        "Lexa Doig"
       ],
-      "tmdbId": 9656,
+      "tmdbId": 11470,
       "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0FJ6HX3NQ?&linkCode=ll2&tag=ajsretro-21&linkId=a31fd845285842a908dbfcf1ed47eae1&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0CK758TMW?&linkCode=ll2&tag=ajsretro-21&linkId=d931664579ca4a95e9d72765eb98f6f0&ref_=as_li_ss_tl"
     },
     {
-      "title": "Halloween H20 - 20 Jahre später",
-      "originalTitle": "Halloween H20: 20 Years Later",
-      "year": "1998",
+      "title": "Jack Reacher - Kein Weg zurück",
+      "originalTitle": "Jack Reacher: Never Go Back",
+      "year": "2016",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Krimi"
       ],
-      "runtime": "86",
+      "runtime": "118",
       "rating": "6.0",
-      "overview": "Genau zwanzig Jahre ist es her, daß Laurie Strode ihrem mordenden Bruder Michael Myers in der Halloween-Nacht entkommen konnte. Jetzt lebt sie unter dem Namen Keri Tate als Direktorin eines exklusiven Internats in Nordkalifornien. Doch den Fluch ihrer Existenz konnte sie nicht abschütteln: ihr Trauma und ihre Alkoholsucht entfremden sie von ihrem Sohn John. Will Brennan, ihr Kollege und Geliebter, weiß noch nichts von ihrer schmerzhaften Vergangenheit. Laurie ahnt: ihr Martyrium ist noch nicht vorbei. Lauries schlimmste Befürchtungen werden wahr. Ihr Bruder lebt. Und er hat seine Schwester ausfindig gemacht.",
-      "poster": "https://image.tmdb.org/t/p/w500/4l64DZIdtN7lk3V3HuEgqBlsRjs.jpg",
-      "director": "Steve Miner",
+      "overview": "Seit er die Stimme von Major Susan Turner am Telefon gehört hat, geht sie Jack Reacher nicht mehr aus dem Kopf. Deswegen ist er nun an den Ort zurückgekehrt, der für ihn dem Begriff „Heimat“ am nächsten kommt: dem Hauptquartier seiner alten Einheit in Virginia. Dort, so glaubt Reacher, sitzt Susan Turner an dem Schreibtisch, an dem er einst saß, als er noch der Kommandant war. Doch in Virginia erlebt der Privatermittler eine Überraschung. Es gibt einen neuen Kommandanten und Susan Turner ist wegen Verrat im Gefängnis. Damit nicht genug, wird Reacher selbst mit zwei Anklagen konfrontiert. Er soll vor sechzehn Jahren einen Mord begangen haben und eine Frau behauptet, dass er der Vater ihrer Tochter ist. Reacher weiß: Irgendetwas stimmt hier ganz und gar nicht. Jemand will ihn ablenken, den neugierigen Ermittler kalt stellen. Er beschließt, der Sache auf den Grund zu gehen, doch dazu muss er erst einmal Susan Turner aus dem Gefängnis befreien…",
+      "poster": "https://image.tmdb.org/t/p/w500/axzrn13RTnUjXOSe1kS0RWh5Ors.jpg",
+      "director": "Edward Zwick",
       "cast": [
-        "Jamie Lee Curtis",
-        "Josh Hartnett",
-        "Adam Arkin"
+        "Tom Cruise",
+        "Cobie Smulders",
+        "Aldis Hodge"
       ],
-      "tmdbId": 11675,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HN87DYVY?&linkCode=ll2&tag=ajsretro-21&linkId=25bd2604e97bd17f511eb170681cbb59&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Rabid – Der brüllende Tod",
-      "originalTitle": "Rabid",
-      "year": "1977",
-      "genres": [
-        "Horror"
-      ],
-      "runtime": "87",
-      "rating": "6.3",
-      "overview": "Karl und seine schwer verletzte Freundin Rose werden nach einem Motorradunfall in eine nahegelegene Klinik gebracht. Karl kann das Krankenhaus schon bald wieder verlassen, doch seiner Freundin geht es nicht so gut, sie liegt immer noch im Koma. Doch die Operation, deren Methode noch völlig unerforscht war, hat Rose in grauenhafter Weise verändert. Sie ist zu einem Monster geworden, dessen einziger Lebenstrieb sein immenser Blutdurst ist...",
-      "poster": "https://image.tmdb.org/t/p/w500/2UgNOBquWqRUefdlMvRuSvQ9Otl.jpg",
-      "director": "David Cronenberg",
-      "cast": [
-        "Marilyn Chambers",
-        "Terri Hanauer",
-        "Frank Moore"
-      ],
-      "tmdbId": 29437,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0GMRND9CX?&linkCode=ll2&tag=ajsretro-21&linkId=68e8ab9367f5ba9bf14f57a6276bcb6e&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Die neunschwänzige Katze",
-      "originalTitle": "Il gatto a nove code",
-      "year": "1971",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime": "85",
-      "rating": "6.7",
-      "overview": "Ein Reporter namens Franco Arno verlor bei einem Unfall sein Augenlicht und konnte deswegen seinen Job als Reporter nicht mehr ausüben. Als Blinder ist er auf die Hilfe seiner jungen Nichte angewiesen. Er verdient sich trotzdem immer noch Geld bei der Zeitung, indem er Kreuzworträtsel herstellt. Als er eines Tages mit seiner Nichte spazierengeht, hört er vor einem medizinischen Institut zufällig eine Unterhaltung von zwei Männern in einem Auto mit. Später in der Nacht, bricht jemand ohne ersichtlichen Grund in dieses Institut ein und tötet dabei einen Wachmann. Der neugierige Arno beschließt darauf, ein wenig auf eigene Faust nachzuforschen und erhält dabei Hilfe von dem Reperter Carlo Giordani. Bald folgt eine Serie an mysteriösen Morden, die mit dem Ereignis im Institut zusammenhängen zu scheint. Die beiden finden neun verschiedene Hinweise, denen sie nachgehen müssen um das Rätsel um den geheimnisvollen Mörder und seinen bestialischen Taten lösen zu können...",
-      "poster": "https://image.tmdb.org/t/p/w500/6xzrx0jZ4FW5KTIPLfeZ7We7RKM.jpg",
-      "director": "Dario Argento",
-      "cast": [
-        "James Franciscus",
-        "Karl Malden",
-        "Catherine Spaak"
-      ],
-      "tmdbId": 27431,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HHW36QNG?&linkCode=ll2&tag=ajsretro-21&linkId=2f58afe1cbdc59e018c51f84dff61580&ref_=as_li_ss_tl"
+      "tmdbId": 343611,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFQ8Y319?&linkCode=ll2&tag=ajsretro-21&linkId=a2f55bec584cd81c39fa9dd0993002ed&ref_=as_li_ss_tl"
     },
     {
       "title": "Zwölf Runden",
@@ -1684,6 +1753,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl"
     },
     {
+      "title": "Der talentierte Mr. Ripley",
+      "originalTitle": "The Talented Mr. Ripley",
+      "year": "1999",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "139",
+      "rating": "7.2",
+      "overview": "Der mittellose Tom Ripley erhält den Auftrag, nach Italien zu reisen, um seinen Altersgenossen, den jungen amerikanischen Playboy Dickie Greenleaf zu überreden, in die USA zurückzukehren. Dickie aber bleibt hartnäckig und zieht es vor, weiterhin das Dolce Vita mit seiner reizenden Verlobten Marge zu genießen. Tom beneidet Dickie um das Leben, das er führt. Eines Tages, während einer gemeinsamen Reise zum Jazzfestival von San Remo, kommt es zu einer Rauferei, die fast aus Versehen beginnt, sich aber zum todernsten Kampf ausweitet. Mit viel Talent schlüpft Tom Ripley von nun an in die Haut des getöteten Dickie Greenleaf, eignet sich seinen Lebensstil an und will alles hinter sich lassen. Er genießt sein Leben am Abgrund, denn einige Menschen, die Dickie Greenleaf nahe standen, stellen sich natürlich Fragen: Ist es möglich, dass jemand, selbst wenn er so extrem launisch ist wie Dickie, einfach verschwindet?",
+      "poster": "https://image.tmdb.org/t/p/w500/8YlmaxQTBiqVSAbW6Vc8VKPBdYg.jpg",
+      "director": "Anthony Minghella",
+      "cast": [
+        "Matt Damon",
+        "Gwyneth Paltrow",
+        "Jude Law"
+      ],
+      "tmdbId": 1213,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HC56139L?&linkCode=ll2&tag=ajsretro-21&linkId=2cee34fb87f9c7588629832bc35a2e1a&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Fargo",
       "originalTitle": "Fargo",
       "year": "1996",
@@ -1774,28 +1866,6 @@
       "tmdbId": 944952,
       "genre": "Thrill",
       "url": "https://www.amazon.de/gp/video/detail/B0CQ6WK1HN?&linkCode=ll2&tag=ajsretro-21&linkId=b0f88358ccf1e62df2e0b9011b0814fb&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Collide",
-      "originalTitle": "Collide",
-      "year": "2016",
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "runtime": "99",
-      "rating": "5.6",
-      "overview": "Der amerikanische Backpacker-Tourist Casey verbringt zusammen mit seiner Freundin Juliette Zeit in Deutschland. Doch durch die Verkettung unglücklicher Umstände braucht Juliette eine Nierentransplantation und um das nötige Geld zusammenzubekommen, besinnt Casey sich auf seine kriminelle Vergangenheit als Autodieb und lässt sich von Geran anheuern.  Der geplante Raubzug läuft allerdings nicht so wie geplant. Casey trifft unvermutet auf den Gangsterboss Hagen Kahl, der ihn nun seinerseits erpressen will, und so findet Casey sich bald mit Bleifuß auf der deutschen Autobahn bei München wieder, um seine Freundin zu retten. Eine Hetzjagd um sein und ihr Leben beginnt.",
-      "poster": "https://image.tmdb.org/t/p/w500/zR10C2hHXSr1WEzIw9i2x0CUtXV.jpg",
-      "director": "Eran Creevy",
-      "cast": [
-        "Nicholas Hoult",
-        "Felicity Jones",
-        "Anthony Hopkins"
-      ],
-      "tmdbId": 195590,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0HHS131ZK?&linkCode=ll2&tag=ajsretro-21&linkId=581b8a9fc549847387a7d30138e6e634&ref_=as_li_ss_tl"
     },
     {
       "title": "Notorious B.I.G.",
@@ -2015,6 +2085,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FV2C6TZ5?&linkCode=ll2&tag=ajsretro-21&linkId=9879083b658976318becd6c335cb11d5&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Choral",
+      "originalTitle": "The Choral",
+      "year": "2025",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Musik"
+      ],
+      "runtime": "113",
+      "rating": "6.4",
+      "overview": "Yorkshire, 1916. Die männlichen Mitglieder eines Chors melden sich freiwillig zum Ersten Weltkrieg, sodass der anspruchsvolle Dr. Guthrie nun Teenager rekrutieren muss. Gemeinsam erleben sie die Freude am Singen, während die jungen Männer mit ihrer bevorstehenden Einberufung ringen.",
+      "poster": "https://image.tmdb.org/t/p/w500/yQtms7CSM0CE0W6dYbLLAATb5rL.jpg",
+      "director": "Nicholas Hytner",
+      "cast": [
+        "Ralph Fiennes",
+        "Roger Allam",
+        "Mark Addy"
+      ],
+      "tmdbId": 1262815,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0FWF8SVNY?&linkCode=ll2&tag=ajsretro-21&linkId=b28856e9fa32515d5fc61d9620607bae&ref_=as_li_ss_tl"
+    },
+    {
       "title": "The Room Next Door",
       "originalTitle": "La habitación de al lado",
       "year": "2024",
@@ -2120,6 +2213,29 @@
       "tmdbId": 622977,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0HN6KGMV8?&linkCode=ll2&tag=ajsretro-21&linkId=61817428387baa3378a397d9e3246357&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Last Rampage - Der Ausbruch des Gary Tison",
+      "originalTitle": "Last Rampage",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "93",
+      "rating": "5.3",
+      "overview": "Die Handlung von „Last Rampage - Der Ausbruch des Gary Tison“ basiert auf wahren Begebenheiten. Im Sommer 1978 bricht der verurteilte Mörder Gary Tison zusammen mit seinem Zellengenossen Randy Greenawalt aus dem Hochsicherheitsgefängnis ADX Florence aus. Mit der Hilfe von Tisons drei jugendlichen Söhnen wollen sie Richtung Mexiko fliehen. Auf ihrem Streifzug durch die Wüste in Richtung Grenze zieht das Quintett eine blutige Spur hinter sich her. Während Sheriff Cooper auf die Jagd nach ihnen geht, verteidigt Tisons Frau Dorothy ihre Familie vehement gegenüber der Presse.",
+      "poster": "https://image.tmdb.org/t/p/w500/c52O1gLD6gjo45kc9geFAfLDtwC.jpg",
+      "director": "Dwight H. Little",
+      "cast": [
+        "Robert Patrick",
+        "Heather Graham",
+        "Molly C. Quinn"
+      ],
+      "tmdbId": 423414,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B094LZDJDM?&linkCode=ll2&tag=ajsretro-21&linkId=639d738e8a2d07d4e96c0b1a84ccf1d4&ref_=as_li_ss_tl"
     },
     {
       "title": "Unforgettable - Tödliche Liebe",
@@ -2229,51 +2345,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H6KJFXL9?&linkCode=ll2&tag=ajsretro-21&linkId=108c5add580c20bda885eacc5d53ee25&ref_=as_li_ss_tl"
     },
     {
-      "title": "Dance! Jeder Traum beginnt mit dem ersten Schritt",
-      "originalTitle": "Take the Lead",
-      "year": "2006",
-      "genres": [
-        "Drama",
-        "Musik"
-      ],
-      "runtime": "108",
-      "rating": "6.9",
-      "overview": "Als der kultivierte New Yorker Tanzlehrer Pierre Dulaine zufällig Zeuge wird, wie der unterprivilegierte High-School-Rüpel Rock das Auto eines guten Bürgers demoliert, verzichtet er auf den Anruf bei der Polizei. Stattdessen versucht er, desorientierte Knaben mit den Mitteln des Gesellschaftstanzes auf den Pfad der Tugend zu führen. Doch nicht jedes seiner neuen Schäfchen zeigt dafür Begeisterung.",
-      "poster": "https://image.tmdb.org/t/p/w500/hoJPmUcet0fw0blZFVN8JfVPVp6.jpg",
-      "director": "Liz Friedlander",
-      "cast": [
-        "Antonio Banderas",
-        "Rob Brown",
-        "Yaya DaCosta"
-      ],
-      "tmdbId": 12763,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B00FAHB458?&linkCode=ll2&tag=ajsretro-21&linkId=de681af0a7dbac5fe91b36412101cc7f&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Saving Face - Liebe und was noch?",
-      "originalTitle": "Saving Face",
-      "year": "2004",
-      "genres": [
-        "Komödie",
-        "Liebesfilm",
-        "Drama"
-      ],
-      "runtime": "93",
-      "rating": "7.2",
-      "overview": "Als die 48-jährige Witwe Ma ihrem alles andere als verständnisvollen Vater sagt, dass sie schwanger ist, verbannt er sie aus Flushing, bis sie ihm entweder einen neuen Ehemann oder Beweise für eine unbefleckte Empfängnis präsentiert. Mangels geeigneter Alternativen zieht Ma zu ihrer erwachsenen Tochter Wil, die in Manhattan als Ärztin arbeitet und der unfreiwilligen Wohngemeinschaft nicht gerade positiv gegenübersteht - insbesondere da sie gerade erst ihre attraktive junge Freundin Vivian kennen gelernt hat. Also tut Wil, was jede pflichtbewusste Tochter einer schwangeren, unverheirateten Mutter tun würde: Sie organisiert Blinddates mit jedem begehrten Junggesellen der Stadt.",
-      "poster": "https://image.tmdb.org/t/p/w500/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
-      "director": "Alice Wu",
-      "cast": [
-        "Joan Chen",
-        "Michelle Krusiec",
-        "Lynn Chen"
-      ],
-      "tmdbId": 19316,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B00FZEVXI4?&linkCode=ll2&tag=ajsretro-21&linkId=4ed255f4e2980bd32ae8ad78a8e883bd&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Gia - Der Preis der Schönheit",
       "originalTitle": "Gia",
       "year": "1998",
@@ -2295,6 +2366,515 @@
       "tmdbId": 14533,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0GXCJY5Y7?&linkCode=ll2&tag=ajsretro-21&linkId=9f6378c93c33ede8d9bfe0ecebe20a44&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Magic Mike: The Last Dance",
+      "originalTitle": "Magic Mike's Last Dance",
+      "year": "2023",
+      "genres": [
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "112",
+      "rating": "6.4",
+      "overview": "Mike Lane (Channing Tatum) hat seine Tage als Stripper Magic Mike mittlerweile hinter sich gelassen. Doch das Leben hat ihm in den letzten Jahren gehörig zugesetzt: Seine Geldprobleme und ein fehlgeschlagener Business-Deal zwingen ihn dazu, in Miami als Barkeeper zu jobben. Immerhin lernt er so eines Tages auch Maxandra Mendoza (Salma Hayek) kennen. Nachdem er ihr einen Striptease der Extraklasse serviert hat, bietet sie ihm die Chance, aus seinem Barkeeper-Dasein zu entkommen: Gemeinsam wollen sie eine große Striptease-Liveshow auf die Beine stellen, die erotisches Tanzen zur Kunstform erhebt und alles Dagewesene in den Schatten stellt.",
+      "poster": "https://image.tmdb.org/t/p/w500/2yW8T8wx2ezO960ipFa9Nf7d4Uk.jpg",
+      "director": "Steven Soderbergh",
+      "cast": [
+        "Channing Tatum",
+        "Salma Hayek Pinault",
+        "Ayub Khan-Din"
+      ],
+      "tmdbId": 906221,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0B75DTB2S?&linkCode=ll2&tag=ajsretro-21&linkId=747ae5038fcb47cacb1309e01a75748c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Willkommen in Marwen",
+      "originalTitle": "Welcome to Marwen",
+      "year": "2018",
+      "genres": [
+        "Drama",
+        "Animation"
+      ],
+      "runtime": "116",
+      "rating": "6.5",
+      "overview": "Nachdem der talentierte Maler Mark Hogancamp von fünf Hooligans verprügelt wurde, liegt er tagelang im Koma. Als er wiedererwacht, muss er nicht nur das Essen, Gehen oder Schreiben wieder lernen, darüber hinaus hat er auch keinerlei Erinnerung mehr an sein Leben vor dem folgenschweren Zwischenfall. Es ist nichts mehr so, wie es einmal war. Um mit seinem Trauma umzugehen, entwickelt er schließlich eine ganz eigene Form der Therapie: Er baut in seinem Garten ein Modell eines belgischen Dorfes aus der Zeit des Zweiten Weltkriegs nach, in dessen Welt er sich von nun an regelmäßig flüchtet. Darüber hinaus entwirft er auch zahlreiche Figuren, Puppen, die auf vertrauten Menschen aus Marks Leben basieren und das Dorf bewohnen. Gemeinsam mit ihnen erlebt er jede Menge wilde Abenteuer; doch je weiter er in die Welt seines Fantasiedorfs „Marwen“ eintaucht, desto mehr entfernt er sich von der Realität.",
+      "poster": "https://image.tmdb.org/t/p/w500/ymvq50jo4bXJIoG3u0kVA8GDA45.jpg",
+      "director": "Robert Zemeckis",
+      "cast": [
+        "Steve Carell",
+        "Leslie Mann",
+        "Merritt Wever"
+      ],
+      "tmdbId": 351044,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0CLK19YBB?&linkCode=ll2&tag=ajsretro-21&linkId=b649576375d002c555c4c423c8d2c81e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Eighth Grade",
+      "originalTitle": "Eighth Grade",
+      "year": "2018",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "94",
+      "rating": "7.1",
+      "overview": "Die 13-jährige Einzelgängerin Kayla muss das letzte Jahr der Middle School, also die achte Klasse, irgendwie überstehen, um endlich die Highschool besuchen zu können, denn es ist nicht einfach eine Jugendliche aus einer Vorstadt zu sein.",
+      "poster": "https://image.tmdb.org/t/p/w500/rPHhBlGovY7zkSzik813ftzzgLZ.jpg",
+      "director": "Bo Burnham",
+      "cast": [
+        "Elsie Fisher",
+        "Josh Hamilton",
+        "Emily Robinson"
+      ],
+      "tmdbId": 489925,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0HC5N7M4Q?&linkCode=ll2&tag=ajsretro-21&linkId=f9586c02aad3268200b845477b6a2566&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Fifty Shades of Grey - Gefährliche Liebe",
+      "originalTitle": "Fifty Shades Darker",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "118",
+      "rating": "6.5",
+      "overview": "Die 21-jährige Studentin Anastasia Steele lernte zuvor den milliardenschweren, 27-jährigen Christian Grey kennen und war ihm sofort verfallen. Doch die ausschweifenden sexuellen Neigungen des junge Erben verunsichern sie zunehmend. Daher bricht sie die Beziehung zu Christian ab und versucht, wieder ein normales Leben zu führen. Jedoch ist das Verlangen nach ihm zu groß, als dass sie ihn vergessen könnte. Christian schlägt ihr vor, sich noch ein einziges Mal zu treffen, was Ana nicht ausschlagen kann, so sehr sie auch will, und beginnt eine neue Affäre mit ihm. Doch es ist eine gefährliche Affäre, bei der sie immer wieder Grenzen überschreitet und so einiges aus dem früheren Leben von Christian erfährt. Gleichzeitig muss sie sich mit den Eifersuchten Christian's ehemaliger Gespielinnen auseinander setzen und letztendlich eine schwere Entscheidung treffen.",
+      "poster": "https://image.tmdb.org/t/p/w500/mXmlhftXLye1mrLWSCtcbxPWfG9.jpg",
+      "director": "James Foley",
+      "cast": [
+        "Dakota Johnson",
+        "Jamie Dornan",
+        "Eric Johnson"
+      ],
+      "tmdbId": 341174,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0BX35GMKG?&linkCode=ll2&tag=ajsretro-21&linkId=d81cdb0e7464c2d3df6c1cb00b310e3b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Verborgene Schönheit",
+      "originalTitle": "Collateral Beauty",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "97",
+      "rating": "7.2",
+      "overview": "Howard Inlet hat eigentlich alles wovon er immer geträumt hat. Als aber eines Tages eine schreckliche Tragödie vor seinen Augen stattfindet, verfällt der New Yorker in eine tiefe Depression und sein Leben gerät immer mehr aus den Fugen. Schließlich fängt Howard in seiner Verzweiflung sogar an, Briefe an die verschiedensten abstrakten Dinge und Konzepte zu schreiben. Wenigstens hat der Werbefachmann Mitarbeiter und Freunde, die sich um ihn sorgen und gar nicht daran denken, ihren Chef seiner Trauer zu überlassen. Doch eine Besserung von Howards Zustand tritt erst auf, als drei besondere Figuren in sein Leben treten: Der Tod, die Zeit und die Liebe die allesamt Briefe von ihm erhalten haben, suchen ihn auf...",
+      "poster": "https://image.tmdb.org/t/p/w500/qqJKHiOeITkr8J93lgrpjYsz0Dw.jpg",
+      "director": "David Frankel",
+      "cast": [
+        "Will Smith",
+        "Edward Norton",
+        "Kate Winslet"
+      ],
+      "tmdbId": 345920,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B01N6JAE05?&linkCode=ll2&tag=ajsretro-21&linkId=db25471474377b27410ca407401c166e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Jane Austen Club",
+      "originalTitle": "The Jane Austen Book Club",
+      "year": "2007",
+      "genres": [
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "104",
+      "rating": "6.5",
+      "overview": "Sechs Monate lang, so haben sich fünf Frauen und ein Mann in einer kalifornischen Kleinstadt vorgenommen, wollen sie sie sich treffen, um sich über die Romane von Jane Austen zu unterhalten. Schnell tritt jedoch \"Stolz und Vorurteil\" in den Hintergrund, denn als die sechs ihre eigenen Wünsche und Sehnsüchte offenbaren, stellen sie fest, dass ihr eigenes Leben einem Roman der Austen gleicht.",
+      "poster": "https://image.tmdb.org/t/p/w500/riQDX6IrcocyH4f7WrYdQs31egJ.jpg",
+      "director": "Robin Swicord",
+      "cast": [
+        "Kathy Baker",
+        "Maria Bello",
+        "Emily Blunt"
+      ],
+      "tmdbId": 5951,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0CNT517VN?&linkCode=ll2&tag=ajsretro-21&linkId=39fd40bd709e93b68c74c335468211d6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Eiskalte Engel 2",
+      "originalTitle": "Cruel Intentions 2",
+      "year": "2000",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "87",
+      "rating": "5.1",
+      "overview": "Nachdem sein frühreifes Verhalten dazu geführt hat, dass er schon wieder aus einer teuren Privat-Schule hinausgeschmissen wurde, lebt der 16-jährige Sebastian nun in New York bei seinem Vater und seiner Stiefmutter. Sebastian gilt als umwerfend gutaussehender Meister der Intrige - seine nicht weniger umtriebige und attraktive Stiefschwester Kathryn steht ihm jedoch in nichts nach. Schon am ersten Tag an der Nobel-Schule, über die Kathryn als Schüler-Präsidentin herrscht, spürt Sebastian, dass er sein ganzes Geschick aufwenden muss, um in der intriganten Welt der jungen Superschnösel überleben zu können...",
+      "poster": "https://image.tmdb.org/t/p/w500/5gbocjsbQXQyAi7ejzHUyo4oE9Q.jpg",
+      "director": "Roger Kumble",
+      "cast": [
+        "Robin Dunne",
+        "Sarah Thompson",
+        "Keri Lynn Pratt"
+      ],
+      "tmdbId": 5458,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWV1GTBG?&linkCode=ll2&tag=ajsretro-21&linkId=f5785da2df3323be3995e1a5eeda0cf7&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Love & Basketball",
+      "originalTitle": "Love & Basketball",
+      "year": "2000",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "124",
+      "rating": "7.3",
+      "overview": "Monicas große Leidenschaft ist Basketball. Schon als Elfjährige konkurriert sie mit den Jungs aus der Nachbarschaft, allen voran ihrem Freund Quincy, der genau wie sein Vater mal Profispieler bei der NBA werden will. Auch Monicas Ziel ist die Profi-Liga und dafür trainiert sie ziemlich hart. Trotz ständiger Rivalitäten kommt es aber wie es kommen muss: Monica und Quincy verlieben sich ineinander, doch erst, als beide aufs College gehen, kämpfen sie auch nicht mehr gegen ihre Gefühle an. Monica und Quincy sind das erklärte Dreamteam auf dem Campus. Doch dann trennen sich ihre Wege. Als Monica ein paar Jahre später Quincy wieder trifft, lodern die tiefen Gefühle auf. Sie fordert ihn zu einem letzten gemeinsamen Spiel heraus, bei dem es um alles oder nichts geht: um Liebe oder Karriere.",
+      "poster": "https://image.tmdb.org/t/p/w500/zNZWNX19FZ5QyedprVM0ldsXFiP.jpg",
+      "director": "Gina Prince-Bythewood",
+      "cast": [
+        "Omar Epps",
+        "Sanaa Lathan",
+        "Alfre Woodard"
+      ],
+      "tmdbId": 14736,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8TLRB36?&linkCode=ll2&tag=ajsretro-21&linkId=0bd6a46bb21663d0f28105fce63b59ae&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Braut, die sich nicht traut",
+      "originalTitle": "Runaway Bride",
+      "year": "1999",
+      "genres": [
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "116",
+      "rating": "6.1",
+      "overview": "In New York City arbeitet Ike Graham als Journalist für USA Today. Eine bissige Kolumne über eine gewisse Maggie Carpenter, die bereits dreimal einen potenziellen Ehemann vor dem Altar versetzt hat, kostet Ike den hochdotierten Job. Auf Rache sinnend, sucht er die berühmt-berüchtigte Beinahe-Braut in deren, in der tiefen Provinz gelegenen Heimatstädchen auf. Sein Ziel: eine gesalzene Home Story, die Maggie endgültig als treuloses Weib outen und seinen guten Ruf wiederherstellen soll...",
+      "poster": "https://image.tmdb.org/t/p/w500/5vKNZIMLYsaQI0OaF51QTf72M8i.jpg",
+      "director": "Garry Marshall",
+      "cast": [
+        "Julia Roberts",
+        "Richard Gere",
+        "Joan Cusack"
+      ],
+      "tmdbId": 4806,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0FR3NJTHX?&linkCode=ll2&tag=ajsretro-21&linkId=758b77e7070e6ff48088c8ce3cbd08b7&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Nur für Dich",
+      "originalTitle": "Only You",
+      "year": "1994",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "104",
+      "rating": "6.7",
+      "overview": "Faith hat in ihrer Kindheit von einer Wahrsagerin erfahren, dass ihre große Liebe Damon Bradley heißt. Kurz vor ihrer Hochzeit mit einem anderen Mann, bekommt sie einen Anruf von Bradley, der auf dem Weg nach Venedig ist um sie dort zu treffen. Faith macht sich auf den Weg und erlebt eine böse Überraschung.",
+      "poster": "https://image.tmdb.org/t/p/w500/fAD8MnyIQNGZYsMy5X1JrUtDoJl.jpg",
+      "director": "Norman Jewison",
+      "cast": [
+        "Marisa Tomei",
+        "Robert Downey Jr.",
+        "Bonnie Hunt"
+      ],
+      "tmdbId": 9058,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B00FZEVKIM?&linkCode=ll2&tag=ajsretro-21&linkId=17fec7b0e88c2ae43d5de871d528d4da&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Nur für einen Tag",
+      "originalTitle": "Partir un jour",
+      "year": "2025",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Musik"
+      ],
+      "runtime": "98",
+      "rating": "6.3",
+      "overview": "Cécile steht kurz davor, ihr eigenes Gourmet-Restaurant zu eröffnen und damit endlich ihren Traum zu verwirklichen, als ihr Vater plötzlich einen Herzinfarkt erleidet und sie in ihr Geburtsdorf zurückgerufen wird. Fernab vom Trubel des Pariser Lebens trifft sie auf ihren Jugendschwarm. Die Erinnerungen kommen zurück und bringen ihre Gewissheiten ins Wanken.",
+      "poster": "https://image.tmdb.org/t/p/w500/j5vCs6oEcZN3FSLQZcJ6kXNFst3.jpg",
+      "director": "Amélie Bonnin",
+      "cast": [
+        "Juliette Armanet",
+        "Bastien Bouillon",
+        "François Rollin"
+      ],
+      "tmdbId": 1277884,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GJCZBC5K?&linkCode=ll2&tag=ajsretro-21&linkId=21d4f2dba96eacb007e16dc60ad3d29f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Love Me Tender",
+      "originalTitle": "Love Me Tender",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "134",
+      "rating": "6.6",
+      "overview": "Spätsommer, irgendwo in Paris. Die frühere Anwältin Clémence schreibt an ihrem Romandebüt und geht in ihrem neuentdeckten Begehren gegenüber Frauen auf. Mit ihrem Noch-Ehemann Laurent teilt sie sich freundschaftlich das Sorgerecht für ihren achtjährigen Sohn Paul. Doch als Laurent von ihren Liebschaften erfährt, fällt alles zusammen. Er lässt Clémence nicht mehr zu ihrem Sohn und fordert das alleinige Sorgerecht. Sein Vorwurf: Clémences Lebensstil gefährde Paul. Es folgt ein Gerichtsstreit, in dem Clémence nicht nur um ihren Sohn kämpft, sondern auch ihre sexuelle und intellektuelle Selbstbestimmung einfordert.",
+      "poster": "https://image.tmdb.org/t/p/w500/vCSBni2IrsrzF9rkqeYPw6HffDu.jpg",
+      "director": "Anna Cazenave Cambet",
+      "cast": [
+        "Vicky Krieps",
+        "Antoine Reinartz",
+        "Monia Chokri"
+      ],
+      "tmdbId": 1290450,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0F9YFCJ64?&linkCode=ll2&tag=ajsretro-21&linkId=c3badc640bd08a07132f0f9b10d16f28&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Holiday Hotline: Bei Anruf Liebe",
+      "originalTitle": "Holiday Hotline",
+      "year": "2023",
+      "genres": [
+        "TV-Film",
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "84",
+      "rating": "6.8",
+      "overview": "Als Abby London verlässt und bei einer Koch-Hotline arbeitet, verbindet sie sich mit einem anonymen Anrufer – einem alleinerziehenden Vater, in den Abby unwissentlich auch im wirklichen Leben verliebt ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/xnz0GriFcKUP2Z8j3oHdFp4aGPM.jpg",
+      "director": "Mark Jean",
+      "cast": [
+        "Emily Tennant",
+        "Niall Matter",
+        "Erik Athavale"
+      ],
+      "tmdbId": 1180811,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0FXY2QXMP?&linkCode=ll2&tag=ajsretro-21&linkId=a01d27ca4d46e3e48c8720bed4b6cd3c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Endless Love",
+      "originalTitle": "Endless Love",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "103",
+      "rating": "6.9",
+      "overview": "Jade ist in guten Verhältnissen aufgewachsen. Im Sommerurlaub mit ihren Eltern lernt sie den charismatischen David kennen – aus anfänglicher Zuneigung entsteht schnell grenzenlose Leidenschaft. Doch als Jades Vater Hugh Butterfield mitbekommt, dass sich seine Tochter mit David rumtreibt, sieht er seine Zukunftsplanung für Jade gefährdet. Denn eigentlich sollte seine Tochter Medizin studieren und ihm irgendwann einmal als Ärztin nachfolgen. Dazu sollte die junge Frau im Sommer ein Praktikum machen und nicht die Zeit mit einem perspektivlosen Jungen totschlagen. Um David loszuwerden, beschuldigt Butterfield ihn, eine dunkle Vergangenheit zu haben und diese vor Jade zu verheimlichen. Getrieben von bedingungsloser Liebe muss sich David seiner Vergangenheit stellen, ohne seine Freundin zu verschrecken…",
+      "poster": "https://image.tmdb.org/t/p/w500/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
+      "director": "Shana Feste",
+      "cast": [
+        "Alex Pettyfer",
+        "Gabriella Wilde",
+        "Bruce Greenwood"
+      ],
+      "tmdbId": 226857,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0C62XPPP3?&linkCode=ll2&tag=ajsretro-21&linkId=51e2f629cc7914df0f9a604b413bf5ca&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Effie Gray",
+      "originalTitle": "Effie Gray",
+      "year": "2014",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "104",
+      "rating": "6.0",
+      "overview": "Im viktorianischen London des 19. Jahrhunderts heiratet Euphemia \"Effie\" Gray schon jung den bekannten Kunstkritiker John Ruskin. Doch die Ehe wird nie vollzogen und nach Jahren voller Enttäuschungen, Schmerz und Leid, verliebt Effie sich in einen von Ruskins Schützlingen, den Maler John Everett Millais. Nur unter schwerem gesellschaftlichem Druck und mit Unterstüztung ihrer Vertrauten Lady Eastlake gelingt es Effie schließlich die Verbindung zu Ruskin annullieren zu lassen und eine zweite Ehe mit Millais einzugehen. Das konservative Großbritannien ist entsetzt.",
+      "poster": "https://image.tmdb.org/t/p/w500/eEeuxFscc6NLdyhpvqBGsHgpqV3.jpg",
+      "director": "Richard Laxton",
+      "cast": [
+        "Dakota Fanning",
+        "Emma Thompson",
+        "Greg Wise"
+      ],
+      "tmdbId": 114155,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0D8WM7MFG?&linkCode=ll2&tag=ajsretro-21&linkId=7b32c4f307028d264268d08f4095a2cc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Just Wright - In diesem Spiel zählt jeder Treffer",
+      "originalTitle": "Just Wright",
+      "year": "2010",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "101",
+      "rating": "6.6",
+      "overview": "Als Basketballstar Scott (Common) sich eine Knieverletzung zuzieht, ist er auf die Hilfe der Physiotherapeutin Leslie Wright (Queen Latifah) angewiesen, deren Bekanntschaft er vor einer Zeit gemacht hatte. Leslie ist ihrerseits ziemlich verschossen in den sympathischen Basketballprofi – eine unerwiderte Liebe. Zwar ist die Physiotherapeutin sympathisch, witzig und Basketballbegeistert, aber keine keine umwerfende Schönheit. Erst als Scott von der schönen Morgan (Paula Patton) aufgrund seiner, durch seine Verletzung stark geschrumpften Karriereaussichten verlassen wird, merkt er, dass er “just wright” will.",
+      "poster": "https://image.tmdb.org/t/p/w500/qx1SumoTQYtB9VyxQ7irlfE2e7L.jpg",
+      "director": "Sanaa Hamri",
+      "cast": [
+        "Queen Latifah",
+        "Common",
+        "Paula Patton"
+      ],
+      "tmdbId": 38093,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B00IKAEU3U?&linkCode=ll2&tag=ajsretro-21&linkId=b8556780874f0e61f91bd58d6df69211&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Verrückt nach Steve",
+      "originalTitle": "All About Steve",
+      "year": "2009",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "99",
+      "rating": "5.0",
+      "overview": "Mary Horowitz ist exzentrisch und schrill - und arbeitet als Kreuzworträtsel-Autorin bei einer Tageszeitung. Als ihre Eltern ihr ein Blind Date organisieren, verliebt sie sich Hals über Kopf in den coolen Kameramann Steve, der jedoch schnell genervt ist und die Flucht ergreift. Mary lässt jedoch nicht locker und heftet sich an seine Fersen. Angestachelt wird sie dabei vom selbstverliebten Nachrichtenreporter Hartman Hughes, der mit Steve zusammenarbeitet und ihm nur zu gern das Leben schwer macht...",
+      "poster": "https://image.tmdb.org/t/p/w500/n5k6XmtkGCtIWaLu5GSDkM3N088.jpg",
+      "director": "Phil Traill",
+      "cast": [
+        "Bradley Cooper",
+        "Sandra Bullock",
+        "Thomas Haden Church"
+      ],
+      "tmdbId": 23706,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B00IK60QK0?&linkCode=ll2&tag=ajsretro-21&linkId=e0c56298b35c193526e6e5d8f0341b83&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Friends with Money",
+      "originalTitle": "Friends with Money",
+      "year": "2006",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "88",
+      "rating": "5.1",
+      "overview": "In Los Angeles lebt ein illustrer, wohl situierter Freundeskreis. Die steinreiche Franny gehört ebenso dazu wie die Designerin Jane, deren modebewusster Ehemann allseits für homosexuell gehalten wird. Dafür gibt es bei ihr nicht halb so viel Streit wie im Hause von Christine, die gemeinsam mit ihrem Gatten Drehbücher verfasst. Doch der größte Problemfall in der Frauenclique ist ausgerechnet die jüngste, Olivia. Sie lebt alleine, hat ihren Lehrerjob verloren und schlägt sich als Hausmädchen durch, bis sie auf den arroganten Mike trifft.",
+      "poster": "https://image.tmdb.org/t/p/w500/8WdKFowmvfxmDJP5uS0Mf7kdskO.jpg",
+      "director": "Nicole Holofcener",
+      "cast": [
+        "Jennifer Aniston",
+        "Joan Cusack",
+        "Catherine Keener"
+      ],
+      "tmdbId": 8998,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0HF6NW89P?&linkCode=ll2&tag=ajsretro-21&linkId=ccf784ca1ba8c8ab86c7d7310581e4e8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein ungezähmtes Leben",
+      "originalTitle": "An Unfinished Life",
+      "year": "2005",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "103",
+      "rating": "6.8",
+      "overview": "Mehr als zehn Jahre nach dem Tod seines Sohnes ist Einar Gilkyson immer noch nicht über den Verlust hinweg. Auf seiner Ranch in Wyoming führt er das Leben eines mürrischen Eremiten, dem nur sein alter Freund Mitch Gesellschaft leistet. Zu seiner Schwiegertochter Jean hat er jeden Kontakt abgebrochen, denn er macht sie für den Unfalltod seines Sohnes verantwortlich. Eines Tages jedoch steht Jean samt Töchterchen Griff unangemeldet vor Einars Tür und bittet um Hilfe. Widerwillig nimmt er die beiden auf. Doch dann gelingt es Griff, langsam aber sicher das Herz ihres grantigen Großvaters zurück zu erobern. Als jedoch Jeans jähzorniger Ex-Freund in der Stadt auftaucht, werden die zaghaft geknüpften Familienbande erneut auf eine harte Probe gestellt...",
+      "poster": "https://image.tmdb.org/t/p/w500/pr8TnEinrg0UOvkQb07TnkfNCce.jpg",
+      "director": "Lasse Hallström",
+      "cast": [
+        "Robert Redford",
+        "Jennifer Lopez",
+        "Morgan Freeman"
+      ],
+      "tmdbId": 1947,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GG6KF59H?&linkCode=ll2&tag=ajsretro-21&linkId=240e3fc4545ec87a2a56cad3827e0991&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Anything Else",
+      "originalTitle": "Anything Else",
+      "year": "2003",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "108",
+      "rating": "6.2",
+      "overview": "Jerry ist verunsichert. Er weis nicht woran er bei seiner Freundin Amanda ist, die nicht nur leicht exzentrisch ist, sondern ihn auch noch betrügt. In seiner Verunsicherung wendet er sich an seinen Mentor und Freund David, der ihm nicht nur in Liebesdingen hilfreich zur Seite steht, sondern auch ansonsten immer ein offenes Ohr für die Probleme und Nöte von Jerry hat. Und die hat der junge New Yorker gleich Reihenweise.....",
+      "poster": "https://image.tmdb.org/t/p/w500/bvyoWDh60R31ZE5L8TjZ8Qpv5xM.jpg",
+      "director": "Woody Allen",
+      "cast": [
+        "Jason Biggs",
+        "Christina Ricci",
+        "Woody Allen"
+      ],
+      "tmdbId": 10739,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GJPN985L?&linkCode=ll2&tag=ajsretro-21&linkId=e3e760779aaf524658dd9772e7b58c59&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Stella's Groove - Männer sind die halbe Miete",
+      "originalTitle": "How Stella Got Her Groove Back",
+      "year": "1998",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "124",
+      "rating": "5.8",
+      "overview": "Stella, eine sehr erfolgreiche Geschäftsfrau und Mutter in ihren Vierzigern, bekommt das Verlangen, sich was Gutes zu tun. Also gönnt sie sich einen Spontan-Urlaub in Jamaika. Dort angekommen, kann sie sich endlich entspannen, wie sie es schon lange nicht mehr getan hat. Sie trifft auch den jungen Winston, und sie verfällt seiner Art, wie er die Welt sieht.",
+      "poster": "https://image.tmdb.org/t/p/w500/zBuaxOzFEXrtKz5ERjiE4r3Q49D.jpg",
+      "director": "Kevin Rodney Sullivan",
+      "cast": [
+        "Angela Bassett",
+        "Taye Diggs",
+        "Whoopi Goldberg"
+      ],
+      "tmdbId": 33644,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B01EIKSIRE?&linkCode=ll2&tag=ajsretro-21&linkId=5ec885701e9296237bbc6b280b852cf6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Das verrückte California-Hotel",
+      "originalTitle": "California Suite",
+      "year": "1978",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "98",
+      "rating": "5.9",
+      "overview": "In ein Luxushotel in Los Angeles kehren fünf Paare ein, die sich mit unterschiedlichen Problemen konfrontiert sehen:  In einem Hotelzimmer treffen das mittlerweile geschiedene Autoren-Ehepaar Hannah und Bill Warren aufeinander. Die gemeinsame, minderjährige Tochter ist der emanzipierten Publizistin aus New York weggelaufen und hat sich unter fadenscheinigen Gründen beim Vater an der Westküste einquartiert. Nach langer Diskussion sieht Hannah ein, dass ihre Tochter beim leiblichen Vater besser aufgehoben ist, und tritt die Rückreise an.",
+      "poster": "https://image.tmdb.org/t/p/w500/vMVSM6qQqBceiFbbCL0eCmrkKIk.jpg",
+      "director": "Herbert Ross",
+      "cast": [
+        "Jane Fonda",
+        "Alan Alda",
+        "Maggie Smith"
+      ],
+      "tmdbId": 26686,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0HNRJ1428?&linkCode=ll2&tag=ajsretro-21&linkId=4157d2a7d6bfddd73be927b3f4c72ec3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Es geschah in einer Nacht",
+      "originalTitle": "It Happened One Night",
+      "year": "1934",
+      "genres": [
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "105",
+      "rating": "7.8",
+      "overview": "Ellie Andrews ist eine reiche, verwöhnte Millionärstochter und tut alles, was ihr Vater nicht möchte, dass sie tut. Deswegen will sie auch genau den Typen heiraten, den ihr Daddy am wenigsten leiden kann. Kurzum: Ellie ist eine Rebellin, wie sie im Buche steht. Doch Daddy ist nicht dumm und sperrt sein Töchterlein einfach auf seine Yacht. Das Töchterlein schafft es jedoch zu fliehen und macht sich auf den Weg nach New York - mit dem Bus! Hier lernt sie den Reporter Peter Warne kennen, der sofort DIE Story schlechthin wittert. Es beginnt eine turbulente Reise mit ungeahnten Folgen...",
+      "poster": "https://image.tmdb.org/t/p/w500/wRY7vLstQVEvrYAyZGRzh0aNA45.jpg",
+      "director": "Frank Capra",
+      "cast": [
+        "Clark Gable",
+        "Claudette Colbert",
+        "Walter Connolly"
+      ],
+      "tmdbId": 3078,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0HH2MB7D6?&linkCode=ll2&tag=ajsretro-21&linkId=c7f52ab43d5e40e51886a20615d8ef5e&ref_=as_li_ss_tl"
     }
   ]
 }
