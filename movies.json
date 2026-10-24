@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T15:31:32.687Z",
+  "generatedAt": "2026-10-24T15:52:27.227Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -71,7 +71,7 @@
       "genre": "Action",
       "room": 2,
       "wall": "back",
-      "count": 0
+      "count": 22
     },
     {
       "genre": "Heroes",
@@ -767,6 +767,516 @@
       "tmdbId": 27431,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0HHW36QNG?&linkCode=ll2&tag=ajsretro-21&linkId=2f58afe1cbdc59e018c51f84dff61580&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Zwölf Runden",
+      "originalTitle": "12 Rounds",
+      "year": "2009",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "runtime": "108",
+      "rating": "5.9",
+      "overview": "Polizist Danny gelingt es, den genialen Verbrecherkönig Miles bei einem spektakulären Millionen-Raub zu verknacken. Dabei kommt die Freundin des Gangsterbosses durch ein Unglück um. Der macht dafür Danny verantwortlich und schwört im Gefängnis Rache. Als Miles aus dem Knast ausbricht und Dannys Verlobte Molly entführt, muss dieser zwölf schier unlösbare Aufgaben bewältigen, sonst wird sie sterben.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pu0sdWzekAfPXn09Ai8v1kVzrM.jpg",
+      "director": "Renny Harlin",
+      "cast": [
+        "John Cena",
+        "Aidan Gillen",
+        "Ashley Scott"
+      ],
+      "tmdbId": 17134,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DHLC7YPQ?&linkCode=ll2&tag=ajsretro-21&linkId=9a03f07aa4ef2937862076ec7e9394e3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Speed Racer",
+      "originalTitle": "Speed Racer",
+      "year": "2008",
+      "genres": [
+        "Familie",
+        "Action",
+        "Abenteuer",
+        "Komödie"
+      ],
+      "runtime": "135",
+      "rating": "6.4",
+      "overview": "Das Leben, eine Rallye. Speed Race ist der neue aufsteigende Superstar unter den Rennfahrern. Pops und Mom Racer strahlen vor Stolz, während Speed glücklich und zufrieden mit Freundin Trixie die jüngsten Erfolge feiert. Als eines Tages der cholerische Firmenchef der Royalton Company  vor der Haustür steht und den Rennfahrer mit imposanten Versprechen abwerben möchte, schlägt dieser das Angebot aus – und macht sich somit zum ärgsten Feind von Royalton und dessen skrupellosen Handlangern, die die Rennen für saftige Profite manipulieren. Gemeinsam mit dem undurchsichtigen Ex-Rivalen Racer X versucht die Racer-Familie deshalb, den schmierigen Unternehmern den Garaus zu machen – bei jener Querfeldein-Rallye, die einst Speeds Bruder das Leben kostete.",
+      "poster": "https://image.tmdb.org/t/p/w500/AdHSTkL9fe5J6Exc8RB9vX1YmmH.jpg",
+      "director": "Lana Wachowski",
+      "cast": [
+        "Emile Hirsch",
+        "Christina Ricci",
+        "John Goodman"
+      ],
+      "tmdbId": 7459,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6GMW2G8?&linkCode=ll2&tag=ajsretro-21&linkId=829385766e6427340b8f70523e8fe43e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Scorpion King - Aufstieg eines Kriegers",
+      "originalTitle": "The Scorpion King 2: Rise of a Warrior",
+      "year": "2008",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "runtime": "109",
+      "rating": "4.7",
+      "overview": "Der 13jährige Mathayus wird Zeuge, wie sein Vater von seinem neidischen Rivalen Sargon entführt und ermordet wird. Sieben Jahre lang lässt sich Mathayus vom Orden des Schwarzen Skorpions zu einer perfekten Kampfmaschine ausbilden, um seinen Vater rächen zu können. Doch um den mächtigen Sargon besiegen zu können, benötigt Mathayus ein verwunschenes Schwert aus der Unterwelt. So macht er sich mit der mutigen Layla, dem griechischen Autoren Ari und dem befreiten Gefangenen Fong auf eine atemberaubende Odyssee auf.",
+      "poster": "https://image.tmdb.org/t/p/w500/q1bY3qFTIeF3tNkME7K7mbcTG4I.jpg",
+      "director": "Russell Mulcahy",
+      "cast": [
+        "Michael Copon",
+        "Randy Couture",
+        "Karen David"
+      ],
+      "tmdbId": 13486,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DQYSF6P2?&linkCode=ll2&tag=ajsretro-21&linkId=02d73d931f52d20cb8ae9d0d2d0b43de&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Flags of Our Fathers",
+      "originalTitle": "Flags of Our Fathers",
+      "year": "2006",
+      "genres": [
+        "Kriegsfilm",
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "132",
+      "rating": "6.9",
+      "overview": "Fünf US-Marines und ein Navy-Sanitäter hissen im Feburar 1945 während der blutigen Schlacht um die japanische Pazifikinsel Iwo Jima eine amerikanische Flagge auf dem Berg Suribachi. Die Fotografie geht um die Welt und die US-Regierung setzt sie zu Propagandazwecken ein, als Sinnbild für den ungebrochenen amerikanischen Siegeswillen. Drei der abgelichteten Soldaten überleben letzten Endes und werden von der Front abgezogen. John \"Doc\" Bradley, der Indianer Ira Hayes und Rene Gagnon ziehen daraufhin als \"Kriegshelden\" durch die Heimat. Nach außen hin spielen sie ihre Rolle perfekt und sorgen für neue Hoffnung bei den Daheimgebliebenen. Doch die Geschichte, die der Bevölkerung erzählt wird, ist eine andere, wie sie sich im Pazifikkrieg wirklich abgespielt hat und die drei Heimkehrer wählen innerlich ganz unterschiedliche Wege, um mit den Geschehnissen fertig zu werden.",
+      "poster": "https://image.tmdb.org/t/p/w500/4IHVQkn54YEcE7axFziSUHNY2YH.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Ryan Phillippe",
+        "Jesse Bradford",
+        "Adam Beach"
+      ],
+      "tmdbId": 3683,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0CPBQ183S?&linkCode=ll2&tag=ajsretro-21&linkId=811e10028dfb32a998e0d41e70ca8de9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Last Samurai",
+      "originalTitle": "The Last Samurai",
+      "year": "2003",
+      "genres": [
+        "Drama",
+        "Action",
+        "Kriegsfilm"
+      ],
+      "runtime": "154",
+      "rating": "7.6",
+      "overview": "Der abgehalfterte US-Militär Captain Nathan Algren nimmt im Jahr 1875 den Auftrag an, die Armee des japanischen Kaisers auszubilden. Er soll die Truppe auf den Kampf gegen die alten Krieger des japanischen Kaiserreichs vorbereiten: den Kampf gegen die Samurai. Doch bereits im ersten Gefecht werden die Soldaten vernichtend geschlagen und Algren wird gefangen genommen. Schwer verletzt wird er in das Dorf des Anführers der Samurai Katsumoto gebracht. Er wird gesund gepflegt und lernt die Lebensweise der Samurai kennen. Wieder zurück in Tokio muss er sich entscheiden, auf welcher Seite er steht. Wird er mit den von Amerikanern geführten japanischen Soldaten kämpfen oder sich für die Seite der Samurai entscheiden?",
+      "poster": "https://image.tmdb.org/t/p/w500/zxUiSv7gK4VLfCyU7quE9r5S0Qt.jpg",
+      "director": "Edward Zwick",
+      "cast": [
+        "Tom Cruise",
+        "Ken Watanabe",
+        "Timothy Spall"
+      ],
+      "tmdbId": 616,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0CWB4YLB3?&linkCode=ll2&tag=ajsretro-21&linkId=681ac82c771423adc1ffbbd1cef68aa4&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Violent Ends",
+      "originalTitle": "Violent Ends",
+      "year": "2025",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "112",
+      "rating": "6.2",
+      "overview": "Lucas Frost (Billy Magnussen) gehört zu einer der mächtigsten kriminellen Familien in Arkansas. Zusammen mit seiner Verlobten Emma (Alexandra Shipp) möchte er nun seine Vergangenheit hinter sich lassen und ein neues Leben beginnen. Doch als Emma bei einem Raubüberfall, für den er seine Familie verantwortlich macht, getötet wird, sinnt Lucas auf Rache und gerät erneut in einen verheerenden Strudel der Gewalt.",
+      "poster": "https://image.tmdb.org/t/p/w500/8FlFS71wVhpsMCawgGTKo7cYe63.jpg",
+      "director": "John-Michael Powell",
+      "cast": [
+        "Billy Magnussen",
+        "Alexandra Shipp",
+        "Nick Stahl"
+      ],
+      "tmdbId": 1211776,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0H1FTP8DC?&linkCode=ll2&tag=ajsretro-21&linkId=ed94d9326651934bdeb7259a11995df6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "40 Acres",
+      "originalTitle": "40 Acres",
+      "year": "2025",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtime": "113",
+      "rating": "6.6",
+      "overview": "In einer düsteren postapokalyptischen Welt, die von Nahrungsmittelknappheit und Gewalt geprägt ist, kämpft eine schwarze kanadische Farmerfamilie, deren Vorfahren einst vor den Schrecken des amerikanischen Bürgerkriegs flohen, ums Überleben. Isoliert und entschlossen verteidigen sie ihr abgelegenes Gehöft gegen marodierende Kannibalen, die ihre knappen Ressourcen um jeden Preis erobern wollen. Während die Bedrohung immer näher rückt, wird die Familie gezwungen, nicht nur ihre Stärke und ihren Zusammenhalt, sondern auch die Grenzen ihrer Menschlichkeit zu testen.",
+      "poster": "https://image.tmdb.org/t/p/w500/kfECBhMOrclAPtsCavgaln9AzS6.jpg",
+      "director": "R.T. Thorne",
+      "cast": [
+        "Danielle Deadwyler",
+        "Kataem O'Connor",
+        "Michael Greyeyes"
+      ],
+      "tmdbId": 1319951,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0G39G5936?&linkCode=ll2&tag=ajsretro-21&linkId=40eebd00f1fbafc360b0fa2eba92e662&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ida Red",
+      "originalTitle": "Ida Red",
+      "year": "2021",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Drama",
+        "Action"
+      ],
+      "runtime": "111",
+      "rating": "5.7",
+      "overview": "Ida \"Red\" Walker (Melissa Leo) wird ihre unheilbare Krankheit nicht überleben, während sie wegen eines bewaffneten Raubüberfalls inhaftiert ist. Sie wendet sich an ihren Sohn Wyatt (Josh Hartnett), der einen letzten Raubüberfall begehen soll, damit sie dem Gefängnis entkommen kann. Doch als das FBI immer näher rückt, muss Wyatt sich zwischen Familie und Freiheit entscheiden.",
+      "poster": "https://image.tmdb.org/t/p/w500/etMxKseW67499tUJonLNHXTF538.jpg",
+      "director": "John Swab",
+      "cast": [
+        "Josh Hartnett",
+        "Frank Grillo",
+        "Melissa Leo"
+      ],
+      "tmdbId": 818192,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWVYZ99S?&linkCode=ll2&tag=ajsretro-21&linkId=cf75cdb982264de7509004ccf11fa26c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Into the White",
+      "originalTitle": "Into the White",
+      "year": "2012",
+      "genres": [
+        "Kriegsfilm",
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "104",
+      "rating": "6.9",
+      "overview": "Zweiter Weltkrieg, 1940: In der Luftschlacht über Norwegen schießen sich englische und deutsche Piloten gegenseitig ab. Nach einer harten Notlandung in der Einöde Norwegens suchen die Überlebenden beider Parteien- Leutnant Horst Schopis, Unteroffizier Josef Schwarz  und Feldwebel Wolfgang Strunk auf Seiten der Deutschen, sowie Gunner Robert Smith und Captain Charles P. Davenport auf Seiten der Briten- Schutz gegen die Kälte und finden diesen in einer verlassenen Berghütte. Leider flüchten sie zufällig in dieselbe Hütte und so müssen die Kriegsgegner miteinander auskommen, um den harten norwegischen Winter zu überleben. Das stürmische Wetter macht ein Umherirren draußen unmöglich, zu groß sind die zu überwindenden Entfernungen, um wieder zurück in die Zivilisation zu gelangen. Voneinander abhängig müssen sich die Feinde auf eine lange und ungewollte Freundschaft einlassen.",
+      "poster": "https://image.tmdb.org/t/p/w500/cPxvKEZpmcdKWVSZXdCvUqmpDLc.jpg",
+      "director": "Petter Næss",
+      "cast": [
+        "Stig Henrik Hoff",
+        "Lachlan Nieboer",
+        "Rupert Grint"
+      ],
+      "tmdbId": 78215,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00HDX1HUO?&linkCode=ll2&tag=ajsretro-21&linkId=f0880d0c77b0a52043411da7f6659134&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "30 Minuten oder weniger",
+      "originalTitle": "30 Minutes or Less",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Komödie"
+      ],
+      "runtime": "83",
+      "rating": "5.8",
+      "overview": "Nick arbeitet in einer Kleinstadt als Pizza-Lieferant. Sein Leben ist ziemlich eintönig, bis er eines Tages auf zwei Möchtegern-Kriminelle stößt. Das unberechenbare Duo kidnappt Nick und zwingt ihn dazu, eine Bank zu überfallen. Weil ihm nur wenige Stunden bleiben, um das Unmögliche möglich zu machen, bittet Nick seinen ehemals besten Freund Chet um Hilfe. Während die Uhr tickt, müssen sich die beiden mit der Polizei, Auftragskillern, Feuerwerfern sowie – nicht zuletzt – ihrer eigenen gestörten Beziehung herumschlagen.",
+      "poster": "https://image.tmdb.org/t/p/w500/offWF9e2UOyOMsfeGk4VVsDUv2e.jpg",
+      "director": "Ruben Fleischer",
+      "cast": [
+        "Jesse Eisenberg",
+        "Danny McBride",
+        "Aziz Ansari"
+      ],
+      "tmdbId": 62206,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6SFGFX8?&linkCode=ll2&tag=ajsretro-21&linkId=ff0bd4d092f20b2d507992148eae2b11&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Carjacked",
+      "originalTitle": "Carjacked",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Thriller",
+        "TV-Film",
+        "Krimi"
+      ],
+      "runtime": "89",
+      "rating": "5.0",
+      "overview": "Während eines Tankstopps werden die alleinerziehende Mutter Lorraine Burton und ihr fünf Jahre alter Sohn von dem flüchtigen Bankräuber Roy überwältigt. Er zwingt sie, ihn zu einem Treffen mit seinem Komplizen zu fahren, der noch das Geld vom jüngsten Überfall hat. Doch Lorraine ahnt, dass Roy am Ende die Zeugen beseitigen wird. Ein bitter Kampf ums Überleben beginnt und lässt bei Lorraine Kräfte freiwerden, die sie nie erahnt hätte. Sie schlägt zurück...",
+      "poster": "https://image.tmdb.org/t/p/w500/bPwccod1wNQrC0aqq6nxr9qC3Sm.jpg",
+      "director": "John Bonito",
+      "cast": [
+        "Stephen Dorff",
+        "Maria Bello",
+        "Joanna Cassidy"
+      ],
+      "tmdbId": 72912,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLKQ6JP5?&linkCode=ll2&tag=ajsretro-21&linkId=a4c0670a078cf8d38153b0bcdeed3760&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vier Brüder",
+      "originalTitle": "Four Brothers",
+      "year": "2005",
+      "genres": [
+        "Action",
+        "Krimi"
+      ],
+      "runtime": "109",
+      "rating": "6.8",
+      "overview": "Als während eines Raubüberfalls in einem Lebensmittelladen in Detroit ihre Ziehmutter scheinbar zufällig ermordet wird, vereinen sich die vier ungleichen Adoptivbrüder Bobby, Angel, Jeremiah und Jack aufs Neue. Der Täter ist schnell ausfindig gemacht – doch genauso schnell müssen sie feststellen, daß in ihrer alten Heimat ein ganz neuer Wind weht. Gefangen in einem Netz aus Lügen, Gewalt und Korruption scheint ihre Lage aussichtslos. Für die vier, die jetzt erkennen, daß sie – obwohl nicht blutsverwandt – weit mehr verbindet als angenommen, beginnt ein erbarmungsloser Rachefeldzug gegen die ganze Stadt.",
+      "poster": "https://image.tmdb.org/t/p/w500/vJccWdCS06sDPOiKYdi1gkWnH51.jpg",
+      "director": "John Singleton",
+      "cast": [
+        "Mark Wahlberg",
+        "Tyrese Gibson",
+        "André 3000"
+      ],
+      "tmdbId": 8292,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0D876TCTV?&linkCode=ll2&tag=ajsretro-21&linkId=8a62d80c097cd329cc69fc981eb16e6c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Absolute Power",
+      "originalTitle": "Absolute Power",
+      "year": "1997",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Action"
+      ],
+      "runtime": "123",
+      "rating": "6.7",
+      "overview": "Luther Whitneys letzter großer Coup soll der Einbruch in das Haus des Millionärs Walter Sullivan sein. Als Whitney das Haus mit dem Diebesgut verlassen will, kehrt überraschend Sullivans Frau Christy mit dem US-Präsidenten Alan Richmond zurück. Eine heftige Auseinandersetzung zwischen den beiden bezahlt Christy Sullivan mit dem Tod. Fortan setzt sich nicht nur die Polizei auf Whitneys Spur, sondern auch das FBI, das ihn als Zeugen im Regierungsauftrag eliminieren soll.",
+      "poster": "https://image.tmdb.org/t/p/w500/hHmKtiU8ljKIYSYItCOuyvjJovk.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Ed Harris"
+      ],
+      "tmdbId": 66,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8QL9PBN?&linkCode=ll2&tag=ajsretro-21&linkId=05cef78c1d54b84cdfc5861762595cfd&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Einsame Entscheidung",
+      "originalTitle": "Executive Decision",
+      "year": "1996",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "134",
+      "rating": "6.3",
+      "overview": "Schwerbewaffnete Terroristen aus dem Nahen Osten entern eine Passagiermaschine und zwingen den Flugkapitän zum Kurs auf Washington. Mit Hilfe eines Shuttleflugzeugs gelangt eine Antiterroreinheit an Bord, doch weil die Terroristen über eine verheerende Bombe verfügen, bleibt den Soldaten nur wenig Zeit: Falls es ihnen nicht gelingt, ihre Widersacher binnen drei Stunden unschädlich zu machen, schießt das US-Militär die Maschine ab.",
+      "poster": "https://image.tmdb.org/t/p/w500/76HmrARZuFyz6PbuuNbpxOY32IA.jpg",
+      "director": "Stuart Baird",
+      "cast": [
+        "Kurt Russell",
+        "Steven Seagal",
+        "Halle Berry"
+      ],
+      "tmdbId": 2320,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8TDYR5K?&linkCode=ll2&tag=ajsretro-21&linkId=0318407cd1ab1c379d1d1a6146b06a91&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Passagier 57",
+      "originalTitle": "Passenger 57",
+      "year": "1992",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Thriller"
+      ],
+      "runtime": "84",
+      "rating": "6.0",
+      "overview": "Der ehemalige Polizist John Cutter bildet Sicherheitspersonal für Linienflüge aus und wird von einer Fluggesellschaft als Security-Chef engagiert. Kurz vor seinem ersten Dienstantritt gerät er bei einem Flug nach Los Angeles in eine Ausnahmesituation: Top-Terrorist Charles Rane, der eigentlich in dem bewachten Flieger nach L.A. überführt werden soll, wird von seinen Kumpanen befreit. Die Verbrecher übernehmen die Kontrolle über die Maschine und nehmen die rund 200 Passagiere als Geiseln. Einzig Cutter und die Stewardess Marti Slayton können sich unbemerkt an Bord verstecken und nehmen den scheinbar aussichtslosen Kampf gegen die Flugzeugentführer auf...",
+      "poster": "https://image.tmdb.org/t/p/w500/vq7yQtEndnT50azjlwUOZ6TAG1o.jpg",
+      "director": "Kevin Hooks",
+      "cast": [
+        "Wesley Snipes",
+        "Bruce Payne",
+        "Tom Sizemore"
+      ],
+      "tmdbId": 10538,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00FAI14G6?&linkCode=ll2&tag=ajsretro-21&linkId=b65f0d3abd592437538170ebe52cb81d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dirty Harry kommt zurück",
+      "originalTitle": "Sudden Impact",
+      "year": "1983",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Action"
+      ],
+      "runtime": "117",
+      "rating": "6.5",
+      "overview": "Nachdem er einem Gangsterboss auf unorthodoxe Art und Weise von diesem ins nächste Leben geholfen hat, wird Harry Calahan wieder einmal suspendiert. Man schickt ihn jedoch bald in ein kleines Küstenstädtchen, indem es zu einer Mordserie gekommen ist. Harry macht vor Ort die Bekanntschaft der unnahbaren Jennifer Spencer, die für ihn bald schon Hauptverdächtige für die Morde ist, welche sich offenbar auf eine Vergewaltigung von vor einigen Jahren beziehen. Calahan ist hin- und hergerissen...",
+      "poster": "https://image.tmdb.org/t/p/w500/yvn2DSnzCq3KCOLSajZUXOjh3HI.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Clint Eastwood",
+        "Sondra Locke",
+        "Pat Hingle"
+      ],
+      "tmdbId": 10650,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYTAODA?&linkCode=ll2&tag=ajsretro-21&linkId=8a6a897a7845068ca484e77a7b209913&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Firefox",
+      "originalTitle": "Firefox",
+      "year": "1982",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "136",
+      "rating": "6.1",
+      "overview": "Mitten im Kalten Krieg entwickeln die Sowjets ein neuartiges Kampfflugzeug, das im Westen für Unruhe und hektische Aktivität sorgt. Dank Überschallgeschwindigkeit, Tarnkappentechnik und hoch entwickelten Waffensystem ist der „Firefox“, so die inoffizielle Bezeichnung, allen NATO-Flugzeugen weit überlegen. Bisher haben die Sowjets nur einen Prototyp hergestellt, und damit das auch so bleibt, planen Amerikaner und Briten, das Flugzeug zu stehlen. Für diesen heiklen Auftrag wird Air-Force-Pilot und Vietnamkriegsveteran Mitchell Gant ausgewählt. Nicht nur, dass er flließend russisch spricht, er hat auch noch dieselbe Körpergröße, wie der Firefox-Testpilot Oberts Voskow. Mit Hilfe der übergelaufenen sowjetischen Wissenschaftler Baranovich und Semelovsky wird Gant mit der Technologie vertraut gemacht und dann nach Russland eingeschleust, um das Flugzeug zu entführen. Auf seiner gefährlichen Reise sitzen Gant dabei ständig der KGB und das Militär im Nacken...",
+      "poster": "https://image.tmdb.org/t/p/w500/4z4CyZ9dAWXG7mz1TVzpXB2uDYG.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Clint Eastwood",
+        "Freddie Jones",
+        "David Huffman"
+      ],
+      "tmdbId": 10724,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DJXF8YGN?&linkCode=ll2&tag=ajsretro-21&linkId=14dd72fa63aa144e163a5d4a328f4e4e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Tiefe",
+      "originalTitle": "The Deep",
+      "year": "1977",
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Abenteuer"
+      ],
+      "runtime": "123",
+      "rating": "6.1",
+      "overview": "Beim Tauchurlaub auf den Bahamas entdecken David und Gail in einem Wrack merkwürdige Ampullen und alten Schmuck. Damit ziehen sie die Aufmerksamkeit des Gangsters Cloche auf sich, der sich für das in den Ampullen enthaltene Morphium interessiert. David und Gail wenden sich an den lokalen Unterwasserexperten Treece, mit dem sie versuchen, den Rest des Schatzes zu bergen. Doch Cloche und seine Bande schrecken vor nichts zurück, um das Morphium in ihren Besitz zu bekommen.",
+      "poster": "https://image.tmdb.org/t/p/w500/98U1Lok4RvFOIZni5LCTdcpNqqs.jpg",
+      "director": "Peter Yates",
+      "cast": [
+        "Robert Shaw",
+        "Jacqueline Bisset",
+        "Nick Nolte"
+      ],
+      "tmdbId": 20416,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00FAHQVWE?&linkCode=ll2&tag=ajsretro-21&linkId=5b4beb6cbe9c1a9c5ae914580fcf9011&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dirty Harry II - Callahan",
+      "originalTitle": "Magnum Force",
+      "year": "1973",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Action"
+      ],
+      "runtime": "124",
+      "rating": "7.1",
+      "overview": "In San Francisco werden teils hochrangige Kriminelle durch einen unbekannten Täter ermordet. Chefinspektor Harry Callahan, wegen seiner unkonventionellen und brutalen Methoden von der Mordkommission in die Fahndung versetzt, lernt auf dem Schießstand eine unzertrennliche Gruppe von jungen Streifenpolizisten kennen, die alle beeindruckend gut schießen können. Schon bald kann \"Dirty Harry\" in die Mordkommission zurückkehren und nimmt die mysteriösen Fälle von Lynchjustiz auf. Schnell bemerkt Callahan, dass zwischen diesen Morden und den motivierten Kollegen eine Verbindung besteht, kann seinen Vorgesetzten aber nur mit Mühe davon überzeugen.",
+      "poster": "https://image.tmdb.org/t/p/w500/3A2Z8XFozacP9pqyVqntcCuaMl3.jpg",
+      "director": "Ted Post",
+      "cast": [
+        "Clint Eastwood",
+        "Hal Holbrook",
+        "Mitchell Ryan"
+      ],
+      "tmdbId": 10648,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00UBA9JP6?&linkCode=ll2&tag=ajsretro-21&linkId=9f8296ceb4becffbd78a75650051baf5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Beim Sterben ist jeder der Erste",
+      "originalTitle": "Deliverance",
+      "year": "1972",
+      "genres": [
+        "Drama",
+        "Abenteuer",
+        "Thriller"
+      ],
+      "runtime": "110",
+      "rating": "7.3",
+      "overview": "Vier zivilisationsmüde Großstädter starten das Abenteuer ihres Lebens. Sie fordern etwas heraus, das an ihre Männlichkeit, Tatkraft und Urinstinkte appelliert: den Chattooga, dessen Stromschnellen keiner je lebend überwunden hat. Ihre einzige Sicherheit sind zwei unsinkbare Aluminium-Kanus. Dennoch paddeln sie geradewegs in die Katastrophe. Aus dem Wochenend-Ausflug wird ein Höllentrip.",
+      "poster": "https://image.tmdb.org/t/p/w500/3NnDAP3P3mDnRw5VReamOxpuNkG.jpg",
+      "director": "John Boorman",
+      "cast": [
+        "Jon Voight",
+        "Burt Reynolds",
+        "Ned Beatty"
+      ],
+      "tmdbId": 10669,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYV9QVO?&linkCode=ll2&tag=ajsretro-21&linkId=6798be4932acb641c6a4e8c6d6d8ee5b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Sie fürchten weder Tod noch Teufel",
+      "originalTitle": "Lost Command",
+      "year": "1966",
+      "genres": [
+        "Action",
+        "Kriegsfilm"
+      ],
+      "runtime": "124",
+      "rating": "6.2",
+      "overview": "Während der Kämpfe der aufständischen Algerier um Unabhängigkeit von der französischen Kolonialmacht schließt sich der Journalist Esclavier als Hauptmann der Fallschirmjäger-Einheit des baskischen Oberst Raspéguy an. Während der erbitterten Kämpfe versucht Esclavier mehrfach vergeblich, sich als idealistischer Vermittler gegen Raspéguy durchzusetzen und scheitert. Unter dem Krieg leiden die Frauen der Soldaten, Esclaviers algerische Freundin Aicha, die ihr Volk nicht verrät, und Raspéguys Geliebte Gräfin de Clairefons, die er im Urlaub besucht. In Algerien kämpft eine französische Fallschirmjäger-Einheit erbittert gegen Aufständische, die für ein unabhängiges Algerien eintreten.",
+      "poster": "https://image.tmdb.org/t/p/w500/3nEd22nSg3oMTiIXiaNXqAygsiZ.jpg",
+      "director": "Mark Robson",
+      "cast": [
+        "Anthony Quinn",
+        "Alain Delon",
+        "George Segal"
+      ],
+      "tmdbId": 41057,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B00FAI7HOY?&linkCode=ll2&tag=ajsretro-21&linkId=4c195a4b7a7bdadb2837846d6bc8dd88&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Meuterei auf der Bounty",
+      "originalTitle": "Mutiny on the Bounty",
+      "year": "1962",
+      "genres": [
+        "Abenteuer",
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "178",
+      "rating": "7.1",
+      "overview": "Die Bounty importiert Brotfrüchte aus Tahiti, allerdings herrscht auf dem Schiff der grausame Kaptän Bligh. Im April 1789 kommt es zur Meuterei...",
+      "poster": "https://image.tmdb.org/t/p/w500/uo7byF1gujg35KEpfGonHz0O1L2.jpg",
+      "director": "Lewis Milestone",
+      "cast": [
+        "Marlon Brando",
+        "Trevor Howard",
+        "Richard Harris"
+      ],
+      "tmdbId": 11085,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B01N12W9J0?&linkCode=ll2&tag=ajsretro-21&linkId=25b87eec6c79f273138f63ee1fe95cd3&ref_=as_li_ss_tl"
     },
     {
       "title": "Black Bag - Doppeltes Spiel",
