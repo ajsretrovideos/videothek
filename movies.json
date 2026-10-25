@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:36:15.164Z",
+  "generatedAt": "2026-10-25T12:28:06.744Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -23,13 +23,13 @@
       "genre": "RomCom",
       "room": 1,
       "wall": "left",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Leichte Kost",
       "room": 1,
       "wall": "left",
-      "count": 0
+      "count": 23
     },
     {
       "genre": "Familie",
@@ -71,7 +71,7 @@
       "genre": "Action",
       "room": 2,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Heroes",
@@ -351,6 +351,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0F1TH7FKS?&linkCode=ll2&tag=ajsretro-21&linkId=bc08f7a0363adb9c78550f3039a5ba3a&ref_=as_li_ss_tl"
     },
     {
+      "title": "Conjuring 4: Das letzte Kapitel",
+      "originalTitle": "The Conjuring: Last Rites",
+      "year": "2025",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "135",
+      "rating": "6.9",
+      "overview": "Ed und Lorraine Warren nehmen einen besonders verstörenden Fall an: Jack (Elliot Cowan) und Janet Smurl ziehen 1976 mit ihren Kindern in ein neues Haus in Pennsylvania. Sie erfüllen sich damit ihren schon lange gehegten Traum vom Eigenheim. Doch schon bald häufen sich unerklärliche Vorkommnisse. Bis zum Jahr 1985 werden die Phänomene immer bedrohlicher, die Familie gerät immer näher an ihre Belastungsgrenze. In ihrer Not wenden sich die Smurls schließlich an die erfahrenen Ermittler für paranormale Erscheinungen, als die Ed und Lorraine Warren bekannt sind. Aus dem Ruhestand zurückgekehrt, stoßen die Warrens vor Ort auf ein Artefakt, das mit der Geburt ihrer Tochter Judy  in Verbindung steht und Erinnerungen an ihren allerersten Fall weckt. Die Ereignisse spitzen sich zu – es kommt zu einer letzten Konfrontation mit einem Dämon, der sie seit Jahrzehnten verfolgt.",
+      "poster": "https://image.tmdb.org/t/p/w500/1znowvqAYATIKezg7A7l1sPNj9M.jpg",
+      "director": "Michael Chaves",
+      "cast": [
+        "Patrick Wilson",
+        "Vera Farmiga",
+        "Mia Tomlinson"
+      ],
+      "tmdbId": 1038392,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0FN4369Q9?&linkCode=ll2&tag=ajsretro-21&linkId=d4c4c5b2c1fc2d5f637f43f9c2ba52b4&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Nosferatu - Der Untote",
       "originalTitle": "Nosferatu",
       "year": "2024",
@@ -459,6 +480,27 @@
       "tmdbId": 533642,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0GN3KVVT1?&linkCode=ll2&tag=ajsretro-21&linkId=59e69e39f1ce668f9be1bd3b0fe15217&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Verflucht",
+      "originalTitle": "Cursed",
+      "year": "2005",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "97",
+      "rating": "5.3",
+      "overview": "Die Geschwister Ellie und Jimmy werden eines Nachts von einem Werwolf angefallen. Langsam merken sie physische Veränderungen. Um die vollständige Verwandlung in ein Monster zu verhindern, müssen sie den Werwolf ausfindig machen, der sie gebissen hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/AcdyCriaOcw1Z7uiaoOcUtmQxZT.jpg",
+      "director": "Wes Craven",
+      "cast": [
+        "Christina Ricci",
+        "Joshua Jackson",
+        "Jesse Eisenberg"
+      ],
+      "tmdbId": 10012,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFV7ZN95?&linkCode=ll2&tag=ajsretro-21&linkId=90d3763c3d406d03b10216c85544702f&ref_=as_li_ss_tl"
     },
     {
       "title": "Zombie",
@@ -613,6 +655,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0C5BHHY4P?&linkCode=ll2&tag=ajsretro-21&linkId=ccf83015c2ae86c22df387779b943324&ref_=as_li_ss_tl"
     },
     {
+      "title": "All Fun and Games",
+      "originalTitle": "All Fun and Games",
+      "year": "2023",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "96",
+      "rating": "5.4",
+      "overview": "Eine erschreckende Geschichte über eine Gruppe von Jugendlichen aus Salem, die ein verfluchtes Messer entdecken, das einen Dämon entfesselt, der sie zwingt, grausame, tödliche Versionen von Kindheitsspielen zu spielen, bei denen es keine Gewinner gibt, sondern nur Überlebende.",
+      "poster": "https://image.tmdb.org/t/p/w500/2cvoRj7UGuS0snWejV6WjRt8k20.jpg",
+      "director": "Ari Costa",
+      "cast": [
+        "Asa Butterfield",
+        "Natalia Dyer",
+        "Benjamin Evan Ainsworth"
+      ],
+      "tmdbId": 926599,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0CVDXY2RH?&linkCode=ll2&tag=ajsretro-21&linkId=16246d9bdffbe4b3aba97438676d1ed6&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Midsommar",
       "originalTitle": "Midsommar",
       "year": "2019",
@@ -703,6 +767,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GWMC3FQ6?&linkCode=ll2&tag=ajsretro-21&linkId=5903507f5f4b449e42168fc03b295277&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Last Will and Testament of Rosalind Leigh",
+      "originalTitle": "The Last Will and Testament of Rosalind Leigh",
+      "year": "2012",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "82",
+      "rating": "5.0",
+      "overview": "Antiquitätenhändler Leon hatte nie ein besonders warmherziges Verhältnis zu seiner Mutter, die lieber in irgendwelchen Sektiererkreisen verkehrte anstatt auf seine Bedürfnisse Rücksicht zu nehmen. Jetzt ist die alte Dame von eigener Hand verschieden und hat ihm ein wunderliches altes Haus hinterlassen, voller Kunst, okkult-religiösem Nippes, und Hinweisen auf einen merkwürdigen Engelskult. Leon bezieht Quartier in der Villa, um sich einmal gründlich darin umzusehen. Dabei muss er feststellen, dass Mutti ihm noch einiges zu sagen hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/cPJKZHHN08KDbYUeYbTERCaEEFI.jpg",
+      "director": "Rodrigo Gudiño",
+      "cast": [
+        "Aaron Poole",
+        "Vanessa Redgrave",
+        "Julian Richings"
+      ],
+      "tmdbId": 106717,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXWRVJ3P?&linkCode=ll2&tag=ajsretro-21&linkId=7d6245926efc94b1804f956603da4918&ref_=as_li_ss_tl"
+    },
+    {
       "title": "7 Below - Haus der dunklen Seelen",
       "originalTitle": "7 Below",
       "year": "2012",
@@ -722,97 +808,6 @@
       "tmdbId": 84577,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0H3WL33RX?&linkCode=ll2&tag=ajsretro-21&linkId=51849983b10f6945927a59c26dbb53ef&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Intruders",
-      "originalTitle": "Intruders",
-      "year": "2011",
-      "genres": [
-        "Thriller",
-        "Horror",
-        "Fantasy"
-      ],
-      "runtime": "100",
-      "rating": "5.5",
-      "overview": "Zwei Städte, zwei Familien. Die Kinder Juan und Mia werden in verschiedenen Ländern von ähnlichen Albträumen heimgesucht – ein dämonisches Wesen will von ihnen Besitz ergreifen. Als ihre Eltern die unheimliche Bedrohung am eigenen Leib erfahren, stehen sie der Gefahr ohnmächtig gegenüber. Es gibt nur einen Ausweg: Sie müssen sich den eigenen Ängsten stellen, um ihre Kinder zu retten …",
-      "poster": "https://image.tmdb.org/t/p/w500/erGjRCwzKOGHxJ32fR5ObGYtBBK.jpg",
-      "director": "Juan Carlos Fresnadillo",
-      "cast": [
-        "Clive Owen",
-        "Carice van Houten",
-        "Ella Purnell"
-      ],
-      "tmdbId": 63207,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0GPL5QHJB?&linkCode=ll2&tag=ajsretro-21&linkId=2f4f272cfea1b4edd480aa8873652832&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Shutter - Sie sehen dich",
-      "originalTitle": "Shutter",
-      "year": "2008",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime": "85",
-      "rating": "5.5",
-      "overview": "Eine finanziell aussichtsreiche Anstellung lockt den Modefotografen Benjamin Shaw (Joshua Jackson) und seine Frau Jane (Rachael Taylor) in die japanische Hauptstadt. Dort freut sich das Paar über den Geldsegen, hat ein schickes Apartment und genießt das Leben in der Metropole. Doch dann passiert ein mysteriöser Autounfall. Hier wird zwar niemand ernsthaft verletzt, doch Jane hat eine beunruhigende Entdeckung gemacht, auf der sie beharrt: Sie sagt, kurz vor dem Zusammenprall eine geheimnisvolle junge Frau auf der Straße gesehen zu haben. Gerade wurde der Vorfall abgehakt, da sind auf Benjamins Fotos plötzlich unheimliche milchige Fratzen zu sehen. Er behauptet, die geisterhaften Erscheinungen seien unbedeutende Entwicklungsfehler, aber Jane lässt sich davon nicht beruhigen und beginnt eine Recherche. Dabei entdeckt sie dunkle Seiten an ihrem Ehemann, die ihr bisher verborgen waren...",
-      "poster": "https://image.tmdb.org/t/p/w500/jQgdaG8THhaOVyAzve6MZLZdxSZ.jpg",
-      "director": "落合正幸",
-      "cast": [
-        "Joshua Jackson",
-        "Rachael Taylor",
-        "奥菜恵"
-      ],
-      "tmdbId": 10885,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HDMXMQNM?&linkCode=ll2&tag=ajsretro-21&linkId=c4f9b05a9dceb2c49776fdb3ce2a5ca1&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Bug",
-      "originalTitle": "Bug",
-      "year": "2007",
-      "genres": [
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "runtime": "98",
-      "rating": "6.1",
-      "overview": "Kurz nach einigen Telefon-Attacken ihres gewalttätigen, vereinnahmenden Ex-Freundes Jerry steht der schüchterne und etwas wunderliche Peter vor der Tür der Kellnerin Agnes. Über einen kurzen Zeitraum hinweg entwickelt sich zwischen den beiden eine seltsame Liebe, die jäh zu enden droht, als Peters manische Angst vor Insekten, insbesondere Käfern, offenbar wird - und sich zunehmend auf Agnes überträgt. Zwischen Zuneigung und Ablehnung steigert man sich gemeinsam in einen fiebrigen Wahnsinn, der tödlich zu enden droht.",
-      "poster": "https://image.tmdb.org/t/p/w500/yjTmmAngldFoyDhHxNM8fHblk3O.jpg",
-      "director": "William Friedkin",
-      "cast": [
-        "Ashley Judd",
-        "Michael Shannon",
-        "Harry Connick Jr."
-      ],
-      "tmdbId": 12526,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0H4GDGTC8?&linkCode=ll2&tag=ajsretro-21&linkId=2af1a15fdc942339d18e31f8970e7b34&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Jason X",
-      "originalTitle": "Jason X",
-      "year": "2001",
-      "genres": [
-        "Horror",
-        "Science Fiction"
-      ],
-      "runtime": "91",
-      "rating": "4.9",
-      "overview": "Irgendwo in der unterirdischen „Crystal Lake Research Facility“, irgendwann zu Beginn des 21. Jahrhunderts: Trotz der Bedenken Rowans, einer jungen Projektleiterin, soll das Forschungsobjekt „Jason Voorhees“ von einem kleinen Militärtrupp in ein anderes Labor verlegt werden. Jason befreit sich aus seinen Ketten, macht mit den erfahrenen Soldaten kurzen Prozess und wird anschließend von Rowan in eine Cryo-Kammer gelockt. Dort gelingt es ihr zwar, das Monster einzufrieren, sie selbst entkommt dem lähmenden Eis allerdings genauso wenig. Im Jahr 2455 landet ein Forschungsschiff auf der inzwischen zerstörten Erde, sichert die beiden Funde und macht sich wieder auf den Weg nach „Erde 2“, wo die Menschheit eine neue Heimat fand. Rowan kann reanimiert werden, was bei Jason selbstredend automatisch geschieht. Einmal wach, begibt sich der Killer auf eine blutige Jagd nach den an Bord befindlichen Teenagern.",
-      "poster": "https://image.tmdb.org/t/p/w500/jQDFn4P3KTA8ArehzfqqExZ5EyL.jpg",
-      "director": "James Isaac",
-      "cast": [
-        "Kane Hodder",
-        "Jeff Geddis",
-        "Lexa Doig"
-      ],
-      "tmdbId": 11470,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0CK758TMW?&linkCode=ll2&tag=ajsretro-21&linkId=d931664579ca4a95e9d72765eb98f6f0&ref_=as_li_ss_tl"
     },
     {
       "title": "Jack Reacher - Kein Weg zurück",
@@ -954,6 +949,143 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CWB4YLB3?&linkCode=ll2&tag=ajsretro-21&linkId=681ac82c771423adc1ffbbd1cef68aa4&ref_=as_li_ss_tl"
     },
     {
+      "title": "Windtalkers",
+      "originalTitle": "Windtalkers",
+      "year": "2002",
+      "genres": [
+        "Kriegsfilm",
+        "Action"
+      ],
+      "runtime": "135",
+      "rating": "6.4",
+      "overview": "Im Pazifikkrieg werden die Marines Joe Enders und „Ox“ Henderson per Geheimbefehl abgestellt, als eine Art Leibwächter für die Funker Ben Yahzee und Charlie Whitehorse zu fungieren. Die beiden Navajos beherrschen einen speziellen Code, der auf keinen Fall in die Hände der Feinde gelangen darf. Die erbitterten Kämpfe um die Insel Saipan schweissen die Männer zusammen. Und es ist nur eine Frage der Zeit, bis die beiden Beschützer der Code-Sprecher mit einer furchtbaren Frage konfrontiert werden: Würden sie wirklich bis zum Äussersten gehen, um den Code zu schützen?",
+      "poster": "https://image.tmdb.org/t/p/w500/xN2yEoi4pyCFlZ7GvaobOITivxr.jpg",
+      "director": "John Woo",
+      "cast": [
+        "Nicolas Cage",
+        "Adam Beach",
+        "Peter Stormare"
+      ],
+      "tmdbId": 12100,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GHJCLPL2?&linkCode=ll2&tag=ajsretro-21&linkId=d02100035cd71554730b1c473a18b67d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ronin",
+      "originalTitle": "Ronin",
+      "year": "1998",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Krimi"
+      ],
+      "runtime": "122",
+      "rating": "7.0",
+      "overview": "Die geheimnisvolle Dierdre heuert mehrere Ronins (Samurais ohne Meister), käufliche Spezialisten für alle Fälle, an, um eine Tasche zu stehlen, ehe der momentane Besitzer sie an den KGB verkaufen kann. Die Männer kennen sich nicht, und obwohl sie unterschiedliche Berufs- und Lebensauffassungen haben, führen sie den Job aus. Doch die Tasche verschwindet kurz nach dem Coup und bald stecken alle Beteiligten in einem tödlichen Spiel, bei dem niemand sicher ist und jeder ein Verräter sein kann.",
+      "poster": "https://image.tmdb.org/t/p/w500/it9iwy9SfyTjx9ggxbfycESJn1S.jpg",
+      "director": "John Frankenheimer",
+      "cast": [
+        "Robert De Niro",
+        "Jean Reno",
+        "Natascha McElhone"
+      ],
+      "tmdbId": 8195,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DKFFCP79?&linkCode=ll2&tag=ajsretro-21&linkId=d4b066003298219ca83350f7f5e53fe9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "James Bond 007 - GoldenEye",
+      "originalTitle": "GoldenEye",
+      "year": "1995",
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "130",
+      "rating": "6.9",
+      "overview": "Die russische Mafia-Gruppe Janus hat “Goldeneye”, zwei Satelliten, deren elektromagnetische Strahlen alle elektrischen Geräte im Umkreis eines anvisierten Ziels zerstören, in ihre Kontrolle gebracht. Der Chef dieser kriminellen Bande ist Ex-”006″ Alec Trevelyan, James Bonds ehemaliger Kollege. Zusammen mit der Computerspezialistin Natalya Simonova setzt sich 007 auf die Spuren des Verräters.",
+      "poster": "https://image.tmdb.org/t/p/w500/trtANqAEy9dxRCeIe7YEDVeGkLw.jpg",
+      "director": "Martin Campbell",
+      "cast": [
+        "Pierce Brosnan",
+        "Sean Bean",
+        "Izabella Scorupco"
+      ],
+      "tmdbId": 710,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DS6GHTYZ?&linkCode=ll2&tag=ajsretro-21&linkId=d924220eaa166ce32ea2bcd4d8137187&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "James Bond 007 - Octopussy",
+      "originalTitle": "Octopussy",
+      "year": "1983",
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "131",
+      "rating": "6.4",
+      "overview": "Um die wahren Hintergründe einer gigantischen Juwelenschieberei aufzuspüren, ist James Bond der geheimnisvollen Octopussy auf den Fersen. Sie ahnt nicht, dass sie von einem Wahnsinnigen hinters Licht geführt wird. Der russische General Orlov benutzt ihren Octopussy-Zirkus vorgeblich, mit ihm den geraubten Kreml-Schatz durch Europa zu schmuggeln. Tatsächlich dient er ihm nur als trojanisches Pferd für einen atomaren Sprengkörper, der auf dem Gelände der US-Airforce in Feldberg detonieren soll.",
+      "poster": "https://image.tmdb.org/t/p/w500/ezfTabPy2lhS2qZA6pByq4Hz8To.jpg",
+      "director": "John Glen",
+      "cast": [
+        "Roger Moore",
+        "Maud Adams",
+        "Louis Jourdan"
+      ],
+      "tmdbId": 700,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DJL4VPZN?&linkCode=ll2&tag=ajsretro-21&linkId=2183b37cd9f43fde15e86324fc10c693&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "James Bond 007 - Moonraker - Streng geheim",
+      "originalTitle": "Moonraker",
+      "year": "1979",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "126",
+      "rating": "6.2",
+      "overview": "Während des Transportes auf dem Rücken einer Boeing 747 wird ein Space Shuttle entführt und das Flugzeug vernichtet. Seine Nachforschungen führen James Bond zu der Herstellerfirma des Shuttles. Schon bald merkt er, dass deren Besitzer Hugo Drax die gesamte Menschheit vernichten will. Es kommt zum Showdown im Weltall.",
+      "poster": "https://image.tmdb.org/t/p/w500/hILsK7VD4IxioiLDLomFnWxfhTh.jpg",
+      "director": "Lewis Gilbert",
+      "cast": [
+        "Roger Moore",
+        "Lois Chiles",
+        "Michael Lonsdale"
+      ],
+      "tmdbId": 698,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYYF8V7H?&linkCode=ll2&tag=ajsretro-21&linkId=b5762f54021f2b46e71be282c3add262&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Redux Redux",
+      "originalTitle": "Redux Redux",
+      "year": "2025",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "runtime": "109",
+      "rating": "6.6",
+      "overview": "Irene Kelly hat nur noch ein einziges Ziel im Leben: Den Mann zu töten, der ihre geliebte Tochter ermordet hat. Das gelingt ihr auch, doch ihr Rachedurst ist unstillbar – so unstillbar, dass sie ihr Vorhaben mit Hilfe einer Maschine, die sie zwischen parallelen Universen hin- und herreisen lässt, immer wieder aufs Neue in die Tat umsetzt. Doch mit jeder neuen Tötung des Killers verliert Irene ein Stück ihrer Menschlichkeit – bis es schließlich zu einer Abweichung kommt, durch die sie ihren selbst erschaffenen Teufelskreis zwar durchbrechen könnte, die dafür aber andere Gefahren birgt, die nicht nur ihre eigene Zukunft für immer dramatisch verändern könnte.",
+      "poster": "https://image.tmdb.org/t/p/w500/lh5TFBoDgVUi1UlfMWKwegVjam7.jpg",
+      "director": "Matthew McManus",
+      "cast": [
+        "Michaela McManus",
+        "Stella Marcus",
+        "Jeremy Holm"
+      ],
+      "tmdbId": 1340110,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GQ72CD4Z?&linkCode=ll2&tag=ajsretro-21&linkId=1d76d2a93302ed02f2220a86101cfd8e&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Violent Ends",
       "originalTitle": "Violent Ends",
       "year": "2025",
@@ -1024,6 +1156,27 @@
       "tmdbId": 818192,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0GWVYZ99S?&linkCode=ll2&tag=ajsretro-21&linkId=cf75cdb982264de7509004ccf11fa26c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Todeskandidaten 2",
+      "originalTitle": "The Condemned 2",
+      "year": "2015",
+      "genres": [
+        "Action"
+      ],
+      "runtime": "90",
+      "rating": "5.1",
+      "overview": "Ein Kopfgeldjäger scheitert bei seiner Jagd nach dem Anführer eines Glückspielrings. Nun muss er mit seinem Vater ein TV-Spiel überleben, in dem er zum Gejagten wird.",
+      "poster": "https://image.tmdb.org/t/p/w500/cOkLCwYsXLabeeLs45Hw3to5py0.jpg",
+      "director": "Roel Reiné",
+      "cast": [
+        "Randy Orton",
+        "Eric Roberts",
+        "Wes Studi"
+      ],
+      "tmdbId": 353610,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8R2FVDK?&linkCode=ll2&tag=ajsretro-21&linkId=1951c82d551ca221404cfc97c0ae1998&ref_=as_li_ss_tl"
     },
     {
       "title": "Into the White",
@@ -1197,7 +1350,7 @@
         "Action"
       ],
       "runtime": "117",
-      "rating": "6.5",
+      "rating": "6.6",
       "overview": "Nachdem er einem Gangsterboss auf unorthodoxe Art und Weise von diesem ins nächste Leben geholfen hat, wird Harry Calahan wieder einmal suspendiert. Man schickt ihn jedoch bald in ein kleines Küstenstädtchen, indem es zu einer Mordserie gekommen ist. Harry macht vor Ort die Bekanntschaft der unnahbaren Jennifer Spencer, die für ihn bald schon Hauptverdächtige für die Morde ist, welche sich offenbar auf eine Vergewaltigung von vor einigen Jahren beziehen. Calahan ist hin- und hergerissen...",
       "poster": "https://image.tmdb.org/t/p/w500/yvn2DSnzCq3KCOLSajZUXOjh3HI.jpg",
       "director": "Clint Eastwood",
@@ -1209,143 +1362,6 @@
       "tmdbId": 10650,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B00FYTAODA?&linkCode=ll2&tag=ajsretro-21&linkId=8a6a897a7845068ca484e77a7b209913&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Firefox",
-      "originalTitle": "Firefox",
-      "year": "1982",
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Thriller"
-      ],
-      "runtime": "136",
-      "rating": "6.1",
-      "overview": "Mitten im Kalten Krieg entwickeln die Sowjets ein neuartiges Kampfflugzeug, das im Westen für Unruhe und hektische Aktivität sorgt. Dank Überschallgeschwindigkeit, Tarnkappentechnik und hoch entwickelten Waffensystem ist der „Firefox“, so die inoffizielle Bezeichnung, allen NATO-Flugzeugen weit überlegen. Bisher haben die Sowjets nur einen Prototyp hergestellt, und damit das auch so bleibt, planen Amerikaner und Briten, das Flugzeug zu stehlen. Für diesen heiklen Auftrag wird Air-Force-Pilot und Vietnamkriegsveteran Mitchell Gant ausgewählt. Nicht nur, dass er flließend russisch spricht, er hat auch noch dieselbe Körpergröße, wie der Firefox-Testpilot Oberts Voskow. Mit Hilfe der übergelaufenen sowjetischen Wissenschaftler Baranovich und Semelovsky wird Gant mit der Technologie vertraut gemacht und dann nach Russland eingeschleust, um das Flugzeug zu entführen. Auf seiner gefährlichen Reise sitzen Gant dabei ständig der KGB und das Militär im Nacken...",
-      "poster": "https://image.tmdb.org/t/p/w500/4z4CyZ9dAWXG7mz1TVzpXB2uDYG.jpg",
-      "director": "Clint Eastwood",
-      "cast": [
-        "Clint Eastwood",
-        "Freddie Jones",
-        "David Huffman"
-      ],
-      "tmdbId": 10724,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DJXF8YGN?&linkCode=ll2&tag=ajsretro-21&linkId=14dd72fa63aa144e163a5d4a328f4e4e&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Die Tiefe",
-      "originalTitle": "The Deep",
-      "year": "1977",
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Abenteuer"
-      ],
-      "runtime": "123",
-      "rating": "6.1",
-      "overview": "Beim Tauchurlaub auf den Bahamas entdecken David und Gail in einem Wrack merkwürdige Ampullen und alten Schmuck. Damit ziehen sie die Aufmerksamkeit des Gangsters Cloche auf sich, der sich für das in den Ampullen enthaltene Morphium interessiert. David und Gail wenden sich an den lokalen Unterwasserexperten Treece, mit dem sie versuchen, den Rest des Schatzes zu bergen. Doch Cloche und seine Bande schrecken vor nichts zurück, um das Morphium in ihren Besitz zu bekommen.",
-      "poster": "https://image.tmdb.org/t/p/w500/98U1Lok4RvFOIZni5LCTdcpNqqs.jpg",
-      "director": "Peter Yates",
-      "cast": [
-        "Robert Shaw",
-        "Jacqueline Bisset",
-        "Nick Nolte"
-      ],
-      "tmdbId": 20416,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B00FAHQVWE?&linkCode=ll2&tag=ajsretro-21&linkId=5b4beb6cbe9c1a9c5ae914580fcf9011&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Dirty Harry II - Callahan",
-      "originalTitle": "Magnum Force",
-      "year": "1973",
-      "genres": [
-        "Drama",
-        "Krimi",
-        "Action"
-      ],
-      "runtime": "124",
-      "rating": "7.1",
-      "overview": "In San Francisco werden teils hochrangige Kriminelle durch einen unbekannten Täter ermordet. Chefinspektor Harry Callahan, wegen seiner unkonventionellen und brutalen Methoden von der Mordkommission in die Fahndung versetzt, lernt auf dem Schießstand eine unzertrennliche Gruppe von jungen Streifenpolizisten kennen, die alle beeindruckend gut schießen können. Schon bald kann \"Dirty Harry\" in die Mordkommission zurückkehren und nimmt die mysteriösen Fälle von Lynchjustiz auf. Schnell bemerkt Callahan, dass zwischen diesen Morden und den motivierten Kollegen eine Verbindung besteht, kann seinen Vorgesetzten aber nur mit Mühe davon überzeugen.",
-      "poster": "https://image.tmdb.org/t/p/w500/3A2Z8XFozacP9pqyVqntcCuaMl3.jpg",
-      "director": "Ted Post",
-      "cast": [
-        "Clint Eastwood",
-        "Hal Holbrook",
-        "Mitchell Ryan"
-      ],
-      "tmdbId": 10648,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B00UBA9JP6?&linkCode=ll2&tag=ajsretro-21&linkId=9f8296ceb4becffbd78a75650051baf5&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Beim Sterben ist jeder der Erste",
-      "originalTitle": "Deliverance",
-      "year": "1972",
-      "genres": [
-        "Drama",
-        "Abenteuer",
-        "Thriller"
-      ],
-      "runtime": "110",
-      "rating": "7.3",
-      "overview": "Vier zivilisationsmüde Großstädter starten das Abenteuer ihres Lebens. Sie fordern etwas heraus, das an ihre Männlichkeit, Tatkraft und Urinstinkte appelliert: den Chattooga, dessen Stromschnellen keiner je lebend überwunden hat. Ihre einzige Sicherheit sind zwei unsinkbare Aluminium-Kanus. Dennoch paddeln sie geradewegs in die Katastrophe. Aus dem Wochenend-Ausflug wird ein Höllentrip.",
-      "poster": "https://image.tmdb.org/t/p/w500/3NnDAP3P3mDnRw5VReamOxpuNkG.jpg",
-      "director": "John Boorman",
-      "cast": [
-        "Jon Voight",
-        "Burt Reynolds",
-        "Ned Beatty"
-      ],
-      "tmdbId": 10669,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B00FYV9QVO?&linkCode=ll2&tag=ajsretro-21&linkId=6798be4932acb641c6a4e8c6d6d8ee5b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Sie fürchten weder Tod noch Teufel",
-      "originalTitle": "Lost Command",
-      "year": "1966",
-      "genres": [
-        "Action",
-        "Kriegsfilm"
-      ],
-      "runtime": "124",
-      "rating": "6.2",
-      "overview": "Während der Kämpfe der aufständischen Algerier um Unabhängigkeit von der französischen Kolonialmacht schließt sich der Journalist Esclavier als Hauptmann der Fallschirmjäger-Einheit des baskischen Oberst Raspéguy an. Während der erbitterten Kämpfe versucht Esclavier mehrfach vergeblich, sich als idealistischer Vermittler gegen Raspéguy durchzusetzen und scheitert. Unter dem Krieg leiden die Frauen der Soldaten, Esclaviers algerische Freundin Aicha, die ihr Volk nicht verrät, und Raspéguys Geliebte Gräfin de Clairefons, die er im Urlaub besucht. In Algerien kämpft eine französische Fallschirmjäger-Einheit erbittert gegen Aufständische, die für ein unabhängiges Algerien eintreten.",
-      "poster": "https://image.tmdb.org/t/p/w500/3nEd22nSg3oMTiIXiaNXqAygsiZ.jpg",
-      "director": "Mark Robson",
-      "cast": [
-        "Anthony Quinn",
-        "Alain Delon",
-        "George Segal"
-      ],
-      "tmdbId": 41057,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B00FAI7HOY?&linkCode=ll2&tag=ajsretro-21&linkId=4c195a4b7a7bdadb2837846d6bc8dd88&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Meuterei auf der Bounty",
-      "originalTitle": "Mutiny on the Bounty",
-      "year": "1962",
-      "genres": [
-        "Abenteuer",
-        "Drama",
-        "Historie"
-      ],
-      "runtime": "178",
-      "rating": "7.1",
-      "overview": "Die Bounty importiert Brotfrüchte aus Tahiti, allerdings herrscht auf dem Schiff der grausame Kaptän Bligh. Im April 1789 kommt es zur Meuterei...",
-      "poster": "https://image.tmdb.org/t/p/w500/uo7byF1gujg35KEpfGonHz0O1L2.jpg",
-      "director": "Lewis Milestone",
-      "cast": [
-        "Marlon Brando",
-        "Trevor Howard",
-        "Richard Harris"
-      ],
-      "tmdbId": 11085,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B01N12W9J0?&linkCode=ll2&tag=ajsretro-21&linkId=25b87eec6c79f273138f63ee1fe95cd3&ref_=as_li_ss_tl"
     },
     {
       "title": "Black Bag - Doppeltes Spiel",
@@ -1730,6 +1746,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GSS2WJ5N?&linkCode=ll2&tag=ajsretro-21&linkId=0b270ea30d5465d0e37c34bb37a95043&ref_=as_li_ss_tl"
     },
     {
+      "title": "Catch Me If You Can",
+      "originalTitle": "Catch Me If You Can",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "runtime": "141",
+      "rating": "8.0",
+      "overview": "Frank W. Abagnale war nicht nur als Arzt und Rechtsanwalt erfolgreich, sondern auch als Copilot einer großen Fluglinie. Das alles erreichte er vor seinem 21. Geburtstag. Er ist ein Meister der Täuschung, aber auch ein brillanter Fälscher. Durch geschickte Scheckbetrügereien ist er zu einem Vermögen von mehreren Millionen Dollar gekommen. FBI-Agent Carl Hanratty hat ihn schon länger im Visier und macht sich zur Aufgabe, Frank zu fassen und vor Gericht zu bringen. Frank ist ihm jedoch immer einen Schritt voraus und macht sich einen Spaß daraus, seinem Verfolger kleine Köder vorzuwerfen, damit die Jagd weiter geht…",
+      "poster": "https://image.tmdb.org/t/p/w500/bJLrws4RmIw6UdXQJ6Ok4UOvKo0.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken"
+      ],
+      "tmdbId": 640,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HK9Q3TXY?&linkCode=ll2&tag=ajsretro-21&linkId=a90e9f339991994d5768b57ed22164ff&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Insomnia - Schlaflos",
       "originalTitle": "Insomnia",
       "year": "2002",
@@ -1751,6 +1789,28 @@
       "tmdbId": 320,
       "genre": "Thrill",
       "url": "https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Das Tribunal",
+      "originalTitle": "Hart's War",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Kriegsfilm"
+      ],
+      "runtime": "125",
+      "rating": "6.4",
+      "overview": "Der zweite Weltkrieg, ein Kriegsgefangenenlager für US-Soldaten bei Augsburg. US-Lieutenant Thomas Hart wird von dem höchsten gefangenen Offizier McNamara  in eine gemeine Soldatenbaracke gesperrt. Dort kommen auch zwei schwarze Kampfpiloten unter, die sich ständig rassistischer Attacken erwehren müssen. Eines Tages findet man eine Waffe bei einem von Ihnen, der daraufhin hingerichtet wird. Am nächsten Tag liegt der Anführer der Rassisten tot in der Baracke. Sein Freund gerät unter Verdacht und kommt vor ein Tribunal, daß der deutsche Lagerkommandant die allierten Gefangenen selbst führen läßt. Hart wird mit der Verteidigung beauftragt und merkt bald, daß McNamara mit der Verhandlung ganz eigene Pläne verfolgt...",
+      "poster": "https://image.tmdb.org/t/p/w500/cvj5HSRNnuzDLZeBIV7Y4xkdq0b.jpg",
+      "director": "Gregory Hoblit",
+      "cast": [
+        "Bruce Willis",
+        "Colin Farrell",
+        "Terrence Howard"
+      ],
+      "tmdbId": 10592,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYS5G7R2?&linkCode=ll2&tag=ajsretro-21&linkId=6561fee5dc59856f0957f4a98a099055&ref_=as_li_ss_tl"
     },
     {
       "title": "Der talentierte Mr. Ripley",
@@ -1844,51 +1904,6 @@
       "tmdbId": 10731,
       "genre": "Thrill",
       "url": "https://www.amazon.de/gp/video/detail/B0FRS8TN15?&linkCode=ll2&tag=ajsretro-21&linkId=856e30267ac508a19ced5ee0d9ccca25&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "The Royal Hotel",
-      "originalTitle": "The Royal Hotel",
-      "year": "2023",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime": "91",
-      "rating": "5.4",
-      "overview": "Die Kanadierinnen Hanna (Julia Garner) und Liv (Jessica Henwick) sind beste Freundinnen, die mit dem Rucksack in Australien unterwegs sind. Als ihnen das Geld ausgeht, überredet die abenteuerlustige Liv Hanna, vorübergehend hinter der Bar eines Pubs namens „The Royal Hotel\" in einer abgelegenen Bergbaustadt im australischen Outback zu arbeiten. Der Barbesitzer Billy (Hugo Weaving) und eine Reihe von Einheimischen machen die Mädchen auf die harte Tour mit der Trinkkultur in Down Under vertraut. Dabei geraten sie unter anderem mit Matty (Toby Wallace) und Dolly (Daniel Henshall) aneinander. Und Billy scheint wenig Interesse daran zu haben, seine beiden neuen Mitarbeiterinnen vor den übergriffigen Locals zu schützen. Daraufhin eskaliert die Situation endgültig: Billy landet nach einem Streit im Krankenhaus, Liv und Hanna feiern eine alkoholreiche Party mit den Locals und anderen Royal-Gästen, die zunehmend aus dem Ruder läuft – bis es brennt...",
-      "poster": "https://image.tmdb.org/t/p/w500/t1Ng2bDTgNqaCHvEHKb0m5eR2W1.jpg",
-      "director": "Kitty Green",
-      "cast": [
-        "Julia Garner",
-        "Jessica Henwick",
-        "Hugo Weaving"
-      ],
-      "tmdbId": 944952,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0CQ6WK1HN?&linkCode=ll2&tag=ajsretro-21&linkId=b0f88358ccf1e62df2e0b9011b0814fb&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Notorious B.I.G.",
-      "originalTitle": "Notorious",
-      "year": "2009",
-      "genres": [
-        "Musik",
-        "Drama",
-        "Historie"
-      ],
-      "runtime": "122",
-      "rating": "7.0",
-      "overview": "Zu Beginn der Neunzigerjahre hat sich Christopher Wallace in seinem Viertel in Brooklyn bereits einen Namen gemacht als Drogendealer und Zuhälter. Nach einem Gefängnisaufenthalt tut er sich mit dem ambitionierten Produzenten Puff Daddy zusammen und nimmt für ihn unter dem Namen The Notorious B.I.G. sein erstes Album auf, das sich als Sensationserfolg erweist. Wallace schließt Freundschaft mit dem bereits berühmten Westküsten-Rapper Tupac Shakur. Als Shakur in seinem Aufnahmestudio angeschossen wird, gibt er B.I.G. die Schuld. Ein wilder Krieg beginnt.",
-      "poster": "https://image.tmdb.org/t/p/w500/oT6kuZw8BOiwYo3FrI7Id7unJUE.jpg",
-      "director": "George Tillman Jr.",
-      "cast": [
-        "Jamal Woolard",
-        "Derek Luke",
-        "Naturi Naughton"
-      ],
-      "tmdbId": 14410,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B00ILNCIAS?&linkCode=ll2&tag=ajsretro-21&linkId=971d86562f55765bb2bc35892fb5d8a5&ref_=as_li_ss_tl"
     },
     {
       "title": "Sentimental Value",
@@ -2020,6 +2035,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GXF78KXR?&linkCode=ll2&tag=ajsretro-21&linkId=6feef8de9c52bde593c33617b26b5aaa&ref_=as_li_ss_tl"
     },
     {
+      "title": "Almost Famous - Fast berühmt",
+      "originalTitle": "Almost Famous",
+      "year": "2000",
+      "genres": [
+        "Drama",
+        "Musik"
+      ],
+      "runtime": "122",
+      "rating": "7.5",
+      "overview": "San Diego, 1973: Der 15-jährige William träumt davon, eines Tages ein großer Rock-Kritiker zu werden - obwohl oder gerade weil seine Mutter hinter dieser Musik nur Drogen und zügellosen Sex wittert. Da bekommt der schüchterne Teen vom Rolling Stone Magazine unverhofft ein Traumangebot: Er soll die aufstrebende Band Stillwater auf ihrer \"Almost Famous\"-Tour begleiten. Dabei lernt er nicht nur das Leben auf der Überholspur sondern auch Penny Lane kennen, die allerdings nur Augen für den charismatischen Gitarristen Russell hat...",
+      "poster": "https://image.tmdb.org/t/p/w500/vq5gTyQ7nRdsUsNA6fqZwlaQoGN.jpg",
+      "director": "Cameron Crowe",
+      "cast": [
+        "Billy Crudup",
+        "Frances McDormand",
+        "Kate Hudson"
+      ],
+      "tmdbId": 786,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWNNT9NX?&linkCode=ll2&tag=ajsretro-21&linkId=43dfbd2db2b382348ca7ba883fd51203&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Magnolia",
       "originalTitle": "Magnolia",
       "year": "1999",
@@ -2039,6 +2076,52 @@
       "tmdbId": 334,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0C7JMMGZF?&linkCode=ll2&tag=ajsretro-21&linkId=96a0ae5a53bffb00b80a33a9e03b640f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Durchgeknallt",
+      "originalTitle": "Girl, Interrupted",
+      "year": "1999",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "127",
+      "rating": "7.6",
+      "overview": "Im konservativen Nordwesten der USA leidet die 17-jährige Susanna unter Ängsten, Depressionen und dem Gefühl, vom Leben ausgeschlossen zu sein. Ihre ersten Erfahrungen mit Männern waren deprimierend und haben dazu beigetragen, dass sie versucht hat, sich mit Schlaftabletten das Leben zu nehmen. Susanna wird gerettet und in die Psychiatrie eingeliefert. Dort freundet sie sich mit der Soziopathin Lisa an, die sie ebenso verehrt wie fürchtet. Eingesperrt unter gewalttätigen und durchgedrehten Mitpatienten, hilflos den Schikanen der Anstaltsleitung ausgeliefert, dämmert ihr allmählich, dass sie wieder frei sein möchte ...",
+      "poster": "https://image.tmdb.org/t/p/w500/tGaQDQgx0VVDmCoqjzcSJCErXvM.jpg",
+      "director": "James Mangold",
+      "cast": [
+        "Winona Ryder",
+        "Angelina Jolie",
+        "Clea DuVall"
+      ],
+      "tmdbId": 3558,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0D8BBTMHK?&linkCode=ll2&tag=ajsretro-21&linkId=6671c7cc27191e00faa927b0c76ed264&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rob Roy",
+      "originalTitle": "Rob Roy",
+      "year": "1995",
+      "genres": [
+        "Abenteuer",
+        "Historie",
+        "Drama",
+        "Action",
+        "Kriegsfilm"
+      ],
+      "runtime": "137",
+      "rating": "6.7",
+      "overview": "Schottland zu Beginn des 18. Jahrhunderts: Robert Roy MacGregor lebt mit seiner Frau Mary und seinen Kindern in den schottischen Highlands. Sein Clan ist arm und muss sich daher mit gelegentlichen Viehdiebstählen aushelfen. Um diesem Dasein ein Ende zu bereiten, leiht sich Rob Roy für einen Profit versprechenden Viehhandel 1.000 Pfund bei dem machthungrigen Marquis von Montrose. Dessen mittelloser Neffe und Günstling Archibald Cunningham, der sich vorübergehend am Hofe einquartiert hat und dort die Dienstmädchen beglückt, schmiedet gemeinsam mit dem Adligen Killearn einen hinterhältigen Plan: Er ersticht den Geldboten und streicht Rob Roys Geld selbst ein. Weil der Clanführer den Kredit nicht auf die Schnelle zurückzahlen kann, fordert der von dem Raub nichts ahnende Marquis als Ersatzleistung von MacGregor, seinen schärfsten Konkurrenten, den Herzog von Argyll, öffentlich zu verleumden. Als ein Mann von Ehre kann Rob Roy dieser Forderung nicht nachgeben...",
+      "poster": "https://image.tmdb.org/t/p/w500/dHVLBLYLjEAeOQUZCVrxdVEb69U.jpg",
+      "director": "Michael Caton-Jones",
+      "cast": [
+        "Liam Neeson",
+        "Jessica Lange",
+        "John Hurt"
+      ],
+      "tmdbId": 11780,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0C68V9XJP?&linkCode=ll2&tag=ajsretro-21&linkId=50281cec2980219cd83e38dd304cc037&ref_=as_li_ss_tl"
     },
     {
       "title": "Dreams - Gefährliches Verlangen",
@@ -2193,6 +2276,16 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DRCT5RZ2?&linkCode=ll2&tag=ajsretro-21&linkId=cc83369fdf210f350984af9ead42ae39&ref_=as_li_ss_tl"
     },
     {
+      "title": "Radium-Mädchen",
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HL5MS4Q1?&linkCode=ll2&tag=ajsretro-21&linkId=8cb7b6c6130fbd5f3a0a8bb3e48aa71d&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2020",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
       "title": "The Last Vermeer",
       "originalTitle": "The Last Vermeer",
       "year": "2019",
@@ -2260,69 +2353,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0D957H287?&linkCode=ll2&tag=ajsretro-21&linkId=5eaf1bcb3c16f5c02faa257bc3cb354c&ref_=as_li_ss_tl"
     },
     {
-      "title": "The Birth Of A Nation - Aufstand zur Freiheit",
-      "originalTitle": "The Birth of a Nation",
-      "year": "2016",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "120",
-      "rating": "6.6",
-      "overview": "Der Süden der Vereinigten Staaten von Amerika, 30 Jahre vor dem Bürgerkrieg: Nat Turner ist ein gebildeter Prediger, der als Sklave unter Samuel Turner lebt. Der Sklavenhalter steht kurz vor dem Bankrott, als er ein Angebot erhält, das viel Geld verspricht: Nats Fertigkeiten als Prediger sollen dazu missbraucht werden, Sklaven unter Kontrolle zu bekommen, die Widerstand leisten. Der Priester wird zum Handlanger seines eigenen Unterdrückers und muss viele Grausamkeiten ertragen bzw. mitansehen. Es trifft ihn, es trifft seine Freunde und es trifft seine Frau Cherry. Die anhaltenden Demütigungen treiben Nat schließlich zu einer radikalen Entscheidung: Er führt einen Aufstand herbei, in der Hoffnung, endlich allen Sklaven die Freiheit zu ermöglichen.",
-      "poster": "https://image.tmdb.org/t/p/w500/29cLbZ1BCT0LzzBDg95HbMrwZtV.jpg",
-      "director": "Nate Parker",
-      "cast": [
-        "Nate Parker",
-        "Armie Hammer",
-        "Aja Naomi King"
-      ],
-      "tmdbId": 339408,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0B6NK1PQL?&linkCode=ll2&tag=ajsretro-21&linkId=224b4dac390f87330e728844107397a6&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mutter Theresa",
-      "originalTitle": "The Letters",
-      "year": "2014",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "114",
-      "rating": "5.7",
-      "overview": "Dieses bewegende und inspirierende Porträt von Mutter Theresa begleitet die unermüdliche Fürbitterin der Armen und Vergessenen 40 Jahre lang auf ihrem unglaublichen Lebensweg die Aufnahme bei den Loretoschwestern in Dublin, ihre Reise nach Darjeeling, die Gründung der Missionarinnen der Nächstenliebe zur Hilfe der Ärmsten, ihre unschätzbaren Opfer in den Slums von Kalkutta und die Auszeichnung mit dem Friedensnobelpreis.",
-      "poster": "https://image.tmdb.org/t/p/w500/8qnZycQWka7I8TbZ7UcvJ6I3weB.jpg",
-      "director": "William Riead",
-      "cast": [
-        "Rutger Hauer",
-        "Juliet Stevenson",
-        "Max von Sydow"
-      ],
-      "tmdbId": 218275,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B01L96HTAC?&linkCode=ll2&tag=ajsretro-21&linkId=025d121a79c0583123c9aa30e84f7f4e&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Cesar Chavez",
-      "originalTitle": "Cesar Chavez",
-      "year": "2014",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "102",
-      "rating": "6.2",
-      "overview": "César Estrada Chávez ist ein Migrant, der wie viele andere den Weg in die USA wagt, um hier ein besseres Leben zu finden. Dabei heuert er als Arbeiter auf einer Farm in Kalifornien an, doch schon sehr bald ist er angewidert von den menschenunwürdigen Arbeitsbedingungen, unter denen die vornehmlich immigrierten Arbeiter hier schuften müssen. Er beschließt daher, etwas gegen das Unrecht zu tun: Das ist die Geburtsstunde der US-Landarbeitergewerkschaft ‚United Farm Workers‘, der schon bald über 50 000 Personen angehören. Doch mit seinem überwältigendem Erfolg ist der Menschenrechtsaktivist auch vielen einflussreichen Leuten ein Dorn im Auge – besonders in der Politik. Für ihre Interessen tritt Bogdanovitch ein, der mit seinen Leuten alles daran setzt, die von Chávez angestoßene Bewegung zu zerschlagen.",
-      "poster": "https://image.tmdb.org/t/p/w500/eOHHJ1WINcAxyHUrRRMO4pjeJLn.jpg",
-      "director": "Diego Luna",
-      "cast": [
-        "Michael Peña",
-        "Rosario Dawson",
-        "America Ferrera"
-      ],
-      "tmdbId": 230779,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B01924NC68?&linkCode=ll2&tag=ajsretro-21&linkId=53eb6155f81a321285fecba8d20623b7&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Ziemlich beste Freunde",
       "originalTitle": "Intouchables",
       "year": "2011",
@@ -2343,29 +2373,6 @@
       "tmdbId": 77338,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0H6KJFXL9?&linkCode=ll2&tag=ajsretro-21&linkId=108c5add580c20bda885eacc5d53ee25&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Gia - Der Preis der Schönheit",
-      "originalTitle": "Gia",
-      "year": "1998",
-      "genres": [
-        "Liebesfilm",
-        "Drama",
-        "TV-Film"
-      ],
-      "runtime": "117",
-      "rating": "7.1",
-      "overview": "Die schöne Gia Carangi zieht es mit gerade einmal 17 Jahren nach New York um dort eine Karriere als Modell zu starten. Und ihr großer Traum scheint in Erfüllung zu gehen, bekommt sie doch sehr schnell gute Angebote und entwickelt sich innerhalb kürzester Zeit zu einem der gefragtesten Modells in der Branche. Kein Magazin, das die junge und wilde Gia nicht auf ihrem Cover haben will. Doch mit dem Erfolg kommen auch die Schattenseiten des Geschäfts zum Vorschein und die junge Frau verfällt dem Sog aus Ruhm und Drogen. Sie lernst die Visagistin Linda kennen und die beiden verlieben sich in einander. Gia steht offen zu ihrer Homosexualität und stellt dies offen zur Diskussion. Doch die junge Liebe ist schon früh zum Scheitern verdammt, verfällt das Modell doch mehr und mehr den Drogen. Bis sie eines Tages eine erschütternde Diagnose erhält, die ihr junges Leben für immer verändern soll…",
-      "poster": "https://image.tmdb.org/t/p/w500/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
-      "director": "Michael Cristofer",
-      "cast": [
-        "Angelina Jolie",
-        "Elizabeth Mitchell",
-        "Eric Michael Cole"
-      ],
-      "tmdbId": 14533,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0GXCJY5Y7?&linkCode=ll2&tag=ajsretro-21&linkId=9f6378c93c33ede8d9bfe0ecebe20a44&ref_=as_li_ss_tl"
     },
     {
       "title": "Magic Mike: The Last Dance",
@@ -2500,6 +2507,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CNT517VN?&linkCode=ll2&tag=ajsretro-21&linkId=39fd40bd709e93b68c74c335468211d6&ref_=as_li_ss_tl"
     },
     {
+      "title": "Heiraten für Fortgeschrittene",
+      "originalTitle": "Crush",
+      "year": "2002",
+      "genres": [
+        "Liebesfilm",
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "107",
+      "rating": "5.7",
+      "overview": "Jeden Montag treffen sie sich, die alleinlebenden Mittvierziger Kate, Molly und Janine, die sich selbst ganz unverblümt \"Sad Fuckers Club\" nennen. Bei Gin, Zigaretten und Schokolade wird heftig über die Männer bzw. deren Abwesenheit diskutiert. Da trifft Kate auf einer Beerdigung ganz unerwartet ihren Ex-Schüler Jed, der sich nicht nur in geistiger Hinsicht prächtig entwickelt hat. Zwischen den beiden entspinnt sich eine Liebesbeziehung, die den beiden Freundinnen so gar nicht gefällt und was schwerwiegende Folgen nach sich zieht",
+      "poster": "https://image.tmdb.org/t/p/w500/7d37qKY0Vj8Z9MmNnzfBVqfwx3W.jpg",
+      "director": "John McKay",
+      "cast": [
+        "Andie MacDowell",
+        "Imelda Staunton",
+        "Anna Chancellor"
+      ],
+      "tmdbId": 18435,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXKKPGBD?&linkCode=ll2&tag=ajsretro-21&linkId=52a82d1cfd8402339b4fa297e62f767c&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Eiskalte Engel 2",
       "originalTitle": "Cruel Intentions 2",
       "year": "2000",
@@ -2586,6 +2616,29 @@
       "tmdbId": 9058,
       "genre": "RomCom",
       "url": "https://www.amazon.de/gp/video/detail/B00FZEVKIM?&linkCode=ll2&tag=ajsretro-21&linkId=17fec7b0e88c2ae43d5de871d528d4da&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Viel Lärm um nichts",
+      "originalTitle": "Much Ado About Nothing",
+      "year": "1993",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "111",
+      "rating": "7.0",
+      "overview": "Edelmann Benedikt, ein Getreuer Don Pedros, und Beatrice, die Nichte des Fürsten Leonato, verbergen ihre Zuneigung hinter dem Austausch von Bosheiten. Liebe auf den ersten Blick hingegen verbindet Hero, die Tochter Leonatos, dem Gastgeber der Truppe Don Pedros mit dem Grafen Claudio. Während man am Hof des Fürsten Beatrice und Benedikt miteinander zu verkuppeln sucht, treibt Juan, der Halbbruder Don Pedros ein böses Spiel, um dem Feldherrn zu schaden und die Liebe von Hero und Claudio zu hintertreiben.",
+      "poster": "https://image.tmdb.org/t/p/w500/88vJAUduUHtSUbO0gs340j3R95B.jpg",
+      "director": "Kenneth Branagh",
+      "cast": [
+        "Emma Thompson",
+        "Kenneth Branagh",
+        "Kate Beckinsale"
+      ],
+      "tmdbId": 11971,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0FLX1X3JR?&linkCode=ll2&tag=ajsretro-21&linkId=4a0bb992aa66ebd83919d46c36386d33&ref_=as_li_ss_tl"
     },
     {
       "title": "Nur für einen Tag",
@@ -2809,6 +2862,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GJPN985L?&linkCode=ll2&tag=ajsretro-21&linkId=e3e760779aaf524658dd9772e7b58c59&ref_=as_li_ss_tl"
     },
     {
+      "title": "Auf den ersten Blick",
+      "originalTitle": "At First Sight",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "124",
+      "rating": "6.0",
+      "overview": "In einem kleinen Ferienort in den Bergen verliebt sich die New Yorker Architektin Amy in den blinden Masseur Virgil. Der sensible junge Mann hat gelernt, mit seiner Krankheit zu leben, doch Amy will sich nicht mit seinem Schicksal abfinden. Auf ihr Drängen hin unterzieht er sich einer Operation, die ihm tatsächlich sein Augenlicht wiedergibt. Aber sein Weg zurück ins normale Leben wird für beide zu einer dramatischen Bewährungsprobe...",
+      "poster": "https://image.tmdb.org/t/p/w500/cBCHj2r2vZa712d5OYQlUhj4LFP.jpg",
+      "director": "Irwin Winkler",
+      "cast": [
+        "Val Kilmer",
+        "Mira Sorvino",
+        "Kelly McGillis"
+      ],
+      "tmdbId": 15556,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJCLSZ1S?&linkCode=ll2&tag=ajsretro-21&linkId=a65811e6cc12750a6fac2e426d03b50c&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Stella's Groove - Männer sind die halbe Miete",
       "originalTitle": "How Stella Got Her Groove Back",
       "year": "1998",
@@ -2832,49 +2907,517 @@
       "url": "https://www.amazon.de/gp/video/detail/B01EIKSIRE?&linkCode=ll2&tag=ajsretro-21&linkId=5ec885701e9296237bbc6b280b852cf6&ref_=as_li_ss_tl"
     },
     {
-      "title": "Das verrückte California-Hotel",
-      "originalTitle": "California Suite",
-      "year": "1978",
+      "title": "Let Them All Talk",
+      "originalTitle": "Let Them All Talk",
+      "year": "2020",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "113",
+      "rating": "5.6",
+      "overview": "Die berühmte Autorin Alice Hughes unternimmt mit zwei alten Freundinnen und ihrem Neffen Tyler eine Schiffsreise nach Großbritannien, um dort einen Preis entgegenzunehmen. Während der Fahrt kommt es zu Spannungen zwischen den Protagonisten, vor allem ausgelöst durch Tylers Gefühle für Alices junge Agentin, die ohne das Wissen ihrer Klientin ebenfalls mit an Bord ist. Sie möchte über Tyler an herausfinden, ob Alice aktuell an einer Fortsetzung ihres erfolgreichen letzten Buchs arbeitet.",
+      "poster": "https://image.tmdb.org/t/p/w500/4mhZqZ7nXL6Dj6PKZSseJxv1qXZ.jpg",
+      "director": "Steven Soderbergh",
+      "cast": [
+        "Meryl Streep",
+        "Lucas Hedges",
+        "Gemma Chan"
+      ],
+      "tmdbId": 623856,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8MRQJLV?&linkCode=ll2&tag=ajsretro-21&linkId=97ecca4074bf2151316834aff5bd40f9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Florence Foster Jenkins",
+      "originalTitle": "Florence Foster Jenkins",
+      "year": "2016",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "110",
+      "rating": "6.7",
+      "overview": "Das Biopic Florence Foster Jenkins erzählt die wahre Geschichte der New Yorker Erbin Florence Foster Jenkins, die trotz ihres mangelnden Talents davon träumt, eine berühmte Opernsängerin zu werden. Ihr Lebensgefährte und Manager, St. Clair Bayfield (Hugh Grant), der ihr all die Jahre wohlmeinend die Wahrheit über ihren schiefen Gesang verschwiegen hatte, gerät plötzlich in arge Schwierigkeiten, als Florence beschließt, vor einem großen Publikum in der renommierten Carnegie Hall aufzutreten.",
+      "poster": "https://image.tmdb.org/t/p/w500/r9GEl3KkWLbrWtLEOKtquQX333B.jpg",
+      "director": "Stephen Frears",
+      "cast": [
+        "Meryl Streep",
+        "Hugh Grant",
+        "Simon Helberg"
+      ],
+      "tmdbId": 315664,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFF3719R?&linkCode=ll2&tag=ajsretro-21&linkId=14c87fa30ff7ac6c8de45abfa5408562&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rock of Ages",
+      "originalTitle": "Rock of Ages",
+      "year": "2012",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm",
+        "Musik"
+      ],
+      "runtime": "136",
+      "rating": "6.2",
+      "overview": "Kleinstadtmädchen Sherrie lernt den Großstadtjungen Drew auf dem Sunset Strip im Los Angeles des Jahres 1987 kennen. Sie vereint, dass sie jung und wild sind und sich ihre Rock'n'Roll-Träume erfüllen wollen, koste es, was es wolle. Doch ihre Welt ist in Gefahr: Sex, Drogen und Rock'n'Roll sollen auf Betreiben einer Gruppe von Saubermännern und besorgter Eltern gezähmt werden. Um den besten Club der Stadt zu retten, soll Rocklegende Stacee Jaxx sein letztes Konzert im Club spielen.",
+      "poster": "https://image.tmdb.org/t/p/w500/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg",
+      "director": "Adam Shankman",
+      "cast": [
+        "Julianne Hough",
+        "Diego Boneta",
+        "Alec Baldwin"
+      ],
+      "tmdbId": 80585,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B5NW8VDJ?&linkCode=ll2&tag=ajsretro-21&linkId=8cd02cd235928d4f6bb1c17e8a78dd6a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gullivers Reisen - Da kommt was Großes auf uns zu",
+      "originalTitle": "Gulliver's Travels",
+      "year": "2010",
+      "genres": [
+        "Familie",
+        "Komödie",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "runtime": "90",
+      "rating": "5.2",
+      "overview": "Gulliver ist ein Loser! Schon seit Jahren ist er Single und versauert in der Poststelle eines renommierten Reiseverlags, träumt aber eigentlich von der großen Karriere - und Liebe! Eines Tages hilft der vorlaute, wenn auch sympathische Gulliver seinem Glück mithilfe eines gefälschten Reiseberichtes nach und darf sein großes Abenteuer zum Bermudadreieck antreten, um einen Bericht darüber zu verfassen. Nach einer chaotischen Reise strandet Gulliver stattdessen auf der geheimnisvollen Insel Liliput, dessen Einwohner winzig sind und den fremden Riesen zunächst gefangen nehmen. Gulliver kann sie aber durch fantastische und irrwitzige Lügengeschichten für sich und seinen coolen New Yorker Lebensstil begeistern. Zusammen mit den Winzlingen erlebt er lustige und große Herausforderungen, die ihn sogar zum Helden machen. Am Ende lernt der große Gulliver von den ganz Kleinen, dass wahre Größe von innen kommt ...",
+      "poster": "https://image.tmdb.org/t/p/w500/e5BzGaqX4bfhdj1kihxCbcuMQfJ.jpg",
+      "director": "Rob Letterman",
+      "cast": [
+        "Jack Black",
+        "Jason Segel",
+        "Emily Blunt"
+      ],
+      "tmdbId": 38745,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B00IK9CH7M?&linkCode=ll2&tag=ajsretro-21&linkId=13820902478079dcffcd810fdc6b7ad9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Kiss Kiss Bang Bang",
+      "originalTitle": "Kiss Kiss Bang Bang",
+      "year": "2005",
+      "genres": [
+        "Komödie",
+        "Krimi",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "99",
+      "rating": "7.2",
+      "overview": "Man sagt, \"Geld und Liebe - das funktioniert nicht.\" Aber man kann es Harry Lockhart nicht übel nehmen, dass er es trotzdem versucht hat. Er wurde aus seinem Kleinganovendasein gerissen und nach Hollywood verfrachtet, um für die Rolle als Ermittler in einem Film vorzusprechen. Dafür erhält er zunächst Detektivstunden bei einem hartgesottenen Privatschnüffler, jetzt muss er nur noch seiner Traumfrau glaubhaft machen, dass er tatsächlich ein Detektiv ist und dabei versuchen, nicht über die vielen Leichen zu stolpern, die überall plötzlich auftauchen.",
+      "poster": "https://image.tmdb.org/t/p/w500/kt4hTJgeskt6PnbU6yTHZ1ffxCl.jpg",
+      "director": "Shane Black",
+      "cast": [
+        "Robert Downey Jr.",
+        "Val Kilmer",
+        "Michelle Monaghan"
+      ],
+      "tmdbId": 5236,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B09X9G952D?&linkCode=ll2&tag=ajsretro-21&linkId=064c1b6746eea4515369d2c5a7a322d3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Schmalspurganoven",
+      "originalTitle": "Small Time Crooks",
+      "year": "2000",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "94",
+      "rating": "6.5",
+      "overview": "Woody Allen ist in der Rolle des Kleinganoven Ray zu sehen, der mit seinen Freunden extra ein Restaurant aufmacht, um von dort einen Tunnel zur gegenüberliegenden Bank zu graben. Aus den geplanten Pizzen werden Kekse, aber diese verkaufen sich bestens. Der Weg zur Bank gestaltet sich allerdings erschwerlicher.",
+      "poster": "https://image.tmdb.org/t/p/w500/1zfny3ja32Nz3hhjifjlQHu19Hz.jpg",
+      "director": "Woody Allen",
+      "cast": [
+        "Woody Allen",
+        "Tracey Ullman",
+        "Michael Rapaport"
+      ],
+      "tmdbId": 10569,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GKNRSDZR?&linkCode=ll2&tag=ajsretro-21&linkId=a98256bcca83984c38cfaef1bc7d38ca&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Tess und ihr Bodyguard",
+      "originalTitle": "Guarding Tess",
+      "year": "1994",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "96",
+      "rating": "6.0",
+      "overview": "Nachdem der Präsident der Vereinigten Staaten im Dienst gestorben ist, zieht sich die Lieblings-First Lady des Landes Tess Carlisle in ihre verschlafene Heimatstadt in Ohio zurück. Eine der wenigen Konstanten in ihrem Leben ist der Secret Service-Agent Doug Chesnic. Doug, ein ehrgeiziger, engagierter Agent, der im Weißen Haus den Carlisles gedient hatte, leitet nun das siebenköpfige Secret Service-Team, das Tess Schutz gibt. Obwohl sich Doug nach Action und Gefahr pur sehnt, sitzt er stattdessen in einer Kleinstadt im Mittleren Westen fest, wo ihn Tess auf Trab hält, und wenn's nur darum geht, ihr das Frühstück ans Bett zu bringen. Nichts in den Schulungsunterlagen der Behörde bereitete Doug auf diese Art von Aufgaben vor und schließlich rebelliert er und löst einen witzigen Schlagabtausch mit der Person aus, die er zu beschützen schwor.",
+      "poster": "https://image.tmdb.org/t/p/w500/uqapiy8T5yEyOX2F4hgOtBCQ9u.jpg",
+      "director": "Hugh Wilson",
+      "cast": [
+        "Shirley MacLaine",
+        "Nicolas Cage",
+        "Austin Pendleton"
+      ],
+      "tmdbId": 6472,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0DK4FRJ6Q?&linkCode=ll2&tag=ajsretro-21&linkId=7d6fda285489a1ff2dae65d1a09d14bc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Bullets Over Broadway",
+      "originalTitle": "Bullets Over Broadway",
+      "year": "1994",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "98",
+      "rating": "7.1",
+      "overview": "Der bisher recht erfolglose Theaterautor David Shayne möchte bei seinem neuen Stück „Gott unserer Väter“ selbst Regie führen. Um das Geld dazu zu bekommen, lässt er sich auf ein Geschäft mit dem Mafiaboss Nick Valenti ein. Dieser fordert als Gegenleistung, dass seine Freundin Olive Neal eine Rolle bekommt. Olive, die bisher nur als Revuetänzerin aufgetreten ist, erweist sich jedoch bald als überaus untalentiert und lässt einige Turbulenzen bei den Proben entstehen, ebenso wie die Fresssucht des Schauspielers Warner Purcell und die Launen der alternden Diva Helen Sinclair.",
+      "poster": "https://image.tmdb.org/t/p/w500/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
+      "director": "Woody Allen",
+      "cast": [
+        "John Cusack",
+        "Chazz Palminteri",
+        "Dianne Wiest"
+      ],
+      "tmdbId": 11382,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GW97FTSB?&linkCode=ll2&tag=ajsretro-21&linkId=2674a0d674bce96247d4210b5756c1a6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "LOL 2.0",
+      "originalTitle": "LOL 2.0",
+      "year": "2026",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "105",
+      "rating": "6.0",
+      "overview": "Anne, Mitte 50, genießt erstmals seit dem Auszug ihrer Kinder einen selbstbestimmten Alltag und kann sich auf sich, ihre Karriere und ihr Liebesleben konzentrieren. Doch die neue Ruhe währt nur kurz: Ihre 23-jährige Tochter Louise kehrt nach beruflichen Rückschlägen und einer gescheiterten Beziehung zurück ins Familienheim. Mit ihr wird das Haus wieder lebendig, alte Konflikte treten zutage, und Mutter wie Tochter müssen ihre Beziehung neu definieren. Als wäre das nicht genug, verkündet Sohn Theo die größte Überraschung: Anne wird Großmutter. Zwischen Generationenkonflikten, Selbstzweifeln und neuen Gefühlen gerät ihr Selbstbild ins Wanken. Begleitet und auf die Probe gestellt von ihrem Umfeld, darunter ihr Ex-Partner und enge Familienmitglieder, erkennt sie: Das Leben verläuft selten nach Plan, und es ist nie zu spät, zu wachsen und sich neu zu entdecken.",
+      "poster": "https://image.tmdb.org/t/p/w500/gvt809Qf02EXrQqONOnqbTEUK31.jpg",
+      "director": "Lisa Azuelos",
+      "cast": [
+        "Sophie Marceau",
+        "Thaïs Alessandrin",
+        "Vincent Elbaz"
+      ],
+      "tmdbId": 1477170,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFKM55F7?&linkCode=ll2&tag=ajsretro-21&linkId=1738227ceaa3b09a688f3fe78daed1b5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Hypnose",
+      "originalTitle": "Hypnosen",
+      "year": "2024",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "100",
+      "rating": "6.5",
+      "overview": "Vera und André sind ein junges Liebes- und Geschäftspaar. Gemeinsam haben sie eine revolutionäre App für Frauengesundheit entwickelt und bekommen die Chance, diese auf einem Pitching-Event vorzustellen. Am Tag zuvor versucht Vera, mit einer Hypnosetherapie das Rauchen aufzuhören. Doch statt von der Sucht befreit sie sich von allen gesellschaftlichen Konventionen. Ohne Hemmungen startet sie in das Wochenende mit den Investoren und stellt dabei nicht nur ihre Karriere und ihre Beziehung, sondern auch alle um sie herum auf die Probe.",
+      "poster": "https://image.tmdb.org/t/p/w500/xXM8dt91i3UWTMqro2du9NIj4W.jpg",
+      "director": "Ernst De Geer",
+      "cast": [
+        "Asta Kamma August",
+        "Herbert Nordrum",
+        "Andrea Edwards"
+      ],
+      "tmdbId": 1005972,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0FRQ941DF?&linkCode=ll2&tag=ajsretro-21&linkId=4820360527d1b315453d5b098cd455ff&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Monsieur Robert kennt kein Pardon",
+      "originalTitle": "Les Vengeances de Maître Poutifard",
+      "year": "2023",
+      "genres": [
+        "Komödie",
+        "Familie"
+      ],
+      "runtime": "80",
+      "rating": "5.1",
+      "overview": "Endlich kann Robert Poutifard in Rente gehen.  Nach über 30 Jahren treuer Dienste als Lehrer an einer Grundschule könnte er nun seinen verdienten Ruhestand genießen. Aber er hat da noch drei Rechnungen mit ehemaligen Schülern offen, die ihm besonders übel mitgespielt haben.  Sie waren es, die ihn um die Liebe seines Lebens zu einer Kollegin aus Québec gebracht haben. Und Robert Poutifard will keine süße Rache, sondern den kleinen vorlauten Gören von damals die Karriere und ihr erfolgreiches Leben zerstören. So hat er den erfolgreichen Chefkoch Anthony, die inzwischen populären Influencer-Zwillinge und Audrey, eine Pop-Diva im Visier.",
+      "poster": "https://image.tmdb.org/t/p/w500/coGPvuURqVqXCb4gTpULGuaiFay.jpg",
+      "director": "Pierre-François Martin-Laval",
+      "cast": [
+        "Christian Clavier",
+        "Isabelle Nanty",
+        "Jennie-Anne Walker"
+      ],
+      "tmdbId": 1005685,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GSD1FP94?&linkCode=ll2&tag=ajsretro-21&linkId=5ed4172495841b3a7982eaed7938adfc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Catfight",
+      "originalTitle": "Catfight",
+      "year": "2017",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "96",
+      "rating": "5.5",
+      "overview": "Die erfolgreich verheiratete Veronica und Künstlerin Ashley waren sich schon auf dem College nicht grün. Jetzt - 20 Jahre später - begegnen sich die beiden narzisstischen und egozentrischen Ladies auf einer Party und lassen ihre Aversionen in einem blutig-brutalen Kampf mit allen Mitteln aneinander aus. Mit verheerenden Folgen: Veronica landet für zwei Jahre im Koma und sieht sich anschließend mit dem unerwarteten Erfolg der verhassten Künstlerin konfrontiert. Der Auftakt für einen bitterbösen, satirischen (und blutigen) Reigen, der nur Verliererinnen kennt...",
+      "poster": "https://image.tmdb.org/t/p/w500/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg",
+      "director": "Onur Tukel",
+      "cast": [
+        "Sandra Oh",
+        "Anne Heche",
+        "Alicia Silverstone"
+      ],
+      "tmdbId": 408272,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vamps - Dating mit Biss",
+      "originalTitle": "Vamps",
+      "year": "2012",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Horror"
+      ],
+      "runtime": "92",
+      "rating": "5.3",
+      "overview": "Obervampirin Cisserus und ihre Freundin Goody leben als sozialisierte Blutsauger im heutigen New York. Da Goody bereits Mitte des 19. Jahrhunderts in eine Untote verwandelt wurde, hat sie den Anschluss an das digitale Zeitalter verpasst und kann dementsprechend mit Handys, iPhones oder Facebook nichts anfangen. Goodys beste Freundin Stacy, die noch eine relativ junge Vampirin ist, sieht das Ganze nicht so eng und passt sich der modernen Gesellschaft an, besucht eine Abendschule und verliebt sich in ihren Sitznachbarn Joey Van Helsing. Dann gibt es auch noch Vlad Tepes, der eher das Pfählen von glasierten Äpfeln als das menschliche Blutvergießen propagiert. Zudem eröffnet er die wöchentlichen Treffen der ELFs (Extented Life Forms).",
+      "poster": "https://image.tmdb.org/t/p/w500/43nUqYJMyqS9HbgD9XoKDvaz6AC.jpg",
+      "director": "Amy Heckerling",
+      "cast": [
+        "Alicia Silverstone",
+        "Krysten Ritter",
+        "Dan Stevens"
+      ],
+      "tmdbId": 73935,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0FLT6F7VT?&linkCode=ll2&tag=ajsretro-21&linkId=ffc588118233913c9e89ab551cb444b3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Fun Size - Süßes oder Saures",
+      "originalTitle": "Fun Size",
+      "year": "2012",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "86",
+      "rating": "5.6",
+      "overview": "Die junge Wren will eigentlich gemeinsam mit ihrer besten Freundin April zu Halloween auf eine große Party gehen. Sie erhofft sich, endlich ihrem heimlichen Schwarm, der auch die Party organisiert, näherzukommen. Doch Wrens Pläne werden von ihrer Mutter durchkreuzt, als sie ihr unerwartet mitteilt, dass sie zu Halloween auf ihren kleinen und etwas seltsamen Bruder Albert  aufpassen muss. So beschließen die beiden jungen Frauen gezwungenermaßen, mit dem kleinen Jungen zusammen auf die Halloween-Party zu gehen. Doch plötzlich ist der kleine Satansbraten verschwunden. Es beginnt eine die ganze Nacht dauernde Suche nach dem Störenfried Albert, bei der die Mädchen mit einem Mal auf die Hilfe der unbeliebten Mitschüler angewiesen sind, die sie normalerweise keines Blickes würdigen…",
+      "poster": "https://image.tmdb.org/t/p/w500/nYtPEJND58CXWCgkYzpf9alMqko.jpg",
+      "director": "Josh Schwartz",
+      "cast": [
+        "Victoria Justice",
+        "Jane Levy",
+        "Thomas Mann"
+      ],
+      "tmdbId": 82679,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8PLHPHS?&linkCode=ll2&tag=ajsretro-21&linkId=f66375d41df98c290066190ddb418031&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Nur für Personal!",
+      "originalTitle": "Les Femmes du 6e étage",
+      "year": "2011",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "106",
+      "rating": "6.8",
+      "overview": "In einem vornehmen Stadthaus leben der Börsenmakler Joubert und seine fast schon spröde Frau mit ihren Kindern. In den Dachkammern der 6. Etage sind die Dienstmädchen der feinen Leute, allesamt Spanierinnen, untergebracht. Als die langjährige Haushälterin der Jouberts Hals über Kopf kündigt, nimmt die junge und schöne Maria deren Platz ein. Monsieur Joubert fühlt sich sofort von ihrer temperamentvollen und lebensbejahenden Art angezogen und freundet sich mit ihr an. Da erst merkt er, wie trist sein Leben eigentlich ist, und trifft sich immer häufiger mit Maria und den anderen spanischen Dienstmädchen.Bald verbringt er die meiste Zeit mit den Angestellten, so dass schnell der Haussegen schief hängt. Nach einem Streit mit seiner Frau packt Joubert kurzerhand seine Sachen und zieht zu den Frauen in die sechste Etage ...",
+      "poster": "https://image.tmdb.org/t/p/w500/3hQ1sONNIqCcRBqzGqIdNmrGt6R.jpg",
+      "director": "Philippe Le Guay",
+      "cast": [
+        "Fabrice Luchini",
+        "Sandrine Kiberlain",
+        "Natalia Verbeke"
+      ],
+      "tmdbId": 57243,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Be Cool - Jeder ist auf der Suche nach dem nächsten großen Hit",
+      "originalTitle": "Be Cool",
+      "year": "2005",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "118",
+      "rating": "5.5",
+      "overview": "Chili Palmer versucht nach seinem missglückten Ausflug im Filmgeschäft zusammen mit seiner Partnerin Edie, eine Plattenfirma, die kurz vor dem Bankrott steht, wieder aufleben zu lassen. Dafür brauchen sie eigentlich nur ein großes Talent, das einen Hit landet. Dieses Talent findet sich recht schnell in der Sängerin Linda Moon. Doch um aus ihr einen weltberühmten Star zu machen, müssen sich die beiden gegen zahlreiche Widersacher durchsetzen: Rapper, die zu gerne mit ihren Waffen spielen, die russische Mafia, andere Musiker, die sich für die größeren Talente halten und Manager, die der Größenwahn packt, müssen von Chili und Edie bewältigt werden. Dabei müssen sie die Ruhe bewahren und cool bleiben...",
+      "poster": "https://image.tmdb.org/t/p/w500/jic6a1jM7qn7MeGtUTHiD1db7QN.jpg",
+      "director": "F. Gary Gray",
+      "cast": [
+        "John Travolta",
+        "Uma Thurman",
+        "Vince Vaughn"
+      ],
+      "tmdbId": 4551,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0BZWG488Y?&linkCode=ll2&tag=ajsretro-21&linkId=da474c13b5ba4f0f7fcd188cac3abe2d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Spy Girls - D.E.B.S.",
+      "originalTitle": "D.E.B.S.",
+      "year": "2005",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "91",
+      "rating": "6.6",
+      "overview": "Sie sind die vielseitigste, tödlichste, am besten trainierte – und am besten aussehende – Elitetruppe der Welt: die D.E.B.S., vier junge Frauen, die im verdeckten Regierungsauftrag an einer geheimen “Academy” ausgebildet worden sind, nachdem sie unauffällig aus den landesweiten akademischen Eignungsprüfungen ausgesiebt wurden. Auf den ersten Blick sehen sie in ihren karierten Miniröcken und weißen Kniestrümpfen tatsächlich wie brave Schulmädchen aus – doch in Wahrheit kämpfen sie an der vordersten Front von Verbrechensbekämpfung und Landesverteidigung…",
+      "poster": "https://image.tmdb.org/t/p/w500/68BfXrFQPHg9iBWJVgp5R48gTix.jpg",
+      "director": "Angela Robinson",
+      "cast": [
+        "Sara Foster",
+        "Jordana Brewster",
+        "Meagan Good"
+      ],
+      "tmdbId": 540,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GMQ5MNDW?&linkCode=ll2&tag=ajsretro-21&linkId=1e898c365605edda43eba028dc1bb0ec&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Neid",
+      "originalTitle": "Envy",
+      "year": "2004",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "99",
+      "rating": "4.9",
+      "overview": "Tim und Nick sind Nachbarn, Arbeitskollegen und gute Freunde. Nick erfindet ein Spray, das Hundekot verschwinden lässt und wird dadurch stinkreich. Tim wird neidisch auf seinen Kumpel, der mit seinem Luxus rumprotzt. Bestärkt wird sein Neid durch den dubiosen J-Mann, der ihn zu einer verhängnisvollen Tat überredet.",
+      "poster": "https://image.tmdb.org/t/p/w500/dVeY84MSx3z5ofqg8chbM2i3H8d.jpg",
+      "director": "Barry Levinson",
+      "cast": [
+        "Ben Stiller",
+        "Jack Black",
+        "Rachel Weisz"
+      ],
+      "tmdbId": 10710,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B00HHZQ7YY?&linkCode=ll2&tag=ajsretro-21&linkId=496b011791ce365371891b80a4f00fb8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Präsident für alle Fälle",
+      "originalTitle": "My Fellow Americans",
+      "year": "1996",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "97",
+      "rating": "6.1",
+      "overview": "Sie mochten den früheren US-Präsidenten nicht? Nun, seinen Amtsvorgängern Douglas und Kramer geht's genauso. Das Weiße Haus bewohnt hier allerdings kein Herr Bush, sondern Mr. William Haney. Und dessen Stuhl wackelt wegen einer Korruptionsaffäre. Also schiebt er die Sache auf den republikanischen Parteifreund Kramer und den Demokraten Douglas. Zur Sicherheit hetzt er beiden auch noch Killer auf den Hals. Und so raufen sich die Ex-Staatsoberhäupter, die sich gegenseitig nicht ausstehen können, gegen Haney zusammen. Zwar fehlt politischer Tiefgang, aber die Dialoge haben Pep: \"Kaum scheidest du aus dem Amt, will dich niemand mehr umbringen!\"",
+      "poster": "https://image.tmdb.org/t/p/w500/dwMHEBNLGnTj11Kl8kREl1dHhVw.jpg",
+      "director": "Peter Segal",
+      "cast": [
+        "Jack Lemmon",
+        "James Garner",
+        "Dan Aykroyd"
+      ],
+      "tmdbId": 17795,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8TZ1121?&linkCode=ll2&tag=ajsretro-21&linkId=62972db733b27974135c602cfb2bf332&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mein wunderbarer Waschsalon",
+      "originalTitle": "My Beautiful Laundrette",
+      "year": "1985",
       "genres": [
         "Komödie",
         "Drama",
         "Liebesfilm"
       ],
-      "runtime": "98",
-      "rating": "5.9",
-      "overview": "In ein Luxushotel in Los Angeles kehren fünf Paare ein, die sich mit unterschiedlichen Problemen konfrontiert sehen:  In einem Hotelzimmer treffen das mittlerweile geschiedene Autoren-Ehepaar Hannah und Bill Warren aufeinander. Die gemeinsame, minderjährige Tochter ist der emanzipierten Publizistin aus New York weggelaufen und hat sich unter fadenscheinigen Gründen beim Vater an der Westküste einquartiert. Nach langer Diskussion sieht Hannah ein, dass ihre Tochter beim leiblichen Vater besser aufgehoben ist, und tritt die Rückreise an.",
-      "poster": "https://image.tmdb.org/t/p/w500/vMVSM6qQqBceiFbbCL0eCmrkKIk.jpg",
-      "director": "Herbert Ross",
+      "runtime": "92",
+      "rating": "6.7",
+      "overview": "Der junge Pakistani Omar wohnt bei seinem schwermütigen, alkoholkranken Vater in London. Sein umtriebiger Onkel gibt ihm Arbeit als Autowäscher und bietet ihm schließlich an, einen heruntergekommenen Waschsalon zu übernehmen. Zufällig trifft Omar seinen englischen Schulfreund Johnny  wieder, der sich als Anführer einer rechtsradikalen Gruppe herumgetrieben hat und dem Pakistani jetzt hilft, den Waschsalon neu zu eröffnen und zu betreiben. Das Geschäft beginnt zu florieren. Zwar zertrümmern Johnnys ehemalige Kumpane den Waschsalon, aber davon lassen sich die beiden Freunde nicht entmutigen.",
+      "poster": "https://image.tmdb.org/t/p/w500/kuI7UhWkwjFHVKv4OZzSQzpbzjh.jpg",
+      "director": "Stephen Frears",
       "cast": [
-        "Jane Fonda",
-        "Alan Alda",
-        "Maggie Smith"
+        "Gordon Warnecke",
+        "Daniel Day-Lewis",
+        "Roshan Seth"
       ],
-      "tmdbId": 26686,
-      "genre": "RomCom",
-      "url": "https://www.amazon.de/gp/video/detail/B0HNRJ1428?&linkCode=ll2&tag=ajsretro-21&linkId=4157d2a7d6bfddd73be927b3f4c72ec3&ref_=as_li_ss_tl"
+      "tmdbId": 11240,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0H9S2Q7Q3?&linkCode=ll2&tag=ajsretro-21&linkId=e9fbad450372f20e4d1fc4936ebbf8c4&ref_=as_li_ss_tl"
     },
     {
-      "title": "Es geschah in einer Nacht",
-      "originalTitle": "It Happened One Night",
-      "year": "1934",
+      "title": "Einmal beißen bitte",
+      "originalTitle": "Once Bitten",
+      "year": "1985",
       "genres": [
         "Komödie",
+        "Horror",
+        "Fantasy"
+      ],
+      "runtime": "94",
+      "rating": "5.8",
+      "overview": "So ändern sich die Zeiten: Im Los Angeles des 20. Jahrhunderts wird es immer schwieriger, einen jungen und (!) unschuldigen Mann aufzuspüren. Sehr schlimm für die 400 Jahre alte Gräfin, die das Blut der Jünglinge braucht, um ihre ewige Jugend zu sichern. Doch in einem Nachtclub wird die Vampirlady endlich fündig: «Unschuldslamm» Mark Kendall wird professionell umgarnt und anschließend gebissen. Bald fällt seinen Freunden eine seltsame Veränderung an ihm auf....",
+      "poster": "https://image.tmdb.org/t/p/w500/2zWE1UAxCqiJT9ipt9N5dKsSSep.jpg",
+      "director": "Howard Storm",
+      "cast": [
+        "Jim Carrey",
+        "Lauren Hutton",
+        "Karen Kopins"
+      ],
+      "tmdbId": 19064,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HDX65SH9?&linkCode=ll2&tag=ajsretro-21&linkId=7929ad49e6119b7e7b7765717531f3f8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lockere Geschäfte",
+      "originalTitle": "Risky Business",
+      "year": "1983",
+      "genres": [
+        "Liebesfilm",
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "98",
+      "rating": "6.6",
+      "overview": "Joel, Sohn reicher Eltern, nutzt die sturmfreie Bude, um das andere Geschlecht endlich kennenzulernen. Zusammen mit dem \"leichten\" Mädchen Lana setzt er Vaters Porsche außer Gefecht. Jetzt ist guter Rat teuer - doch Lana gibt ihren Freundinnen Bescheid und verwandelt das Elternhaus in einen Partyschuppen ganz besonderer Art.",
+      "poster": "https://image.tmdb.org/t/p/w500/wT2F5vuL4qnIVUxLmoMzqlmqjmS.jpg",
+      "director": "Paul Brickman",
+      "cast": [
+        "Tom Cruise",
+        "Rebecca De Mornay",
+        "Joe Pantoliano"
+      ],
+      "tmdbId": 9346,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6FSQ7SF?&linkCode=ll2&tag=ajsretro-21&linkId=f17e96ab27a8f385c0a3d2820c09607a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Manhattan",
+      "originalTitle": "Manhattan",
+      "year": "1979",
+      "genres": [
+        "Komödie",
+        "Drama",
         "Liebesfilm"
       ],
-      "runtime": "105",
-      "rating": "7.8",
-      "overview": "Ellie Andrews ist eine reiche, verwöhnte Millionärstochter und tut alles, was ihr Vater nicht möchte, dass sie tut. Deswegen will sie auch genau den Typen heiraten, den ihr Daddy am wenigsten leiden kann. Kurzum: Ellie ist eine Rebellin, wie sie im Buche steht. Doch Daddy ist nicht dumm und sperrt sein Töchterlein einfach auf seine Yacht. Das Töchterlein schafft es jedoch zu fliehen und macht sich auf den Weg nach New York - mit dem Bus! Hier lernt sie den Reporter Peter Warne kennen, der sofort DIE Story schlechthin wittert. Es beginnt eine turbulente Reise mit ungeahnten Folgen...",
-      "poster": "https://image.tmdb.org/t/p/w500/wRY7vLstQVEvrYAyZGRzh0aNA45.jpg",
-      "director": "Frank Capra",
+      "runtime": "96",
+      "rating": "7.7",
+      "overview": "Der 42-jährige Isaac Davis hat einen Job, den er hasst, eine Freundin, die er als zu jung empfindet und eine lesbische Ex-Frau namens Jill, die gerade ein Enthüllungsbuch über ihre Ehe schreibt – und die er am liebsten erwürgen würde. Dann aber verliebt er sich Hals über Kopf in Mary, die attraktive, intellektuelle neue Flamme seines besten Freundes. Isaac verlässt die blutjunge Tracy, wirbt um Mary, wirft seinen Job hin und beginnt seine Suche nach Romantik und Erfüllung in einer Stadt, in der Sex so intim ist wie ein Handschlag – und der Weg zur wahren Liebe durch eine Drehtür führt.",
+      "poster": "https://image.tmdb.org/t/p/w500/yBbVeHWdpseAtyxPcM1IsbhY6M6.jpg",
+      "director": "Woody Allen",
       "cast": [
-        "Clark Gable",
-        "Claudette Colbert",
-        "Walter Connolly"
+        "Woody Allen",
+        "Diane Keaton",
+        "Michael Murphy"
       ],
-      "tmdbId": 3078,
-      "genre": "RomCom",
-      "url": "https://www.amazon.de/gp/video/detail/B0HH2MB7D6?&linkCode=ll2&tag=ajsretro-21&linkId=c7f52ab43d5e40e51886a20615d8ef5e&ref_=as_li_ss_tl"
+      "tmdbId": 696,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HL23C7ZK?&linkCode=ll2&tag=ajsretro-21&linkId=a8dfeaf413ce1ca155d4cf99560dee85&ref_=as_li_ss_tl"
     }
   ]
 }
