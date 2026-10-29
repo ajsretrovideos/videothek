@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:45:45.721Z",
+  "generatedAt": "2026-10-29T18:08:26.135Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -1075,7 +1075,7 @@
       "rating": "6.6",
       "overview": "Irene Kelly hat nur noch ein einziges Ziel im Leben: Den Mann zu töten, der ihre geliebte Tochter ermordet hat. Das gelingt ihr auch, doch ihr Rachedurst ist unstillbar – so unstillbar, dass sie ihr Vorhaben mit Hilfe einer Maschine, die sie zwischen parallelen Universen hin- und herreisen lässt, immer wieder aufs Neue in die Tat umsetzt. Doch mit jeder neuen Tötung des Killers verliert Irene ein Stück ihrer Menschlichkeit – bis es schließlich zu einer Abweichung kommt, durch die sie ihren selbst erschaffenen Teufelskreis zwar durchbrechen könnte, die dafür aber andere Gefahren birgt, die nicht nur ihre eigene Zukunft für immer dramatisch verändern könnte.",
       "poster": "https://image.tmdb.org/t/p/w500/lh5TFBoDgVUi1UlfMWKwegVjam7.jpg",
-      "director": "Matthew McManus",
+      "director": "Kevin McManus",
       "cast": [
         "Michaela McManus",
         "Stella Marcus",
@@ -2664,23 +2664,24 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GJCZBC5K?&linkCode=ll2&tag=ajsretro-21&linkId=21d4f2dba96eacb007e16dc60ad3d29f&ref_=as_li_ss_tl"
     },
     {
-      "title": "Love Me Tender",
-      "originalTitle": "Love Me Tender",
+      "title": "Love Me",
+      "originalTitle": "Love Me",
       "year": "2025",
       "genres": [
-        "Drama"
+        "Liebesfilm",
+        "Drama",
+        "Science Fiction"
       ],
-      "runtime": "134",
-      "rating": "6.6",
-      "overview": "Spätsommer, irgendwo in Paris. Die frühere Anwältin Clémence schreibt an ihrem Romandebüt und geht in ihrem neuentdeckten Begehren gegenüber Frauen auf. Mit ihrem Noch-Ehemann Laurent teilt sie sich freundschaftlich das Sorgerecht für ihren achtjährigen Sohn Paul. Doch als Laurent von ihren Liebschaften erfährt, fällt alles zusammen. Er lässt Clémence nicht mehr zu ihrem Sohn und fordert das alleinige Sorgerecht. Sein Vorwurf: Clémences Lebensstil gefährde Paul. Es folgt ein Gerichtsstreit, in dem Clémence nicht nur um ihren Sohn kämpft, sondern auch ihre sexuelle und intellektuelle Selbstbestimmung einfordert.",
-      "poster": "https://image.tmdb.org/t/p/w500/vCSBni2IrsrzF9rkqeYPw6HffDu.jpg",
-      "director": "Anna Cazenave Cambet",
+      "runtime": "92",
+      "rating": "6.0",
+      "overview": "In einer fernen Zukunft, lange nachdem die Menschheit verstummt ist, treiben nur noch wenige künstliche Wesen durch die Leere – wartend, lauschend, suchend, nach dem Sinn ihrer Existenz. Unter ihnen schaukelt die Meeresboje SB350 auf endlosen Wellen, während hoch über ihr ein Satellit seine einsamen Bahnen zieht. Als ihre Pfade sich eines Tages kreuzen, entzündet sich zwischen ihnen ein Funke – ein leiser Widerhall verlorenen Lebens. Gemeinsam erschaffen sie einen digitalen Kosmos, in dem die Gesetze von Raum und Zeit nicht gelten und Nähe zur einzigen Realität wird. Im Strudel der Zeit beginnen sie zu fühlen, zu sehnen, zu leiden – wie einst jene Wesen aus Fleisch und Blut, die die Welt bewohnten.",
+      "poster": "https://image.tmdb.org/t/p/w500/pCfucDi31P6gdiZ3YXJ0BJjj7vb.jpg",
+      "director": "Andrew Zuchero",
       "cast": [
-        "Vicky Krieps",
-        "Antoine Reinartz",
-        "Monia Chokri"
+        "Kristen Stewart",
+        "Steven Yeun"
       ],
-      "tmdbId": 1290450,
+      "tmdbId": 881415,
       "genre": "RomCom",
       "url": "https://www.amazon.de/gp/video/detail/B0F9YFCJ64?&linkCode=ll2&tag=ajsretro-21&linkId=c3badc640bd08a07132f0f9b10d16f28&ref_=as_li_ss_tl"
     },
