@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:31:50.825Z",
+  "generatedAt": "2026-11-07T17:49:37.996Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -11,7 +11,7 @@
       "genre": "Neuheiten",
       "room": 1,
       "wall": "back",
-      "count": 7
+      "count": 15
     },
     {
       "genre": "Klassiker",
@@ -29,7 +29,7 @@
       "genre": "Leichte Kost",
       "room": 1,
       "wall": "left",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Familie",
@@ -47,7 +47,7 @@
       "genre": "Drama",
       "room": 1,
       "wall": "right",
-      "count": 22
+      "count": 21
     },
     {
       "genre": "Dokus",
@@ -117,6 +117,97 @@
     }
   ],
   "movies": [
+    {
+      "title": "Greenland 2",
+      "originalTitle": "Greenland 2: Migration",
+      "year": "2026",
+      "genres": [
+        "Abenteuer",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "99",
+      "rating": "6.4",
+      "overview": "Fünf Jahre nach dem verheerenden Einschlag des Kometen Clarke leben John (Gerard Butler), Allison (Morena Baccarin) und ihr Sohn Nathan (Roman Griffin Davis) noch immer in dem Bunker in Grönland, der ihr Überleben sicherte. Doch Frieden finden sie hier nicht: Luft und Wasser sind verseucht, Strahlungsstürme wüten über die Oberfläche und Fragmente des Kometen schweben noch immer in der Umlaufbahn und drohen auf die Erde zu stürzen. Als ein verheerendes Beben den Bunker zerstört, muss die Familie erneut aufbrechen und sich durch ein verwüstetes Europa bis zum einzig sicher scheinenden Ort auf dem Planeten durchschlagen – dem gigantischen Krater des Clarke-Kometen in Südfrankreich.  Ein absolutes Highlight für alle Action-Fans: Mit atemberaubenden Bildern, packender Spannung und einer emotionalen Familiengeschichte bietet GREENLAND 2 alles, was einen großen Endzeit-Blockbuster ausmacht.",
+      "poster": "https://image.tmdb.org/t/p/w500/3X744jehJwD7NTGBT91xdmz2aQj.jpg",
+      "director": "Ric Roman Waugh",
+      "cast": [
+        "Gerard Butler",
+        "Morena Baccarin",
+        "Roman Griffin Davis"
+      ],
+      "tmdbId": 840464,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GDH3SX3L?&linkCode=ll2&tag=ajsretro-21&linkId=0ca1e503767b9abcc978ffb65331bd5b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Woodwalkers 2",
+      "originalTitle": "Woodwalkers 2",
+      "year": "2026",
+      "genres": [
+        "Fantasy",
+        "Familie",
+        "Abenteuer"
+      ],
+      "runtime": "90",
+      "rating": "6.9",
+      "overview": "Für Gestaltwandler Carag und seine Freunde Brandon, Holly und Lou beginnt ein neues Schuljahr auf der Clearwater High. Doch zuvor muss der Rat der Woodwalker darüber beraten, ob Carags Mentor und Mäzen der Schule Andrew Milling für den Angriff auf die Menschen schuldig gesprochen wird oder nicht. Carag steckt in einem Dilemma: Er möchte Milling das Handwerk legen, doch dieser verspricht ihn zu seiner wahren Puma-Familie zu bringen, wenn er ihn vor dem Rat deckt",
+      "poster": "https://image.tmdb.org/t/p/w500/6IQy8Q1jQPF93dd7XbzUsS5a3P9.jpg",
+      "director": "Sven Unterwaldt",
+      "cast": [
+        "Emile Chérif",
+        "Lilli Falk",
+        "Johan von Ehrlich"
+      ],
+      "tmdbId": 1278853,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0G8VBY2KX?&linkCode=ll2&tag=ajsretro-21&linkId=13852b2b36e57281259f510a7b746c36&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "year": "2026",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "108",
+      "rating": "6.6",
+      "overview": "Kara Zor-El – alias Supergirl – sieht sich mit einem unerwarteten und skrupellosen Gegner konfrontiert. Widerwillig tut sie sich mit einem ungewöhnlichen Verbündeten zusammen und begibt sich auf eine spektakuläre Reise durch das Universum, um Gerechtigkeit zu erlangen und Vergeltung zu üben.",
+      "poster": "https://image.tmdb.org/t/p/w500/miYhb9ohxb9gfFcH5EtbSBYJIWF.jpg",
+      "director": "Craig Gillespie",
+      "cast": [
+        "Milly Alcock",
+        "Eve Ridley",
+        "Matthias Schoenaerts"
+      ],
+      "tmdbId": 1081003,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GR4Z7H6D?&linkCode=ll2&tag=ajsretro-21&linkId=b03e91cf473dd6006fed02cde5776076&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Solo Mio",
+      "originalTitle": "Solo Mio",
+      "year": "2026",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "97",
+      "rating": "7.5",
+      "overview": "Jahrelang hat Matt gespart, um seiner Verlobten eine Traumhochzeit in Italien und unvergessliche Flitterwochen zu ermöglichen. Doch dann lässt seine Zukünftige ihn plötzlich allein vor dem Altar zurück. Mit gebrochenem Herzen bleibt Matt nichts anderes übrig, als die teuer gebuchte Reise allein anzutreten.",
+      "poster": "https://image.tmdb.org/t/p/w500/97pvFpZCwJ9IMGifRqbBMvW1abE.jpg",
+      "director": "Charles Kinnane",
+      "cast": [
+        "Kevin James",
+        "Nicole Grimaudo",
+        "Kim Coates"
+      ],
+      "tmdbId": 1291335,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H4P38GNM?&linkCode=ll2&tag=ajsretro-21&linkId=41258c89ccaa3d7334e377f544d5ac20&ref_=as_li_ss_tl"
+    },
     {
       "title": "Spider-Man: Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
@@ -236,6 +327,98 @@
       "tmdbId": 1291366,
       "genre": "Neuheiten",
       "url": "https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Piano Tuner",
+      "originalTitle": "Tuner",
+      "year": "2026",
+      "genres": [
+        "Krimi",
+        "Musik",
+        "Liebesfilm"
+      ],
+      "runtime": "108",
+      "rating": "7.6",
+      "overview": "Die überaus sensiblen Fähigkeiten eines hoch talentierten Klavierstimmers lassen ihn eine unerwartete Begabung zum Knacken von Tresoren entdecken – was sein Leben total auf den Kopf stellt. Mit seinem Spielfilmdebüt eröffnet uns Daniel Roher, der Oscar©-prämierte Regisseur von »Nawalny«, eine Welt voller ungeahnter Möglichkeiten in einem sehr speziellen Beruf und lässst uns das Talent des aufstrebenden Stars Leo Woodall entdecken, an der Seite seines Mentors – verkörpert von niemand Geringerem als Dustin Hoffman.",
+      "poster": "https://image.tmdb.org/t/p/w500/wzPofNj1P4TzjVHmRIC6pgv5utF.jpg",
+      "director": "Daniel Roher",
+      "cast": [
+        "Leo Woodall",
+        "Dustin Hoffman",
+        "Havana Rose Liu"
+      ],
+      "tmdbId": 1340206,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZFNBST4?&linkCode=ll2&tag=ajsretro-21&linkId=7925526cb68b17de065d5193a3510f45&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Florist - Sein letzter Auftrag",
+      "originalTitle": "The Florist",
+      "year": "2026",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "97",
+      "rating": "5.7",
+      "overview": "Der introvertierte, nach außen hin ein ruhiges und bescheidenes Leben führende Gärtner Carl Rikker (Dennis Quaid) liebt seinen Job. Und doch hegt Rikker ein schockierendes Geheimnis. Denn er geht einer lukrativen Nebentätigkeit nach, indem er auch noch als erstklassiger, weil komplett unauffälliger Auftragskiller arbeitet. Sein Doppelleben gerät in Gefahr aufzufliegen, als er eine ungewöhnliche Freundschaft mit Layla (Sky Katz) beginnt, einer Teenagerin, die Zeugin massiver Polizeikorruption geworden ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/nDY2KjLMMF92oauxh5hjNSzBgVP.jpg",
+      "director": "Babak Najafi",
+      "cast": [
+        "Dennis Quaid",
+        "Jean Reno",
+        "Sky Katz"
+      ],
+      "tmdbId": 1476746,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFKMGC5R?&linkCode=ll2&tag=ajsretro-21&linkId=4bcb888ad6379e31f42fc7ab2ed7fd99&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Power Ballad - Der Song meines Lebens",
+      "originalTitle": "Power Ballad",
+      "year": "2026",
+      "genres": [
+        "Komödie",
+        "Musik",
+        "Drama"
+      ],
+      "runtime": "99",
+      "rating": "7.1",
+      "overview": "Was ist ein Nummer-1-Hit wert, wenn niemand weiß, dass er von dir ist? Zwei Musiker, Rick und Danny stehen beide an einem Punkt, an dem das Leben eigentlich anders aussehen sollte. Als sie aufeinandertreffen, funkt es sofort - musikalisch zumindest. Was als spätnächtliche Jam-Session beginnt, hat unerwartete Folgen. Wer glaubt schon daran, dass ein alternder Hochzeitssänger und ein ehemaliger Boyband-Star das Potential zu einem Welthit haben?",
+      "poster": "https://image.tmdb.org/t/p/w500/xE0uYb3WmJsZoOKacmCEQYLpGxa.jpg",
+      "director": "John Carney",
+      "cast": [
+        "Paul Rudd",
+        "Nick Jonas",
+        "Peter McDonald"
+      ],
+      "tmdbId": 1284016,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXQJ5KJ5?&linkCode=ll2&tag=ajsretro-21&linkId=fa43e7b20bfbe1f4042e6688d3d6c4cd&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Kampf der Thundermans",
+      "originalTitle": "Clash of the Thundermans",
+      "year": "2026",
+      "genres": [
+        "TV-Film",
+        "Familie",
+        "Action",
+        "Science Fiction"
+      ],
+      "runtime": "73",
+      "rating": "6.6",
+      "overview": "Als Chloe (Maya Le Clark) eine gefährliche neue Superkraft entwickelt, will die Hero League sie dazu zwingen, auf ein Eliteinternat für Superheld*innen zu gehen, um zu lernen, wie sie ihre Fähigkeiten kontrollieren kann. Dadurch werden die Thundermans gespalten: Während Phoebe (Kira Kosarin), Barb (Rosa Blasi) und Billy (Diego Velazquez) Chloe verstecken wollen, stellen sich Max (Jack Griffo), Hank (Chris Tallman) und Nora (Addison Riecke) auf die Seite der Obrigkeit...",
+      "poster": "https://image.tmdb.org/t/p/w500/4WlBJeO4uMgLdKrz8FI2BHNaFtc.jpg",
+      "director": "Trevor Kirschner",
+      "cast": [
+        "Kira Kosarin",
+        "Jack Griffo",
+        "Maya Le Clark"
+      ],
+      "tmdbId": 1506560,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HF6ZR1Y8?&linkCode=ll2&tag=ajsretro-21&linkId=9823a640b8acecdc6dbec50b02d7ce71&ref_=as_li_ss_tl"
     },
     {
       "title": "Girls Like Girls",
@@ -2275,16 +2458,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DRCT5RZ2?&linkCode=ll2&tag=ajsretro-21&linkId=cc83369fdf210f350984af9ead42ae39&ref_=as_li_ss_tl"
     },
     {
-      "title": "Radium-Mädchen",
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0HL5MS4Q1?&linkCode=ll2&tag=ajsretro-21&linkId=8cb7b6c6130fbd5f3a0a8bb3e48aa71d&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2020",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
       "title": "The Last Vermeer",
       "originalTitle": "The Last Vermeer",
       "year": "2019",
@@ -3418,6 +3591,29 @@
       "tmdbId": 696,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0HL23C7ZK?&linkCode=ll2&tag=ajsretro-21&linkId=a8dfeaf413ce1ca155d4cf99560dee85&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Stadtneurotiker",
+      "originalTitle": "Annie Hall",
+      "year": "1977",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "93",
+      "rating": "7.7",
+      "overview": "Die Abenteuer des scharfzüngigen Stand-up-Comedian und überzeugten New Yorkers Alvy Singer mit der gutbürgerlichen Studentin Annie Hall. Annie kommt aus gänzlich anderen Verhältnissen als der schüchterne Intellektuelle und überfordert den vergeistigten Freund gerne mit ihrer furchteinflößenden WASP-Familie oder befreundeten Trendhedonisten, die Alvy mit Alpträumen wie Kokain und Konservengelächter konfrontieren. Die Leichtigkeit, die Annie in sein Leben trägt, ist jedoch durch nichts zu ersetzten. So entschließt sich Alvy zu allerlei Kompromissen, als Annie ihn zu verlassen droht.",
+      "poster": "https://image.tmdb.org/t/p/w500/9xAN6jQybXwQayya2q1y5atRZ5k.jpg",
+      "director": "Woody Allen",
+      "cast": [
+        "Diane Keaton",
+        "Woody Allen",
+        "Tony Roberts"
+      ],
+      "tmdbId": 703,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0H3WJZ3JS?&linkCode=ll2&tag=ajsretro-21&linkId=e098b1ed926341bd79f9e46fdfa72169&ref_=as_li_ss_tl"
     }
   ]
 }
