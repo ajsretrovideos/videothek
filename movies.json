@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T22:29:58.627Z",
+  "generatedAt": "2026-11-07T22:41:28.559Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -47,7 +47,7 @@
       "genre": "Drama",
       "room": 1,
       "wall": "right",
-      "count": 21
+      "count": 24
     },
     {
       "genre": "Dokus",
@@ -1557,6 +1557,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl"
     },
     {
+      "title": "In meinem Himmel",
+      "originalTitle": "The Lovely Bones",
+      "year": "2009",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "runtime": "135",
+      "rating": "7.1",
+      "overview": "Bisher war das Leben der 14-jährigen Susie Salmon nicht gerade sonderlich aufregend. Sie konnte wohlbehütet im Schoß ihrer sie liebenden Familie aufwachsen. Sorgen und Streit entstehen meist nur aus kleineren finanziellen Engpässen. So ist es ihren Eltern, Abigail und Jack, unmöglich, alle 24 Filme, die Susie in kürzester Zeit mit ihrer neuen Kamera verschossen hat, auf einmal entwickeln zu lassen. Aber selbst die Enttäuschung darüber verblasst sofort, als sie erkennt, dass sich ihr erster Schwarm, Ray Singh, auch für sie interessiert. Gerade an diesem Nachmittag begegnet sie auf dem Heimweg von der Schule George Harvey, einem Nachbarn, der sie in einen unterirdischen Bunker unter einem Feld lockt und sie dort tötet. Nur kann sie sich noch nicht ganz vom Leben, von ihrer Familie, von Ray und von ihrem Mörder lösen und verharrt in einem Zwischenreich, von dem aus sie die anderen fortan beobachtet.",
+      "poster": "https://image.tmdb.org/t/p/w500/lHOOwtlY9EbmcRmX50Dw8VbWS9L.jpg",
+      "director": "Peter Jackson",
+      "cast": [
+        "Saoirse Ronan",
+        "Mark Wahlberg",
+        "Rachel Weisz"
+      ],
+      "tmdbId": 7980,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKJQLHFV?&linkCode=ll2&tag=ajsretro-21&linkId=07177ef30fe6fadb14e2558c6d73d434&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Die Bienenhüterin",
       "originalTitle": "The Secret Life of Bees",
       "year": "2008",
@@ -1578,6 +1600,28 @@
       "tmdbId": 12837,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0B8S4VJ95?&linkCode=ll2&tag=ajsretro-21&linkId=b4a922764363751ed2261fc075c85e7b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Slumdog Millionär",
+      "originalTitle": "Slumdog Millionaire",
+      "year": "2008",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "120",
+      "rating": "7.7",
+      "overview": "Glauben Sie an das Schicksal? Für Jamal Malik ist es der größte Tag seines bisherigen Lebens. Nur noch eine Frage trennt ihn vom 20-Millionen-Rupien-Hauptgewinn in Indiens TV-Show \"Wer wird Millionär?\". Doch was in aller Welt hat ein mittelloser Youngster aus den Slums von Mumbai in dieser Sendung verloren? Und wie kommt es, dass er auf alle Fragen eine Antwort weiß? Dabei geht es Jamal nicht um das Geld, sondern einzig und allein um die Liebe. Für ihn ist die Sendung nur ein Mittel zum Zweck, eine letzte Chance, seine verlorene, große Liebe Latika in der flirrenden Millionenmetropole Mumbai wiederzufinden.",
+      "poster": "https://image.tmdb.org/t/p/w500/o82qnDqvlnXwMPh22YO7rXZGVJv.jpg",
+      "director": "Danny Boyle",
+      "cast": [
+        "Dev Patel",
+        "Freida Pinto",
+        "Madhur Mittal"
+      ],
+      "tmdbId": 12405,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HH6H38D3?&linkCode=ll2&tag=ajsretro-21&linkId=fa07dc09b25741b7f3548d3792494660&ref_=as_li_ss_tl"
     },
     {
       "title": "There Will Be Blood",
@@ -1752,6 +1796,29 @@
       "tmdbId": 11780,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0C68V9XJP?&linkCode=ll2&tag=ajsretro-21&linkId=50281cec2980219cd83e38dd304cc037&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Song Sung Blue",
+      "originalTitle": "Song Sung Blue",
+      "year": "2025",
+      "genres": [
+        "Musik",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "runtime": "133",
+      "rating": "7.3",
+      "overview": "Inspiriert von wahren Begebenheiten: In SONG SUNG BLUE wagen zwei Musiker (Hugh Jackman und Kate Hudson), die noch immer vom grossen Durchbruch träumen, in ihrer Lebensmitte einen mutigen Neuanfang. Sie gründen eine Neil-Diamond-Tribute-Band – und beweisen, dass es nie zu spät ist, die grosse Liebe zu finden und den eigenen Träumen zu folgen.",
+      "poster": "https://image.tmdb.org/t/p/w500/5sYaY77K1zvWhgK2AuVQkhwdPRo.jpg",
+      "director": "Craig Brewer",
+      "cast": [
+        "Hugh Jackman",
+        "Kate Hudson",
+        "Michael Imperioli"
+      ],
+      "tmdbId": 1371185,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGQC9T23?&linkCode=ll2&tag=ajsretro-21&linkId=3fa4e7b1701be036eefb37373e4d7162&ref_=as_li_ss_tl"
     },
     {
       "title": "Dreams - Gefährliches Verlangen",
@@ -1951,6 +2018,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B094LZDJDM?&linkCode=ll2&tag=ajsretro-21&linkId=639d738e8a2d07d4e96c0b1a84ccf1d4&ref_=as_li_ss_tl"
     },
     {
+      "title": "Ein Funken Gerechtigkeit",
+      "originalTitle": "Saint Judy",
+      "year": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "106",
+      "rating": "6.9",
+      "overview": "Basierend auf wahren Begebenheiten: Anwältin Judy Wood vertritt eine afghanische Frau, die vor den Taliban flüchtet und in den USA Schutz sucht. Als sich der Kampf in erster Instanz zuspitzt, bekommt Wood die Gelegenheit vor das amerikanische Höchstgericht zu treten... dabei schreibt sie Geschichte.",
+      "poster": "https://image.tmdb.org/t/p/w500/noXrNBRnNQ5La59WCOqQ864Wzyn.jpg",
+      "director": "Sean Hanish",
+      "cast": [
+        "Michelle Monaghan",
+        "Leem Lubany",
+        "Common"
+      ],
+      "tmdbId": 550506,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHJ5F1ZR?&linkCode=ll2&tag=ajsretro-21&linkId=b5f753d3e26b6b2898ef15b23af8076b&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Unforgettable - Tödliche Liebe",
       "originalTitle": "Unforgettable",
       "year": "2017",
@@ -1971,28 +2059,6 @@
       "tmdbId": 418437,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0D957H287?&linkCode=ll2&tag=ajsretro-21&linkId=5eaf1bcb3c16f5c02faa257bc3cb354c&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ziemlich beste Freunde",
-      "originalTitle": "Intouchables",
-      "year": "2011",
-      "genres": [
-        "Drama",
-        "Komödie"
-      ],
-      "runtime": "112",
-      "rating": "8.3",
-      "overview": "Philippe ist zwar reich und intelligent, aber er benötigt im Alltag auch Hilfe, da er vom Hals abwärts gelähmt ist. Als er sich einen neuen Pfleger engagiert entscheidet er sich zum Entsetzen seiner Freunde für den jungen schwarzen Driss, der gerade aus dem Gefängnis entlassen wurde. Der direkte und fröhliche Charakter von Driss beeindruckt Philippe, der besonders unter dem allgegenwärtigen Mitleid seiner Umgebung leidet. Zwischen den beiden entwickelt sich eine ungewöhnliche Männerfreundschaft, die alle ethnischen und sozialen Grenzen überschreitet.",
-      "poster": "https://image.tmdb.org/t/p/w500/2VhCnmycro2ySRHYtaqTWrdSjBt.jpg",
-      "director": "Olivier Nakache",
-      "cast": [
-        "François Cluzet",
-        "Omar Sy",
-        "Anne Le Ny"
-      ],
-      "tmdbId": 77338,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0H6KJFXL9?&linkCode=ll2&tag=ajsretro-21&linkId=108c5add580c20bda885eacc5d53ee25&ref_=as_li_ss_tl"
     },
     {
       "title": "Hunting Season - Blutige Fährte",
