@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T17:49:37.996Z",
+  "generatedAt": "2026-11-07T18:09:13.449Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -83,7 +83,7 @@
       "genre": "Thrill",
       "room": 2,
       "wall": "back",
-      "count": 24
+      "count": 0
     },
     {
       "genre": "Horror",
@@ -267,7 +267,7 @@
         "Komödie"
       ],
       "runtime": "88",
-      "rating": "8.3",
+      "rating": "8.2",
       "overview": "Nachdem ihr Schiff in einen mysteriösen Sturm gerät, landen die PAW-Patrol-Welpen auf einer unbekannten tropischen Insel, auf der Dinos leben. Dort treffen sie auf Rex, einen Welpen, der vor Jahren auf der Insel gestrandet ist und sich seitdem zu einem Dino-Experten entwickelt hat. Als Bürgermeister Besserwisser, Erzrivale der PAW Patrol, rücksichtslos mit dem Abbau der natürlichen Ressourcen der Insel beginnt, löst er damit unbeabsichtigt den Ausbruch eines großen Vulkans aus. Die PAW-Patrol-Welpen werden in eine Reihe von spannenden, riesigen Dinosaurier-Rettungsaktionen verwickelt, größer als alles, was sie je zuvor erlebt haben, während sie Besserwisser aufhalten müssen, um die Insel zu schützen.",
       "poster": "https://image.tmdb.org/t/p/w500/hJxwQlDquPLO99dMJoHlChNCdrm.jpg",
       "director": "Cal Brunker",
@@ -315,7 +315,7 @@
         "Thriller"
       ],
       "runtime": "100",
-      "rating": "6.3",
+      "rating": "6.4",
       "overview": "Der Teilzeit-Deputy Toby Sawyer wird von Chief Krueger wachgerüttelt und beauftragt, eine Leiche zu bewachen, bis der Gerichtsmediziner eintrifft. Als die Leiche auf mysteriöse Weise verschwindet, startet Toby eine hektische Suche und entdeckt dabei unwissentlich jahrzehntelanges Fehlverhalten ... und mehrere Polizisten, die ein Auge zugedrückt haben, darunter Deputy Billy Banks, der Toby unter Druck setzt, seine Erkenntnisse zu ignorieren. Nur Deputy Amanda Jackson scheint vertrauenswürdig zu sein. Verzweifelt, um seinen Job zu behalten, muss Toby das tiefe Netz der Korruption in der Stadt entwirren, bevor er und seine Karriere so tot sind wie die verschwundene Leiche.",
       "poster": "https://image.tmdb.org/t/p/w500/8nfKGR162OGuIrWeDRS0iGLhBBd.jpg",
       "director": "Matt Sukkar",
@@ -429,7 +429,7 @@
         "Drama"
       ],
       "runtime": "95",
-      "rating": "7.5",
+      "rating": "7.4",
       "overview": "Vor dem nostalgischen Hintergrund des Sommers 2006 erzählt Girls Like Girls die Geschichte der 17-jährigen Coley, die nach dem Tod ihrer Mutter ins ländliche Oregon zieht, um bei ihrem entfremdeten Vater zu leben. Dort lernt sie Sonya kennen, ein beliebtes Mädchen, das seine sexuelle Orientierung geheim hält und einen besitzergreifenden Freund namens Trenton hat. Aus ihrer engen Freundschaft entwickelt sich nach und nach eine zarte erste Liebesbeziehung. Beide Teenager müssen sich dabei mit den Vorurteilen einer Kleinstadt, persönlicher Trauer und dem Mut auseinandersetzen, sich selbst so zu akzeptieren, wie sie sind.",
       "poster": "https://image.tmdb.org/t/p/w500/zBoh9btGGVrPT5aHXPUa6yQ1KHD.jpg",
       "director": "Hayley Kiyoko",
@@ -448,8 +448,9 @@
       "year": "2026",
       "genres": [
         "Musik",
-        "Drama",
-        "Thriller"
+        "Thriller",
+        "Horror",
+        "Drama"
       ],
       "runtime": "110",
       "rating": "5.7",
@@ -475,7 +476,7 @@
         "Liebesfilm"
       ],
       "runtime": "106",
-      "rating": "6.2",
+      "rating": "6.1",
       "overview": "Nach Jahren liebloser Fortsetzungen und schwindender Fanbasis wird das Slasher-Franchise Camp Miasma einer ambitionierten jungen Regisseurin zur Wiederbelebung überlassen. Als sie den einstigen Star der Originalfilme besucht, eine mittlerweile zurückgezogen lebende Schauspielerin, die von Geheimnissen umgeben ist, geraten die beiden Frauen in eine blutgetränkte Welt voller Begehren, Angst und Wahnvorstellungen.",
       "poster": "https://image.tmdb.org/t/p/w500/bg5hTWIbMeiYgn5BJudWz9HUT3B.jpg",
       "director": "Jane Schoenbrun",
@@ -626,7 +627,8 @@
       "year": "2021",
       "genres": [
         "Horror",
-        "Mystery"
+        "Mystery",
+        "Action"
       ],
       "runtime": "111",
       "rating": "6.7",
@@ -781,7 +783,7 @@
         "Abenteuer"
       ],
       "runtime": "107",
-      "rating": "5.7",
+      "rating": "5.8",
       "overview": "",
       "poster": "https://image.tmdb.org/t/p/w500/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
       "director": "Sergio Pinheiro",
@@ -1564,7 +1566,7 @@
         "Tom Burke"
       ],
       "tmdbId": 1233575,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0DWZNRZZZ?&linkCode=ll2&tag=ajsretro-21&linkId=985caa8752e0fe4d1ff707643272700d&ref_=as_li_ss_tl"
     },
     {
@@ -1585,7 +1587,7 @@
         "Ricky Watson"
       ],
       "tmdbId": 1146892,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0FHH9JT4W?&linkCode=ll2&tag=ajsretro-21&linkId=51063798fdf5d474b535e98300e66905&ref_=as_li_ss_tl"
     },
     {
@@ -1608,7 +1610,7 @@
         "Camille Cottin"
       ],
       "tmdbId": 945729,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0CGVSZ18K?&linkCode=ll2&tag=ajsretro-21&linkId=b953b1ffb1c4c4e2291d31bab3c55674&ref_=as_li_ss_tl"
     },
     {
@@ -1631,7 +1633,7 @@
         "Annette Bening"
       ],
       "tmdbId": 505026,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B09SJ49SX1?&linkCode=ll2&tag=ajsretro-21&linkId=57ebe642f9d2bcb86a5f27c24897507f&ref_=as_li_ss_tl"
     },
     {
@@ -1639,10 +1641,10 @@
       "originalTitle": "Don't Worry Darling",
       "year": "2022",
       "genres": [
-        "Mystery",
         "Science Fiction",
-        "Horror",
-        "Thriller"
+        "Mystery",
+        "Thriller",
+        "Horror"
       ],
       "runtime": "123",
       "rating": "6.8",
@@ -1655,7 +1657,7 @@
         "Chris Pine"
       ],
       "tmdbId": 619730,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0B8MTYKFS?&linkCode=ll2&tag=ajsretro-21&linkId=1e029faf538176bc29ae50da5eca2646&ref_=as_li_ss_tl"
     },
     {
@@ -1667,7 +1669,7 @@
         "Historie"
       ],
       "runtime": "129",
-      "rating": "7.1",
+      "rating": "7.2",
       "overview": "Die Journalistinnen Jodi Kantor und Megan Twohey arbeiten bei der New York Times und gehen den Vorwürfen sexuellen Fehlverhaltens von Harvey Weinstein auf den Grund. Sie decken ein Netz von Lügen und sexuellen Missbräuchen auf. Mit ihrer Arbeit haben sie dazu beigetragen, die #MeToo-Bewegung ins Leben zu rufen und das jahrzehntelange Schweigen über das Thema sexuelle Übergriffe in Hollywood zu brechen.",
       "poster": "https://image.tmdb.org/t/p/w500/22YteqWe8fM3PZvH3kEtO5wF0vN.jpg",
       "director": "Maria Schrader",
@@ -1677,7 +1679,7 @@
         "Patricia Clarkson"
       ],
       "tmdbId": 837881,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0B8MH2RTV?&linkCode=ll2&tag=ajsretro-21&linkId=72b5c96dff1830de3ab827bef358b1a5&ref_=as_li_ss_tl"
     },
     {
@@ -1700,7 +1702,7 @@
         "Jamie Foxx"
       ],
       "tmdbId": 522212,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0D62Y7LN3?&linkCode=ll2&tag=ajsretro-21&linkId=4828957dabbc0552caa22e3247314a76&ref_=as_li_ss_tl"
     },
     {
@@ -1722,7 +1724,7 @@
         "Russell Hornsby"
       ],
       "tmdbId": 470044,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0GGXF6K37?&linkCode=ll2&tag=ajsretro-21&linkId=84360a7a03da2055fc20a063db5ac540&ref_=as_li_ss_tl"
     },
     {
@@ -1743,7 +1745,7 @@
         "Vera Farmiga"
       ],
       "tmdbId": 205587,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0DRWH9C5L?&linkCode=ll2&tag=ajsretro-21&linkId=a91a5077a74f7037a9cc626361a729b2&ref_=as_li_ss_tl"
     },
     {
@@ -1767,7 +1769,7 @@
         "Sean Penn"
       ],
       "tmdbId": 82682,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B00FYTGKQU?&linkCode=ll2&tag=ajsretro-21&linkId=da149cb9384f7e472d7d3b03b603631d&ref_=as_li_ss_tl"
     },
     {
@@ -1789,7 +1791,7 @@
         "Alan Arkin"
       ],
       "tmdbId": 68734,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B00FYTAX22?&linkCode=ll2&tag=ajsretro-21&linkId=95bd14496c5acf4e13f2c1d2a890ac39&ref_=as_li_ss_tl"
     },
     {
@@ -1812,7 +1814,7 @@
         "Nikolaj Coster-Waldau"
       ],
       "tmdbId": 70670,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0HGFTC972?&linkCode=ll2&tag=ajsretro-21&linkId=b3563d7bb335b0f9977f80927d9e79ac&ref_=as_li_ss_tl"
     },
     {
@@ -1835,7 +1837,7 @@
         "Chiwetel Ejiofor"
       ],
       "tmdbId": 27576,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0GXZPCYP9?&linkCode=ll2&tag=ajsretro-21&linkId=d815ea8a4f69ec48ab018ec1d89026e3&ref_=as_li_ss_tl"
     },
     {
@@ -1858,7 +1860,7 @@
         "Morgan Freeman"
       ],
       "tmdbId": 4771,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0H8TJP1GT?&linkCode=ll2&tag=ajsretro-21&linkId=175464ac56f3adc7dcff4cf2c290de9e&ref_=as_li_ss_tl"
     },
     {
@@ -1880,7 +1882,7 @@
         "Meryl Streep"
       ],
       "tmdbId": 5125,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B00J8VOC6U?&linkCode=ll2&tag=ajsretro-21&linkId=769c5a78a279a6490a1ea69fc0aef197&ref_=as_li_ss_tl"
     },
     {
@@ -1902,7 +1904,7 @@
         "Brian Cox"
       ],
       "tmdbId": 11460,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0HL5CKLB4?&linkCode=ll2&tag=ajsretro-21&linkId=0608c563a0a7666db4f0dd7571f3be74&ref_=as_li_ss_tl"
     },
     {
@@ -1924,7 +1926,7 @@
         "Jeffrey Wright"
       ],
       "tmdbId": 231,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0GSS2WJ5N?&linkCode=ll2&tag=ajsretro-21&linkId=0b270ea30d5465d0e37c34bb37a95043&ref_=as_li_ss_tl"
     },
     {
@@ -1946,7 +1948,7 @@
         "Christopher Walken"
       ],
       "tmdbId": 640,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0HK9Q3TXY?&linkCode=ll2&tag=ajsretro-21&linkId=a90e9f339991994d5768b57ed22164ff&ref_=as_li_ss_tl"
     },
     {
@@ -1969,7 +1971,7 @@
         "Hilary Swank"
       ],
       "tmdbId": 320,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl"
     },
     {
@@ -1991,7 +1993,7 @@
         "Terrence Howard"
       ],
       "tmdbId": 10592,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0GYS5G7R2?&linkCode=ll2&tag=ajsretro-21&linkId=6561fee5dc59856f0957f4a98a099055&ref_=as_li_ss_tl"
     },
     {
@@ -2014,7 +2016,7 @@
         "Jude Law"
       ],
       "tmdbId": 1213,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0HC56139L?&linkCode=ll2&tag=ajsretro-21&linkId=2cee34fb87f9c7588629832bc35a2e1a&ref_=as_li_ss_tl"
     },
     {
@@ -2037,7 +2039,7 @@
         "Steve Buscemi"
       ],
       "tmdbId": 275,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0HHM7GDM6?&linkCode=ll2&tag=ajsretro-21&linkId=d4475917fb6e0c015118571d5f7b48ab&ref_=as_li_ss_tl"
     },
     {
@@ -2060,7 +2062,7 @@
         "Samuel L. Jackson"
       ],
       "tmdbId": 1645,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0BYTHKV24?&linkCode=ll2&tag=ajsretro-21&linkId=7576698bbced97a94fff8c8ab1b38795&ref_=as_li_ss_tl"
     },
     {
@@ -2084,7 +2086,7 @@
         "Tommy Lee Jones"
       ],
       "tmdbId": 10731,
-      "genre": "Thrill",
+      "genre": "Thriller",
       "url": "https://www.amazon.de/gp/video/detail/B0FRS8TN15?&linkCode=ll2&tag=ajsretro-21&linkId=856e30267ac508a19ced5ee0d9ccca25&ref_=as_li_ss_tl"
     },
     {
@@ -2466,7 +2468,7 @@
         "Historie"
       ],
       "runtime": "118",
-      "rating": "6.5",
+      "rating": "6.6",
       "overview": "Kurz nach dem Zweiten Weltkrieg ermittelt der Soldat Joseph Piller, ob der renommierte niederländische Künstler Han van Meegeren sich tatsächlich mit den Nazis verschworen hat. Es wird vermutet, dass Han den Nazis ein Gemälde verkauft hat. Obwohl sich die Beweise häufen, wächst in Piller die Überzeugung, dass Han unschuldig ist. Letztlich fühlt sich Piller dazu verpflichtet, das Leben des Malers zu retten.",
       "poster": "https://image.tmdb.org/t/p/w500/7CKxIyEIdHgkQzDixn68Hvwua90.jpg",
       "director": "Dan Friedkin",
