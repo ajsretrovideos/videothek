@@ -17,7 +17,7 @@
 # ---- Raum 1: Hauptraum ----
 
 # Rückwand (3)
-Alex' Tips	 | 1 | back
+Alex' Tips       | 1 | back
 Neuheiten        | 1 | back
 Klassiker        | 1 | back
 
@@ -27,7 +27,7 @@ Leichte Kost     | 1 | left
 Familie          | 1 | left
 Animation        | 1 | left
 
-# Rechte Wand (3)
+# Rechte Wand (4)
 Drama            | 1 | right
 Dokus            | 1 | right
 Sportfilme       | 1 | right
@@ -35,9 +35,9 @@ Deutsches Kino   | 1 | right
 
 # ---- Raum 2: hinter der Tür ----
 
-# Rückwand (2)
+# Rückwand (4)
 Action           | 2 | back
-Heroes		 | 2 | back
+Heroes           | 2 | back
 Thrill           | 2 | back
 Horror           | 2 | back
 
@@ -47,4 +47,4 @@ Fantasy          | 2 | left
 
 # Rechte Wand (2)
 Western          | 2 | right
-Eastern		 | 2 | right
+Eastern          | 2 | right
