@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:26:33.896Z",
+  "generatedAt": "2026-11-08T13:32:39.248Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -41,7 +41,7 @@
       "genre": "Animation",
       "room": 1,
       "wall": "left",
-      "count": 0
+      "count": 24
     },
     {
       "genre": "Drama",
@@ -65,7 +65,7 @@
       "genre": "Deutsches Kino",
       "room": 1,
       "wall": "right",
-      "count": 0
+      "count": 22
     },
     {
       "genre": "Action",
@@ -3649,6 +3649,1046 @@
       "tmdbId": 530385,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0HLY3MLKM?&linkCode=ll2&tag=ajsretro-21&linkId=0e25cc39cd18fbc84456d8288f3077b6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "22 Bahnen",
+      "originalTitle": "22 Bahnen",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "102",
+      "rating": "6.7",
+      "overview": "Tildas Tage sind streng durchstrukturiert: Sie studiert, arbeitet an der Supermarktkasse und kümmert sich um ihre kleine Schwester Ida – an manchen Tagen muss sie sich auch um ihre alkoholkranke Mutter kümmern. Doch dieser Sommer bringt eine Veränderung: Tilda erhält ein vielversprechendes Jobangebot für eine Promotion in Berlin, das eine Zukunft voller Freiheit verspricht. Zudem taucht Viktor auf, der genau wie sie stets 22 Bahnen im Schwimmbad zurücklegt. Als Tilda beginnt zu glauben, dass alles besser werden könnte, gerät die Situation zu Hause jedoch vollends außer Kontrolle.",
+      "poster": "https://image.tmdb.org/t/p/w500/jZJ7KHymYEB7j455CieCirYW2Y5.jpg",
+      "director": "Mia Maariel Meyer",
+      "cast": [
+        "Luna Wedler",
+        "Jannis Niewöhner",
+        "Laura Tonke"
+      ],
+      "tmdbId": 1380070,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0G48L6PPQ?&linkCode=ll2&tag=ajsretro-21&linkId=b5980405f4389613155912995bb9c163&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Wann wird es endlich wieder so, wie es nie war",
+      "originalTitle": "Wann wird es endlich wieder so, wie es nie war",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Komödie"
+      ],
+      "runtime": "116",
+      "rating": "5.5",
+      "overview": "Auf dem Gelände der größten psychiatrischen Klinik Schleswig-Holsteins aufzuwachsen ist irgendwie - anders. Für Joachim, den jüngsten Sohn von Direktor Meyerhoff, gehören die Patienten quasi zur Familie. Sie sind auch viel netter zu ihm als seine beiden älteren Brüder, die ihn in rasende Wutanfälle treiben. Seine Mutter sehnt sich Aquarelle malend nach italienischen Sommernächten statt norddeutschem Dauerregen, während der Vater heimlich, aber doch nicht diskret genug, seine eigenen Wege geht. Doch während Joachim langsam erwachsen wird, bekommt seine Welt, nicht nur durch den Verlust der ersten Liebe, immer mehr Risse...",
+      "poster": "https://image.tmdb.org/t/p/w500/s4Ls5utltXfoE5jx2fWi2DMjN87.jpg",
+      "director": "Sonja Heiss",
+      "cast": [
+        "Camille Moltzen",
+        "Arsseni Bultmann",
+        "Merlin Rose"
+      ],
+      "tmdbId": 916715,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0CBD67P33?&linkCode=ll2&tag=ajsretro-21&linkId=b68177d20554c1321441157cccc83e04&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Einfach mal was Schönes",
+      "originalTitle": "Einfach mal was Schönes",
+      "year": "2022",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "116",
+      "rating": "6.3",
+      "overview": "Karla ist 39, Radiomoderatorin und mal wieder Single. Sie sehnt sich danach, ein Kind zu bekommen, doch unter Zeitdruck einen passenden Partner zu finden, ist gar nicht so leicht. Also beschließt sie, sich ihren Kinderwunsch selbst zu erfüllen. Und plötzlich haben alle eine Meinung, die Eltern, die Geschwister, die Freunde, und das, obwohl alle in ihren eigenen komplizierten Lebensentwürfen feststecken. Nur ihre beste Freundin Senay steht ihr mit Rat und Tat und den richtigen Fragen zur Seite. Dann mischt sich auch noch das Schicksal ein, als Karla ausgerechnet jetzt auf den viel zu jungen Ole trifft, der so gar nicht in ihre Zukunftspläne passt.",
+      "poster": "https://image.tmdb.org/t/p/w500/dhZ2CsGwG8sQe8Jky0RtCvEuV4y.jpg",
+      "director": "Karoline Herfurth",
+      "cast": [
+        "Karoline Herfurth",
+        "Nora Tschirner",
+        "Milena Tscharntke"
+      ],
+      "tmdbId": 982804,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0BYWLW3XS?&linkCode=ll2&tag=ajsretro-21&linkId=0fa7b8453971d1abcb9759a9fad8e25b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Leberhaken",
+      "originalTitle": "Leberhaken",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "110",
+      "rating": "10.0",
+      "overview": "Blaue Stunde. Der Tag verabschiedet sich langsam in Richtung Nacht – wehrt sich aber noch ein bisschen dagegen. Steph betritt Ricks Box-Stall in Berlin-Wedding. Sie ist unsicher, wild, frustriert – und doch entschlossen. Sie giert nach Anerkennung. Durch Rick. Den Betreiber des Gyms, ehemaliger Schwergewichtsboxer aus Boston. Er war ausgestattet mit allem, was ein Champ braucht. Und ist jetzt gebrochen.",
+      "poster": "https://image.tmdb.org/t/p/w500/q3Y2Hk9UFDFdDamsACawgwJannd.jpg",
+      "director": "Torsten Rüther",
+      "cast": [
+        "Hardy Krüger Jr.",
+        "Luise Großmann"
+      ],
+      "tmdbId": 863922,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0GX7W1NXQ?&linkCode=ll2&tag=ajsretro-21&linkId=dbdc76b147fc9767f399d088575fe9d8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Klassentreffen 1.0",
+      "originalTitle": "Klassentreffen 1.0",
+      "year": "2018",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "127",
+      "rating": "5.7",
+      "overview": "Nils, Familienvater Mitte 40, steckt in der absoluten Midlife-Crisis: Nicht nur, dass seine pubertierende Tochter Sarah nur noch Augen für ihren neuen Freund Lenny  hat und sein Sohn Oliver seinen Vater ziemlich peinlich findet, muss sich Nils zudem noch mit altersbedingten Hämorrhoiden und seiner Lesebrille arrangieren. Damit nicht genug: Während seine Frau Jette sein Gejammer schon lange nicht mehr ernst nimmt, flattert ausgerechnet noch die Einladung zum 30-jährigen Klassentreffen ins Haus. Nils hat es jetzt schwarz auf weiß: Er ist alt geworden!",
+      "poster": "https://image.tmdb.org/t/p/w500/mzTixPfB1VMHhi62HqUEg9jhFL9.jpg",
+      "director": "Til Schweiger",
+      "cast": [
+        "Til Schweiger",
+        "Samuel Finzi",
+        "Milan Peschel"
+      ],
+      "tmdbId": 496872,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B07Q6CTN9R?&linkCode=ll2&tag=ajsretro-21&linkId=665db9e33b65b8b7c0669ec3c2642443&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Aus dem Nichts",
+      "originalTitle": "Aus dem Nichts",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "runtime": "106",
+      "rating": "6.9",
+      "overview": "Katja verliert ihren Mann Nuri und ihren Sohn Rocc bei einem Bombenanschlag. Sie ist tief erschüttert. Es gibt niemanden, der ihre Trauer lindern kann – ihren Schmerz betäubt sie mit Drogen. Katja denkt daran, sich umzubringen. Als die Polizei das Neonazi-Paar Edda und André Möller verhaftet, weil ein entscheidender Hinweis von Andrés Vater einging, schöpft Katja Hoffnung. Der Prozess, bei dem sie von Nuris bestem Freund Danilo Fava anwaltlich vertreten wird, ist anstrengend, doch die Aussicht auf eine Verurteilung der Täter gibt Katja Kraft. Nachdem Verteidiger Haberbeck geschickt Zweifel gesät hat, müssen Edda und André mangels eindeutiger Beweise freigesprochen werden. Katja ist wütend …",
+      "poster": "https://image.tmdb.org/t/p/w500/wsyxs6HaQvrGM0Ml0P26DqXnn0w.jpg",
+      "director": "Fatih Akin",
+      "cast": [
+        "Diane Kruger",
+        "Denis Moschitto",
+        "Numan Acar"
+      ],
+      "tmdbId": 423646,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B07212SZGF?&linkCode=ll2&tag=ajsretro-21&linkId=35b2e9ba00ab340d308b5324a50c2ba3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Toni Erdmann",
+      "originalTitle": "Toni Erdmann",
+      "year": "2016",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "162",
+      "rating": "6.9",
+      "overview": "Winfried ist ein 65-jähriger, einfühlsamer Musiklehrer mit Hang zu Scherzen, der mit seinem alten Hund zusammenlebt. Seine Tochter Ines hingegen ist das Gegenteil: Als ehrgeizige Unternehmensberaterin reist sie um die Welt und von einem Projekt zum nächsten, um die Karriereleiter steil nach oben zu klettern. Vater und Tochter bekommen sich daher nicht oft zu sehen, aber das wird schlagartig anders, als Winfrieds Hund stirbt und er daraufhin beschließt, Ines unangekündigt bei der Arbeit in Bukarest zu besuchen. Wegen seiner Witze und der unterschwelligen Kritik an ihrem Lebensstil kracht es schon bald zwischen den beiden. Und dann verwandelt sich Winfried auch noch in sein alter Ego Toni Erdmann: das Gebiss ist schief, der Anzug schlecht und auf dem Kopf sitzt eine Perücke. Der schräge Vogel behauptet, Personalcoach zu sein, bringt Ines vor ihren Kollegen in einige peinliche Situationen – aber die Verkleidung sorgt auch dafür, dass sie und ihr Vater sich annähern …",
+      "poster": "https://image.tmdb.org/t/p/w500/rDiSyVUxXnk0IiALGMWni2UJZSb.jpg",
+      "director": "Maren Ade",
+      "cast": [
+        "Sandra Hüller",
+        "Peter Simonischek",
+        "Michael Wittenborn"
+      ],
+      "tmdbId": 374475,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0H7YYPMF7?&linkCode=ll2&tag=ajsretro-21&linkId=5bb78dd8972317bdc9e3477b6d5586ec&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Willkommen bei den Hartmanns",
+      "originalTitle": "Willkommen bei den Hartmanns",
+      "year": "2016",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "113",
+      "rating": "6.3",
+      "overview": "Der Familie Hartmann stehen turbulente Zeiten bevor, als Mutter Angelika nach dem Besuch eines Flüchtlingsheims beschließt, gegen den Willen ihres Mannes Richard mit Diallo einen der dortigen Bewohner bei sich aufzunehmen. Und bald füllt sich das Haus noch weiter. Denn Tochter Sophie  eine ziellose Dauerstudentin auf der Flucht vor einem Verehrer, und der Burnout-gefährdete Sohn Philipp samt Enkel Basti ziehen wieder zuhause ein. Während der Nachwuchs bald feststellen muss, dass es in der Ehe seiner Eltern kräftig kriselt, durchlebt die Familie durch die ungewohnte Situation in ihrem Haus lauter Wirrungen und Turbulenzen - da geht es den Hartmanns wie dem Rest des Landes.",
+      "poster": "https://image.tmdb.org/t/p/w500/gbcYh5zVAYMz1l5Hn6NbVhEL4lz.jpg",
+      "director": "Simon Verhoeven",
+      "cast": [
+        "Senta Berger",
+        "Heiner Lauterbach",
+        "Florian David Fitz"
+      ],
+      "tmdbId": 403348,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FLHWWY64?&linkCode=ll2&tag=ajsretro-21&linkId=36fa5852fc3905d2fd591444155e1188&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ich bin dann mal weg",
+      "originalTitle": "Ich bin dann mal weg",
+      "year": "2015",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Familie"
+      ],
+      "runtime": "92",
+      "rating": "6.2",
+      "overview": "Entertainer Hape Kerkeling bricht auf der Bühne zusammen. Ein Arzt rät dem gestressten Mann, sich einige Monate zu schonen. Bald erzählt er seiner verblüfften Agentin Dörte von seinem ganz besonderen Entspannungs- und Selbstfindungsplan: Mit der Erinnerung an seine gläubige Omma im Kopf will Hape den Jakobsweg entlangpilgern. Im französischen Saint-Jean-Pied-de-Port angekommen, lernt er zwei andere Pilgerinnen kennen, die zurückhaltende Stella und die forsche englische Journalistin Lena, die er jedoch bald wieder aus den Augen verliert. Der steinige, steile Weg ist für den Sportmuffel Hape beschwerlich, die überfüllten, engen Pilgerherbergen sagen ihm nicht zu. Er will abbrechen, doch Lena, Stella und der südamerikanische Lebenskünstler Americo bringen ihn wieder auf Kurs…",
+      "poster": "https://image.tmdb.org/t/p/w500/mfALps3CfdqpK5gOtnFTzfQbrE3.jpg",
+      "director": "Julia von Heinz",
+      "cast": [
+        "Devid Striesow",
+        "Martina Gedeck",
+        "Karoline Schuch"
+      ],
+      "tmdbId": 361403,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B01FXFI968?&linkCode=ll2&tag=ajsretro-21&linkId=2b4f54380e92da38097421c3bee0494c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vaterfreuden",
+      "originalTitle": "Vaterfreuden",
+      "year": "2014",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "110",
+      "rating": "6.1",
+      "overview": "Kinder machen ist nicht schwer – das ist Testosteron-gesteuerte Männersache und somit Fakt. Wie man mit den Kindern umgeht, sind sie einmal da, davon haben Felix und seine Freunde hingegen unterschiedliche Ansichten. Während Tom voll in seiner Vaterrolle aufgeht (manchmal allerdings zu sehr), steht Norbert vor einem ganz anderen Problem: Er und seine Frau würden gerne wollen, können aber nicht so richtig, wodurch sein Terminplan von den heißen Tagen seiner Frau diktiert wird.  Single Felix wiederum muss sich um seinen Kindskopf von Bruder Henne kümmern der eines Tages vor der Türe steht. Nahende Vaterfreuden kann sich Felix dabei noch nicht vorstellen. Das ändert sich aber radikal, als er die Bekanntschaft mit der Sportmoderatorin Maren macht. Diese weckt nämlich romantische Regungen und mehr in ihm: Könnte sie nicht gar die zukünftige Mutter seiner Kinder werden?",
+      "poster": "https://image.tmdb.org/t/p/w500/1p8yN2CDkZClET1xukZIRU7vm5l.jpg",
+      "director": "Matthias Schweighöfer",
+      "cast": [
+        "Matthias Schweighöfer",
+        "Isabell Polak",
+        "Friedrich Mücke"
+      ],
+      "tmdbId": 253370,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8YMT32T?&linkCode=ll2&tag=ajsretro-21&linkId=dac95116eed3bdc07c3532b6b9e6893d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Das Parfum - Die Geschichte eines Mörders",
+      "originalTitle": "Perfume: The Story of a Murderer",
+      "year": "2006",
+      "genres": [
+        "Krimi",
+        "Fantasy",
+        "Drama"
+      ],
+      "runtime": "147",
+      "rating": "7.4",
+      "overview": "Im 18. Jahrhundert wird in Paris Jean-Baptiste Grenouille mit einer sensorischen Anomalie geboren – er besitzt einen einmaligen Geruchssinn. Als Jugendlicher tötet Grenouille unwillentlich ein Mädchen und stellt fest, dass ihr Duft nach ihrem Tod verschwindet. Dies erweckt seinen Wunsch, Düfte dauerhaft konservieren zu können. Über Umwege gerät Grenouille an den Parfümeur Guiseppe Baldini, bei dem er sodann in die Lehre geht, um die Kunst des Konservierens von Düften zu erlernen. Im Gegenzug profitiert Baldini vom Talent des jungen Grenouille, jede Zutat eines Parfüms zu erriechen, sie blind mischen und verfeinern zu können. Grenouille verfolgt große Ziele – er will den wunderbarsten Duft der Welt herstellen und reist dafür nach Grasse, der Hauptstadt der Parfümeure. Auf seinem Weg dorthin findet er die passende Blume: Laure, die Tochter des wohlhabenden Antoine Richis. Plötzlich kommt es in der Gegend von Grasse zu einer Reihe von Todesfällen unter jungen, hübschen Mädchen …",
+      "poster": "https://image.tmdb.org/t/p/w500/kQFfnHq0Vex4ge3B1QdOuiNTbmh.jpg",
+      "director": "Tom Tykwer",
+      "cast": [
+        "Ben Whishaw",
+        "Alan Rickman",
+        "Rachel Hurd-Wood"
+      ],
+      "tmdbId": 1427,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HNFHGMY3?&linkCode=ll2&tag=ajsretro-21&linkId=3434252f54466698a35e6eed13402bbb&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
+      "originalTitle": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
+      "year": "2026",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "94",
+      "rating": "7.2",
+      "overview": "Als Taxifahrer Ludwig „Wiggerl“ Brunner, ein waschechter Münchner Lebenskünstler, von einer Tram erfasst wird und daraufhin im Himmel landet, gibt es nur einen Weg zurück in sein geliebtes Bayern: Er muss sein Karma-Konto schnellstmöglich auf Vordermann bringen. Denn Wiggerl will keinesfalls als frohlockender Engel enden.",
+      "poster": "https://image.tmdb.org/t/p/w500/6Vsu2RQO2uRQpSuBwXnjgfhiui0.jpg",
+      "director": "David Dietl",
+      "cast": [
+        "Maximilian Brückner",
+        "Hannah Herzsprung",
+        "Momo Beier"
+      ],
+      "tmdbId": 1290945,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLRX42QW?&linkCode=ll2&tag=ajsretro-21&linkId=1459d9d7410156a96f2f5a92014b2281&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Hysteria",
+      "originalTitle": "Hysteria",
+      "year": "2025",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "runtime": "104",
+      "rating": "5.4",
+      "overview": "Ein Filmdreh nimmt eine dunkle Wendung, als die Verbrennung eines Korans das Team in Aufruhr versetzt. Die Praktikantin Elif wird in ein gefährliches Spiel aus Geheimnissen und Lügen hineingezogen und findet sich im Zentrum einer alles verschlingenden Verschwörung wieder.",
+      "poster": "https://image.tmdb.org/t/p/w500/ldXXYliUX865ScI2w1plo1vWFnX.jpg",
+      "director": "Mehmet Akif Büyükatalay",
+      "cast": [
+        "Devrim Lingnau",
+        "Mehdi Meskar",
+        "Serkan Kaya"
+      ],
+      "tmdbId": 1399696,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FR14W2N1?&linkCode=ll2&tag=ajsretro-21&linkId=d013d77a3fc757b64cfebd494e7ceb21&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Monster im Kopf",
+      "originalTitle": "Monster im Kopf",
+      "year": "2023",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "94",
+      "rating": "4.8",
+      "overview": "Eine junge werdende Mutter kämpft darum, dass ihr Kind nach der Geburt bei ihr bleiben kann, während sie wegen schwerer Körperverletzung eine Freiheitsstrafe im Gefängnis absitzt",
+      "poster": "https://image.tmdb.org/t/p/w500/sJXyve3Almd9c71dPKkHDz2NHHg.jpg",
+      "director": "Christina Ebelt",
+      "cast": [
+        "Carlo Ljubek",
+        "Franziska Hartmann",
+        "Slavko Popadic"
+      ],
+      "tmdbId": 989750,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGKRXN8P?&linkCode=ll2&tag=ajsretro-21&linkId=be6acaac693810ea8b61490fb5bde411&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein nasser Hund",
+      "originalTitle": "Ein nasser Hund",
+      "year": "2021",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "103",
+      "rating": "7.1",
+      "overview": "\"Ein Nasser Hund\" erzählt die Geschichte des jüdischen Jugendlichen Soheil, der seine Herkunft verschleiert, um in einer arabischen Jugendgang Anschluss zu finden.",
+      "poster": "https://image.tmdb.org/t/p/w500/s9R1YPGAwv2aFCKWJIdhNrAqIFh.jpg",
+      "director": "Damir Lukacevic",
+      "cast": [
+        "Doguhan Kabadayi",
+        "Mohammad Eliraqui",
+        "Derya Dilber"
+      ],
+      "tmdbId": 729793,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0F64JLLS8?&linkCode=ll2&tag=ajsretro-21&linkId=453c5547885f204fbd7080ad217d4353&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Traumfabrik",
+      "originalTitle": "Traumfabrik",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "128",
+      "rating": "7.3",
+      "overview": "Das DEFA-Filmstudio in Babelsberg im Sommer 1961: ein Ort zwischen zeitloser Magie und kreativer Aufbruchsstimmung. Frisch aus der NVA entlassen, steht Emil Hellberg vor dem großen Torbogen der traditionsreichen Traumfabrik. Sein älterer Bruder Alex, im Studio als Stuckateur beschäftigt, hat ihm einen Job als Kleindarsteller besorgt. Emil kann mit der Filmwelt nicht viel anfangen, aber einen anderen Plan hat er auch nicht. Das ändert sich schlagartig, als er bei den Dreharbeiten zu einem Piratenfilm das französische Tanzdouble Milou sieht.",
+      "poster": "https://image.tmdb.org/t/p/w500/sHLoKNJXfzwt5y1QB1RTCH0OhAu.jpg",
+      "director": "Martin Schreier",
+      "cast": [
+        "Dennis Mojen",
+        "Emilia Schüle",
+        "Heiner Lauterbach"
+      ],
+      "tmdbId": 570292,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG16BV3K?&linkCode=ll2&tag=ajsretro-21&linkId=38d819eb1a691d4240f44657e1a2ade4&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Auerhaus",
+      "originalTitle": "Auerhaus",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "104",
+      "rating": "6.1",
+      "overview": "Sechs Freunde und ein Versprechen: Ihr Leben soll nicht in Ordnern mit der Aufschrift „Birth“, „School“, „Work“, „Death“ abgeheftet werden. Deshalb ziehen sie gemeinsam ins Auerhaus. Eine Schüler-WG auf dem Dorf",
+      "poster": "https://image.tmdb.org/t/p/w500/mFKneavjC1izMOyqnwzugioUBnb.jpg",
+      "director": "Neele Leana Vollmar",
+      "cast": [
+        "Damian Hardung",
+        "Luna Wedler",
+        "Sven Schelker"
+      ],
+      "tmdbId": 594518,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0DYNSWY7Y?&linkCode=ll2&tag=ajsretro-21&linkId=3def8d5f0acd37bdcb035774c6894ae1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Selbstkritik eines bürgerlichen Hundes",
+      "originalTitle": "Selbstkritik eines bürgerlichen Hundes",
+      "year": "2017",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "104",
+      "rating": "6.5",
+      "overview": "Julian kommt frisch von der Filmhochschule und hat trotzdem schon keine Flausen mehr im Kopf: Den Kapitalismus, da ist sich der Möchtegern-Kommunist sicher, kann man nicht überwinden. Denn dafür ist der viel zu komplex geworden! Und das ist vor allem auch deswegen blöd, weil Julian, dieser bürgerliche Windhund, als echter Aktivist viel bessere Chancen bei Camille hätte. Ohne Lösung fürs Dilemma und vor allem ohne genug Geld in der Tasche nimmt der Jungregisseur Arbeit im Havelland an. Auf der Apfelplantage trifft er Sancho und Hong, die man im Museum gefeuert hat, nachdem ein Dürer-Bild und ein Feuerlöscher gestohlen wurden – dummerweise in ihrer Schicht. Beim anstrengenden Obstpflücken spüren Julian, Sancho und Hong in den eigenen Knochen, wie anstrengend der Kapitalismus ist. Immerhin der weise Idiot in Mönchskutte macht ihnen auf der Plantage ein bisschen Hoffnung, erzählt von einem „Kommunismus ohne Kommunisten“ in Italien…",
+      "poster": "https://image.tmdb.org/t/p/w500/uAW4PUgiafKGPXUfn0gr3Qr096p.jpg",
+      "director": "Julian Radlmaier",
+      "cast": [
+        "Julian Radlmaier",
+        "Deragh Campbell",
+        "Beniamin Forthi"
+      ],
+      "tmdbId": 433410,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FXTWG97T?&linkCode=ll2&tag=ajsretro-21&linkId=e5fc3c334cb4b277f075e81557f77f58&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vier gegen die Bank",
+      "originalTitle": "Vier gegen die Bank",
+      "year": "2016",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "96",
+      "rating": "5.9",
+      "overview": "Peter ist ein Schauspieler, der noch vom Ruhm längst vergangener Tage zehrt, aber sein Kontostand nähert sich langsam dem Tiefststand. Werbeprofi Max hat die Nase voll von seinen Chefs, will eine eigene Agentur aufmachen. Und Boxer Chris will ein Trainingsstudio bauen, in erster Linie um seine zahlreichen Groupies zu beeindrucken. Peter, Max und Chris brauchen also Geld – doch als sich die drei online über ihre Anlagen informieren, müssen sie mit Erschrecken feststellen, dass aus ihren Aktien nichts geworden ist. Schnell ist der Sündenbock gefunden: Der verklemmte Anlageberater Tobias. Aber auch Tobias ist ein Opfer – und zwar das seines Chefs Schumacher, der ihn loswerden will und ihm deshalb wichtige Börsen-Informationen vorenthalten hat. Also schmiedet die Gruppe ungleicher Männer einen Plan, auf Kosten der Bank reich zu werden...",
+      "poster": "https://image.tmdb.org/t/p/w500/skVd7V49CYOGE2pLyQSUXVA3ucy.jpg",
+      "director": "Wolfgang Petersen",
+      "cast": [
+        "Jan Josef Liefers",
+        "Til Schweiger",
+        "Matthias Schweighöfer"
+      ],
+      "tmdbId": 366568,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FMK4FCXX?&linkCode=ll2&tag=ajsretro-21&linkId=c921e230e398ab1b1d8a25f846fbbb58&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lichtgestalten",
+      "originalTitle": "Lichtgestalten",
+      "year": "2016",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "84",
+      "rating": "5.0",
+      "overview": "Steffen und Katharina sind ein erfolgreiches junges Paar in Berlin. Sie wohnen in einer schicken Dachgeschoss-Maisonette, haben gute Jobs und eine liebevolle Beziehung. Doch zufrieden sind sie dennoch nicht: Ihre Existenz scheint Katharina und Steffen allzu vorhersehbar, sie sehnen sich nach etwas Neuem, Unbekannten. Und so fasst das Paar einen radikalen Entschluss. Die beiden planen, alle Spuren ihres bisherigen Daseins zu vernichten und irgendwo klammheimlich ganz neu anzufangen.",
+      "poster": "https://image.tmdb.org/t/p/w500/QpzaPIfIgRjHFLOnekhSViF4GP.jpg",
+      "director": "Christian Moris Müller",
+      "cast": [
+        "Max Riemelt",
+        "Theresa Scholze",
+        "Max Woelky"
+      ],
+      "tmdbId": 376476,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG5VK7NF?&linkCode=ll2&tag=ajsretro-21&linkId=2c26b4fccf62e2345221cef2372027f3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Highway to Hellas",
+      "originalTitle": "Highway to Hellas",
+      "year": "2015",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "89",
+      "rating": "5.5",
+      "overview": "Deutsche Touristen sind normalerweise ziemlich beliebt in Griechenland. Das Problem ist, Jörg Geissner ist kein Tourist. Und auch nicht beliebt, denn seine Aufgabe ist es, nachzuforschen, ob für vor langer Zeit gewährte Kredite wirklich die seinerzeit angegebenen Sicherheiten bestehen. Schnell ist er den Bewohnern der griechischen Insel Paladiki ein Dorn im Auge. Allen voran Supermarktbesitzer Panos will ihm dabei einen Strich durch die Rechnung machen. Auf einer Odyssee quer über die Insel und wieder zurück, in der Hoffnung Geissner die Aufgabe so schwer wie möglich zu machen, wird der Trip ins vermeintliche Urlaubsparadies zur Hölle. Doch so sehr sich die Ereignisse auf Paladiki überschlagen, mit der Zeit wird immer deutlicher, dass man sich im Grunde gar nicht so unähnlich ist...",
+      "poster": "https://image.tmdb.org/t/p/w500/2RqX9BLGM76S1Bwks2MZiR0cCsE.jpg",
+      "director": "Aron Lehmann",
+      "cast": [
+        "Christoph Maria Herbst",
+        "Adam Bousdoukos",
+        "Ακύλλας Καραζήσης"
+      ],
+      "tmdbId": 334362,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FLW5L4MN?&linkCode=ll2&tag=ajsretro-21&linkId=b775206d9d34e7a485eb75ab5c22af83&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Sommer in Paris",
+      "originalTitle": "Ein Sommer in Paris",
+      "year": "2011",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "TV-Film"
+      ],
+      "runtime": "90",
+      "rating": "4.8",
+      "overview": "Nach einem Streit lässt Klara ihren Verlobten am Eiffelturm stehen und erkundet Paris auf eigene Faust. Kurz bevor das Geld zur Neige geht, hilft der Zufall, den es in solchen Filmen bekanntlich nicht gibt: Der stinkreiche Charmebolzen Philippe engagiert die hübsche, schlagfertige Krankenschwester aus Deutschland als Betreuerin für seine kranke und angeblich sehr anstrengende Mutter",
+      "poster": "https://image.tmdb.org/t/p/w500/tvsdOBz3zEH7K04cPmqylTaYXUg.jpg",
+      "director": "Jorgo Papavassiliou",
+      "cast": [
+        "Anica Dobra",
+        "Pasquale Aleardi",
+        "Liane Forestieri"
+      ],
+      "tmdbId": 185065,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG9W66HY?&linkCode=ll2&tag=ajsretro-21&linkId=352754433542c7319b675e3739e4f541&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Super Mario Bros. Film",
+      "originalTitle": "The Super Mario Bros. Movie",
+      "year": "2023",
+      "genres": [
+        "Familie",
+        "Komödie",
+        "Abenteuer",
+        "Fantasy",
+        "Animation"
+      ],
+      "runtime": "93",
+      "rating": "7.6",
+      "overview": "Bei unterirdischen Reparaturarbeiten werden die Klempner Mario und Luigi durch eine geheimnisvolle Röhre in eine magische neue Welt gesaugt. Als die Brüder dort getrennt werden, begibt Mario sich auf eine gigantische Reise, um Luigi zu finden. Mit der Unterstützung des Pilzkönigreichbewohners Toad und dank eines Trainings von Princess Peach, der willensstarken Herrscherin des Pilzkönigreiches, entdeckt Mario dabei ungeahnte Kräfte in sich.",
+      "poster": "https://image.tmdb.org/t/p/w500/iH0DprDjxfLQZdiKeHlll0Drx9X.jpg",
+      "director": "Aaron Horvath",
+      "cast": [
+        "Chris Pratt",
+        "Anya Taylor-Joy",
+        "Charlie Day"
+      ],
+      "tmdbId": 502356,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0BYKFGLWK?&linkCode=ll2&tag=ajsretro-21&linkId=cdd41145c93a061007629cde7b346744&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Abenteuer von Tim und Struppi - Das Geheimnis der Einhorn",
+      "originalTitle": "The Adventures of Tintin",
+      "year": "2011",
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Mystery"
+      ],
+      "runtime": "107",
+      "rating": "6.9",
+      "overview": "Der junge Reporter Tim ist immer auf der Suche nach einer guten Story. Mit seinem treuen Begleiter Struppi, einem gewitzten Foxterrier, bereist er die entlegendsten Winkel der Erde und scheut sich vor keiner noch so großen Gefahr, um an Material für seine neuesten Reportagen zu kommen. Auf einer ihrer zahlreichen Recherchetouren treffen Tim und sein Gefährte auf den raubeinigen Kapitän Haddock. Der permanent betrunkene Seefahrer berichtet dem Duo von einem Schatz seines Vorfahren Frantz Ritter von Hadoque. Jener sei zusammen mit dem Schiff Hadoques untergegangen, nachdem es vom gefürchteten Piraten Rackham dem Roten angegriffen wurde. Gemeinsam begeben sich die Drei auf die abenteuerliche Reise in die Karibik, wo sie den verschollenen Schatz vermuten. Außerdem dabei: die beiden zum Verwechseln ähnlichen Detektive Schulze und Schultze, die aufgrund ihrer tolpatschigen Art für ständigen Schlamassel sorgen.",
+      "poster": "https://image.tmdb.org/t/p/w500/7Sja7LZ5v3wh8he4rWDZad5K4UR.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Jamie Bell",
+        "Andy Serkis",
+        "Daniel Craig"
+      ],
+      "tmdbId": 17578,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHFZ5KXX?&linkCode=ll2&tag=ajsretro-21&linkId=3ab16304bb78f8a1e5afa7baf1f1127a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Wolkig mit Aussicht auf Fleischbällchen",
+      "originalTitle": "Cloudy with a Chance of Meatballs",
+      "year": "2009",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Familie"
+      ],
+      "runtime": "90",
+      "rating": "6.7",
+      "overview": "Nachdem seine neueste Kreation versehentlich das Stadtzentrum zerstört undanschließend Richtung Himmel schießt, fürchtet Flint Lockwood zunächst, dass seine Erfinderkarriere hiermit beendet sei. Doch dann geschieht das Unglaubliche: Es regnet köstliche Cheeseburger - seine Maschine funktioniert! Aber die Menschen können von den Leckereien einfach nicht genug bekommen, bis der Apparat durchdreht und gigantische Spaghetti-Tornados mit riesigen Fleischbällchen auf die Erde loslässt. Mit Hilfe der Wetterreporterin Sam Sparks und seinem Assistenten Steve, einem sprechenden Affen, muss Flint eine Möglichkeit finden, die wildgewordene Maschine abzuschalten, bevor die Welt unter den megagroßen Fleischklößen begraben wird.",
+      "poster": "https://image.tmdb.org/t/p/w500/spgRKedpT0vcBtc7kB7ZXA4dDrF.jpg",
+      "director": "Christopher Miller",
+      "cast": [
+        "Bill Hader",
+        "Anna Faris",
+        "James Caan"
+      ],
+      "tmdbId": 22794,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZ4H3SPJ?&linkCode=ll2&tag=ajsretro-21&linkId=5d1ec082eaa6c88df90df7542e3080e2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Tom und Jerry - Der Film",
+      "originalTitle": "Tom and Jerry: The Movie",
+      "year": "1992",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Familie"
+      ],
+      "runtime": "84",
+      "rating": "6.3",
+      "overview": "Wegen ihrer ewigen Streitigkeiten verpassen Kater Tom und Maus Jerry den Auszug ihrer Familie aus deren Abbruchhäuschen. Am nächsten Tag ohne Bleibe, machen sie die Bekanntschaft der Ausreißerin Robyn, die nach dem vermeintlichen Tod ihres Vaters bei der bösen Tante Fies wohnt. Tom und Jerry erfahren das dunkle Geheimnis der Tante, doch die steckt die beiden zu dem skrupellosen Tierhändler Dr. Hundekuch. Tom und Jerry organisieren eine Massenflucht und machen sich mit Robyn auf die Suche nach ihrem Vater.",
+      "poster": "https://image.tmdb.org/t/p/w500/u4NkCyPbLtDmSnATkgkcvomltdb.jpg",
+      "director": "Phil Roman",
+      "cast": [
+        "Richard Kind",
+        "Dana Hill",
+        "Anndi McAfee"
+      ],
+      "tmdbId": 22582,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8PXYPM6?&linkCode=ll2&tag=ajsretro-21&linkId=6e8403448e0e1f073ccd49ce398106a0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mrs. Brisby und das Geheimnis von Nimh",
+      "originalTitle": "The Secret of NIMH",
+      "year": "1982",
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Familie",
+        "Fantasy",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "runtime": "82",
+      "rating": "7.4",
+      "overview": "Die verwitwete Feldmausdame Mrs. Brisby will mit ihren Kindern umziehen, weil bald der Bauer das Feld pflügen wird. Ihr Jüngster leidet an Lungenentzündung. In ihrer Not wendet sie sich an Rabe Jeremy und eine Eule, die sie an Nicodemus und seine Ratten verweisen, die unter einem Rosenbusch hausen. Die Ratten von NIMH (National Insitut of National Health) sind intelligente Laborratten, die Mrs. Brisbys Umzug vorbereiten. Vorher müssen sie die Forscher, die sie ausrotten wollen, überlisten. Mrs. Brisbys Umzug bringt die Lösung aller Probleme.",
+      "poster": "https://image.tmdb.org/t/p/w500/rx6IVmmUWYO8Fl1JsnrV58iGzCY.jpg",
+      "director": "Don Bluth",
+      "cast": [
+        "Elizabeth Hartman",
+        "Derek Jacobi",
+        "Arthur Malet"
+      ],
+      "tmdbId": 11704,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8PFTRGF?&linkCode=ll2&tag=ajsretro-21&linkId=88e570612ad3fdbda05df14c693769c1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mateo",
+      "originalTitle": "Mateo",
+      "year": "2026",
+      "genres": [
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "runtime": "76",
+      "rating": "6.0",
+      "overview": "Nach dem Verlust seiner Mutter und aufgewachsen unter der alleinigen Obhut seiner Großmutter, hat der junge Mateo sein gesamtes Leben damit verbracht, über den Vater nachzugrübeln, an den er sich kaum noch erinnern kann.  Mateo begibt sich auf eine außergewöhnliche Reise quer durch das Land und über den Ozean, um seinen Vater zu suchen. Unterwegs begegnet er heftigen Stürmen, gefährlichen Herausforderungen und unerwarteten Freundschaften, die seinen Mut und seine Entschlossenheit auf die Probe stellen.  Während Mateo den Antworten, nach denen er gesucht hat, immer näherkommt, entdeckt er, dass es bei dieser Reise um weit mehr geht, als nur seinen Vater zu finden: Es geht darum, die wahre Bedeutung von Familie und aufopferungsvoller Liebe zu begreifen – und zu lernen, dass die Hoffnung selbst in den dunkelsten Momenten des Lebens leuchten kann.  Ein herzerwärmendes Animationsabenteuer über das Finden von Mut und Ausdauer sowie die unvergängliche Kraft der Liebe.",
+      "poster": "https://image.tmdb.org/t/p/w500/cEktGsCaL4vVMV5nyKlNUPBXhPo.jpg",
+      "director": "Ashley Hays Wright",
+      "cast": [
+        "Scott Travis",
+        "David Owen Wright",
+        "Scout Wright"
+      ],
+      "tmdbId": 1711956,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0H4SFX1DL?&linkCode=ll2&tag=ajsretro-21&linkId=f07de81318ade61e110425da3a2137ad&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der letzte Walsänger",
+      "originalTitle": "The Last Whale Singer",
+      "year": "2026",
+      "genres": [
+        "Animation",
+        "Abenteuer",
+        "Familie"
+      ],
+      "runtime": "91",
+      "rating": "7.0",
+      "overview": "Als eine monströse Kreatur aus einem schmelzenden Eisberg ausbricht, muss ein selbstzweifelnder jugendlicher Buckelwal seinen größten Ängsten ins Auge blicken und mit seinen Freunden in die dunkelsten Tiefen tauchen, um sein mystisches Lied zu entdecken, das die Ozeane vor der Zerstörung retten kann.",
+      "poster": "https://image.tmdb.org/t/p/w500/a8l9GxG66GOel641DvYCGAOlGOt.jpg",
+      "director": "Reza Memari",
+      "cast": [
+        "Vincent Tong",
+        "Bruce Dinsmore",
+        "Jenna Wheeler-Hughes"
+      ],
+      "tmdbId": 677558,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0HHHYXQRT?&linkCode=ll2&tag=ajsretro-21&linkId=fb11080fe5520d2deec657a03537d455&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Meine Freundin Conni - Abenteuer Mit Kranich Klaus",
+      "originalTitle": "Meine Freundin Conni 2",
+      "year": "2026",
+      "genres": [
+        "Abenteuer",
+        "Animation",
+        "Komödie",
+        "Fantasy"
+      ],
+      "runtime": "93",
+      "rating": "7.7",
+      "overview": "Im Haus der Klawitters herrscht Aufbruchsstimmung. Conni ist aufgeregt. Ihre Eltern fahren mit ihrem Bruder zu Onkel Albert. Conni wäre nur zu gerne mitgefahren, aber dann würde sie Semires Geburtstagsparty verpassen. Natürlich bleiben Conni und Kater Mau nicht allein zu Hause, denn Opa Willi ist gekommen und Anna und Simon dürfen sogar bei ihr übernachten. Doch dann landet ein verletzter Kranich bei ihnen und braucht ihre Hilfe. Denn nicht nur die Verletzung macht Kranich Klaus zu schaffen, auch der spießige Nachbar Herr Oswald, der seinen astrein gepflegten Rosengarten in Gefahr sieht, ist hinter Klaus her.\r Gut, dass Conni und ihre Freunde Unterstützung von der Tierschützerin Renata und der Polizistin Selena bekommen. Zum großen Missfallen von Kater Mau und Anna dreht sich aber nun alles nur noch um den lustigen Vogel.\r Werden Conni und ihre Freunde es gemeinsam schaffen, dass Klaus rechtzeitig gesund wird, um mit den Zugvögeln nach Süden zu fliegen?",
+      "poster": "https://image.tmdb.org/t/p/w500/ye46Vv26Wvc3FWpOmWRZDy7tig1.jpg",
+      "director": "Dirk Hampel",
+      "cast": [],
+      "tmdbId": 1422407,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0H5CD5DVZ?&linkCode=ll2&tag=ajsretro-21&linkId=6696e0a756c0c539a85a7c813c94fcca&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Hola Frida",
+      "originalTitle": "Hola Frida!",
+      "year": "2025",
+      "genres": [
+        "Animation",
+        "Familie",
+        "Historie"
+      ],
+      "runtime": "82",
+      "rating": "6.6",
+      "overview": "​Das ist die Geschichte eines ganz besonderen Mädchens. Ihr Zuhause ist Coyoacán in Mexiko – ein lebendiger Ort voller Farben, Musik und Magie. Frida ist neugierig, mutig und voller Energie. Sie beobachtet, entdeckt, träumt – und wenn das Leben ihr Schwierigkeiten in den Weg stellt, begegnet sie ihnen mit Fantasie und Kreativität. Dieses kleine Mädchen heißt Frida Kahlo – und ihr außergewöhnlicher Blick auf die Welt macht sie zu einer der größten Künstlerinnen aller Zeiten.  Hola Frida ist ein liebevoll gestalteter Animationsfilm über Resilienz, Vorstellungskraft und die Kraft der Kunst – inspiriert von der Kindheit der berühmten Malerin. Ein visuelles Erlebnis für die ganze Familie, das zum Staunen, Mitfühlen und Nachdenken einlädt.",
+      "poster": "https://image.tmdb.org/t/p/w500/cHGGTgIZJSWnyG6qvclXy1jFnKB.jpg",
+      "director": "Karine Vézina",
+      "cast": [
+        "Olivia Ruiz",
+        "Emma Rodriguez",
+        "Rebeca Gonzales"
+      ],
+      "tmdbId": 1245399,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0H2Q617RD?&linkCode=ll2&tag=ajsretro-21&linkId=ff67a0687730d9695821f71ce2392c12&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Spermageddon",
+      "originalTitle": "Spermageddon",
+      "year": "2024",
+      "genres": [
+        "Animation",
+        "Abenteuer",
+        "Fantasy",
+        "Komödie"
+      ],
+      "runtime": "80",
+      "rating": "6.4",
+      "overview": "Zwei ungeschickte Teenager, zwischen denen sich eine Liebesgeschichte anbahnt, bis sie zum ersten Mal Sex haben. Das ist die eine Seite der Geschichte von Spermageddon. Die andere ist die von Simon dem Spermium und seinen Freunden, die gemeinsam nur ein Ziel haben: Eine Eizelle erreichen.",
+      "poster": "https://image.tmdb.org/t/p/w500/tn37HNt7hhC1QQ0Lgr8ysQWBVQL.jpg",
+      "director": "Tommy Wirkola",
+      "cast": [
+        "Christian Mikkelsen",
+        "Nasrin Khusrawi",
+        "Aksel Hennie"
+      ],
+      "tmdbId": 1064307,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0FPVWB9K5?&linkCode=ll2&tag=ajsretro-21&linkId=6b9db5f196c7dfb0c73fbde2840dd7d6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Scarlet",
+      "originalTitle": "果てしなきスカーレット",
+      "year": "2025",
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama",
+        "Science Fiction"
+      ],
+      "runtime": "112",
+      "rating": "6.9",
+      "overview": "Scarlet, eine mittelalterliche Prinzessin, begibt sich auf eine gefährliche Mission, um den Tod ihres Vaters zu rächen. Doch ihre Mission scheitert und sie findet sich schwer verletzt in einer jenseitigen Welt wieder. Dort begegnet sie einem idealistischen jungen Mann aus unserer Gegenwart, der ihr nicht nur bei der Heilung hilft, sondern ihr auch die Möglichkeit einer Zukunft ohne Bitterkeit und Wut aufzeigt. Als sie erneut mit dem Mörder ihres Vaters konfrontiert wird, steht Scarlet vor ihrer größten Herausforderung: Kann sie den Kreislauf des Hasses durchbrechen und einen Sinn im Leben außer der Rache finden?",
+      "poster": "https://image.tmdb.org/t/p/w500/519MXqfB9M8aKeQgd8nPdPXszlU.jpg",
+      "director": "Mamoru Hosoda",
+      "cast": [
+        "Mana Ashida",
+        "Masaki Okada",
+        "Yutaka Matsushige"
+      ],
+      "tmdbId": 1406657,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0FWHYJFT5?&linkCode=ll2&tag=ajsretro-21&linkId=a20c2402275c2fd041b512fb38bad7a3&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "BLUE LOCK DER FILM -EPISODE NAGI-",
+      "originalTitle": "劇場版ブルーロック -EPISODE 凪-",
+      "year": "2024",
+      "genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "runtime": "91",
+      "rating": "7.6",
+      "overview": "„Das nervt“. Das war der Lieblingssatz des Oberschülers Nagi Seishiro, der ein langweiliges Leben führte. Bis Mikage Reo, ein Klassenkamerad, der davon träumte, die Weltmeisterschaft zu gewinnen, Nagis verborgene Fähigkeiten entdeckte und ihn dazu inspirierte, Fußball zu spielen und sein außergewöhnliches Talent zu teilen. Eines Tages erhält er eine Einladung zum geheimnisvollen Blue-Lock-Projekt. Was ihn dort erwartet, ist eine Begegnung mit den besten Stürmern aus dem ganzen Land. Nagis Traum, an der Seite von Reo der Beste zu werden, führt das Genie in eine für ihn unbekannte Welt.  Ein Genie kann nur geformt werden, wenn jemand es entdeckt … Nagi Seishiros unglaubliches Talent und seine Persönlichkeit werden die Fußballwelt in Flammen setzen.",
+      "poster": "https://image.tmdb.org/t/p/w500/wRITkyPzMd6JZ1uTeYsU7GjUQcW.jpg",
+      "director": "石川俊介",
+      "cast": [
+        "Nobunaga Shimazaki",
+        "Yuma Uchida",
+        "Kazuyuki Okitsu"
+      ],
+      "tmdbId": 1104844,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0F2525FW9?&linkCode=ll2&tag=ajsretro-21&linkId=e7f47500e72726937c1716f3c79474a4&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Benjamin Bat",
+      "originalTitle": "Victor Vleermuis",
+      "year": "2024",
+      "genres": [
+        "Musik",
+        "Abenteuer",
+        "Animation",
+        "Familie"
+      ],
+      "runtime": "69",
+      "rating": "6.0",
+      "overview": "Benjamin (Victor im Original) Fledermaus ist klein und wirkt auf den ersten Blick nicht besonders mutig. Er hat mit einem – zumindest für Fledermäuse – großen Problem zu kämpfen: Er hat Angst vor der Dunkelheit. Seine großen Brüder finden ihn seltsam. Sie verstehen seine Sensibilität überhaupt nicht und schon gar nicht, dass er so gerne singt. Singen ist nämlich etwas für Vögel, und die sind ihre Erzfeinde. Alles ändert sich, als er sich eines Tages in die tropische Singvogel-Dame Sherida verliebt. Victor muss all seinen Mut zusammennehmen, um ihre Liebe zu gewinnen und zu sich selbst zu stehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/px4h83G4g8UW279Bev5i7xfezMl.jpg",
+      "director": "Patrick Raats",
+      "cast": [
+        "Soy Kroon",
+        "Stephanie van Eer",
+        "Fedja van Huêt"
+      ],
+      "tmdbId": 1357819,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFJPRYS5?&linkCode=ll2&tag=ajsretro-21&linkId=0d9cbe65a5ceb034b46f58bd5960344e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Psycho-Pass: Providence",
+      "originalTitle": "劇場版 PSYCHO-PASS サイコパス PROVIDENCE",
+      "year": "2023",
+      "genres": [
+        "Animation",
+        "Krimi",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "121",
+      "rating": "6.8",
+      "overview": "Im Japan der Zukunft scheint alles perfekt: Das Frühstück kommt aus dem Automaten, das Outfit wird per Knopfdruck zusammengestellt, das Leben ist sicher wie nie. Nur ganz nebenbei analysiert ein ausgeklügeltes System unablässig die mentale Verfassung der Bevölkerung und damit auch ihr Gewaltpotenzial. Das alles dient dem ehrenwerten Zweck, Verbrechen bereits im Vorfeld zu verhindern und eine lebenswerte, gewaltfreie Umgebung zu schaffen. Personen, deren sogenannter „Psycho-Pass“ einen überhöhten Wert anzeigt, werden festgenommen, the­rapiert oder gleich aus dem Weg geräumt. Als die frisch gebackene Polizei-Inspektorin Akane Tsunemori ihren Dienst beim Amt für Öffentliche Sicherheit antritt und zusammen mit den so­genannten Vollstreckern potenzielle Kriminelle jagt, lernt sie schon bald die blutige Kehrseite dieser heilen Welt kennen – und den gemeingefährlichsten Verbrecher überhaupt …",
+      "poster": "https://image.tmdb.org/t/p/w500/loQnGx81zO3RDf1VmNiGZf60mCg.jpg",
+      "director": "Naoyoshi Shiotani",
+      "cast": [
+        "Kana Hanazawa",
+        "Tomokazu Seki",
+        "Kenji Nojima"
+      ],
+      "tmdbId": 1012652,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0DXW14G8F?&linkCode=ll2&tag=ajsretro-21&linkId=ccdc83fdd84a643800030373656dbb53&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Quintessential Quintuplets Movie",
+      "originalTitle": "映画 五等分の花嫁",
+      "year": "2022",
+      "genres": [
+        "Animation",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "136",
+      "rating": "8.3",
+      "overview": "Als fünf hübsche junge Mädchen, die das Lernen hassen, den Nachhilfelehrer Futaro (Stimme im Original: Yoshitsugu Matsuoka) engagieren, lenkt er nicht nur ihre Ausbildung, sondern auch ihre Herzen. Die Zeit, die sie miteinander verbringen, hat sie alle näher zusammengebracht, wodurch die Gefühle zwischen den Mädchen und Futaro wachsen. Als sie ihr drittes Jahr an der Highschool beenden und ihr letztes Schulfest naht, richten sie ihren Blick auf das, was danach kommt. Gibt es eine gemeinsame Zukunft oder entscheidet sich Futaro für ein Mädchen?",
+      "poster": "https://image.tmdb.org/t/p/w500/oM9xbtkdkcWNX0gKrlrVidpJox6.jpg",
+      "director": "Masato Jimbo",
+      "cast": [
+        "Yoshitsugu Matsuoka",
+        "Kana Hanazawa",
+        "Ayana Taketatsu"
+      ],
+      "tmdbId": 820067,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0GRJL438Z?&linkCode=ll2&tag=ajsretro-21&linkId=ec9d7517223bbe94a5049f69ddca2304&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ron läuft schief",
+      "originalTitle": "Ron's Gone Wrong",
+      "year": "2021",
+      "genres": [
+        "Animation",
+        "Science Fiction",
+        "Familie",
+        "Komödie"
+      ],
+      "runtime": "107",
+      "rating": "7.8",
+      "overview": "Barney fühlte sich als Teenager noch nie wohl im Umgang mit Gleichaltrigen. Umso erfreuter war er von der Meldung, dass es fortan für jedes Kind einen B-Bot geben soll. Der kleine rundliche Roboter soll nicht nur die fortschrittlichste Maschine der Welt sein, sondern zugleich zum besten Freund für die Kinder werden. Dumm nur, dass Barneys Roboter mit Namen Ron bereits beim Hochfahren einige Defekte aufzeigt. Ron läuft schief und müsste, so denkt man, eigentlich sofort umgetauscht werden. Doch lässt sich ein neuer bester Freund so einfach ersetzen? Für Barney und Ron beginnt ein kurioses Abenteuer in der beide über die Wirrungen von wahrer Freundschaft noch einiges lernen werden.",
+      "poster": "https://image.tmdb.org/t/p/w500/x6IJu1zILeR6mxSdejIhAQg62ib.jpg",
+      "director": "Sarah Smith",
+      "cast": [
+        "Jack Dylan Grazer",
+        "Zach Galifianakis",
+        "Ed Helms"
+      ],
+      "tmdbId": 482321,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0DG2ZHCLB?&linkCode=ll2&tag=ajsretro-21&linkId=ea0025912530fd7a0a5316d34e87bb9a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Psycho-Pass 3: First Inspector",
+      "originalTitle": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+      "year": "2020",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Krimi",
+        "Animation"
+      ],
+      "runtime": "134",
+      "rating": "7.5",
+      "overview": "Die beiden Inspektoren der Einheit 1 der Kriminalabteilung im Amt für Öffentliche Sicherheit (AÖS), Arata Shindo und Kei Mikhail Ignatov, haben eine gefährliche Verschwörung aufgedeckt: Das Sibyl-System ist von der machthungrigen Organisation Bifrost untergraben worden. Nun soll der Rücktritt der Gouverneurin Karina erzwungen werden, indem das Gebäude des AÖS angegriffen und die verschiedenen Einheiten außer Gefecht gesetzt werden, darunter auch Einheit 1. Arata wird gefangen genommen, während Kei die Wahl hat, seine Einheit für seinen persönlichen Nutzen zu hintergehen …",
+      "poster": "https://image.tmdb.org/t/p/w500/cDzg73jFccIxsUejBnLEY28U5Mv.jpg",
+      "director": "Naoyoshi Shiotani",
+      "cast": [
+        "Takahiro Sakurai",
+        "Junichi Suwabe",
+        "Yuichi Nakamura"
+      ],
+      "tmdbId": 655431,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6722M1Z?&linkCode=ll2&tag=ajsretro-21&linkId=06d8e16d62435ea721cc48e2f57dfca5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ride Your Wave",
+      "originalTitle": "きみと、波にのれたら",
+      "year": "2019",
+      "genres": [
+        "Animation",
+        "Liebesfilm",
+        "Komödie",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtime": "96",
+      "rating": "7.5",
+      "overview": "Hinako hat gerade die Oberschule abgeschlossen und ist nun eine frischgebackene Universitätsstudentin. Dafür zog sie vor kurzem in eine Küstenstadt, doch die Nähe zur Uni war kaum der einzige Grund für Hinako, denn sie surft leidenschaftlich gern! Während sie auf dem Surfbrett mutig selbst den gefährlichsten Wellen trotzt, sieht sie sich an Land jedoch von der Unsicherheit über ihre eigene Zukunft geplagt … Als ein Feuer in der Küstenstadt für Chaos sorgt, lernt Hinako den jungen Feuerwehrmann Minato kennen und schon bald verbringen die beiden mehr Zeit miteinander.  Als sie so gemeinsam auf dem Meer surfen und sich besser kennenlernen, fühlt sich Hinako mehr und mehr zu dem jungen Mann hingezogen, der sich so offen und aufopferungsvoll für andere einsetzt. Doch auch sie selbst genießt einen besonderen Platz im Herzen Minatos …",
+      "poster": "https://image.tmdb.org/t/p/w500/8Z8TB4nYkT5nKonGN6KO9KyIrco.jpg",
+      "director": "湯浅政明",
+      "cast": [
+        "片寄涼太",
+        "Rina Kawaei",
+        "Honoka Matsumoto"
+      ],
+      "tmdbId": 530079,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0GGXD61RV?&linkCode=ll2&tag=ajsretro-21&linkId=cecff82bb3f7a812253a2f71fb3e8e2f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Saga of Tanya the Evil: The Movie",
+      "originalTitle": "劇場版 幼女戦記",
+      "year": "2019",
+      "genres": [
+        "Animation",
+        "Action",
+        "Kriegsfilm",
+        "Fantasy"
+      ],
+      "runtime": "98",
+      "rating": "8.0",
+      "overview": "Im Jahre 1926 ist die Republik nun endgültig von der kaiserlichen Armee besiegt worden. Nachdem Tanya und ihr Bataillon die verbliebenen Überreste der Armee vernichtet haben, kehren sie zurück ins Heimatland. Dort angekommen erfahren sie jedoch, dass sich in der Nähe der Grenze zur Russischen Föderation eine massive Armee mobilisiert, worauf die kaiserliche Armee sofort reagieren muss. Zur gleichen Zeit zieht eine multinationale Armee unter der Führung des Alliierten Königreichs in die Russische Föderation ein. In der Regel ist der Feind eines Feindes ein Freund, doch findet sich in der Armee des Alliierten Königreichs ein Mädchen namens Mary Sue, das geschworen hat, sich für den Tod ihres Vaters zu rächen.",
+      "poster": "https://image.tmdb.org/t/p/w500/2eOcRIcnQty8B9Wp40UUNOj58UM.jpg",
+      "director": "Yutaka Uemura",
+      "cast": [
+        "Aoi Yuki",
+        "Saori Hayami",
+        "Shin-ichiro Miki"
+      ],
+      "tmdbId": 553839,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0G33CR8NN?&linkCode=ll2&tag=ajsretro-21&linkId=8ae7238e676d189fa613bbb414fd630f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ritter Trenk",
+      "originalTitle": "Ritter Trenk",
+      "year": "2015",
+      "genres": [
+        "Animation",
+        "Familie"
+      ],
+      "runtime": "75",
+      "rating": "5.5",
+      "overview": "Der furchtlose Bauernsohn Trenk Tausendschlag will seine Familie vom Joch des unbarmherzigen Ritter Wertolt befreien, nachdem sein Vater Haug Tausendschlag von Wertolt wegen angeblichem Ungehorsams in den Kerker gesperrt wird. Basierend auf der erfolgreichen Kinderbuchreihe „Der kleine Ritter Trenk“.",
+      "poster": "https://image.tmdb.org/t/p/w500/2rCsPo6iJgy4rNbRPVrsGnhOnyk.jpg",
+      "director": "Anthony Power",
+      "cast": [
+        "Georg Sulzer",
+        "Axel Prahl",
+        "Johannes Zeiler"
+      ],
+      "tmdbId": 362343,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B01708UZPO?&linkCode=ll2&tag=ajsretro-21&linkId=1c8efceb683fc79470231e9cab2817c0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Anomalisa",
+      "originalTitle": "Anomalisa",
+      "year": "2015",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "90",
+      "rating": "7.1",
+      "overview": "Motivationstrainer Michael Stone ist ein Bestsellerautor und hat mit seinen Büchern bereits vielen Menschen geholfen. Müde vom vielen Reisen, gelangweilt von seinem Leben als Familienvater, kommen ihm alle Menschen gleich vor - bis er eines Tages Lisa trifft!",
+      "poster": "https://image.tmdb.org/t/p/w500/yRUN32KGtlYhVNEXY7lnwrPGH5.jpg",
+      "director": "Charlie Kaufman",
+      "cast": [
+        "David Thewlis",
+        "Jennifer Jason Leigh",
+        "Tom Noonan"
+      ],
+      "tmdbId": 291270,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0G39C9VY9?&linkCode=ll2&tag=ajsretro-21&linkId=22dc27d802d55e67bf7ad50c31cf4041&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Strange Magic",
+      "originalTitle": "Strange Magic",
+      "year": "2015",
+      "genres": [
+        "Musik",
+        "Animation",
+        "Familie",
+        "Fantasy"
+      ],
+      "runtime": "99",
+      "rating": "7.3",
+      "overview": "Viele Jahre lang existierten die Welt der Magie und die des Mysteriösen klar voneinander getrennt, Kontakte oder Austausch gab es also nicht. Doch als eine der sie bewohnenden Kreaturen die Grenze zwischen den beiden Reichen übertritt, bricht das komplette Chaos aus. Zum ersten Mal treffen die grundverschiedenen Fabelwesen aufeinander. Bei den unterschiedlichen Lebensweisen der Goblins, Feen, Gnome und Elfen sind Reibereien vorprogrammiert. Als dann auch noch ein ebenso geheimnisvoller wie gefährlicher Zaubertrank ins Spiel kommt, droht die Auseinandersetzung der Märchengestalten schließlich zu einem waschechten Krieg zu eskalieren…",
+      "poster": "https://image.tmdb.org/t/p/w500/9VRf46LvSXM7x1VCIHRqTdavWJR.jpg",
+      "director": "Gary Rydstrom",
+      "cast": [
+        "Alan Cumming",
+        "Evan Rachel Wood",
+        "Sam Palladio"
+      ],
+      "tmdbId": 302429,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0157K8Q7Q?&linkCode=ll2&tag=ajsretro-21&linkId=60f52bcaefb4555ecf689d4e2341639d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Keinohrhase und Zweiohrküken",
+      "originalTitle": "Keinohrhase und Zweiohrküken",
+      "year": "2013",
+      "genres": [
+        "Animation"
+      ],
+      "runtime": "75",
+      "rating": "5.5",
+      "overview": "Der Keinohrhase kann alles genauso gut wie die anderen Hasen. Aber weil er keine Ohren hat, will niemand mit ihm spielen. Als eines Tages ein Ei vor seiner Tür liegt, ahnt er noch nicht, dass das der Beginn einer wunderbaren Freundschaft ist. Mit dem Zweiohrküken erlebt er viele spannende Abenteuer, bis hin zur Erfüllung ihrer größten Wünsche. Denn wer einen richtigen Freund hat, der kann einfach alles schaffen. Und hat auch noch eine Menge Spaß dabei.",
+      "poster": "https://image.tmdb.org/t/p/w500/rbKMsASYx4sd9wA6U1mrUPj4iP7.jpg",
+      "director": "Til Schweiger",
+      "cast": [
+        "Emma Schweiger",
+        "Til Schweiger",
+        "Matthias Schweighöfer"
+      ],
+      "tmdbId": 223993,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXXJD1HJ?&linkCode=ll2&tag=ajsretro-21&linkId=3862ba9623d46fc74f502c2d569fda88&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lauras Stern und die Traummonster",
+      "originalTitle": "Lauras Stern und die Traummonster",
+      "year": "2011",
+      "genres": [
+        "Animation",
+        "Familie"
+      ],
+      "runtime": "65",
+      "rating": "5.9",
+      "overview": "Laura wird durch die aufgeregten Rufe ihres kleinen Bruders Tommy geweckt. Traummonster haben seinen Beschütz-mich-Hund gestohlen. Wie sollen sie ihn nur wiederfinden? Doch zum Glück kommt ihnen Lauras Stern zur Hilfe. Sein Sternenstaub lässt Tommys Bett schweben und für die Geschwister beginnt eine spannende Reise. Sie fliegen in das bunte Land der Träume. Dort leben die Traummonster im unterirdischen Traumlabyrinth. Lichtscheu, wie sie sind, fürchten die Monster mehr als alles andere den Beschützer der Kinder, Lauras Stern. Tommy, Laura und ihrem Stern steht ein großes Abenteuer bevor.",
+      "poster": "https://image.tmdb.org/t/p/w500/qtyMobcGOqvLVFTdS4z8V8rOCl3.jpg",
+      "director": "Thilo Rothkirch",
+      "cast": [
+        "Annabel Wolf",
+        "Désirée Nick",
+        "Emma Grimm"
+      ],
+      "tmdbId": 100838,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0FKFLYZ9P?&linkCode=ll2&tag=ajsretro-21&linkId=d5d0952ad98d76b0bfb5854decfec579&ref_=as_li_ss_tl"
     }
   ]
 }
