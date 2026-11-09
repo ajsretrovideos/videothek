@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T05:02:05.688Z",
+  "generatedAt": "2026-11-09T16:48:19.543Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -11,7 +11,7 @@
       "genre": "Neuheiten",
       "room": 1,
       "wall": "back",
-      "count": 15
+      "count": 17
     },
     {
       "genre": "Klassiker",
@@ -29,19 +29,19 @@
       "genre": "Leichte Kost",
       "room": 1,
       "wall": "left",
-      "count": 24
+      "count": 25
     },
     {
       "genre": "Familie",
       "room": 1,
       "wall": "left",
-      "count": 0
+      "count": 22
     },
     {
       "genre": "Animation",
       "room": 1,
       "wall": "left",
-      "count": 24
+      "count": 23
     },
     {
       "genre": "Drama",
@@ -65,13 +65,13 @@
       "genre": "Deutsches Kino",
       "room": 1,
       "wall": "right",
-      "count": 22
+      "count": 24
     },
     {
       "genre": "Action",
       "room": 2,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Heroes",
@@ -327,6 +327,45 @@
       "tmdbId": 1291366,
       "genre": "Neuheiten",
       "url": "https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "One Night Only",
+      "originalTitle": "One Night Only",
+      "year": "2026",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "102",
+      "rating": "6.4",
+      "overview": "Allie ist hoffnungslos romantisch, Owen wurde frisch abserviert. Sie begegnen sich in New York, und dort gilt eine neue Regel: Sex für Singles nur noch an einem Tag im Jahr! Perfektes Timing, denn der große Tag ist heute… aber was, wenn da doch mehr ist als für One Night Only?",
+      "poster": "https://image.tmdb.org/t/p/w500/l1f1cpg9deWLXguoAE3MiK9N17N.jpg",
+      "director": "Will Gluck",
+      "cast": [
+        "Monica Barbaro",
+        "Callum Turner",
+        "Maya Hawke"
+      ],
+      "tmdbId": 1433367,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GTBVBWRC?&linkCode=ll2&tag=ajsretro-21&linkId=36d7bf8ed3856c36cfd6c06f9142a921&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Hanging by a Wire",
+      "originalTitle": "Hanging by a Wire",
+      "year": "2026",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "77",
+      "rating": "7.0",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg",
+      "director": "Mohammed Naqvi",
+      "cast": [],
+      "tmdbId": 1480856,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGVYMND8?&linkCode=ll2&tag=ajsretro-21&linkId=24944a63d6282fde98eed2402446d720&ref_=as_li_ss_tl"
     },
     {
       "title": "The Piano Tuner",
@@ -710,6 +749,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FR3NJTHX?&linkCode=ll2&tag=ajsretro-21&linkId=758b77e7070e6ff48088c8ce3cbd08b7&ref_=as_li_ss_tl"
     },
     {
+      "title": "Ein Sommernachtstraum",
+      "originalTitle": "A Midsummer Night's Dream",
+      "year": "1999",
+      "genres": [
+        "Fantasy",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "116",
+      "rating": "6.4",
+      "overview": "Toskana, Ende des 19. Jahrhunderts. Hermia, die Tochter des Grafen, trifft sich heimlich mit ihrem Geliebten Lysander, anstatt dem väterlicherseits gewünschten Demetrius ihre Treue zu erweisen. Deshalb fliehen die beiden Liebenden noch in der Nacht in den nahegelegenen Wald, wo Oberon und Titania über Elfen und Waldgeister herrschen. Um Titanias Gunst wieder zu erlangen, initiiert Oberon mit Hilfe seines Adjutanten Puck ein Ränkespiel, in dessen Verlauf die Wesen des Himmels und der Erde von einem amourösen Abenteuer ins nächste stolpern.",
+      "poster": "https://image.tmdb.org/t/p/w500/iLtl4LhLFU2CPfzJpvLqCrEqPGK.jpg",
+      "director": "Michael Hoffman",
+      "cast": [
+        "Kevin Kline",
+        "Michelle Pfeiffer",
+        "Rupert Everett"
+      ],
+      "tmdbId": 10210,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0DG6C45FD?&linkCode=ll2&tag=ajsretro-21&linkId=7877a4fd478edadcd3cca719bfae9326&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Nur für Dich",
       "originalTitle": "Only You",
       "year": "1994",
@@ -822,6 +884,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GXX16HX7?&linkCode=ll2&tag=ajsretro-21&linkId=565d75167e87f39df706eeb88efff690&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Threesome",
+      "originalTitle": "The Threesome",
+      "year": "2025",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "runtime": "112",
+      "rating": "6.3",
+      "overview": "Ein junger Mann kann es kaum glauben, als er mit seiner langjährigen Flamme unerwartet in einen Dreier schlittert. Das Sex-Abenteuer scheint ihm wie ein wahrgewordener Traum - bis er daraus erwacht. Denn nach dem gemeinsamen Vergnügen müssen alle drei Beteiligten feststellen, dass ihr Handeln Konsequenzen hat, denen sie sich nun stellen müssen. Das stellt auch ihre Lebensentwürfe infrage.",
+      "poster": "https://image.tmdb.org/t/p/w500/6d5RdMjYMYKA2UfFta6IPA9KQvX.jpg",
+      "director": "Chad Hartigan",
+      "cast": [
+        "Zoey Deutch",
+        "Jonah Hauer-King",
+        "Ruby Cruz"
+      ],
+      "tmdbId": 993708,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYDZK5XN?&linkCode=ll2&tag=ajsretro-21&linkId=8f4c70aecc00f1fc52bda1c4c49fad59&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Holiday Hotline: Bei Anruf Liebe",
       "originalTitle": "Holiday Hotline",
       "year": "2023",
@@ -891,6 +976,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0BX49S9FX?&linkCode=ll2&tag=ajsretro-21&linkId=04b6e54a64612feb994e5d6f97764ca0&ref_=as_li_ss_tl"
     },
     {
+      "title": "Monday - Die Liebe eines Sommers",
+      "originalTitle": "Monday",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "117",
+      "rating": "6.5",
+      "overview": "Aus einer zufälligen Begegnung zweier Amerikaner entwickelt sich eine leidenschaftliche, aber womöglich herzzerreißende Romanze in Athen.",
+      "poster": "https://image.tmdb.org/t/p/w500/9ClBMsee0SYygH8uOIBS2FG9s3v.jpg",
+      "director": "Αργύρης Παπαδημητρόπουλος",
+      "cast": [
+        "Sebastian Stan",
+        "Denise Gough",
+        "Dominique Tipper"
+      ],
+      "tmdbId": 550524,
+      "genre": "RomCom",
+      "url": "https://www.amazon.de/gp/video/detail/B0GMBT66PH?&linkCode=ll2&tag=ajsretro-21&linkId=c166ff54486276669f6ddfe12035fbf8&ref_=as_li_ss_tl"
+    },
+    {
       "title": "In deinen Armen",
       "originalTitle": "Dirt Music",
       "year": "2020",
@@ -913,28 +1020,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CXQ7ZQ2L?&linkCode=ll2&tag=ajsretro-21&linkId=064bf2f4bebb081f20ddb68b6dd66b66&ref_=as_li_ss_tl"
     },
     {
-      "title": "Endless Love",
-      "originalTitle": "Endless Love",
-      "year": "2014",
-      "genres": [
-        "Drama",
-        "Liebesfilm"
-      ],
-      "runtime": "103",
-      "rating": "6.9",
-      "overview": "Jade ist in guten Verhältnissen aufgewachsen. Im Sommerurlaub mit ihren Eltern lernt sie den charismatischen David kennen – aus anfänglicher Zuneigung entsteht schnell grenzenlose Leidenschaft. Doch als Jades Vater Hugh Butterfield mitbekommt, dass sich seine Tochter mit David rumtreibt, sieht er seine Zukunftsplanung für Jade gefährdet. Denn eigentlich sollte seine Tochter Medizin studieren und ihm irgendwann einmal als Ärztin nachfolgen. Dazu sollte die junge Frau im Sommer ein Praktikum machen und nicht die Zeit mit einem perspektivlosen Jungen totschlagen. Um David loszuwerden, beschuldigt Butterfield ihn, eine dunkle Vergangenheit zu haben und diese vor Jade zu verheimlichen. Getrieben von bedingungsloser Liebe muss sich David seiner Vergangenheit stellen, ohne seine Freundin zu verschrecken…",
-      "poster": "https://image.tmdb.org/t/p/w500/7WDqvNmy4p6IJx8JjvzOtaV2IRr.jpg",
-      "director": "Shana Feste",
-      "cast": [
-        "Alex Pettyfer",
-        "Gabriella Wilde",
-        "Bruce Greenwood"
-      ],
-      "tmdbId": 226857,
-      "genre": "RomCom",
-      "url": "https://www.amazon.de/gp/video/detail/B0C62XPPP3?&linkCode=ll2&tag=ajsretro-21&linkId=51e2f629cc7914df0f9a604b413bf5ca&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Effie Gray",
       "originalTitle": "Effie Gray",
       "year": "2014",
@@ -954,49 +1039,6 @@
       "tmdbId": 114155,
       "genre": "RomCom",
       "url": "https://www.amazon.de/gp/video/detail/B0D8WM7MFG?&linkCode=ll2&tag=ajsretro-21&linkId=7b32c4f307028d264268d08f4095a2cc&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Austenland",
-      "originalTitle": "Austenland",
-      "year": "2013",
-      "genres": [
-        "Komödie",
-        "Liebesfilm"
-      ],
-      "runtime": "97",
-      "rating": "6.3",
-      "overview": "Jane Hayes ist Mitte 30 und von allem, was Jane Austen je geschrieben hat, mehr oder weniger besessen. Die BBC-Produktion \"Stolz und Vorurteil\" ist ihre Lieblings-Serie und Mr. Darcy ihr Traummann. Diese Obsession hat bereits einige Dates ruiniert und die ein oder andere Beziehung auf dem Gewissen, denn kein echtes männliches Wesen kann Janes geliebtem Darcy das Wasser reichen. Um ihre Leidenschaft endlich ohne Kritik seitens der Männer auszuleben, macht sich Jane auf den Weg zum Jane-Austen-Freizeitpark namens \"Austenland\", um dort einmal in die von ihr erträumte Rolle einer echten Lady schlüpfen zu dürfen. Vort Ort muss sie jedoch feststellen, dass ihre Ersparnisse nicht für das erhoffte Rollenspiel als vornehme Dame reichen, sondern sie sich nur als Dienerin auf dem traumhaften Anwesen betätigen darf.",
-      "poster": "https://image.tmdb.org/t/p/w500/xdgSprzU7ISZKujn8X5pAhCAaaz.jpg",
-      "director": "Jerusha Hess",
-      "cast": [
-        "Keri Russell",
-        "JJ Feild",
-        "Bret McKenzie"
-      ],
-      "tmdbId": 156711,
-      "genre": "RomCom",
-      "url": "https://www.amazon.de/gp/video/detail/B0CNLQLDDC?&linkCode=ll2&tag=ajsretro-21&linkId=c17139ddad669754cf1731164b1d2dc6&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Women Without Men",
-      "originalTitle": "زنان بدون مردان",
-      "year": "2009",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "100",
-      "rating": "6.3",
-      "overview": "Ein Putsch in Teheran bringt zufällig vier unterschiedliche Frauen an einem Ort der Ruhe zusammen. Fakhri ist mit einem hohen Soldaten verheiratet und will ihn für ihre Jugendliebe verlassen. Die Prostituierte Zarin verfällt dem Ekel über sich und ihren Job immer mehr und beschließt zu fliehen. Politikerin Muris wird aus gesellschaftlichen Konventionen gezwungen sich dem Familienleben hinzugeben. Ihre Freundin Faezeh hält sich aus alle dem raus, möchte aber ihren Bruder heiraten. Alle vier beschließen, auf einer Plantage außerhalb des Troubels ein Leben ohne Männer zu beginnen.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Km47hAc1h6S3CJLZhZbOSiwIdY.jpg",
-      "director": "Shirin Neshat",
-      "cast": [
-        "Shabnam Toloui",
-        "Pegah Ferydoni",
-        "Tóth Orsolya"
-      ],
-      "tmdbId": 44159,
-      "genre": "RomCom",
-      "url": "https://www.amazon.de/gp/video/detail/B0DJ46MH32?&linkCode=ll2&tag=ajsretro-21&linkId=1d2afa3afc3ba2d223cac9bb9b7c579b&ref_=as_li_ss_tl"
     },
     {
       "title": "Let Them All Talk",
@@ -1021,6 +1063,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0B8MRQJLV?&linkCode=ll2&tag=ajsretro-21&linkId=97ecca4074bf2151316834aff5bd40f9&ref_=as_li_ss_tl"
     },
     {
+      "title": "Daddy's Home 2 - Mehr Väter, mehr Probleme!",
+      "originalTitle": "Daddy's Home 2",
+      "year": "2017",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "100",
+      "rating": "6.3",
+      "overview": "Mittlerweile haben sich der spießige, übervorsichtige Brad Whitaker und der ebenso lässige wie draufgängerische Dusty Mayron miteinander arrangiert, die beiden ehemaligen Streithähne teilen sich die Aufgabe des Vaters in der gemeinsamen Patchwork-Familie: Brad ist zwar jetzt mit Dustys Exfrau Sara verheiratet, aber um die drei Kinder kümmern sie sich alle zusammen, was abgesehen von ein paar Sticheleien und Meinungsverschiedenheiten gut funktioniert. Doch der Frieden gerät in Gefahr, als sich über Weihnachten die Väter von Brad und Dusty ankündigen: Mr. Whitaker ist sogar noch vorsichtiger und emotionaler als sein Sohn und auch Mr. Mayron stellt seinen Nachwuchs als adrenalinstrotzender Macho locker in den Schatten...",
+      "poster": "https://image.tmdb.org/t/p/w500/uHdiaD2LCBlbAjQ0V2tuymxqcst.jpg",
+      "director": "Sean Anders",
+      "cast": [
+        "Will Ferrell",
+        "Mark Wahlberg",
+        "Mel Gibson"
+      ],
+      "tmdbId": 419680,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLDQ2NJC?&linkCode=ll2&tag=ajsretro-21&linkId=07fa9a7e1e2f986485ccafcac449726e&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Florence Foster Jenkins",
       "originalTitle": "Florence Foster Jenkins",
       "year": "2016",
@@ -1041,6 +1104,28 @@
       "tmdbId": 315664,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0HFF3719R?&linkCode=ll2&tag=ajsretro-21&linkId=14c87fa30ff7ac6c8de45abfa5408562&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Miss Bodyguard",
+      "originalTitle": "Hot Pursuit",
+      "year": "2015",
+      "genres": [
+        "Action",
+        "Komödie"
+      ],
+      "runtime": "90",
+      "rating": "5.7",
+      "overview": "Polizistin Cooper macht ihre Arbeit gut, ist aber noch unerfahren. Noch nie bot sich ihr die Gelegenheit, bei einem Außeneinsatz zu zeigen, was sie drauf hat. Eines Tages sieht sie jedoch endlich ihre langersehnte Chance gekommen, als sie eine wichtige Zeugin zum Gericht nach Dallas eskortieren soll. Besagte Dame, Daniella, soll gegen den Kartell-Boss Vicente Cortez aussagen – und der hat viele weitere Zeugen bereits erfolgreich aus dem Weg geräumt. Doch schon bei der Abholung der Zeugin läuft alles schief: Das Kartell mischt sich ein, Daniellas Ehemann wird erschossen und schon machen sich die beiden Frauen in einem Fluchtwagen aus dem Staub, verfolgt von aufgebrachten Gangstern, nicht minder erbosten Polizisten wie den Detectives Dixon und Hauser sowie jeder Menge anderer Gestalten, die hinter der schönen Witwe her sind...",
+      "poster": "https://image.tmdb.org/t/p/w500/fOuOybfhIbcYI5m8yzK4TMY6dGD.jpg",
+      "director": "Anne Fletcher",
+      "cast": [
+        "Reese Witherspoon",
+        "Sofía Vergara",
+        "John Carroll Lynch"
+      ],
+      "tmdbId": 268920,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJCCSLPG?&linkCode=ll2&tag=ajsretro-21&linkId=ff2f316f6286bec4de6f263d1487cb1b&ref_=as_li_ss_tl"
     },
     {
       "title": "Rock of Ages",
@@ -1160,6 +1245,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B09X9G952D?&linkCode=ll2&tag=ajsretro-21&linkId=064c1b6746eea4515369d2c5a7a322d3&ref_=as_li_ss_tl"
     },
     {
+      "title": "Starsky & Hutch",
+      "originalTitle": "Starsky & Hutch",
+      "year": "2004",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "101",
+      "rating": "5.8",
+      "overview": "Dace Starsky und Ken Hutchinson, besser bekannt als “Starsky und Hutch” heften sich an die Fersen des zwielichtigen Geschäftsmannes Reese Feldmann und dessen Freundin Kitty. Mit Hilfe ihres gerissenen Informanten Huggy Bear und den Cheerleadern Staci, Holly und Heather wollen der angeknackste Starsky und der Weiberheld Hutch der Gerechtigkeit genüge tun.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LhnXQdUF5eGaiqHzEVxz8XFzDK.jpg",
+      "director": "Todd Phillips",
+      "cast": [
+        "Ben Stiller",
+        "Owen Wilson",
+        "Snoop Dogg"
+      ],
+      "tmdbId": 9384,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8Q1214X?&linkCode=ll2&tag=ajsretro-21&linkId=f18e83fcbe35ca6b74ab2943ea301102&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Scary Movie 3",
       "originalTitle": "Scary Movie 3",
       "year": "2003",
@@ -1225,6 +1332,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HM4GPWG4?&linkCode=ll2&tag=ajsretro-21&linkId=4c1baa6087c06f636a87332439b26e7d&ref_=as_li_ss_tl"
     },
     {
+      "title": "Dumm und Dümmer",
+      "originalTitle": "Dumb and Dumber",
+      "year": "1994",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "107",
+      "rating": "6.7",
+      "overview": "Lloyd und sein Kumpel Harry sind einer dümmer als der andere, leben gemeinsam in einem heruntergekommen Appartment und träumen von einem eigenen Tiershop mit integrierter Würmerzucht. Die Beiden halten sich mit Gelegenheitsjobs über Wasser: Lloyd ist Chauffeur bei einem Limousinen-Service, während Harry als Hundefriseur arbeitet. Eines Tages lernt Lloyd auf einer seiner Fahrten die hübsche Mary Swanson kennen. Als er sie am Flughafen absetzt, vergisst sie scheinbar ihren Koffer. Lloyd stürmt hinterher, um ihr das Gepäckstück zurückzugeben - ohne zu ahnen, dass es sich dabei um das Lösegeld für Marys entführten Ehemann handelt. Die beiden Entführer staunen nicht schlecht, als sich Lloyd den Koffer vor ihrer Nase wegschnappt und damit verschwindet. Da er Mary nicht mehr erwischt, machen sich Lloyd und Harry auf eine verrückte Reise, um den Koffer zurückzubringen...",
+      "poster": "https://image.tmdb.org/t/p/w500/mHBOd829YSKLYNeeUziZgdYes0y.jpg",
+      "director": "Peter Farrelly",
+      "cast": [
+        "Jim Carrey",
+        "Jeff Daniels",
+        "Lauren Holly"
+      ],
+      "tmdbId": 8467,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0CV5F8L5Y?&linkCode=ll2&tag=ajsretro-21&linkId=a9b029cb92a6df80d3772fc75bf76709&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Tess und ihr Bodyguard",
       "originalTitle": "Guarding Tess",
       "year": "1994",
@@ -1288,6 +1416,29 @@
       "tmdbId": 1477170,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0HFKM55F7?&linkCode=ll2&tag=ajsretro-21&linkId=1738227ceaa3b09a688f3fe78daed1b5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Love Hurts - Liebe tut weh",
+      "originalTitle": "Love Hurts",
+      "year": "2025",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Liebesfilm"
+      ],
+      "runtime": "83",
+      "rating": "5.7",
+      "overview": "Du kannst mit allem Schluss machen, nur nicht mit deiner Vergangenheit. Das Leben als Makler in den Vororten von Milwaukee ist nicht gerade aufregend, und so soll es auch bleiben, ginge es nach Marvin. Aber wer fragt schon Marvin? Jedenfalls nicht Rose, die er einst vor dem Tod bewahrt hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/34eXocG52upW1xPsea5nIA6SQBd.jpg",
+      "director": "Jonathan Eusebio",
+      "cast": [
+        "Ke Huy Quan",
+        "Ariana DeBose",
+        "Daniel Wu"
+      ],
+      "tmdbId": 1226406,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0DCXZWLLF?&linkCode=ll2&tag=ajsretro-21&linkId=e746150ac9ec94b4a867b2417ee7a4c7&ref_=as_li_ss_tl"
     },
     {
       "title": "Fackham Hall",
@@ -1398,48 +1549,25 @@
       "url": "https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl"
     },
     {
-      "title": "Vamps - Dating mit Biss",
-      "originalTitle": "Vamps",
-      "year": "2012",
-      "genres": [
-        "Komödie",
-        "Liebesfilm",
-        "Horror"
-      ],
-      "runtime": "92",
-      "rating": "5.3",
-      "overview": "Obervampirin Cisserus und ihre Freundin Goody leben als sozialisierte Blutsauger im heutigen New York. Da Goody bereits Mitte des 19. Jahrhunderts in eine Untote verwandelt wurde, hat sie den Anschluss an das digitale Zeitalter verpasst und kann dementsprechend mit Handys, iPhones oder Facebook nichts anfangen. Goodys beste Freundin Stacy, die noch eine relativ junge Vampirin ist, sieht das Ganze nicht so eng und passt sich der modernen Gesellschaft an, besucht eine Abendschule und verliebt sich in ihren Sitznachbarn Joey Van Helsing. Dann gibt es auch noch Vlad Tepes, der eher das Pfählen von glasierten Äpfeln als das menschliche Blutvergießen propagiert. Zudem eröffnet er die wöchentlichen Treffen der ELFs (Extented Life Forms).",
-      "poster": "https://image.tmdb.org/t/p/w500/43nUqYJMyqS9HbgD9XoKDvaz6AC.jpg",
-      "director": "Amy Heckerling",
-      "cast": [
-        "Alicia Silverstone",
-        "Krysten Ritter",
-        "Dan Stevens"
-      ],
-      "tmdbId": 73935,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0FLT6F7VT?&linkCode=ll2&tag=ajsretro-21&linkId=ffc588118233913c9e89ab551cb444b3&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Fun Size - Süßes oder Saures",
-      "originalTitle": "Fun Size",
-      "year": "2012",
+      "title": "Larry Gaye - Völlig abgehoben",
+      "originalTitle": "Larry Gaye: Renegade Male Flight Attendant",
+      "year": "2015",
       "genres": [
         "Komödie"
       ],
-      "runtime": "86",
-      "rating": "5.6",
-      "overview": "Die junge Wren will eigentlich gemeinsam mit ihrer besten Freundin April zu Halloween auf eine große Party gehen. Sie erhofft sich, endlich ihrem heimlichen Schwarm, der auch die Party organisiert, näherzukommen. Doch Wrens Pläne werden von ihrer Mutter durchkreuzt, als sie ihr unerwartet mitteilt, dass sie zu Halloween auf ihren kleinen und etwas seltsamen Bruder Albert  aufpassen muss. So beschließen die beiden jungen Frauen gezwungenermaßen, mit dem kleinen Jungen zusammen auf die Halloween-Party zu gehen. Doch plötzlich ist der kleine Satansbraten verschwunden. Es beginnt eine die ganze Nacht dauernde Suche nach dem Störenfried Albert, bei der die Mädchen mit einem Mal auf die Hilfe der unbeliebten Mitschüler angewiesen sind, die sie normalerweise keines Blickes würdigen…",
-      "poster": "https://image.tmdb.org/t/p/w500/nYtPEJND58CXWCgkYzpf9alMqko.jpg",
-      "director": "Josh Schwartz",
+      "runtime": "101",
+      "rating": "4.6",
+      "overview": "Frauenschwarm Larry „Renegade“ Gaye (Mark Feuerstein) ist Flugbegleiter aus Leidenschaft. Für seinen hervorragenden Service wurde er bereits sechs Mal in Folge mit der „Goldenen Thermoskanne“ ausgezeichnet. Als die Direktion menschlicher Flugbegleiter aufgrund einer Kostenreduzierung beschließt, Personal abzubauen und die Stewardessen und Stewards durch überaus sexy aussehende Roboter (u. a. Rebecca Romijn) des Unternehmens Technotronics zu ersetzen, ruht die Hoffnung all seiner Kollegen auf ihm. Bevor eine endgültige Entscheidung getroffen wird, soll nämlich in einem direkten Wettkampf zwischen Mensch und Maschine ein Vergleich gezogen werden. Damit schlägt Larrys große Stunde, denn wer wäre für diese Herausforderung ein besserer Kandidat als er?",
+      "poster": "https://image.tmdb.org/t/p/w500/2H2pIiboYIskJ4VBX969c65E0jh.jpg",
+      "director": "Sam Friedlander",
       "cast": [
-        "Victoria Justice",
-        "Jane Levy",
-        "Thomas Mann"
+        "Mark Feuerstein",
+        "Jayma Mays",
+        "Rebecca Romijn"
       ],
-      "tmdbId": 82679,
+      "tmdbId": 339355,
       "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0H8PLHPHS?&linkCode=ll2&tag=ajsretro-21&linkId=f66375d41df98c290066190ddb418031&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0GZ7WDWSG?&linkCode=ll2&tag=ajsretro-21&linkId=f2edf8dc338eaba525da4417be0426e7&ref_=as_li_ss_tl"
     },
     {
       "title": "Nur für Personal!",
@@ -1463,70 +1591,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl"
     },
     {
-      "title": "Be Cool - Jeder ist auf der Suche nach dem nächsten großen Hit",
-      "originalTitle": "Be Cool",
-      "year": "2005",
-      "genres": [
-        "Komödie",
-        "Krimi"
-      ],
-      "runtime": "118",
-      "rating": "5.5",
-      "overview": "Chili Palmer versucht nach seinem missglückten Ausflug im Filmgeschäft zusammen mit seiner Partnerin Edie, eine Plattenfirma, die kurz vor dem Bankrott steht, wieder aufleben zu lassen. Dafür brauchen sie eigentlich nur ein großes Talent, das einen Hit landet. Dieses Talent findet sich recht schnell in der Sängerin Linda Moon. Doch um aus ihr einen weltberühmten Star zu machen, müssen sich die beiden gegen zahlreiche Widersacher durchsetzen: Rapper, die zu gerne mit ihren Waffen spielen, die russische Mafia, andere Musiker, die sich für die größeren Talente halten und Manager, die der Größenwahn packt, müssen von Chili und Edie bewältigt werden. Dabei müssen sie die Ruhe bewahren und cool bleiben...",
-      "poster": "https://image.tmdb.org/t/p/w500/jic6a1jM7qn7MeGtUTHiD1db7QN.jpg",
-      "director": "F. Gary Gray",
-      "cast": [
-        "John Travolta",
-        "Uma Thurman",
-        "Vince Vaughn"
-      ],
-      "tmdbId": 4551,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0BZWG488Y?&linkCode=ll2&tag=ajsretro-21&linkId=da474c13b5ba4f0f7fcd188cac3abe2d&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Saved! - Die Highschool Missionarinnen",
-      "originalTitle": "Saved!",
-      "year": "2004",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "92",
-      "rating": "6.4",
-      "overview": "Das Leben an der Baptisten High School läuft für Mary (Jena Malone) in perfekt geordneten christlichen Bahnen: Ihre Freundinnen, allen voran Hilary Faye (Mandy Moore), haben ihr gesamtes Leben auf Jesus eingeschworen, beten regelmäßig und üben sich in erfolgloser, aber beständiger Missionarsarbeit an der rebellischen jüdischen Mitschülerin Cassandra (Eva Amurri), die einfach nur noch nicht weiß, dass sie eigentlich aus der Hölle gerettet werden will. Doch dann gesteht Marys Freund Dean (Chad Faust) ihr, dass er denkt, schwul zu sein. Im festen Glauben",
-      "poster": "https://image.tmdb.org/t/p/w500/4vmBK0XXDep9ztT0qJ3v0AYrmzw.jpg",
-      "director": "Brian Dannelly",
-      "cast": [
-        "Jena Malone",
-        "Mandy Moore",
-        "Macaulay Culkin"
-      ],
-      "tmdbId": 13193,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0HFWXS577?&linkCode=ll2&tag=ajsretro-21&linkId=fbf1d7c8d5ccffa0cd8ff3a760aef2ea&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Best in Show",
-      "originalTitle": "Best in Show",
-      "year": "2000",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "90",
-      "rating": "6.9",
-      "overview": "Die gesamte Hundebesitzer-Gemeinde in den Vereinigten Staaten kann es kaum mehr erwarten, denn es sind nur noch wenige Tage, bis die „Mayflower Kennel Club Dog Show“ beginnt. Sie ist die größte Hunde-Show in den USA und daher immer ein wahres Highlight für die Liebhaber der verbeinigen besten Freunde des Menschen. Erwartet werden hunderte Teilnehmer, die beweisen wollen, dass ihr Hund den Sieg am meisten verdient hat und somit der beste Vierbeiner weit und breit ist. So auch Halran Pepper der seinen Bluthund Hubert auf Sieg getrimmt hat. Auch die das Anwaltspärchen Swan hat ihren neurotischen Weimeraner so gut es geht auf die Show vorbereitet und auch die Eheleute Ferry und Cookie Fleck sind sich mit Hund sicher, dass sie den Sieg davon tragen werden. Wenn jedoch so viele exotische und exzentrische Personen aufeinandertreffen, ist das Chaos schon vorprogrammiert.",
-      "poster": "https://image.tmdb.org/t/p/w500/eGH4h2DeVWo4zAOQBXNgLtnudNy.jpg",
-      "director": "Christopher Guest",
-      "cast": [
-        "Bob Balaban",
-        "Jennifer Coolidge",
-        "Christopher Guest"
-      ],
-      "tmdbId": 13785,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B09VCZW3X7?&linkCode=ll2&tag=ajsretro-21&linkId=db3d885b554a93f459f75c155119150c&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Sentimental Value",
       "originalTitle": "Affeksjonsverdi",
       "year": "2025",
@@ -1546,6 +1610,27 @@
       "tmdbId": 1124566,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ben Is Back",
+      "originalTitle": "Ben Is Back",
+      "year": "2018",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "102",
+      "rating": "6.6",
+      "overview": "Holly Burns weiß gar nicht, wie ihr geschieht: Wie aus dem Nichts steht plötzlich ihr ältester Sohn Ben vor der Tür, bereit, wieder in den Kreis der Familie aufgenommen zu werden. Doch die Stimmung droht schon bald zu kippen, denn auch wenn seine Mutter nur zu gerne glauben würde, dass Ben sein Drogenproblem hinter sich gelassen hat, bleibt ein gewisser Zweifel. Sein Stiefvater Neal und seine Schwester Ivy sind von der Rückkehr nur wenig begeistert und befürchten, schon bald vor einem emotionalen Trümmerhaufen zu stehen – schon wieder. Doch Holly gibt ihren Sohn nicht auf und steht ihm in dieser besonders schweren Zeit bei, um die Familie zusammenzuhalten. Ben wird allerdings schnell von seiner Vergangenheit eingeholt, sodass sich seine Mutter fragen muss, ob sie ihren eigenen Sohn überhaupt kennt.",
+      "poster": "https://image.tmdb.org/t/p/w500/xSJa1yHmLPFbKMLQea6VwNpA14R.jpg",
+      "director": "Peter Hedges",
+      "cast": [
+        "Julia Roberts",
+        "Lucas Hedges",
+        "Courtney B. Vance"
+      ],
+      "tmdbId": 492452,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0BZXTB1T2?&linkCode=ll2&tag=ajsretro-21&linkId=24dcd3ba7c0ece579ce5d5cb986da556&ref_=as_li_ss_tl"
     },
     {
       "title": "In meinem Himmel",
@@ -1879,6 +1964,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FWF8SVNY?&linkCode=ll2&tag=ajsretro-21&linkId=b28856e9fa32515d5fc61d9620607bae&ref_=as_li_ss_tl"
     },
     {
+      "title": "Andor Hirsch",
+      "originalTitle": "Árva",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "133",
+      "rating": "6.1",
+      "overview": "Budapest, 1957. Nach dem gescheiterten Aufstand gegen das kommunistische Regime wächst der jüdische Junge Andor bei seiner Mutter mit idealisierten Geschichten über seinen verstorbenen Vater auf. Als plötzlich ein brutaler Mann auftaucht und behauptet, sein wahrer Vater zu sein, wird seine Welt auf den Kopf gestellt.  Die Chronik eines Kindes, das sich der Wahrheit über seine Herkunft stellt: Andor Hirsch zeichnet die Geschichte einer Familie nach, die von einigen der dunkelsten Kapitel des 20. Jahrhunderts überschattet ist. Vom verheerenden Trauma des Holocaust bis hin zur autoritären Herrschaft des Kommunismus entfaltet Nemes’ neuester Film eine tief bewegende Konfrontation mit Identität, Erinnerung und dem fragilen Prozess, zu sich selbst zu finden.",
+      "poster": "https://image.tmdb.org/t/p/w500/nhoY7Kragr9TAeodig2oljVYJYT.jpg",
+      "director": "László Nemes",
+      "cast": [
+        "Bojtorján Barabas",
+        "Grégory Gadebois",
+        "Andrea Waskovics"
+      ],
+      "tmdbId": 803208,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GQXKCXRZ?&linkCode=ll2&tag=ajsretro-21&linkId=456b40d9acc2a378633900ae0c7cc106&ref_=as_li_ss_tl"
+    },
+    {
       "title": "The Room Next Door",
       "originalTitle": "La habitación de al lado",
       "year": "2024",
@@ -2009,49 +2115,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B094LZDJDM?&linkCode=ll2&tag=ajsretro-21&linkId=639d738e8a2d07d4e96c0b1a84ccf1d4&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ein Funken Gerechtigkeit",
-      "originalTitle": "Saint Judy",
-      "year": "2018",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "106",
-      "rating": "6.9",
-      "overview": "Basierend auf wahren Begebenheiten: Anwältin Judy Wood vertritt eine afghanische Frau, die vor den Taliban flüchtet und in den USA Schutz sucht. Als sich der Kampf in erster Instanz zuspitzt, bekommt Wood die Gelegenheit vor das amerikanische Höchstgericht zu treten... dabei schreibt sie Geschichte.",
-      "poster": "https://image.tmdb.org/t/p/w500/noXrNBRnNQ5La59WCOqQ864Wzyn.jpg",
-      "director": "Sean Hanish",
-      "cast": [
-        "Michelle Monaghan",
-        "Leem Lubany",
-        "Common"
-      ],
-      "tmdbId": 550506,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0HHJ5F1ZR?&linkCode=ll2&tag=ajsretro-21&linkId=b5f753d3e26b6b2898ef15b23af8076b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Unforgettable - Tödliche Liebe",
-      "originalTitle": "Unforgettable",
-      "year": "2017",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime": "100",
-      "rating": "5.9",
-      "overview": "Als die Ehe von Tessa Connover (Katherine Heigl) zu Bruch geht, steht sie vor dem Scherbenhaufen ihres Lebens und leidet noch lange unter der gescheiterten Beziehung. Im Gegensatz dazu findet ihr Ex-Mann David (Geoff Stults) schnell wieder eine neue Liebe, die er ebenso schnell zu heiraten beschließt: Julia Banks (Rosario Dawson). Julia zieht gemeinsam mit David in das Haus, in dem dieser einst mit Tessa lebte, und übernimmt auch die Rolle der Stiefmutter für Tessas und Davids Tochter Lilly (Isabella Rice) – eine große Aufgabe für Julia, die sich an ihre neue Verantwortung erst noch gewöhnen muss, aber sich David zuliebe aufopferungsvoll um ihre neu gewonnene Stieftochter kümmert. Doch für die alleingelassene Tessa ist dies ein emotionaler Tiefschlag, von dem sie sich nicht erholen kann, und sie setzt es sich zum Ziel, der neuen Frau ihres Ex das Leben zur Hölle zu machen...",
-      "poster": "https://image.tmdb.org/t/p/w500/882ynbMWxhsN5SpeoqC3tGY13Oa.jpg",
-      "director": "Denise Di Novi",
-      "cast": [
-        "Rosario Dawson",
-        "Katherine Heigl",
-        "Geoff Stults"
-      ],
-      "tmdbId": 418437,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0D957H287?&linkCode=ll2&tag=ajsretro-21&linkId=5eaf1bcb3c16f5c02faa257bc3cb354c&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Hunting Season - Blutige Fährte",
       "originalTitle": "Hunting Season",
       "year": "2025",
@@ -2119,6 +2182,75 @@
       "tmdbId": 138103,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0CGKY8CKL?&linkCode=ll2&tag=ajsretro-21&linkId=f3da38be57efefc6fdd0da98dde21aa2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Transformers 3",
+      "originalTitle": "Transformers: Dark of the Moon",
+      "year": "2011",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Abenteuer"
+      ],
+      "runtime": "154",
+      "rating": "6.2",
+      "overview": "Am 20. Juli 1969 landet Apollo 11 auf dem Mond. Auf der dunklen Seite des Mondes stoßen die Astronauten auf das Wrack eines Raumschiffs. 40 Jahre lang hält die Regierung die Entdeckung geheim. Dann überschlagen sich die Ereignisse: Ein bislang unentdeckter Transformer wird an Bord des Raumschiffs reaktiviert. Es ist der verschollen geglaubte Herrscher von Cybertron, Shockwave. Seine Rückkehr entfacht den erbitterten Krieg zwischen den Autobots und den Decepticons aufs Neue. Jetzt geht es nicht mehr nur um die Zukunft und das Überleben der Erde, sondern des ganzen Universums… damit hatten weder Sam Witwicky noch die Autobots gerechnet!",
+      "poster": "https://image.tmdb.org/t/p/w500/88EItC5L9RLub7lqNcOg1WNmXbH.jpg",
+      "director": "Michael Bay",
+      "cast": [
+        "Shia LaBeouf",
+        "Rosie Huntington-Whiteley",
+        "Peter Cullen"
+      ],
+      "tmdbId": 38356,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DKM9VV1Q?&linkCode=ll2&tag=ajsretro-21&linkId=51550b2044120d306c3e4d9ca97d4047&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Conan, der Barbar",
+      "originalTitle": "Conan the Barbarian",
+      "year": "1982",
+      "genres": [
+        "Abenteuer",
+        "Fantasy",
+        "Action"
+      ],
+      "runtime": "129",
+      "rating": "6.8",
+      "overview": "Gegen Ende der Bronzezeit muss der junge Conan mit ansehen, wie die Bewohner seines Dorfes und seine Eltern von Thulsa Doom getötet werden. Er selbst wird zum Sklaven und wächst durch harte Arbeit und einen unbändigen Ehrgeiz zu einem Muskelmann heran, während andere vor Erschöpfung sterben. Dann wird Conan endlich weiterverkauft und dient seinem neuen Herrn nach ausgiebigen Trainingseinheiten als Schaukämpfer. Nachdem er schließlich freigelassen wird, hängt er sich an die Fersen von Doom und hat dabei nur eines im Sinn: Rache. Aber sein erklärter Feind ist der mächtige Anführer eines Kultes mit ebenso zahlreichen wie kampferprobten Anhängern, die ihr Leben für Doom geben würden. Conan muss noch stärker werden, um eine Chance auf den Sieg zu haben.",
+      "poster": "https://image.tmdb.org/t/p/w500/znDAdEHJoxYGNG8nRGYziRYuTVS.jpg",
+      "director": "John Milius",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "James Earl Jones",
+        "Sandahl Bergman"
+      ],
+      "tmdbId": 9387,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0FDXCHWFS?&linkCode=ll2&tag=ajsretro-21&linkId=354487be9f62408c27489750103e7761&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Das A-Team - Der Film",
+      "originalTitle": "The A-Team",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "117",
+      "rating": "6.4",
+      "overview": "Eigentlich müßten sie Helden sein, haben vier Männer einer militärischen Spezialeinheit doch gerade wichtige Druckplatten während des Irakkrieges für die Amerikaner zurückerobert, doch nachdem eine Söldnertruppe ihnen diese wieder abgeluchst hat, finden sich Hannibal Smith, der Sonnyboy Templeton \"Face\" Peck, der leicht durchgeknallter Mechaniker \"Howling Mad\" Murdock und der zupackende Muskelberg B. A. Baracus vor Gericht wieder und landen für zehn Jahre im Knast. Doch nach einigen Monaten erhalten sie das Angebot, daß für sie ein Ausbruch praktisch vororganisiert wird - sie sollen die Druckplatten erneut besorgen, diesmal aus Frankfurt. Doch ist das Angebot ehrlich und wie nah ist ihnen Ermittlerin Charisa Sosa auf den Fersen. Mit viel Improvisationskunst macht sich das Quartett trotzdem ans Werk - schließlich liebt ihr Anführer es, wenn ein Plan funktioniert...",
+      "poster": "https://image.tmdb.org/t/p/w500/cFBgUVoESYajAbGfPMGbjILOCC0.jpg",
+      "director": "Joe Carnahan",
+      "cast": [
+        "Liam Neeson",
+        "Bradley Cooper",
+        "Jessica Biel"
+      ],
+      "tmdbId": 34544,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B09HZ359MX?&linkCode=ll2&tag=ajsretro-21&linkId=bb38ed195babcc17f09a407763540a7a&ref_=as_li_ss_tl"
     },
     {
       "title": "Zwölf Runden",
@@ -2191,6 +2323,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DQYSF6P2?&linkCode=ll2&tag=ajsretro-21&linkId=02d73d931f52d20cb8ae9d0d2d0b43de&ref_=as_li_ss_tl"
     },
     {
+      "title": "Jackass 2.5",
+      "originalTitle": "Jackass 2.5",
+      "year": "2007",
+      "genres": [
+        "Komödie",
+        "Dokumentarfilm"
+      ],
+      "runtime": "64",
+      "rating": "6.1",
+      "overview": "Aus dem überschüssigen Material zum zweiten Kinofilm zusammen geschnittene Collage einschlägigen Jackass-Materials. Johnny Knoxville, Bam Margera, Steve-O und die restliche Truppe bietet die gewohnte Mischung aus sinnlosen Stunts, geschmacklosen Ekel-Ideen und Passanten-Verulkungen im Stil der versteckten Kamera.",
+      "poster": "https://image.tmdb.org/t/p/w500/nFCSqC4bjK3Rn6gXHTZGpOUiJ1C.jpg",
+      "director": "Jeff Tremaine",
+      "cast": [
+        "Johnny Knoxville",
+        "Steve-O",
+        "Bam Margera"
+      ],
+      "tmdbId": 14158,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DX12C98M?&linkCode=ll2&tag=ajsretro-21&linkId=6d97f09508c76eab8010119e869ccdc4&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Flags of Our Fathers",
       "originalTitle": "Flags of Our Fathers",
       "year": "2006",
@@ -2212,6 +2366,29 @@
       "tmdbId": 3683,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0CPBQ183S?&linkCode=ll2&tag=ajsretro-21&linkId=811e10028dfb32a998e0d41e70ca8de9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Collateral",
+      "originalTitle": "Collateral",
+      "year": "2004",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "120",
+      "rating": "7.3",
+      "overview": "Vincent ist ein cooler, berechnender Auftragskiller und sehr gefragt im Business. Max ist ein Taxifahrer mit großen Träumen und ohne Erfolg. In dieser schicksalhaften Nacht fährt Max Vincent zu seinem nächsten Job – eine Nacht, fünf Stopps, fünf Treffer, eine Flucht. In dieser zufälligen Begegnung prallen zwei Leben aufeinander – und keiner der Männer wird jemals wieder derselbe sein. Heute Nacht wird sich alles ändern.",
+      "poster": "https://image.tmdb.org/t/p/w500/kEHij5T1x6o6FG4zgeLtQ63mUTb.jpg",
+      "director": "Michael Mann",
+      "cast": [
+        "Tom Cruise",
+        "Jamie Foxx",
+        "Jada Pinkett Smith"
+      ],
+      "tmdbId": 1538,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN6GVLGM?&linkCode=ll2&tag=ajsretro-21&linkId=e74888a31e75481af4ba9b47f74b347c&ref_=as_li_ss_tl"
     },
     {
       "title": "Last Samurai",
@@ -2282,6 +2459,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DKFFCP79?&linkCode=ll2&tag=ajsretro-21&linkId=d4b066003298219ca83350f7f5e53fe9&ref_=as_li_ss_tl"
     },
     {
+      "title": "Mission: Impossible",
+      "originalTitle": "Mission: Impossible",
+      "year": "1996",
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "110",
+      "rating": "7.0",
+      "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
+      "poster": "https://image.tmdb.org/t/p/w500/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
+      "director": "Brian De Palma",
+      "cast": [
+        "Tom Cruise",
+        "Jon Voight",
+        "Emmanuelle Béart"
+      ],
+      "tmdbId": 954,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZNX6SDN?&linkCode=ll2&tag=ajsretro-21&linkId=3b8d521268c22f0297e7cc4943a90375&ref_=as_li_ss_tl"
+    },
+    {
       "title": "James Bond 007 - GoldenEye",
       "originalTitle": "GoldenEye",
       "year": "1995",
@@ -2303,6 +2503,29 @@
       "tmdbId": 710,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0DS6GHTYZ?&linkCode=ll2&tag=ajsretro-21&linkId=d924220eaa166ce32ea2bcd4d8137187&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Running Man",
+      "originalTitle": "The Running Man",
+      "year": "1987",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "101",
+      "rating": "6.5",
+      "overview": "Im Jahr 2017 trägt die populärste Fernsehshow den Namen 'Running Man'. Straffällig gewordene Männer und Frauen müssen ihren Preis gegenüber der Gesellschaft mit dem Tod bezahlen. Dieser Tod tritt allerdings erst nach einem brutalen, aussichtslosen Kampf gegen die Gladiatoren von 'Running Man' ein. Jetzt allerdings befindet sich Ben Richards in der Todeszone und der Moderator der Show, Damon Killian, sollte niemals Richards' letzte Worte vergessen: Ich komme wieder.",
+      "poster": "https://image.tmdb.org/t/p/w500/hINKpALQTJBtdxnaFruEBenDCS7.jpg",
+      "director": "Paul Michael Glaser",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Richard Dawson",
+        "María Conchita Alonso"
+      ],
+      "tmdbId": 865,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGQB152G?&linkCode=ll2&tag=ajsretro-21&linkId=1f4569075f9fa094900d67310ca5a04f&ref_=as_li_ss_tl"
     },
     {
       "title": "James Bond 007 - Octopussy",
@@ -2352,6 +2575,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GYYF8V7H?&linkCode=ll2&tag=ajsretro-21&linkId=b5762f54021f2b46e71be282c3add262&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Huntress - Stunde der Jägerin",
+      "originalTitle": "Badh",
+      "year": "2025",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "84",
+      "rating": "5.6",
+      "overview": "Als der Polizist Ilias angeschossen wird und ins Koma fällt, muss Alma ihre frühere Identität als Badh, eine skrupellose Geheimagentin und geschickte Auftragsmörderin, wiederfinden. Sie eliminiert brutal ein Mitglied des Khoury-Clans nach dem anderen und entfesselt damit den Zorn ihres Anführers Mansour. Doch dann entdeckt sie, dass Mansour mit Joana, ihrer ehemaligen Geheimdienstoffizierin, zusammenarbeitet.",
+      "poster": "https://image.tmdb.org/t/p/w500/3RW7sSd73IIgOZsoU7lWJ1JCJj8.jpg",
+      "director": "Guillaume de Fontenay",
+      "cast": [
+        "Marine Vacth",
+        "Emmanuelle Bercot",
+        "Grégoire Colin"
+      ],
+      "tmdbId": 1383247,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0G17WGLJN?&linkCode=ll2&tag=ajsretro-21&linkId=dc139740b0b9bd489e80bea395a5c29f&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Stone Cold Fox",
       "originalTitle": "Stone Cold Fox",
       "year": "2025",
@@ -2375,212 +2620,71 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FYKXGC78?&linkCode=ll2&tag=ajsretro-21&linkId=d89c647309b9b95ad6ea201b918bcae0&ref_=as_li_ss_tl"
     },
     {
-      "title": "Redux Redux",
-      "originalTitle": "Redux Redux",
+      "title": "The Orphans - Blutsbrüder",
+      "originalTitle": "Les Orphelins",
       "year": "2025",
       "genres": [
-        "Science Fiction",
-        "Thriller"
+        "Action"
       ],
-      "runtime": "109",
-      "rating": "6.5",
-      "overview": "Irene Kelly hat nur noch ein einziges Ziel im Leben: Den Mann zu töten, der ihre geliebte Tochter ermordet hat. Das gelingt ihr auch, doch ihr Rachedurst ist unstillbar – so unstillbar, dass sie ihr Vorhaben mit Hilfe einer Maschine, die sie zwischen parallelen Universen hin- und herreisen lässt, immer wieder aufs Neue in die Tat umsetzt. Doch mit jeder neuen Tötung des Killers verliert Irene ein Stück ihrer Menschlichkeit – bis es schließlich zu einer Abweichung kommt, durch die sie ihren selbst erschaffenen Teufelskreis zwar durchbrechen könnte, die dafür aber andere Gefahren birgt, die nicht nur ihre eigene Zukunft für immer dramatisch verändern könnte.",
-      "poster": "https://image.tmdb.org/t/p/w500/lh5TFBoDgVUi1UlfMWKwegVjam7.jpg",
-      "director": "Kevin McManus",
+      "runtime": "95",
+      "rating": "6.7",
+      "overview": "Gab und Driss waren einmal Freunde. Seit ihrer gemeinsamen Zeit im Waisenhaus haben sie sich allerdings zerstritten und führen nun völlig unterschiedliche Leben: Einer ist Polizist bei der IGPN,der internen Kontrollbehörde der französischen Nationalpolizei, der andere hat sich für ein Leben als Krimineller entschieden. Als ihre erste große Liebe bei einem seltsamen Unfall ums Leben kommt, schnappt sich deren 17-jährige Tochter Leïla Gabs Waffe und begibt sich auf die Spur einer mächtigen Organisation, die alles tun würde, um den Fall zu vertuschen. Gezwungen, zusammenzuarbeiten, müssen die beiden Waisen sie aufhalten, bevor sie eine Grenze überschreitet, von der es kein Zurück mehr gibt …",
+      "poster": "https://image.tmdb.org/t/p/w500/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
+      "director": "Olivier Schneider",
       "cast": [
-        "Michaela McManus",
-        "Stella Marcus",
-        "Jeremy Holm"
+        "Alban Lenoir",
+        "Dali Benssalah",
+        "Sonia Faidi"
       ],
-      "tmdbId": 1340110,
+      "tmdbId": 1244975,
       "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GQ72CD4Z?&linkCode=ll2&tag=ajsretro-21&linkId=1d76d2a93302ed02f2220a86101cfd8e&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0GD2FY38Q?&linkCode=ll2&tag=ajsretro-21&linkId=b8b6039fe0c5e16a28d019b249d18240&ref_=as_li_ss_tl"
     },
     {
-      "title": "London Calling",
-      "originalTitle": "London Calling",
-      "year": "2025",
-      "genres": [
-        "Action",
-        "Krimi",
-        "Komödie"
-      ],
-      "runtime": "114",
-      "rating": "6.4",
-      "overview": "Ein Auftragskiller namens Tommy Ward tötet in London versehentlich das falsche Opfer – ausgerechnet einen Verwandten des Gangsterbosses Freddy Darby. Um den Konsequenzen zu entgehen, flieht er nach Los Angeles und lässt seinen zehnjährigen Sohn Oliver sowie seine Exfrau Jodi zurück. In der neuen Umgebung nimmt Tommy seine Arbeit wieder auf. Sein Vorgesetzter Benson stellt ihm eine besondere Bedingung: Wenn es gelingt, den siebzehnjährigen Sohn Rick zu einem entschlossenen jungen Mann zu formen, erhält Tommy die Chance auf eine sichere Rückkehr nach London. Von da an begleitet Rick den erfahrenen Killer auf dessen gefährlichen Aufträgen, und gemeinsam entwickeln sie sich zu einem eingespielten Duo.",
-      "poster": "https://image.tmdb.org/t/p/w500/ps8hFE7npyQ89qmiDdVSZjvmYKi.jpg",
-      "director": "Allan Ungar",
-      "cast": [
-        "Josh Duhamel",
-        "Aidan Gillen",
-        "Jeremy Ray Taylor"
-      ],
-      "tmdbId": 1217602,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DRB2LXJ5?&linkCode=ll2&tag=ajsretro-21&linkId=0c7edbbca8eb98dfba169564427d3550&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Violent Ends",
-      "originalTitle": "Violent Ends",
-      "year": "2025",
-      "genres": [
-        "Thriller",
-        "Krimi",
-        "Drama"
-      ],
-      "runtime": "112",
-      "rating": "6.2",
-      "overview": "Lucas Frost (Billy Magnussen) gehört zu einer der mächtigsten kriminellen Familien in Arkansas. Zusammen mit seiner Verlobten Emma (Alexandra Shipp) möchte er nun seine Vergangenheit hinter sich lassen und ein neues Leben beginnen. Doch als Emma bei einem Raubüberfall, für den er seine Familie verantwortlich macht, getötet wird, sinnt Lucas auf Rache und gerät erneut in einen verheerenden Strudel der Gewalt.",
-      "poster": "https://image.tmdb.org/t/p/w500/8FlFS71wVhpsMCawgGTKo7cYe63.jpg",
-      "director": "John-Michael Powell",
-      "cast": [
-        "Billy Magnussen",
-        "Alexandra Shipp",
-        "Nick Stahl"
-      ],
-      "tmdbId": 1211776,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0H1FTP8DC?&linkCode=ll2&tag=ajsretro-21&linkId=ed94d9326651934bdeb7259a11995df6&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "40 Acres",
-      "originalTitle": "40 Acres",
-      "year": "2025",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "runtime": "113",
-      "rating": "6.6",
-      "overview": "In einer düsteren postapokalyptischen Welt, die von Nahrungsmittelknappheit und Gewalt geprägt ist, kämpft eine schwarze kanadische Farmerfamilie, deren Vorfahren einst vor den Schrecken des amerikanischen Bürgerkriegs flohen, ums Überleben. Isoliert und entschlossen verteidigen sie ihr abgelegenes Gehöft gegen marodierende Kannibalen, die ihre knappen Ressourcen um jeden Preis erobern wollen. Während die Bedrohung immer näher rückt, wird die Familie gezwungen, nicht nur ihre Stärke und ihren Zusammenhalt, sondern auch die Grenzen ihrer Menschlichkeit zu testen.",
-      "poster": "https://image.tmdb.org/t/p/w500/kfECBhMOrclAPtsCavgaln9AzS6.jpg",
-      "director": "R.T. Thorne",
-      "cast": [
-        "Danielle Deadwyler",
-        "Kataem O'Connor",
-        "Michael Greyeyes"
-      ],
-      "tmdbId": 1319951,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0G39G5936?&linkCode=ll2&tag=ajsretro-21&linkId=40eebd00f1fbafc360b0fa2eba92e662&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Never a Thief",
-      "originalTitle": "缉盗",
-      "year": "2025",
-      "genres": [
-        "Krimi"
-      ],
-      "runtime": "87",
-      "rating": "5.2",
-      "overview": "Nach dem mysteriösen Verschwinden seines Vaters trat Zhao Ji als Safeknacker in dessen Fußstapfen. Seine Fähigkeiten setzt er ein, um inkognito entwendete Artefakte für eine Versicherungsfirma aufzuspüren. Während eines Auftrags begegnet er Zhou Taiyuan, dem ehemaligen Partner seines Vaters, der mit einem kleinen Team aus Meisterdieben spektakuläre Raubzüge plant. Um das Geheimnis um das Verschwinden aufzuklären, schließt sich Zhao der Bande an. Als ihnen die Polizei immer dichter auf den Fersen ist, geraten die Kriminellen bei einem hochriskanten Coup an den skrupellosen Geschäftsmann Li und ein gefährliches Spiel nimmt seinen Lauf …",
-      "poster": "https://image.tmdb.org/t/p/w500/vtmZPTTwnABFQGdNtJ854Ac24NI.jpg",
-      "director": "麥浩邦",
-      "cast": [
-        "Simon Yam",
-        "Henry Prince Mak",
-        "Clara Lee"
-      ],
-      "tmdbId": 1500522,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GPD3GBHJ?&linkCode=ll2&tag=ajsretro-21&linkId=edfa1c05cdaa5a597b2375eb7f36f40b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Fast Track",
-      "originalTitle": "Lake George",
+      "title": "Jackdaw",
+      "originalTitle": "Jackdaw",
       "year": "2024",
       "genres": [
-        "Komödie",
+        "Action",
+        "Drama",
         "Krimi",
         "Thriller"
       ],
-      "runtime": "108",
-      "rating": "6.4",
-      "overview": "Don hat den schmutzigen Auftrag erhalten, Phyllis auszuschalten, um seine Schulden zu begleichen. Sein gütiges Herz lässt es nicht zu, abzudrücken und die Kugel abzufeuern, die für sein potenzielles Opfer bestimmt war. Als ihm klar wird, dass er nun selbst zur Zielscheibe geworden ist, bleibt ihm keine andere Wahl, als sich mit Phyllis zusammenzutun. Gemeinsam begeben sie sich auf einen wilden Roadtrip mit dem Ziel, den Gangstern ihr Geld abzujagen.  Verbindet die Spannung eines Neo-Noir-Thrillers mit dem Humor einer Odd-Couple-Komödie und der Dynamik eines Roadmovies.",
-      "poster": "https://image.tmdb.org/t/p/w500/kf7drgellCT5zAxH4ABXMip7t9h.jpg",
-      "director": "Jeffrey Reiner",
+      "runtime": "97",
+      "rating": "4.6",
+      "overview": "Der ehemalige Motocross-Champion Jack Dawson kehrt in seine Heimatstadt zurück, um sich um seinen jüngeren Bruder zu kümmern. In der Hoffnung auf ein neues Leben nimmt er einen riskanten Job an. Was als einfache Abholung einer Drogenlieferung in der Nordsee geplant war, wird zum Albtraum, als Jack hintergangen und sein Bruder entführt wird. Eine nächtliche Odyssee durch die kriminelle Unterwelt von Englands Norden beginnt, in welcher Jack sich den Geistern seiner Vergangenheit stellen muss.",
+      "poster": "https://image.tmdb.org/t/p/w500/3BwjPFEaUIlTTskAADOcRhWMoi0.jpg",
+      "director": "Jamie Childs",
       "cast": [
-        "Shea Whigham",
-        "Carrie Coon",
-        "Max Casella"
+        "Oliver Jackson-Cohen",
+        "Jenna Coleman",
+        "Thomas Turgoose"
       ],
-      "tmdbId": 1275998,
+      "tmdbId": 1081680,
       "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0H9HLJXG1?&linkCode=ll2&tag=ajsretro-21&linkId=8addd74226a0f23a51f2fd90afd4e034&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0CXTPY4C1?&linkCode=ll2&tag=ajsretro-21&linkId=0f87cc93f127301ee7d1578e7dbf4a8a&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ida Red",
-      "originalTitle": "Ida Red",
-      "year": "2021",
+      "title": "The Housemaid - Wenn sie wüsste",
+      "originalTitle": "The Housemaid",
+      "year": "2025",
       "genres": [
-        "Krimi",
-        "Thriller",
-        "Drama",
-        "Action"
-      ],
-      "runtime": "111",
-      "rating": "5.7",
-      "overview": "Ida \"Red\" Walker (Melissa Leo) wird ihre unheilbare Krankheit nicht überleben, während sie wegen eines bewaffneten Raubüberfalls inhaftiert ist. Sie wendet sich an ihren Sohn Wyatt (Josh Hartnett), der einen letzten Raubüberfall begehen soll, damit sie dem Gefängnis entkommen kann. Doch als das FBI immer näher rückt, muss Wyatt sich zwischen Familie und Freiheit entscheiden.",
-      "poster": "https://image.tmdb.org/t/p/w500/etMxKseW67499tUJonLNHXTF538.jpg",
-      "director": "John Swab",
-      "cast": [
-        "Josh Hartnett",
-        "Frank Grillo",
-        "Melissa Leo"
-      ],
-      "tmdbId": 818192,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GWVYZ99S?&linkCode=ll2&tag=ajsretro-21&linkId=cf75cdb982264de7509004ccf11fa26c&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Die Todeskandidaten 2",
-      "originalTitle": "The Condemned 2",
-      "year": "2015",
-      "genres": [
-        "Action"
-      ],
-      "runtime": "90",
-      "rating": "5.1",
-      "overview": "Ein Kopfgeldjäger scheitert bei seiner Jagd nach dem Anführer eines Glückspielrings. Nun muss er mit seinem Vater ein TV-Spiel überleben, in dem er zum Gejagten wird.",
-      "poster": "https://image.tmdb.org/t/p/w500/cOkLCwYsXLabeeLs45Hw3to5py0.jpg",
-      "director": "Roel Reiné",
-      "cast": [
-        "Randy Orton",
-        "Eric Roberts",
-        "Wes Studi"
-      ],
-      "tmdbId": 353610,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0H8R2FVDK?&linkCode=ll2&tag=ajsretro-21&linkId=1951c82d551ca221404cfc97c0ae1998&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mojin - The Lost Legend",
-      "originalTitle": "寻龙诀",
-      "year": "2015",
-      "genres": [
-        "Action",
-        "Abenteuer",
-        "Fantasy",
-        "Drama",
-        "Horror",
         "Mystery",
         "Thriller"
       ],
-      "runtime": "121",
-      "rating": "6.2",
-      "overview": "Hu, Wang und Shirley waren einst berühmte Grabräuber die sogenannten Mojin. Eigentlich hatte sich das Trio in New York zur Ruhe gesetzt, bis ein mysteriöser Auftrag sie an den Ort ihres früheren Wirkens lockt. Irgendwo in der Inneren Mongolei, versteckt im antiken Grab einer khitanischen Prinzessin, soll die Equinox Flower liegen ein Stein, dessen magische Kraft angeblich die Toten zum Leben erweckt. Doch die Ruhestätte wird bestens bewacht. Und so bekommen es unsere Helden bald mit Dämonen, Ghulen, Mumien und anderen Scheußlichkeiten zu tun, die sich den Forschern rachsüchtig in den Weg werfen. Wenn die Mojin dies überleben wollen, müssen sie kämpfen wie nie zuvor!",
-      "poster": "https://image.tmdb.org/t/p/w500/nKJY0jpWB5cGYPpxrt3WeOahiJg.jpg",
-      "director": "乌尔善",
+      "runtime": "131",
+      "rating": "7.2",
+      "overview": "Nicht jeder Neuanfang bietet eine zweite Chance. Die 27-jährige Millie hofft nach der Entlassung aus dem Gefängnis als Hausmädchen bei einem wohlhabenden Ehepaar neu anzufangen. Doch schon bald merkt sie, dass sich hinter der Fassade aus Luxus und Eleganz eine dunkle Wahrheit verbirgt, die weitaus gefährlicher ist als ihre eigene. Ein verführerisches Spiel um Geheimnisse, Skandale und Macht beginnt…",
+      "poster": "https://image.tmdb.org/t/p/w500/uXZ7i3BgcFkLdG5nD16zCDXPgjz.jpg",
+      "director": "Paul Feig",
       "cast": [
-        "Chen Kun",
-        "黄渤",
-        "Shu Qi"
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar"
       ],
-      "tmdbId": 299824,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0HC5FP7L6?&linkCode=ll2&tag=ajsretro-21&linkId=533a9c2aac012cda072964835106e45e&ref_=as_li_ss_tl"
+      "tmdbId": 1368166,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0G8HPFYKR?&linkCode=ll2&tag=ajsretro-21&linkId=1b4eac1e73ca4d9e0de62b5deb152945&ref_=as_li_ss_tl"
     },
     {
       "title": "Black Bag - Doppeltes Spiel",
@@ -3100,29 +3204,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HC56139L?&linkCode=ll2&tag=ajsretro-21&linkId=2cee34fb87f9c7588629832bc35a2e1a&ref_=as_li_ss_tl"
     },
     {
-      "title": "Verlockende Falle",
-      "originalTitle": "Entrapment",
-      "year": "1999",
-      "genres": [
-        "Liebesfilm",
-        "Drama",
-        "Mystery"
-      ],
-      "runtime": "113",
-      "rating": "6.2",
-      "overview": "Robert MacDougal ist Dieb. Nicht irgendein Dieb, nein, er ist einer der größten Diebe der Welt. Leicht zu fassen ist so ein erfahrener Fuchs natürlich nicht, und so soll sich die attraktive Gin Baker im Auftrag ihrer Versicherungsgesellschaft an MacDougal heranmachen, indem sie vorgibt, eine Einbrecherin zu sein, um den charmanten Langfinger dann auf frischer Tat zu überführen. Und so stiehlt das Gaunerpärchen zunächst eine wertvolle antike Goldmaske aus einem Londoner Museum, um sich dann einem ganz großen Coup zu widmen: einem Einbruch in eine malaysische Großbank in Kuala Lumpur am Abend der Jahrtausendwende, bei dem 8 Millarden Dollar herausspringen sollen…",
-      "poster": "https://image.tmdb.org/t/p/w500/1hFONulcb8Ci2zHW7fwybRCfUyB.jpg",
-      "director": "Jon Amiel",
-      "cast": [
-        "Catherine Zeta-Jones",
-        "Sean Connery",
-        "Will Patton"
-      ],
-      "tmdbId": 1844,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0HGKB2PP3?&linkCode=ll2&tag=ajsretro-21&linkId=24a9fd8855ac6da036eba2427ff9f588&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Teenage Sex and Death at Camp Miasma",
       "originalTitle": "Teenage Sex and Death at Camp Miasma",
       "year": "2026",
@@ -3189,6 +3270,49 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H49NPRQV?&linkCode=ll2&tag=ajsretro-21&linkId=43c13d9f777a7c99d34ea54ce98a0c80&ref_=as_li_ss_tl"
     },
     {
+      "title": "Insidious: Out of the Further",
+      "originalTitle": "Insidious: Out of the Further",
+      "year": "2026",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "106",
+      "rating": "7.7",
+      "overview": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezty0cBhJjoFP4Oj88hJ0u0Go.jpg",
+      "director": "Jacob Chase",
+      "cast": [
+        "Amelia Eve",
+        "Island Austin",
+        "Brandon Perea"
+      ],
+      "tmdbId": 1291595,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HC76SVYY?&linkCode=ll2&tag=ajsretro-21&linkId=cc512b9c91e7dcd01c8e38b044aa51b6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Speed Demon",
+      "originalTitle": "Speed Demon",
+      "year": "2026",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "93",
+      "rating": "4.7",
+      "overview": "An Bord eines Hochgeschwindigkeitszugs muss eine Nonne, die ihren Glauben verloren hat, ihren ersten Exorzismus bei einem besessenen Passagier durchführen, der darauf abzielt, den entlaufenen Zug zu stürzen.",
+      "poster": "https://image.tmdb.org/t/p/w500/22zvceDsPFoJTymocRcpc18Zvao.jpg",
+      "director": "Jon Keeyes",
+      "cast": [
+        "Katie Cassidy",
+        "William H. Macy",
+        "John Patrick Jordan"
+      ],
+      "tmdbId": 1473878,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0H9JLQLKH?&linkCode=ll2&tag=ajsretro-21&linkId=991451456a3cb42d79f3988b73e592d7&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Blood & Sinners",
       "originalTitle": "Sinners",
       "year": "2025",
@@ -3231,6 +3355,28 @@
       "tmdbId": 1038392,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0FN4369Q9?&linkCode=ll2&tag=ajsretro-21&linkId=d4c4c5b2c1fc2d5f637f43f9c2ba52b4&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "V/H/S/Halloween",
+      "originalTitle": "V/H/S/Halloween",
+      "year": "2025",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "115",
+      "rating": "6.2",
+      "overview": "Eine unscheinbare Sammlung alter Videokassetten mit Halloween-Motiven entpuppt sich als Auslöser verstörender Ereignisse. Auf den Bändern entfalten sich blutige Episoden, in denen „Süßes oder Saures“ seine Unschuld verliert und zum Schauplatz von Gewalt, Schrecken und einem gnadenlosen Überlebenskampf wird. Jede Aufnahme öffnet ein neues Kapitel des Grauens, in dem sich das Fest der Masken in einen Albtraum verwandelt.",
+      "poster": "https://image.tmdb.org/t/p/w500/vxDErNAqCUBZXlDPvvdXCFNUhc.jpg",
+      "director": "Bryan M. Ferguson",
+      "cast": [
+        "Samantha Cochran",
+        "Natalia Montgomery Fernandez",
+        "Elena Musser"
+      ],
+      "tmdbId": 1373445,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HF7Z7HBS?&linkCode=ll2&tag=ajsretro-21&linkId=91266d381635c963c0106be4818f01e1&ref_=as_li_ss_tl"
     },
     {
       "title": "Nosferatu - Der Untote",
@@ -3322,6 +3468,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0BX2WGS77?&linkCode=ll2&tag=ajsretro-21&linkId=fc89a24cf71ce734ba2bd8c302ff1a98&ref_=as_li_ss_tl"
     },
     {
+      "title": "A Quiet Place 2",
+      "originalTitle": "A Quiet Place Part II",
+      "year": "2021",
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Horror"
+      ],
+      "runtime": "100",
+      "rating": "7.4",
+      "overview": "Die tödliche Gefahr durch die ebenso grausamen wie geräuschempfindlichen Kreaturen ist noch immer allgegenwärtig. Jeder noch so kleine Laut könnte ihr letzter sein. Evelyn ist mit ihren Kindern Regan, Marcus und dem Baby nun auf sich allein gestellt. Weiterhin muss die Familie ihren Alltag in absoluter Stille bestreiten. Als sie gezwungen sind, sich auf den Weg in das Unbekannte aufzumachen, merken sie schnell, dass hinter jeder Abzweigung weitere Gefahren lauern. Eine lautlose Jagd beginnt …",
+      "poster": "https://image.tmdb.org/t/p/w500/8Du4fXM0erTW6g7HPIMq1v4L54M.jpg",
+      "director": "John Krasinski",
+      "cast": [
+        "Emily Blunt",
+        "John Krasinski",
+        "Millicent Simmonds"
+      ],
+      "tmdbId": 520763,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HK47L1T8?&linkCode=ll2&tag=ajsretro-21&linkId=4fedabb1e31f0a8f8c695e8d6538d775&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Child's Play",
       "originalTitle": "Child's Play",
       "year": "2019",
@@ -3342,6 +3511,73 @@
       "tmdbId": 533642,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0GN3KVVT1?&linkCode=ll2&tag=ajsretro-21&linkId=59e69e39f1ce668f9be1bd3b0fe15217&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Autopsy of Jane Doe",
+      "originalTitle": "The Autopsy of Jane Doe",
+      "year": "2016",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtime": "90",
+      "rating": "6.9",
+      "overview": "Ein Haus irgendwo in den USA ist Schauplatz eines grausamen Verbrechens. Während die Ermittler den Tatort untersuchen, entdecken sie im Keller eine nackte Frauenleiche begraben. Austin, der zusammen mit seinem Vater Tommy als Gerichtsmediziner arbeitet, wird mit der Inspektion des leblosen Körpers beauftragt. Die tote Frau gibt jede Menge Rätsel auf: Ihre Personalien können nicht herausgefunden werden und selbst ihre Fingerabdrücke sind nicht im Polizeisystem registriert. Sie ist eine vollkommen Unbekannte, weshalb sie einfach nur noch Jane Doe genannt wird. Während Austin und Tommy die Autopsie durchführen, wird das Geheimnis um Jane immer mysteriöser. Plötzlich geschehen Dinge, die sich nicht rational erklären lassen. Und schon bald müssen Vater und Sohn feststellen, dass die Tote viel lebendiger ist, als ihnen lieb ist...",
+      "poster": "https://image.tmdb.org/t/p/w500/oX9eA98xnDnueG23UQejxCL06Dj.jpg",
+      "director": "André Øvredal",
+      "cast": [
+        "Emile Hirsch",
+        "Brian Cox",
+        "Ophelia Lovibond"
+      ],
+      "tmdbId": 397243,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJ25LFX5?&linkCode=ll2&tag=ajsretro-21&linkId=816c0896b00be9b1ec0602031b570891&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "You're Next",
+      "originalTitle": "You're Next",
+      "year": "2013",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Mystery"
+      ],
+      "runtime": "95",
+      "rating": "6.6",
+      "overview": "Aubrey und Paul Davison laden ihre vier Kinder nebst Anhang in ihren etwas heruntergekommenen Landsitz ein, um die Familie beisammen zu haben und ihren Hochzeitstag zu feiern. Die gemütliche Runde wird allerdings jäh durch eine Bande maskierter Männer gestört, die die Familie terrorisieren. Sie wissen nicht, ob die Bande schon in ihr Haus eingedrungen ist oder ihr Unwesen außerhalb treibt. Aber eines wissen sie mit Sicherheit: Um zu überleben, müssen sie sich etwas einfallen lassen …",
+      "poster": "https://image.tmdb.org/t/p/w500/jUEdLDM9GJuzZcBPmnZEoYEzWfX.jpg",
+      "director": "Adam Wingard",
+      "cast": [
+        "Sharni Vinson",
+        "Nicholas Tucci",
+        "Wendy Glenn"
+      ],
+      "tmdbId": 83899,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0FX4NV3KR?&linkCode=ll2&tag=ajsretro-21&linkId=9a71c04c3b04eabc22c4e1df7a5a43e2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "V/H/S",
+      "originalTitle": "V/H/S",
+      "year": "2012",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "runtime": "116",
+      "rating": "6.1",
+      "overview": "Eine Gruppe von kleinkriminellen Außenseitern wird von einem seltsamen und mysteriösen Fremden angeheuert, ein einzigartiges Video-Tape zu stehlen, das sich in einem heruntergekommenen, alten Haus abgeschieden im Nirgendwo befinden soll. Geht das Eindringen in das Gebäude noch problemlos vonstatten, merken sie schon bald, dass der gesamte Auftrag nicht so einfach ist, wie sie sich das vorgestellt haben. Im Wohnzimmer finden sie einen leblosen Körper, umgeben von alten Fernsehgeräten und zahlreichen Videokassetten. Auf den Bändern finden sie verstörende und erschreckende Szenen und jedes neue Video ist schrecklicher als das vorherige. Doch damit sie das richtige Band ihrem Auftraggeber zurückbringen und die Belohnung einstreichen können, müssen sie es unter den unzähligen anderen finden und dafür jedes einzelne Video ansehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAeVi79QR0iUlyR4ropCY8EyYE1.jpg",
+      "director": "David Bruckner",
+      "cast": [
+        "Calvin Lee Reeder",
+        "Lane Hughes",
+        "Kentucker Audley"
+      ],
+      "tmdbId": 84348,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWNCHMDT?&linkCode=ll2&tag=ajsretro-21&linkId=e879c03af2ea7aa7e02034b8e4c1b8b3&ref_=as_li_ss_tl"
     },
     {
       "title": "Daybreakers",
@@ -3389,6 +3625,37 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CVN5KHW9?&linkCode=ll2&tag=ajsretro-21&linkId=8ead2c3618ea37109b6e0179e726fb0e&ref_=as_li_ss_tl"
     },
     {
+      "title": "Slither - Volleyball auf den Schleim gegangen",
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8RTXMD4?&linkCode=ll2&tag=ajsretro-21&linkId=94ec2d31d2abaa6af7d5c2870dd4070b&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2006",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Amityville Horror - Eine wahre Geschichte",
+      "originalTitle": "The Amityville Horror",
+      "year": "2005",
+      "genres": [
+        "Horror"
+      ],
+      "runtime": "90",
+      "rating": "6.1",
+      "overview": "Amityville, Long Island im November 1974: Fast die ganze Familie DeFeo wurde in ihren Betten bestialisch ermordet. Nur Ronald DeFeo überlebte den Vorfall und gesteht kurze Zeit später, dass er seine Eltern und Geschwister in der Nacht erschossen hat, nachdem ihm \"das Haus befohlen hatte, die Tat zu verüben\". Ein Jahr später bezieht das junge Ehepaar George und Kathy Lutz mit seinen drei Kindern das verfluchte Haus, in dem sich der Vorfall ereignete und das seit damals leer stand. Doch die anfängliche Idylle wechselt schnell in einen realen Albtraum, als immer mysteriösere Dinge passieren. Tochter Chelsea wird von Visionen geplagt, genauso wie George, der dadurch immer aggressiver wird. Anscheinend hausen hier die Geister der Ermordeten und sind über die neuen Bewohnern gar nicht glücklich.",
+      "poster": "https://image.tmdb.org/t/p/w500/yeqPaT5uoWUqOSzoeqxYkSk7ikC.jpg",
+      "director": "Andrew Douglas",
+      "cast": [
+        "Ryan Reynolds",
+        "Melissa George",
+        "Jesse James"
+      ],
+      "tmdbId": 10065,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8MFSNV8?&linkCode=ll2&tag=ajsretro-21&linkId=0c05a9222648216a255b127ecfbd8f9c&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Verflucht",
       "originalTitle": "Cursed",
       "year": "2005",
@@ -3432,223 +3699,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H8Q8NVWR?&linkCode=ll2&tag=ajsretro-21&linkId=9b68933ee0483a725cd406c113f8d0fd&ref_=as_li_ss_tl"
     },
     {
-      "title": "Freitag der 13.",
-      "originalTitle": "Friday the 13th",
-      "year": "1980",
+      "title": "From Dusk Till Dawn",
+      "originalTitle": "From Dusk Till Dawn",
+      "year": "1996",
       "genres": [
-        "Horror"
-      ],
-      "runtime": "95",
-      "rating": "6.4",
-      "overview": "Nachdem in den 1950er Jahren im Ferienlager Camp Crystal Lake ein grausamer Doppelmord geschah, wurde die Anlage geschlossen. Zwanzig Jahre später möchte Steve Christy das Camp wieder in Betrieb nehmen. Deswegen hat er entgegen der Warnungen der Einheimischen eine Gruppe von Jugendlichen über die Sommersaison eingeladen, das Ferienlager zusammen mit ihm herzurichten. Tatsächlich trügt die malerische Idylle am See: Die junge Annie macht bereits vor ihrer Ankunft Bekanntschaft mit einem unbekannten Mörder. Und auch auf die anderen Teens hat es der Killer abgesehen. Alice Hardy, ihrem Freund Bill, Brenda, Marcie und Jack Burrell steht eine Nacht des Schreckens bevor.",
-      "poster": "https://image.tmdb.org/t/p/w500/lMu5mFfepZqUru9wJthvMvMTcGK.jpg",
-      "director": "Sean S. Cunningham",
-      "cast": [
-        "Adrienne King",
-        "Jeannine Taylor",
-        "Robbi Morgan"
-      ],
-      "tmdbId": 4488,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HG46LMJP?&linkCode=ll2&tag=ajsretro-21&linkId=71949f7d3be88c0c8a374ad0e8a11f8b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Zombie",
-      "originalTitle": "Dawn of the Dead",
-      "year": "1978",
-      "genres": [
+        "Action",
         "Horror",
-        "Science Fiction"
+        "Krimi"
       ],
-      "runtime": "126",
-      "rating": "7.5",
-      "overview": "Es herrschen Panik und Chaos auf der Welt. Der nationale Notstand wird ausgerufen. Aus unbekannten Gründen verwandeln sich die Körper kürzlich Verstorbener in fleischhungrige Untote. Auf den Straßen wandeln die Zombies umher. Vier Menschen können sich mit einem Hubschrauber aus Fängen des Grauens retten. Sie verstecken sich in einem gigantischen Shopping-Center und verschanzen sich dort. Anfangs scheint dies ein sicherer Ort zu sein, doch schon bald müssen sie feststellen, dass die lebenden Toten viel gefährlicher sein können, als zuerst angenommen. Gemeinsam beginnen sie einen Kampf gegen die Zombie-Übermacht und müssen sich bald noch brutaleren Gegnern stellen.  George A. Romeo setzte mit „Zombies: Dawn of the Dead“ seinen Kultklassiker „Night of the Living Dead“ fort und schuf gleichzeitig einen neuen Meilenstein des Horrorkinos.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TIVjqgJdkiH6iHUbZpQRcLIQHv.jpg",
-      "director": "George A. Romero",
-      "cast": [
-        "David Emge",
-        "Ken Foree",
-        "Scott H. Reiniger"
-      ],
-      "tmdbId": 923,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0GV5CBKG2?&linkCode=ll2&tag=ajsretro-21&linkId=77b1faf045e68f42cdb86e6269f5db56&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Insidious: Out of the Further",
-      "originalTitle": "Insidious: Out of the Further",
-      "year": "2026",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime": "106",
-      "rating": "7.7",
-      "overview": "Eine junge Mutter zieht ihre Tochter in dem Haus groß, in dem sie selbst aufgewachsen ist. Dort entdeckt sie, dass sie das Ewigreich betreten kann – die geheimnisvolle Welt der verlorenen Seelen aus dem Insidious-Universum. Als eine böse Macht Jagd auf sie macht, entdeckt sie eine besondere Fähigkeit: Sie kann nicht nur ins Ewigreich reisen, sondern auch dessen Dämonen in die reale Welt zurückbringen. Schon bald erkennen die dunklen Wesen ihre Macht und machen die Welt der Lebenden zu ihrem Spielplatz.",
-      "poster": "https://image.tmdb.org/t/p/w500/h1ezty0cBhJjoFP4Oj88hJ0u0Go.jpg",
-      "director": "Jacob Chase",
-      "cast": [
-        "Amelia Eve",
-        "Island Austin",
-        "Brandon Perea"
-      ],
-      "tmdbId": 1291595,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HC76SVYY?&linkCode=ll2&tag=ajsretro-21&linkId=cc512b9c91e7dcd01c8e38b044aa51b6&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Speed Demon",
-      "originalTitle": "Speed Demon",
-      "year": "2026",
-      "genres": [
-        "Horror"
-      ],
-      "runtime": "93",
-      "rating": "4.7",
-      "overview": "An Bord eines Hochgeschwindigkeitszugs muss eine Nonne, die ihren Glauben verloren hat, ihren ersten Exorzismus bei einem besessenen Passagier durchführen, der darauf abzielt, den entlaufenen Zug zu stürzen.",
-      "poster": "https://image.tmdb.org/t/p/w500/22zvceDsPFoJTymocRcpc18Zvao.jpg",
-      "director": "Jon Keeyes",
-      "cast": [
-        "Katie Cassidy",
-        "William H. Macy",
-        "John Patrick Jordan"
-      ],
-      "tmdbId": 1473878,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0H9JLQLKH?&linkCode=ll2&tag=ajsretro-21&linkId=991451456a3cb42d79f3988b73e592d7&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Rough Draft - Written in Blood",
-      "originalTitle": "Rough Draft",
-      "year": "2026",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime": "88",
-      "rating": null,
-      "overview": "Nach einem mysteriösen Gedächtnisverlust versucht der Autor Matt Forbes, wieder zu schreiben. Doch alles, was er zu Papier bringt, geschieht kurz darauf in der Realität. Als er erkennt, dass eine dunkle Macht seine Worte steuert, beginnt ein gefährliches Spiel zwischen Wahn und Wahrheit. Rough Draft – Tödliche Vision ist ein spannender Mystery‑Thriller über Kontrolle, Kreativität und den Wert der Realität in einer Welt aus Illusionen.  Düstere Atmosphäre, starke Besetzung – ein Geheimtipp für Genre‑Fans.",
-      "poster": "https://image.tmdb.org/t/p/w500/VrMM7ysYlPoiT6plKJNMtdUX2j.jpg",
-      "director": "Michael Caissie",
-      "cast": [
-        "Jeff Fahey",
-        "Mena Suvari",
-        "Lochlyn Munro"
-      ],
-      "tmdbId": 1744819,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HG55G6PB?&linkCode=ll2&tag=ajsretro-21&linkId=686056094a235342e6747a74ba7918c2&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Wolf Man",
-      "originalTitle": "Wolf Man",
-      "year": "2025",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "runtime": "103",
-      "rating": "6.1",
-      "overview": "Da seine Ehe in die Brüche geht, überredet Blake seine Frau Charlotte, eine Auszeit von der Stadt zu nehmen und sein abgelegenes Elternhaus im ländlichen Oregon zu besuchen. Als sie mitten in der Nacht auf dem Bauernhof ankommen, werden sie von einem unsichtbaren Tier angegriffen und verbarrikadieren sich im Haus, während das Wesen im Umkreis herumschleicht. Doch im Laufe der Nacht beginnt sich Blake seltsam zu benehmen und verwandelt sich in etwas Unkenntliches.",
-      "poster": "https://image.tmdb.org/t/p/w500/4mHvo5BRHKficb1oi6zp1gNzx9r.jpg",
-      "director": "Leigh Whannell",
-      "cast": [
-        "Christopher Abbott",
-        "Julia Garner",
-        "Matilda Firth"
-      ],
-      "tmdbId": 710295,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0DSGCDR1S?&linkCode=ll2&tag=ajsretro-21&linkId=68781c3b0823541a25424ee9d69e6317&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Welcome Home Baby",
-      "originalTitle": "Welcome Home Baby",
-      "year": "2025",
-      "genres": [
-        "Horror"
-      ],
-      "runtime": "115",
-      "rating": "4.8",
-      "overview": "Die Berliner Notärztin Judith erbt eine Villa in Österreich und gelangt in eine dämonische von Frauen dominierten Gemeinschaft. Während sie versucht, das Rätsel ihrer Herkunft zu lösen, entfesselt Judith dämonische Kräfte, die alles in Frage stellen, was sie über ihr Leben, ihre Familie und Ehe gedacht hat.",
-      "poster": "https://image.tmdb.org/t/p/w500/nyjCStYlX3FNPEz2Dz0Mz1OqPWE.jpg",
-      "director": "Andreas Prochaska",
-      "cast": [
-        "Julia Franz Richter",
-        "Reinout Scholten van Aschat",
-        "Gerti Drassl"
-      ],
-      "tmdbId": 1404180,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0G5PW5BTS?&linkCode=ll2&tag=ajsretro-21&linkId=f26df9cfbc8f089ff748f56b45974969&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Wormtown",
-      "originalTitle": "Wormtown",
-      "year": "2025",
-      "genres": [
-        "Science Fiction",
-        "Horror",
-        "Abenteuer"
-      ],
-      "runtime": "107",
-      "rating": "5.8",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/lE10ww38b7XA5LIagIsVQj9a8Hn.jpg",
-      "director": "Sergio Pinheiro",
-      "cast": [
-        "Caitlin McWethy",
-        "Rachel Ryu",
-        "Emily Soppe"
-      ],
-      "tmdbId": 1235192,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0FWZP4PTD?&linkCode=ll2&tag=ajsretro-21&linkId=9e5555162b3f38cbf02fe41b9e7a3797&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "The Blackening",
-      "originalTitle": "The Blackening",
-      "year": "2023",
-      "genres": [
-        "Horror",
-        "Komödie"
-      ],
-      "runtime": "97",
-      "rating": "5.8",
-      "overview": "Sieben afroamerikanische Freunde treffen sich für ein Wochenende im Wald. Dort treibt jedoch ein Mörder sein Unwesen. Wird ihr Wissen über Horrorfilme ihnen helfen am Leben zu bleiben?",
-      "poster": "https://image.tmdb.org/t/p/w500/n2aS9FE0C3VUHtSb3Ak41aU9K3y.jpg",
-      "director": "Tim Story",
-      "cast": [
-        "Grace Byers",
-        "Antoinette Robertson",
-        "Jermaine Fowler"
-      ],
-      "tmdbId": 1008392,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0C5BHHY4P?&linkCode=ll2&tag=ajsretro-21&linkId=ccf83015c2ae86c22df387779b943324&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Midsommar",
-      "originalTitle": "Midsommar",
-      "year": "2019",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Mystery"
-      ],
-      "runtime": "148",
+      "runtime": "108",
       "rating": "7.1",
-      "overview": "Obwohl ihre Beziehung kriselt, schließt sich Dani ihrem Freund Christian auf einen Sommertrip in einen kleinen Ort in Schweden an. Gemeinsam mit Christians Clique sind sie zu einem einmaligen Mittsommer-Festival eingeladen. Doch der anfänglich idyllische Eindruck der abgelegenen Gemeinschaft trügt und die freundlichen Dorfbewohner verhalten sich nach und nach merkwürdiger: Sie bereiten sich auf ein besonderes Mittsommer-Ritual vor, das nur alle 90 Jahre zelebriert wird. Was als puritanisches Fest der Liebe und Glückseligkeit beginnt, nimmt eine unheimliche Wendung, die das sonnengeflutete Paradies bis in die Eingeweide erschüttert.",
-      "poster": "https://image.tmdb.org/t/p/w500/53p7M8w35cGCjQVsgVLpPIYEck0.jpg",
-      "director": "Ari Aster",
+      "overview": "Richard Gecko ist ein Psychopath, sein Bruder Seth ein eiskalter Verbrecher. Richard befreit Seth aus dem Gefängnis, sie rauben eine Bank aus und hinterlassen eine Spur aus Blut und Verwüstung. Auf ihrer Flucht entführen sie schließlich einen ehemaligen Baptisten-Prediger, der sein Amt nach dem Tod seiner Frau aufgegeben hat und nun mit seinen beiden Kindern von Ort zu Ort zieht. Richard verspricht ihm, ihn und seine Kinder freizulassen, wenn dieser sie nach Mexiko schmuggelt. Und eigentlich möchte Richard dieses Versprechen sogar einhalten, gäbe es da nicht das Titty Twister, eine Bar auf der anderen Seite der Grenze, in der sich Richard eigentlich nur mit mexikanischen Gangstern treffen will, um mit ihnen ein Geschäft zu machen. Leider wird das Titty Twister von einer Horde blutrünstiger Vampire geleitet, die ihre Gäste, inklusive Gangster und Prediger, einschließen, um sich an ihnen zu laben",
+      "poster": "https://image.tmdb.org/t/p/w500/v7bJovAbU4LfwAEmlJGMhldE7va.jpg",
+      "director": "Robert Rodriguez",
       "cast": [
-        "Florence Pugh",
-        "Jack Reynor",
-        "William Jackson Harper"
+        "George Clooney",
+        "Quentin Tarantino",
+        "Harvey Keitel"
       ],
-      "tmdbId": 530385,
+      "tmdbId": 755,
       "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0HLY3MLKM?&linkCode=ll2&tag=ajsretro-21&linkId=0e25cc39cd18fbc84456d8288f3077b6&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0HF1D7R2Q?&linkCode=ll2&tag=ajsretro-21&linkId=e9c86c54ce8d6ec4da8898f336e8e6e6&ref_=as_li_ss_tl"
     },
     {
       "title": "22 Bahnen",
@@ -3912,6 +3983,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HLRX42QW?&linkCode=ll2&tag=ajsretro-21&linkId=1459d9d7410156a96f2f5a92014b2281&ref_=as_li_ss_tl"
     },
     {
+      "title": "BUBBLES... wir waren doch Freunde",
+      "originalTitle": "Bubbles",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "85",
+      "rating": "5.2",
+      "overview": "Ein Wochenende am Wattenmeer wird für Fiete zur emotionalen Zerreißprobe, als er mit seiner Freundin Amiri auf seinen alten besten Freund Luca trifft. Dieser konfrontiert ihn mit einer ungeklärten Schuld aus der Vergangenheit, die Fiete lieber verborgen hätte.",
+      "poster": "https://image.tmdb.org/t/p/w500/2xcAW15qTCs0BL4sjK3LrFIOBW6.jpg",
+      "director": "Sebastian Husak",
+      "cast": [
+        "Leonard Scheicher",
+        "Zeynep Bozbay",
+        "Johannes Nussbaum"
+      ],
+      "tmdbId": 1248679,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0GSBWMC6Z?&linkCode=ll2&tag=ajsretro-21&linkId=6cb54cd1489969a8e7284679bfcdfb88&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Hysteria",
       "originalTitle": "Hysteria",
       "year": "2025",
@@ -4043,6 +4135,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FXTWG97T?&linkCode=ll2&tag=ajsretro-21&linkId=e5fc3c334cb4b277f075e81557f77f58&ref_=as_li_ss_tl"
     },
     {
+      "title": "Ostzone",
+      "originalTitle": "Ostzone",
+      "year": "2017",
+      "genres": [
+        "Thriller",
+        "Horror"
+      ],
+      "runtime": "67",
+      "rating": "2.2",
+      "overview": "Im deutschen Horrorfilm Ostzone handelt sich ein junges Paar mit dem Kauf eines alten DDR-Kinderheims mehr ein als nur ein günstig erworbenes Gebäude.  Handlung von Ostzone  Linda und Marius sind Sozialpädagogen und kaufen ein Klinikgebäude, das einst in der Ostzone stand – ein Kinderheim der DDR. Lange nach der Wende ist der Bau zwar ziemlich verfallen, dafür allerdings äußerst günstig zu erwerben und so unterschreiben die beiden den Vertrag der Maklerin Frau Wagner, ohne lange zu zögern.  Doch nicht nur ihre Freundin Marie findet das alte Gemäuer unheimlich. Irgendetwas stimmt nicht in dieser Klinik, in deren Zimmern immer noch die Spuren der Vergangenheit umherspuken. Und dass Besucher hier nicht gern gesehen sind, müssen die neuen Besitzer bald auf äußerst unangenehme Weise erfahren.",
+      "poster": "https://image.tmdb.org/t/p/w500/edU1lUpDbhpxnVz4RkukGXYvrQ6.jpg",
+      "director": "René Rausch",
+      "cast": [
+        "Simson Bubbel",
+        "Friederike Serr",
+        "Saskia Geißler"
+      ],
+      "tmdbId": 458474,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0GWK32FTP?&linkCode=ll2&tag=ajsretro-21&linkId=65c1d91e9fd0bfeede334fb96282363e&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Vier gegen die Bank",
       "originalTitle": "Vier gegen die Bank",
       "year": "2016",
@@ -4086,6 +4200,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HG5VK7NF?&linkCode=ll2&tag=ajsretro-21&linkId=2c26b4fccf62e2345221cef2372027f3&ref_=as_li_ss_tl"
     },
     {
+      "title": "1000 Mexikaner",
+      "originalTitle": "1000 Mexikaner",
+      "year": "2016",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "81",
+      "rating": "4.2",
+      "overview": "Lukas und Adam sind beste Freunde und Mitbewohner auf dem Hamburger Kiez. Lukas, zielstrebig, clever und kreativ, ist auf dem besten Weg, in einer Werbeagentur Karriere zu machen. Adam, ein charmanter Hitzkopf, versucht vergebens, in der Hamburger Filmbranche Fuß zu fassen. Noch immer hält er an ihrem gemeinsamen Jugendtraum fest, eines Tages mit Lukas eine Filmproduktion zu gründen. Lukas hingegen geht einer beruflichen Zusammenarbeit mit seinem chaotischen Freund lieber aus dem Weg.",
+      "poster": "https://image.tmdb.org/t/p/w500/3IQRWz0V3S10jGujoCv78XZ6mQd.jpg",
+      "director": "Philipp Scholz",
+      "cast": [
+        "Bastian Reiber",
+        "Arnel Taci",
+        "David Bredin"
+      ],
+      "tmdbId": 436330,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0FZD3HSLX?&linkCode=ll2&tag=ajsretro-21&linkId=70e3c02ef5b267d20e018319fae60436&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Highway to Hellas",
       "originalTitle": "Highway to Hellas",
       "year": "2015",
@@ -4105,29 +4240,6 @@
       "tmdbId": 334362,
       "genre": "Deutsches Kino",
       "url": "https://www.amazon.de/gp/video/detail/B0FLW5L4MN?&linkCode=ll2&tag=ajsretro-21&linkId=b775206d9d34e7a485eb75ab5c22af83&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ein Sommer in Paris",
-      "originalTitle": "Ein Sommer in Paris",
-      "year": "2011",
-      "genres": [
-        "Komödie",
-        "Liebesfilm",
-        "TV-Film"
-      ],
-      "runtime": "90",
-      "rating": "4.8",
-      "overview": "Nach einem Streit lässt Klara ihren Verlobten am Eiffelturm stehen und erkundet Paris auf eigene Faust. Kurz bevor das Geld zur Neige geht, hilft der Zufall, den es in solchen Filmen bekanntlich nicht gibt: Der stinkreiche Charmebolzen Philippe engagiert die hübsche, schlagfertige Krankenschwester aus Deutschland als Betreuerin für seine kranke und angeblich sehr anstrengende Mutter",
-      "poster": "https://image.tmdb.org/t/p/w500/tvsdOBz3zEH7K04cPmqylTaYXUg.jpg",
-      "director": "Jorgo Papavassiliou",
-      "cast": [
-        "Anica Dobra",
-        "Pasquale Aleardi",
-        "Liane Forestieri"
-      ],
-      "tmdbId": 185065,
-      "genre": "Deutsches Kino",
-      "url": "https://www.amazon.de/gp/video/detail/B0HG9W66HY?&linkCode=ll2&tag=ajsretro-21&linkId=352754433542c7319b675e3739e4f541&ref_=as_li_ss_tl"
     },
     {
       "title": "Der Super Mario Bros. Film",
@@ -4178,6 +4290,54 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HHFZ5KXX?&linkCode=ll2&tag=ajsretro-21&linkId=3ab16304bb78f8a1e5afa7baf1f1127a&ref_=as_li_ss_tl"
     },
     {
+      "title": "Alvin und die Chipmunks 3 - Chipbruch",
+      "originalTitle": "Alvin and the Chipmunks: Chipwrecked",
+      "year": "2011",
+      "genres": [
+        "Komödie",
+        "Fantasy",
+        "Familie",
+        "Musik",
+        "Animation"
+      ],
+      "runtime": "87",
+      "rating": "5.7",
+      "overview": "Alvin, Simon und Theodore machen Urlaub auf einem Luxuskreuzer und verwandeln die Decks in ihren persönlichen Spielplatz. Aber dann: Die Chipmunks erleiden Schiffbruch! Und landen auf einer öden Insel. Während Dave Seville sich nur Gedanken darüber macht, dass sie sich unerlaubt von der Gruppe entfernt haben, hauen die Chipmunks auf den Putz, wie man es von ihnen kennt. Sie singen, tanzen und verbreiten Chaos. Aber sie erleben ihr blaues Wunder, als sie auf einer Abenteuerinsel einem Schiffbrüchigen begegnen, der Alvin und den Chipmunks durchaus gewachsen ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/hjEvWVw5tb8yBhAvFEPiSXV95j6.jpg",
+      "director": "Mike Mitchell",
+      "cast": [
+        "Jason Lee",
+        "David Cross",
+        "Jenny Slate"
+      ],
+      "tmdbId": 55301,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0F1GGPJM5?&linkCode=ll2&tag=ajsretro-21&linkId=de28bfaf103435170e3814aa628655d0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Toy Story 3",
+      "originalTitle": "Toy Story 3",
+      "year": "2010",
+      "genres": [
+        "Animation",
+        "Familie",
+        "Komödie"
+      ],
+      "runtime": "103",
+      "rating": "7.8",
+      "overview": "Der Moment des Abschieds ist gekommen: Andy ist den Kinderschuhen entwachsen und macht sich bereit, aufs College zu gehen. Für sein stets getreues Spielzeug hat er keine Verwendung mehr. Andys Mutter spendet die Spielsachen der Kindertagesstätte Sunnyside. Doch dieses angebliche Paradies entpuppt sich nach zuerst freundlicher Aufnahme durch die alteingesessenen Spielzeuge bald zum Gefängnis für die Freunde. Ein ausgeklügelter Ausbruchsplan wird ausgearbeitet - die Zeit drängt, denn hier geht nicht alles mit rechten Dingen zu.",
+      "poster": "https://image.tmdb.org/t/p/w500/aHxQdb3Ennws1EIraHnOS3BFjVJ.jpg",
+      "director": "Lee Unkrich",
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Joan Cusack"
+      ],
+      "tmdbId": 10193,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0G2KN3R4G?&linkCode=ll2&tag=ajsretro-21&linkId=99ba8be3947f952b5c86f8d8bcbc33d4&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Wolkig mit Aussicht auf Fleischbällchen",
       "originalTitle": "Cloudy with a Chance of Meatballs",
       "year": "2009",
@@ -4190,7 +4350,7 @@
       "rating": "6.7",
       "overview": "Nachdem seine neueste Kreation versehentlich das Stadtzentrum zerstört undanschließend Richtung Himmel schießt, fürchtet Flint Lockwood zunächst, dass seine Erfinderkarriere hiermit beendet sei. Doch dann geschieht das Unglaubliche: Es regnet köstliche Cheeseburger - seine Maschine funktioniert! Aber die Menschen können von den Leckereien einfach nicht genug bekommen, bis der Apparat durchdreht und gigantische Spaghetti-Tornados mit riesigen Fleischbällchen auf die Erde loslässt. Mit Hilfe der Wetterreporterin Sam Sparks und seinem Assistenten Steve, einem sprechenden Affen, muss Flint eine Möglichkeit finden, die wildgewordene Maschine abzuschalten, bevor die Welt unter den megagroßen Fleischklößen begraben wird.",
       "poster": "https://image.tmdb.org/t/p/w500/spgRKedpT0vcBtc7kB7ZXA4dDrF.jpg",
-      "director": "Phil Lord",
+      "director": "Christopher Miller",
       "cast": [
         "Bill Hader",
         "Anna Faris",
@@ -4199,6 +4359,55 @@
       "tmdbId": 22794,
       "genre": "Animation",
       "url": "https://www.amazon.de/gp/video/detail/B0GZ4H3SPJ?&linkCode=ll2&tag=ajsretro-21&linkId=5d1ec082eaa6c88df90df7542e3080e2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Alvin und die Chipmunks 2",
+      "originalTitle": "Alvin and the Chipmunks: The Squeakquel",
+      "year": "2009",
+      "genres": [
+        "Komödie",
+        "Familie",
+        "Animation",
+        "Fantasy",
+        "Musik"
+      ],
+      "runtime": "88",
+      "rating": "5.7",
+      "overview": "Weil Ersatzvater Dave nach einem Unfall im Krankenhaus liegt, bekommen Chipmunk Alvin und seine beiden Brüder mit Daves Cousin Toby einen neuen Betreuer. Der allerdings ist so liebenswert wie schüchtern und überfordert. Damit sind die Chipmunks auf sich gestellt: in der Schule, wo Alvin über seine neuen coolen Freunde aus dem Footballteam seine Brüder vergisst, sowie im Popbusiness, wo ihr alter intriganter Manager mit den Chipettes, drei süßen Chipmunkgirls, echte Konkurrenz aufgebaut hat, die allerdings nur ihn reich machen soll.",
+      "poster": "https://image.tmdb.org/t/p/w500/8mdPqOga5fty15nXmaNcK1fsNMa.jpg",
+      "director": "Betty Thomas",
+      "cast": [
+        "Zachary Levi",
+        "David Cross",
+        "Jason Lee"
+      ],
+      "tmdbId": 23398,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0CBGMY72C?&linkCode=ll2&tag=ajsretro-21&linkId=31dd835f3ebfffae09a01b3adb7bbb1f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Toy Story",
+      "originalTitle": "Toy Story",
+      "year": "1995",
+      "genres": [
+        "Familie",
+        "Komödie",
+        "Animation",
+        "Abenteuer"
+      ],
+      "runtime": "81",
+      "rating": "8.0",
+      "overview": "Als Andys Lieblingspuppe hat Woody im Kinderzimmer das Sagen. Kaum ist der Junge nicht da, erwacht die Cowboy-Figur zum Leben, und mit ihm auch all das andere Spielzeug um ihn herum. Aufgeregt debattiert man über Andys bevorstehenden Geburtstag. Es wird befürchtet, daß ihr Besitzer ein neues Geschenk bevorzugen wird. Und tatsächlich: Der Neuankömmling Buzz Lightyear, ein stolzer Space Ranger, avanciert zu Andys Favoriten. Diese Herabstufung will Woody nicht hinnehmen.",
+      "poster": "https://image.tmdb.org/t/p/w500/om4fMx3e4xkx27sAsacoFP4WiEd.jpg",
+      "director": "John Lasseter",
+      "cast": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Don Rickles"
+      ],
+      "tmdbId": 862,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8LRV4JD?&linkCode=ll2&tag=ajsretro-21&linkId=791ac0691d31755af52f6209b610603e&ref_=as_li_ss_tl"
     },
     {
       "title": "Tom und Jerry - Der Film",
@@ -4505,6 +4714,51 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DG2ZHCLB?&linkCode=ll2&tag=ajsretro-21&linkId=ea0025912530fd7a0a5316d34e87bb9a&ref_=as_li_ss_tl"
     },
     {
+      "title": "Yes, No, or Maybe? - The Movie",
+      "originalTitle": "イエスかノーか半分か",
+      "year": "2020",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "62",
+      "rating": "6.8",
+      "overview": "Kei Kunieda ist ein beliebter Nachrichtensprecher mit vorzüglichen Manieren und stets einem Lächeln auf den Lippen – nur tickt er privat eigentlich ganz anders. Um sich als überall bekanntes Gesicht in seiner Freizeit nicht die Blöße zu geben, geht er nur noch mit unfrisiertem Haar, Brille und Maske vor die Tür. Als er eines Abends in der Aufmachung über die Straße will, stößt er mit einem Radfahrer zusammen. Dabei handelt es sich um Ushio Tsuzuki, einen Animator, den Kei momentan tagsüber für eine Reportage interviewt. Ushio hat sich beim Aufprall die Hand verletzt und verlangt nun von Kei, ihm eine Weile bei der Arbeit zu helfen. Mürrisch willigt der Star-Moderator, dessen Identität glücklicherweise nicht aufgeflogen ist, ein, und trotz seines frechen und leicht reizbaren Charakters kommen die beiden sich langsam näher.",
+      "poster": "https://image.tmdb.org/t/p/w500/cJhQv9Ien8TsL4nlutNyRqnxjFi.jpg",
+      "director": "高田真宏",
+      "cast": [
+        "Atsushi Abe",
+        "Yoshihisa Kawahara"
+      ],
+      "tmdbId": 719088,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6T71MZ7?&linkCode=ll2&tag=ajsretro-21&linkId=d031f3eca5b881116bbabfc45cee3991&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Josie, der Tiger und die Fische",
+      "originalTitle": "ジョゼと虎と魚たち",
+      "year": "2020",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "98",
+      "rating": "8.2",
+      "overview": "Der Film handelt von der 24-jährigen Kumiko (Josie), der Freiheit, im Sinne der eigenständigen Bewegung, nicht vergönnt ist, weil sie schon seit langem im Rollstuhl sitzt. Als Sie eines Tages fast einen Hang hinabrollt, ist es der junge Tsuneo, der sie vor dem Schlimmsten bewahrt. Tsuneo ist Student der Meeresbiologie und immer auf der Suche nach Nebenjobs. Da Josies Großmutter ziemlich besorgt darüber ist, was aus ihrer Enkelin nur werden soll, engagiert sie kurzerhand Tsuneo, damit dieser Zeit mit Josie verbringt und sie auf das Leben als selbstständige Erwachsene vorbereitet …",
+      "poster": "https://image.tmdb.org/t/p/w500/kqtqxLkkSPUvVBOZDQiWBOyhkcY.jpg",
+      "director": "Kotaro Tamura",
+      "cast": [
+        "Taishi Nakagawa",
+        "Kaya Kiyohara",
+        "Yume Miyamoto"
+      ],
+      "tmdbId": 652837,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B09PQNVTL5?&linkCode=ll2&tag=ajsretro-21&linkId=9c22b0118376b01982d3d40381cb44af&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Psycho-Pass 3: First Inspector",
       "originalTitle": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
       "year": "2020",
@@ -4529,166 +4783,510 @@
       "url": "https://www.amazon.de/gp/video/detail/B0B6722M1Z?&linkCode=ll2&tag=ajsretro-21&linkId=06d8e16d62435ea721cc48e2f57dfca5&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ride Your Wave",
-      "originalTitle": "きみと、波にのれたら",
-      "year": "2019",
+      "title": "Hui Buh und das Hexenschloss",
+      "originalTitle": "Hui Buh und das Hexenschloss",
+      "year": "2022",
       "genres": [
-        "Animation",
-        "Liebesfilm",
+        "Familie",
+        "Fantasy",
+        "Abenteuer",
         "Komödie",
-        "Drama",
-        "Fantasy"
+        "Animation"
       ],
-      "runtime": "96",
-      "rating": "7.5",
-      "overview": "Hinako hat gerade die Oberschule abgeschlossen und ist nun eine frischgebackene Universitätsstudentin. Dafür zog sie vor kurzem in eine Küstenstadt, doch die Nähe zur Uni war kaum der einzige Grund für Hinako, denn sie surft leidenschaftlich gern! Während sie auf dem Surfbrett mutig selbst den gefährlichsten Wellen trotzt, sieht sie sich an Land jedoch von der Unsicherheit über ihre eigene Zukunft geplagt … Als ein Feuer in der Küstenstadt für Chaos sorgt, lernt Hinako den jungen Feuerwehrmann Minato kennen und schon bald verbringen die beiden mehr Zeit miteinander.  Als sie so gemeinsam auf dem Meer surfen und sich besser kennenlernen, fühlt sich Hinako mehr und mehr zu dem jungen Mann hingezogen, der sich so offen und aufopferungsvoll für andere einsetzt. Doch auch sie selbst genießt einen besonderen Platz im Herzen Minatos …",
-      "poster": "https://image.tmdb.org/t/p/w500/8Z8TB4nYkT5nKonGN6KO9KyIrco.jpg",
-      "director": "湯浅政明",
+      "runtime": "88",
+      "rating": "5.6",
+      "overview": "14 Jahre sind vergangen, seit König Julius zu Hui Buh ins Schloss Burgeck eingezogen ist. Während Hui Buh noch immer sehr darunter leidet, als Gespenst eine Lachnummer zu sein und damit Julius mächtig auf die Nerven geht, macht dieser eine harte Zeit durch, seit Konstanzia ihn verlassen hat. Auch die gähnende Leere der Schatzkammer des Schlosses wird langsam, aber sicher unübersehbar und trägt zum ewigen Streit der beiden bei. Da steht plötzlich die kleine Hexe Ophelia vor der Tür und bittet ihren Onkel Hui Buh um Hilfe. Sie erzählt Julius und Hui Buh von ihrer Flucht vor der bösen Hexe Erla, die ihre Mutter Maria entführt hat, auf der Suche nach dem Necronomicon, dem mächtigsten Zauberbuch der Welt. Hui Buh erkennt eine einzigartige Gelegenheit, endlich gruselig zu werden! Die sagenumwobenen Zaubersprüche des Buches könnten seinen Traum, ein gefürchtetes Gespenst zu sein, wahrmachen.",
+      "poster": "https://image.tmdb.org/t/p/w500/6pFimosDngknypmNIFg8E0zcVhz.jpg",
+      "director": "Sebastian Niemann",
       "cast": [
-        "片寄涼太",
-        "Rina Kawaei",
-        "Honoka Matsumoto"
+        "Michael Herbig",
+        "Christoph Maria Herbst",
+        "Rick Kavanian"
       ],
-      "tmdbId": 530079,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0GGXD61RV?&linkCode=ll2&tag=ajsretro-21&linkId=cecff82bb3f7a812253a2f71fb3e8e2f&ref_=as_li_ss_tl"
+      "tmdbId": 754158,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0BYRMLLMX?&linkCode=ll2&tag=ajsretro-21&linkId=614c109e1a20d00a35cf097605e03459&ref_=as_li_ss_tl"
     },
     {
-      "title": "Saga of Tanya the Evil: The Movie",
-      "originalTitle": "劇場版 幼女戦記",
-      "year": "2019",
+      "title": "Jim Knopf und die Wilde 13",
+      "originalTitle": "Jim Knopf und die Wilde 13",
+      "year": "2020",
       "genres": [
-        "Animation",
-        "Action",
-        "Kriegsfilm",
+        "Abenteuer",
+        "Familie",
         "Fantasy"
       ],
-      "runtime": "98",
-      "rating": "8.0",
-      "overview": "Im Jahre 1926 ist die Republik nun endgültig von der kaiserlichen Armee besiegt worden. Nachdem Tanya und ihr Bataillon die verbliebenen Überreste der Armee vernichtet haben, kehren sie zurück ins Heimatland. Dort angekommen erfahren sie jedoch, dass sich in der Nähe der Grenze zur Russischen Föderation eine massive Armee mobilisiert, worauf die kaiserliche Armee sofort reagieren muss. Zur gleichen Zeit zieht eine multinationale Armee unter der Führung des Alliierten Königreichs in die Russische Föderation ein. In der Regel ist der Feind eines Feindes ein Freund, doch findet sich in der Armee des Alliierten Königreichs ein Mädchen namens Mary Sue, das geschworen hat, sich für den Tod ihres Vaters zu rächen.",
-      "poster": "https://image.tmdb.org/t/p/w500/2eOcRIcnQty8B9Wp40UUNOj58UM.jpg",
-      "director": "Yutaka Uemura",
+      "runtime": "109",
+      "rating": "5.9",
+      "overview": "Ein neues Abenteuer für Jim Knopf und Lokführer Lukas. Ein Jahr nach den Ereignissen geht das Leben in Lummerland wieder seinen gewohnten Gang. Doch es ziehen dunkle Wolken über der beschaulichen Insel auf: Die Wilde 13 hat erfahren, dass Frau Malzahn besiegt wurde, und will dafür nun Rache nehmen. Die Einwohner von Lummerland ahnen noch nichts von der drohenden Gefahr. Währenddessen ist Prinzessin Li Si bei Jim Knopf zu Besuch. Ihr kann Jim sein größtes Geheimnis anvertrauen: Er möchte endlich die Wahrheit über seine Herkunft erfahren.  Um das Geheimnis zu lüften und Lummerland vor einer weiteren Bedrohung zu beschützen, machen sich die Helden gemeinsam mit den Dampflokomotiven Emma und Molly auf den Weg in ein gefährliches Abenteuer.",
+      "poster": "https://image.tmdb.org/t/p/w500/yh2IY8A6CtC1YSHcjKKIl7TcRyY.jpg",
+      "director": "Dennis Gansel",
       "cast": [
-        "Aoi Yuki",
-        "Saori Hayami",
-        "Shin-ichiro Miki"
+        "Henning Baum",
+        "Solomon Gordon",
+        "Annette Frier"
       ],
-      "tmdbId": 553839,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0G33CR8NN?&linkCode=ll2&tag=ajsretro-21&linkId=8ae7238e676d189fa613bbb414fd630f&ref_=as_li_ss_tl"
+      "tmdbId": 616180,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GX9ZYMKC?&linkCode=ll2&tag=ajsretro-21&linkId=522390191bff525a40f364c88307f0e6&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ritter Trenk",
-      "originalTitle": "Ritter Trenk",
-      "year": "2015",
+      "title": "Conni & Co 2 - Das Geheimnis des T-Rex",
+      "originalTitle": "Conni & Co 2 - Das Geheimnis des T-Rex",
+      "year": "2017",
       "genres": [
-        "Animation",
+        "Abenteuer",
+        "Komödie",
         "Familie"
       ],
-      "runtime": "75",
-      "rating": "5.5",
-      "overview": "Der furchtlose Bauernsohn Trenk Tausendschlag will seine Familie vom Joch des unbarmherzigen Ritter Wertolt befreien, nachdem sein Vater Haug Tausendschlag von Wertolt wegen angeblichem Ungehorsams in den Kerker gesperrt wird. Basierend auf der erfolgreichen Kinderbuchreihe „Der kleine Ritter Trenk“.",
-      "poster": "https://image.tmdb.org/t/p/w500/2rCsPo6iJgy4rNbRPVrsGnhOnyk.jpg",
-      "director": "Anthony Power",
+      "runtime": "96",
+      "rating": "7.0",
+      "overview": "Jedes Jahr im Sommer verbringen Conni und ihre Freunde ihre Ferien auf der Kanincheninsel, die vor den Toren von Neustadt gelegen ist. Die Insel ist ein echtes Kinder- und Naturparadies, doch jetzt gerät es in akute Gefahr: Der Bürgermeister Neustadts und Connis ehemaliger Schuldirektor Möller will nämlich ein gigantisches Hotel auf dem schönen Ort errichten und verspricht den Bewohnern neue Jobs. Und Connis Vater Jürgen soll auch noch der Architekt des Bauvorhabens werden. Als Hund Frodo jedoch einen Dinosaurierknochen auf der Insel findet, könnte dies die Rettung sein. Doch dann geht der wertvolle Fund verloren und ausgerechnet Connis bester Freund Paul ist schuld daran, dass sie nicht einmal einen Beweis für die Existenz des Knochens haben. Doch so leicht lässt sich Conni nicht unterkriegen und so nimmt sie den Kampf zur Rettung der Kanincheninsel auf.",
+      "poster": "https://image.tmdb.org/t/p/w500/mbxQjBx2pVb0YwifH0YLzgDj141.jpg",
+      "director": "Til Schweiger",
       "cast": [
-        "Georg Sulzer",
-        "Axel Prahl",
-        "Johannes Zeiler"
+        "Emma Schweiger",
+        "Oskar Keymer",
+        "Rafael Koussouris"
       ],
-      "tmdbId": 362343,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B01708UZPO?&linkCode=ll2&tag=ajsretro-21&linkId=1c8efceb683fc79470231e9cab2817c0&ref_=as_li_ss_tl"
+      "tmdbId": 429976,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0FCL7LMNJ?&linkCode=ll2&tag=ajsretro-21&linkId=1e3d37ed23a7129ca59a91de0d348ce9&ref_=as_li_ss_tl"
     },
     {
-      "title": "Anomalisa",
-      "originalTitle": "Anomalisa",
-      "year": "2015",
+      "title": "BFG - Big Friendly Giant",
+      "originalTitle": "The BFG",
+      "year": "2016",
       "genres": [
-        "Animation",
-        "Drama",
-        "Liebesfilm",
-        "Komödie"
+        "Abenteuer",
+        "Familie",
+        "Fantasy"
+      ],
+      "runtime": "117",
+      "rating": "6.3",
+      "overview": "Das kleine Waisenkind Sophie wird eines Mitternachts, zur Geisterstunde, wach und sieht zufällig eine riesige Gestalt auf der Straße, wie sie etwas in die Zimmer anderer bläst. Doch Sophie wird bemerkt und daraufhin entführt die rätselhafte Gestalt das kleine Mädchen. Zu ihrer Erleichterung stellt Sophie jedoch fest, dass der Riese ihr freundlich gesonnen ist und er verrät ihr, dass er den schlafenden Menschen schöne Träume in ihre Zimmer bläst. Doch damit steht der Riese alleine da. Denn es gibt weitere, noch größere von seiner Sorte im Riesenland und die fressen nichts lieber als Menschen. Dagegen muss etwas unternommen werden und so beschließen Sophie und der Riese die Königin von England um Hilfe zu bitten. Weitere Verstärkung bekommen sie von dem König von Schweden und dem Sultan von Bagdad, deren Länder bereits von den bösen Riesen heimgesucht worden sind und gemeinsam nehmen sie den Kampf auf.",
+      "poster": "https://image.tmdb.org/t/p/w500/7vIVKg75ygGcTdkdotp8uhII82d.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Mark Rylance",
+        "Ruby Barnhill",
+        "Rebecca Hall"
+      ],
+      "tmdbId": 267935,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8NK2TQD?&linkCode=ll2&tag=ajsretro-21&linkId=cab61ca3e5b8c879233db461ffbb0a90&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Conni & Co",
+      "originalTitle": "Conni & Co",
+      "year": "2016",
+      "genres": [
+        "Komödie",
+        "Abenteuer",
+        "Familie"
+      ],
+      "runtime": "104",
+      "rating": "7.4",
+      "overview": "Für die zwölfjährige Conni geht die siebte Klasse leider ziemlich schlecht los: Weil ihre alte Schule geschlossen wird, muss sie auf eine neue wechseln. Das bedeutet eine ziemliche Umstellung und neue Kameraden wollen erst gewonnen werden. Das ist aber nichts im Vergleich dazu, dass sie ihren zugelaufenen und heißgeliebten Hund Frodo nicht behalten darf. Denn der kleine Vierbeiner heißt eigentlich Laurentius und gehört dem rücksichtslosen Schuldirektor Möller. Und der genießt nicht nur einen zweifelhaften Ruhm, weil er seinen Schülern das Leben zur Hölle macht, wo er nur kann – er ist auch noch ein ziemlich fieser Tierquäler. Für Conni und ihre Freunde ist klar, was sie jetzt zu tun haben: Sie müssen den armen Frodo aus den Fängen von Direktor Möller befreien und mit viel Mut und reichlich Erfindungsgeist stürzen sie sich in ein spannendes Abenteuer.",
+      "poster": "https://image.tmdb.org/t/p/w500/2leNfiVDqeRgy7Bpg96f6PhiaIU.jpg",
+      "director": "Franziska Buch",
+      "cast": [
+        "Emma Schweiger",
+        "Heino Ferch",
+        "Oskar Keymer"
+      ],
+      "tmdbId": 389370,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0FLW79TBN?&linkCode=ll2&tag=ajsretro-21&linkId=cd58c566f29e70de4ae7bf5f0838cc98&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lemony Snicket - Rätselhafte Ereignisse",
+      "originalTitle": "Lemony Snicket's A Series of Unfortunate Events",
+      "year": "2004",
+      "genres": [
+        "Abenteuer",
+        "Komödie",
+        "Familie"
+      ],
+      "runtime": "108",
+      "rating": "6.8",
+      "overview": "Erzähler Lemony Snicket erzählt, was geschah: Als die Baudelaire-Kinder Violet, Klaus und Sunny ihre wohlhabenden Eltern bei einem Brand verlieren, übernimmt der skurrile Graf Olaf ein entfernter und den Kindern völlig unbekannter Verwandter, ihre Vormundschaft. Er nimmt die Kinder in seine verwahrloste Villa auf, in der den Kindern von überall her ein rätselhaftes Auge entgegenstarrt. Anstatt ihnen ein neues Zuhause zu geben, dürfen sich die Boudelaires an der schmutzigen Hausarbeit beteiligen. Während dessen entpuppt sich Graf Olaf als unheimlicher Verwandlungskünstler und Anführer einer fürchterlichen Schauspieltruppe, die nur ein Ziel hat: Das stattliche Vermögen der drei Waisen! Zählen können die Kinder nur auf die nette Richterin Strauss, Tante Josephine  und: ihren Erfindungsreichtum! Doch es kommt schlimmer, als sie es erahnen können.",
+      "poster": "https://image.tmdb.org/t/p/w500/fxkaJDPS1t8tY58Bqo0rTz14t51.jpg",
+      "director": "Brad Silberling",
+      "cast": [
+        "Emily Browning",
+        "Liam Aiken",
+        "Kara Hoffman"
+      ],
+      "tmdbId": 11774,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG7QDSXH?&linkCode=ll2&tag=ajsretro-21&linkId=7f395c95c86aedae2d060df62ca79250&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Spy Kids 3-D: Game Over",
+      "originalTitle": "Spy Kids 3-D: Game Over",
+      "year": "2003",
+      "genres": [
+        "Familie",
+        "Action",
+        "Komödie",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "84",
+      "rating": "5.1",
+      "overview": "In diesem Teil wird Juni Cortez erneut von der Spionageorganisation OSS um Hilfe gebeten, denn seine Schwester Carmen ist einem gefährlichen Videospiel gefangen und Juni hat nur wenig Zeit, sie zu befreien.",
+      "poster": "https://image.tmdb.org/t/p/w500/buA8dN4zLNr0dYBeKfHfMnEfdLE.jpg",
+      "director": "Robert Rodriguez",
+      "cast": [
+        "Daryl Sabara",
+        "Ricardo Montalban",
+        "Alexa PenaVega"
+      ],
+      "tmdbId": 12279,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GL24XTCR?&linkCode=ll2&tag=ajsretro-21&linkId=67898219e11aaf8fca7be5b40c31c640&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Cats & Dogs - Wie Hund und Katz",
+      "originalTitle": "Cats & Dogs",
+      "year": "2001",
+      "genres": [
+        "Familie",
+        "Komödie",
+        "Action",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "runtime": "87",
+      "rating": "5.4",
+      "overview": "Bis zum heutigen Tage dachte der Mensch, er würde die Erde regieren. Doch in Wirklichkeit versuchen die Katzen schon seit Jahrtausenden, die Herrschaft über die Erde zu erlangen. Bisher haben sie nur die Hunde daran gehindert. Nun haben die Katzen mit Mr. Tinkles einen neuen Führer, der alle Hunde ausrotten will. Dabei soll unwissentlich Professor Brody helfen, der an einer Medizin, die Menschen von Hundeallergien kurieren soll, experimentiert. Ausgerechnet ein Beagle-Welpe namens Lou muß jetzt das Schlimmste verhindern.",
+      "poster": "https://image.tmdb.org/t/p/w500/jvUikOjO9LuNiPbHFHg1guRBzlb.jpg",
+      "director": "Lawrence Guterman",
+      "cast": [
+        "Jeff Goldblum",
+        "Elizabeth Perkins",
+        "Alexander Pollock"
+      ],
+      "tmdbId": 10992,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B00FCLKHGE?&linkCode=ll2&tag=ajsretro-21&linkId=7373cb2d8e49c126cbce95b033b949c2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Wir Kinder aus Bullerbü",
+      "originalTitle": "Alla vi barn i Bullerbyn",
+      "year": "1986",
+      "genres": [
+        "Familie"
       ],
       "runtime": "90",
-      "rating": "7.1",
-      "overview": "Motivationstrainer Michael Stone ist ein Bestsellerautor und hat mit seinen Büchern bereits vielen Menschen geholfen. Müde vom vielen Reisen, gelangweilt von seinem Leben als Familienvater, kommen ihm alle Menschen gleich vor - bis er eines Tages Lisa trifft!",
-      "poster": "https://image.tmdb.org/t/p/w500/yRUN32KGtlYhVNEXY7lnwrPGH5.jpg",
-      "director": "Duke Johnson",
+      "rating": "6.3",
+      "overview": "Bullerbü - das ist ein kleiner Ort in Schweden, in dem die Kinder Lisa, Anna, Britta, Bosse, Lasse, Ole und die kleine Kerstin zu Hause sind. Wenn sogar die Schulzeit in Bullerbü (fast) nur angenehme Seiten hat, was soll man da erst von den endlos langen Sommerferien erwarten? Lisa, Britta und Anna, Lasse, Bosse und Ole wissen, was die Sommermonate für sie bedeuten: die schönste Zeit des Jahres. Wenn die Nächte nicht dunkel werden, kann man endlich den Wassergeist belauschen, kann in der Scheune übernachten oder Krebse fangen. Wenn die Tage endlos scheinen, dann ist sogar der weite Weg zum Krämer ein Erlebnis...",
+      "poster": "https://image.tmdb.org/t/p/w500/25vnNsnMYPOkS7AhXU15u4PGXLH.jpg",
+      "director": "Lasse Hallström",
       "cast": [
-        "David Thewlis",
-        "Jennifer Jason Leigh",
-        "Tom Noonan"
+        "Anna Sahlin",
+        "Henrik Larsson",
+        "Linda Bergström"
       ],
-      "tmdbId": 291270,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0G39C9VY9?&linkCode=ll2&tag=ajsretro-21&linkId=22dc27d802d55e67bf7ad50c31cf4041&ref_=as_li_ss_tl"
+      "tmdbId": 21394,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B00P5FLWPW?&linkCode=ll2&tag=ajsretro-21&linkId=61997d7aea9923a21d07e0a78734699c&ref_=as_li_ss_tl"
     },
     {
-      "title": "Strange Magic",
-      "originalTitle": "Strange Magic",
+      "title": "TKKG",
+      "originalTitle": "TKKG",
+      "year": "2019",
+      "genres": [
+        "Abenteuer",
+        "Familie",
+        "Krimi",
+        "Komödie"
+      ],
+      "runtime": "92",
+      "rating": "5.2",
+      "overview": "Tim und Willi, genannt Klößchen, lernen sich am ersten Schultag auf dem Internat kennen. Unterschiedlicher könnten die beiden kaum sein und besonders Willi, Sohn aus gutem Hause, ist nicht gerade erfreut, sich ein Zimmer mit Tim, einem Stipendiaten aus der Vorstadt, zu teilen. Doch als Klößchens Vater entführt wird und mit ihm eine wertvolle Statue aus seiner Kunstsammlung verschwindet, ist Tim der Einzige, der Willi glaubt, dass die Polizei auf der falschen Fährte ist. Gemeinsam mit dem hochintelligenten Außenseiter Karl und der smarten Polizistentochter Gaby beginnt die Gruppe auf eigene Faust zu ermitteln: ein Flugzeugabsturz, maskierte Kung-Fu-Kämpfer, eine versteckte Botschaft von Klößchens Vater. Wie passt das alles zusammen? Und was haben der blinde Hellseher Raimondo und seine Assistentin Amanda damit zu tun? Gegen alle Widerstände decken die vier eine Verschwörung auf. So wird aus Tim, Klößchen, Karl und Gaby die legendäre Bande TKKG!",
+      "poster": "https://image.tmdb.org/t/p/w500/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg",
+      "director": "Robert Thalheim",
+      "cast": [
+        "Ilyes Raoul",
+        "Lorenzo Germeno",
+        "Emma-Louise Schimpf"
+      ],
+      "tmdbId": 603641,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0FMK41NRQ?&linkCode=ll2&tag=ajsretro-21&linkId=48bf9d440cc58c6deabd4f1df102753d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Wo dein Schatz ist, da ist auch dein Herz",
+      "originalTitle": "Lucky's Treasure",
+      "year": "2017",
+      "genres": [
+        "Abenteuer",
+        "Familie"
+      ],
+      "runtime": "90",
+      "rating": "7.0",
+      "overview": "Nach der Highschool zieht die junge Emily aus der Großstadt zu ihrem Großvater aufs Land. Dieser hat erst vor kurzem seine Frau verloren und leidet sehr darunter. Emily fällt es nicht leicht, sich in ihrer neuen Umgebung einzugewöhnen - bis sie Jake kennenlernt. Die beiden finden heraus, dass Emilys Großmutter bei der Suche nach einem Schatz ums Leben kam. Sie beschließen, ihre Mission fortzusetzen und selbst den Schatz aufzuspüren.",
+      "poster": "https://image.tmdb.org/t/p/w500/xOBge3fXYFTx6lAk8Qg9rFxiXRp.jpg",
+      "director": "Shane Hawks",
+      "cast": [
+        "Michael Ironside",
+        "Delaney",
+        "JT Neal"
+      ],
+      "tmdbId": 449304,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GX315GDV?&linkCode=ll2&tag=ajsretro-21&linkId=4d015cb1776ce5169f66a4cbf189d487&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Growing Up Smith",
+      "originalTitle": "Growing Up Smith",
+      "year": "2017",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Familie"
+      ],
+      "runtime": "102",
+      "rating": "7.1",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ncALkAajnctju0CYKH4bFm40QJD.jpg",
+      "director": "Frank Lotito",
+      "cast": [
+        "Roni Akurati",
+        "Brighton Sharbino",
+        "Jason Lee"
+      ],
+      "tmdbId": 426469,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GW5KL8DD?&linkCode=ll2&tag=ajsretro-21&linkId=a401d1357ae38c4e1fd01f314daa5e9a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Kleine Helden, große Wildnis 2 - Abenteuer Serengeti",
+      "originalTitle": "Against the Wild II: Survive the Serengeti",
+      "year": "2016",
+      "genres": [
+        "Abenteuer"
+      ],
+      "runtime": "90",
+      "rating": "5.4",
+      "overview": "Eigentlich wollten die beiden Geschwister Ryan und Emma ihren Vater in Afrika besuchen und mit ihm ein wundervolles Wochenende verbringen. Doch das kleine Versorgungsflugzeug, das sie zu ihm bringen soll, gerät in schwere Turbulenzen und sie müssen mitten in der Serengeti notlanden. Da die komplette Funkanlage zerstört und zudem der Pilot kaum noch bei Bewusstsein ist, müssen sich die Geschwister und der Huskie Chinook auf eine gefahrvolle Reise mitten durch die Wildnis begeben. Nachdem sie einen jungen Elefantenbullen aus einer verzweifelten Lage befreien konnten, steht ihnen auch ein imposanter Beschützer zur Seite. Dennoch werden Sie nur dann allen Gefahren trotzen können und das Rennen gegen die Zeit gewinnen, wenn sie fest zusammen halten und sich ihren Ängsten stellen…",
+      "poster": "https://image.tmdb.org/t/p/w500/jpxpyx4Hg0xhGlqhgtDLhbpCtKV.jpg",
+      "director": "Richard Boddington",
+      "cast": [
+        "Jeri Ryan",
+        "Ella Ballentine",
+        "John Paul Ruttan"
+      ],
+      "tmdbId": 388259,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0G354Z7KW?&linkCode=ll2&tag=ajsretro-21&linkId=fa92e2bf076f7fde352ccd72c2100c17&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Hund rettet den Sommer",
+      "originalTitle": "The Dog Who Saved Summer",
       "year": "2015",
       "genres": [
-        "Musik",
-        "Animation",
+        "Familie",
+        "TV-Film",
+        "Komödie"
+      ],
+      "runtime": "89",
+      "rating": "6.1",
+      "overview": "Die Sommerferien haben begonnen… Aber nicht im Hause Bannister! Nachdem unser geliebter Hund Zeus eine Party von Belinda sprengt, wird er zusammen mit Herrchen George in die Hundeschule geschickt. Dort läuft alles aus dem Ruder. George gerät mit dem Hundetrainer aneinander. Zeus schafft es, bei jeder Lektion durchzufallen und Apollo, ein ehemaliger Militärhund macht den Unterricht zu einer spaßfreien Veranstaltung. Zeus letzte Rettung scheint Mr. Lee. Der Hausmeister unterrichtet ihn mit seinen einzigartigen Trainingsmethoden. Schafft es Zeus mit seiner Hilfe die Abschlussprüfung zu bestehen und verhindert er gleichzeitig, dass ein Diebes-Trio den Menschen den Sommer verhagelt?",
+      "poster": "https://image.tmdb.org/t/p/w500/jTbXKQOPKYrJW8ivqMOobJlyp5Y.jpg",
+      "director": "Sean Olson",
+      "cast": [
+        "Martin Kove",
+        "William Zabka",
+        "Dean Cain"
+      ],
+      "tmdbId": 339344,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0BX1SWH1L?&linkCode=ll2&tag=ajsretro-21&linkId=2ee08474234b11aa740d755ce579e321&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gespensterjäger",
+      "originalTitle": "Gespensterjäger",
+      "year": "2015",
+      "genres": [
+        "Komödie",
         "Familie",
         "Fantasy"
       ],
       "runtime": "99",
-      "rating": "7.3",
-      "overview": "Viele Jahre lang existierten die Welt der Magie und die des Mysteriösen klar voneinander getrennt, Kontakte oder Austausch gab es also nicht. Doch als eine der sie bewohnenden Kreaturen die Grenze zwischen den beiden Reichen übertritt, bricht das komplette Chaos aus. Zum ersten Mal treffen die grundverschiedenen Fabelwesen aufeinander. Bei den unterschiedlichen Lebensweisen der Goblins, Feen, Gnome und Elfen sind Reibereien vorprogrammiert. Als dann auch noch ein ebenso geheimnisvoller wie gefährlicher Zaubertrank ins Spiel kommt, droht die Auseinandersetzung der Märchengestalten schließlich zu einem waschechten Krieg zu eskalieren…",
-      "poster": "https://image.tmdb.org/t/p/w500/9VRf46LvSXM7x1VCIHRqTdavWJR.jpg",
-      "director": "Gary Rydstrom",
+      "rating": "5.7",
+      "overview": "Tom hat es nicht leicht, denn nicht nur seine bösartige Schwester Lola macht ihm das Leben schwer, scheinbar hält jeder den kleinen Jungen für einen Angsthasen. Als er im Keller auf Hugo trifft, jagt der ihm im ersten Moment einen gehörigen Schreck ein, denn bei ihm handelt es sich um ein schleimiges Gespenst. Doch bald schon stellt sich Hugo nicht nur als vollkommen harmlos heraus, sondern auch noch als ziemlich liebenswert. Die beiden werden Freunde. Doch das MUG - das mittelmäßig unheimliches Gespenst - hat ein gewaltiges Problem, das es innerhalb von sieben Tagen zu lösen gilt. Denn seine Gespenstervilla wird von einem UEG – urzeitliches Eisgespenst – bewohnt und dieses hat Hugo vertrieben. Kehrt er nicht in sein Spukschloss zurück, löst er sich in Luft auf. Zusammen mit der professionellen, aber arbeitslosen Geisterjägerin Hedwig Kümmelsaft wollen sie das Gespenst bekämpfen.",
+      "poster": "https://image.tmdb.org/t/p/w500/dW09SXaRhTH5UfuaUwkuyMtq544.jpg",
+      "director": "Tobi Baumann",
       "cast": [
-        "Alan Cumming",
-        "Evan Rachel Wood",
-        "Sam Palladio"
+        "Milo Parker",
+        "Anke Engelke",
+        "Bastian Pastewka"
       ],
-      "tmdbId": 302429,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0157K8Q7Q?&linkCode=ll2&tag=ajsretro-21&linkId=60f52bcaefb4555ecf689d4e2341639d&ref_=as_li_ss_tl"
+      "tmdbId": 333112,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0FCCTYXKK?&linkCode=ll2&tag=ajsretro-21&linkId=f77940b2dc5fc7d79ecf7a6124860244&ref_=as_li_ss_tl"
     },
     {
-      "title": "Keinohrhase und Zweiohrküken",
-      "originalTitle": "Keinohrhase und Zweiohrküken",
-      "year": "2013",
+      "title": "Mein Freund, der Delfin 2",
+      "originalTitle": "Dolphin Tale 2",
+      "year": "2014",
       "genres": [
-        "Animation"
+        "Familie",
+        "Drama"
       ],
-      "runtime": "75",
-      "rating": "5.5",
-      "overview": "Der Keinohrhase kann alles genauso gut wie die anderen Hasen. Aber weil er keine Ohren hat, will niemand mit ihm spielen. Als eines Tages ein Ei vor seiner Tür liegt, ahnt er noch nicht, dass das der Beginn einer wunderbaren Freundschaft ist. Mit dem Zweiohrküken erlebt er viele spannende Abenteuer, bis hin zur Erfüllung ihrer größten Wünsche. Denn wer einen richtigen Freund hat, der kann einfach alles schaffen. Und hat auch noch eine Menge Spaß dabei.",
-      "poster": "https://image.tmdb.org/t/p/w500/rbKMsASYx4sd9wA6U1mrUPj4iP7.jpg",
-      "director": "Til Schweiger",
+      "runtime": "107",
+      "rating": "6.9",
+      "overview": "Vor einigen Jahren hat der Junge Sawyer Nelson zusammen mit Freundin Hazel und dem Team von Dr. Clay Haskett am Clearwater Marine Hospital das Delfin-Weibchen Winter gerettet, das seither in dem Aquarium lebt. Doch nach dem Tod ihrer Artgenossin Panama muss schnell neue Gesellschaft für Winter her, denn Delfine dürfen nicht isoliert gehalten werden. Als mit der gestrandeten Hope tatsächlich ein Delfin-Neuzugang in den Park kommt, scheint Winter gerettet. Doch es ist nicht sicher, ob die beiden Tiere auch wirklich gut miteinander auskommen werden. Winter unterscheidet sich schließlich von anderen Delfinen und schwimmt seit ihrer Rettung mit Hilfe einer Flossenprothese, die Dr. Cameron McCarthy extra für sie entworfen hat. Wird Winter von Hope dennoch akzeptiert werden?",
+      "poster": "https://image.tmdb.org/t/p/w500/rKInyPh2DIRINKcZFMTYGxcObPB.jpg",
+      "director": "Charles Martin Smith",
       "cast": [
-        "Emma Schweiger",
-        "Til Schweiger",
-        "Matthias Schweighöfer"
+        "Nathan Gamble",
+        "Cozi Zuehlsdorff",
+        "Harry Connick Jr."
       ],
-      "tmdbId": 223993,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0GXXJD1HJ?&linkCode=ll2&tag=ajsretro-21&linkId=3862ba9623d46fc74f502c2d569fda88&ref_=as_li_ss_tl"
+      "tmdbId": 227735,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0H1DG69JF?&linkCode=ll2&tag=ajsretro-21&linkId=c0d24ba3382c55de4128fc5f29879d70&ref_=as_li_ss_tl"
     },
     {
-      "title": "Lauras Stern und die Traummonster",
-      "originalTitle": "Lauras Stern und die Traummonster",
+      "title": "Mein Freund Shadow",
+      "originalTitle": "Penny's Shadow",
       "year": "2011",
       "genres": [
-        "Animation",
+        "Familie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "111",
+      "rating": "5.3",
+      "overview": "Lisa ist 17 Jahre alt und hat eine ganz besondere Beziehung zu Pferden. Zusammen mit ihrer Mutter, der kleinen Schwester Tess und deren frechen Pony Rakker verbringt sie den Urlaub auf der niederländischen Insel Ameland, wo sie in einem Camp auf der Farm des 18-jährigen Kai und dessen Vater wohnen. Kais Mutter starb vor Jahren bei einem Unfall mit ihrem geliebten Pferd Shadow. Der schwarze Hengst überlebte, wurde aber schwer traumatisiert und lässt sich seitdem nicht mehr reiten. Kai, der den Unfall miterlebte, ist seither wütend auf das Pferd. Lisa ermutigt Kai wieder mit Shadow zu reiten, doch Kai wehrt sich dagegen. Da schmiedet Lisa einen geheimen Plan, wie sie Kai und Shadow helfen kann...",
+      "poster": "https://image.tmdb.org/t/p/w500/7OPmMbdZ57n6vKT5uX0pJuAACcJ.jpg",
+      "director": "Steven de Jong",
+      "cast": [
+        "Liza Sips",
+        "Levi van Kempen",
+        "Valerie Pos"
+      ],
+      "tmdbId": 77479,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYH626XS?&linkCode=ll2&tag=ajsretro-21&linkId=53a3cedc2ce2c79450eb9654d61a2195&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der 16. Wunsch",
+      "originalTitle": "16 Wishes",
+      "year": "2010",
+      "genres": [
+        "Fantasy",
+        "Drama",
         "Familie"
       ],
-      "runtime": "65",
-      "rating": "5.9",
-      "overview": "Laura wird durch die aufgeregten Rufe ihres kleinen Bruders Tommy geweckt. Traummonster haben seinen Beschütz-mich-Hund gestohlen. Wie sollen sie ihn nur wiederfinden? Doch zum Glück kommt ihnen Lauras Stern zur Hilfe. Sein Sternenstaub lässt Tommys Bett schweben und für die Geschwister beginnt eine spannende Reise. Sie fliegen in das bunte Land der Träume. Dort leben die Traummonster im unterirdischen Traumlabyrinth. Lichtscheu, wie sie sind, fürchten die Monster mehr als alles andere den Beschützer der Kinder, Lauras Stern. Tommy, Laura und ihrem Stern steht ein großes Abenteuer bevor.",
-      "poster": "https://image.tmdb.org/t/p/w500/qtyMobcGOqvLVFTdS4z8V8rOCl3.jpg",
-      "director": "Thilo Rothkirch",
+      "runtime": "86",
+      "rating": "6.3",
+      "overview": "Abby Jensen plant ihren 16. Geburtstag, seitdem sie ein kleines Mädchen ist. Als der große Tag dann endlich gekommen ist, fügt sie ihren 16. Wunsch auf ihre geheime Wunschliste ein, die Abby seit sie ein Kind ist, führt. Das Chaos schlägt zu und es scheint, als ob es der schlimmste Tag ihres Lebens werden sollte. Plötzlich erhält sie eine Box mit 16 Kerzen erhält, die jeden Wunsch von ihrer Liste erfüllen soll. Da sich all ihre Wünsche erfüllen, wird ihr Tag immer besser, bis sie ihren 16. Wunsch macht, der alles verändert.",
+      "poster": "https://image.tmdb.org/t/p/w500/jqwlQMI9X3sCesMelxV7r1yRaQ9.jpg",
+      "director": "Peter DeLuise",
       "cast": [
-        "Annabel Wolf",
-        "Désirée Nick",
-        "Emma Grimm"
+        "Debby Ryan",
+        "Jean-Luc Bilodeau",
+        "Keenan Tracey"
       ],
-      "tmdbId": 100838,
-      "genre": "Animation",
-      "url": "https://www.amazon.de/gp/video/detail/B0FKFLYZ9P?&linkCode=ll2&tag=ajsretro-21&linkId=d5d0952ad98d76b0bfb5854decfec579&ref_=as_li_ss_tl"
+      "tmdbId": 40205,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYZQ1YB5?&linkCode=ll2&tag=ajsretro-21&linkId=464e2e96c209e7fbd9e0da068feca3a9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rin Tin Tin - Ein Held auf Pfoten",
+      "originalTitle": "Finding Rin Tin Tin",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Familie"
+      ],
+      "runtime": "90",
+      "rating": "5.7",
+      "overview": "Gegen Ende des I. Weltkriegs erwirbt der amerikanische Kampfflieger Lee Duncan auf einem Marktplatz im ländlichen Frankreich einen Schäferhundwelpen, den er auf den Namen Rin Tin Tin tauft. Schnell entpuppt sich das Tier als ausgesprochen kluger Kläffer, der sich nicht nur für Spielereien, sondern auch für gefährliche Fronteinsätze eignet. Trotzdem darf der Wuffi am Ende des Krieges wegen irgendwelcher Paragraphen nicht mit nach Amerika. Das ändert sich, als Rin Tin Tin sich als Lebensretter bewährt.",
+      "poster": "https://image.tmdb.org/t/p/w500/a5mvt8mS80yhFXVlZHZEo3ydJMb.jpg",
+      "director": "Danny Lerner",
+      "cast": [
+        "Tyler Jensen",
+        "Ben Cross",
+        "Gregory Gudgeon"
+      ],
+      "tmdbId": 66733,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0C5SXCXPM?&linkCode=ll2&tag=ajsretro-21&linkId=f066d813da49505606b6e952ba450848&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Kangaroo Jack",
+      "originalTitle": "Kangaroo Jack",
+      "year": "2003",
+      "genres": [
+        "Abenteuer",
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "89",
+      "rating": "5.3",
+      "overview": "Ein verhinderter Musiker und sein Sandkasten-Freund, ein New Yorker Friseur, geraten irgendwie in die Hände der Mafia. Für diese sollen sie 50.000 Dollar in Australien abliefern. Doch die Probleme Down Under beginnen, als einer der Beiden versucht, ein Foto von einem wilden Känguru zu schießen und dieses mit dem gesamten Geld abhaut. Also bleibt ihnen nichts anders übrig, als sich an die Fersen des Diebes zu heften.",
+      "poster": "https://image.tmdb.org/t/p/w500/ctSRbJwfeCVFYoSnBhjPhBVAVOJ.jpg",
+      "director": "David McNally",
+      "cast": [
+        "Jerry O'Connell",
+        "Anthony Anderson",
+        "Estella Warren"
+      ],
+      "tmdbId": 10628,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B00GSBQ6NK?&linkCode=ll2&tag=ajsretro-21&linkId=03cb679707a1d1811c4166b83323d3d5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rat Race - Der nackte Wahnsinn",
+      "originalTitle": "Rat Race",
+      "year": "2001",
+      "genres": [
+        "Abenteuer",
+        "Komödie"
+      ],
+      "runtime": "112",
+      "rating": "6.3",
+      "overview": "Donald Sinclair ist exzentrischer Multimilliardär und Besitzer des größten und extravagantesten Spielkasinos in Las Vegas. Um einige seiner wohlhabendsten Gönner angemessen zu unterhalten, lässt er sich ein Spiel der etwas anderen Art einfallen: Sechs zufällig ausgewählte Personen werden auf den in einem Schließfach in New Mexico deponierten Gewinn in Höhe von Zwei Millionen Dollar angesetzt. Was die Teilnehmer des Spieles “ohne Regeln” aber nicht wissen, ist, dass der Tycoon und seine reichen Freunde eine Wette auf den Ausgang des Rennens abgeschlossen haben und jede ihrer Bewegungen verfolgen, gerade so, als seien sie Laborratten in einer Versuchsanordnung. Getrieben von Gier, Hast und einer Menge Böswilligkeiten, sind die Teilnehmer zu allem bereit, was sie dem verlockenden Cash-Gewinn näher bringen kann. Es ist jedoch nur eine Frage der Zeit, bis sie realisieren, dass sie lediglich Teil jener elitären Wette sind und den Spieß umdrehen.",
+      "poster": "https://image.tmdb.org/t/p/w500/pfANAbpRLc3mDjHs7o8p6PUO9l3.jpg",
+      "director": "Jerry Zucker",
+      "cast": [
+        "Gloria Allred",
+        "Breckin Meyer",
+        "Cuba Gooding Jr."
+      ],
+      "tmdbId": 9896,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6CYB5K3?&linkCode=ll2&tag=ajsretro-21&linkId=43e0bf391027bbc8d41a1b38cc2dff52&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Spot - Ein Hund auf Abwegen",
+      "originalTitle": "See Spot Run",
+      "year": "2001",
+      "genres": [
+        "Familie",
+        "Komödie",
+        "Action",
+        "Krimi"
+      ],
+      "runtime": "94",
+      "rating": "6.1",
+      "overview": "Als Postbote, der vor Hunden Angst hat, nimmt Gordon Smith regelmäßig einen Spießroutenlauf durch die Vorgärten in Kauf. Aber eines Tages muss er sich doch mit einem Hund vertragen, denn dieser springt bei seiner Flucht zufällig in Gordons Auto, wo er als Babysitter mit dem fidelen Sohn seiner Nachbarin sitzt. Gordon hat schon länger Interesse an der lieblichen Nachbarin. Und ihre freundliche Bitte, ob er auf ihren Sohn aufpassen könnte, kommt ihm sehr gelegen. Was Gordon und der kleine James, der den Hund sofort lieb gewinnt und ihn in \"Spot\" tauft, jedoch nicht wissen ist, dass dieser Hund ein Drogenschnüffler von der FBI ist und momentan von der Mafia gejagt wird.",
+      "poster": "https://image.tmdb.org/t/p/w500/7ohPValvF9kg6iGXeg5Gvhyspzn.jpg",
+      "director": "John Whitesell",
+      "cast": [
+        "David Arquette",
+        "Leslie Bibb",
+        "Michael Clarke Duncan"
+      ],
+      "tmdbId": 39180,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYW1L8E?&linkCode=ll2&tag=ajsretro-21&linkId=96948ce689e0614fddf84e2889c40722&ref_=as_li_ss_tl"
     }
   ]
 }
