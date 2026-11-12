@@ -10,6 +10,7 @@
 # Zeilen mit # werden ignoriert.
 
 # Neuheiten  (15)
+The Invite | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H8VHMYYK?&linkCode=ll2&tag=ajsretro-21&linkId=58d96bae8c44323ad188c41397a26bc9&ref_=as_li_ss_tl
 Greenland 2 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GDH3SX3L?&linkCode=ll2&tag=ajsretro-21&linkId=0ca1e503767b9abcc978ffb65331bd5b&ref_=as_li_ss_tl
 Woodwalkers 2 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0G8VBY2KX?&linkCode=ll2&tag=ajsretro-21&linkId=13852b2b36e57281259f510a7b746c36&ref_=as_li_ss_tl
 Supergirl | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GR4Z7H6D?&linkCode=ll2&tag=ajsretro-21&linkId=b03e91cf473dd6006fed02cde5776076&ref_=as_li_ss_tl
@@ -19,6 +20,9 @@ Toy Story 5 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H9ZLPJ9
 Paw Patrol: Der Dino Film | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HCK4NBYJ?&linkCode=ll2&tag=ajsretro-21&linkId=4a3dcfa99e671463929cab35f9d6ebea&ref_=as_li_ss_tl
 Minions & Monster | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H61Y7RV6?&linkCode=ll2&tag=ajsretro-21&linkId=23be5f9cc40c796bfd4764508c939a58&ref_=as_li_ss_tl
 The Deputy | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl
+Forbidden Fruits | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXQ8X5VP?&linkCode=ll2&tag=ajsretro-21&linkId=6d5b60540122a04d677cf2fcc7695005&ref_=as_li_ss_tl
+RZR Cyber Protocol | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HGBVZGD6?&linkCode=ll2&tag=ajsretro-21&linkId=d8825919645472fa0178acd2942fa93b&ref_=as_li_ss_tl
+Cotton Queen | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HCNRVLWC?&linkCode=ll2&tag=ajsretro-21&linkId=d8025f4e8878678ef0088bb4c9ac93d9&ref_=as_li_ss_tl
 One Night Only | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GTBVBWRC?&linkCode=ll2&tag=ajsretro-21&linkId=36d7bf8ed3856c36cfd6c06f9142a921&ref_=as_li_ss_tl
 Hanging by a Wire | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HGVYMND8?&linkCode=ll2&tag=ajsretro-21&linkId=24944a63d6282fde98eed2402446d720&ref_=as_li_ss_tl
 The Piano Tuner | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GZFNBST4?&linkCode=ll2&tag=ajsretro-21&linkId=7925526cb68b17de065d5193a3510f45&ref_=as_li_ss_tl
@@ -75,10 +79,10 @@ LOL 2.0: Anne's Golden Hour | 2026 | Leichte Kost | https://www.amazon.de/gp/vid
 Love Hurts - Liebe tut weh | 2025 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0DCXZWLLF?&linkCode=ll2&tag=ajsretro-21&linkId=e746150ac9ec94b4a867b2417ee7a4c7&ref_=as_li_ss_tl
 Fackham Hall | 2025 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GLDZWZZ9?&linkCode=ll2&tag=ajsretro-21&linkId=a6c73ff2cad8cb48c1affc3c728a322e&ref_=as_li_ss_tl
 Vacances Forcées | 2025 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0F8JLDYJQ?&linkCode=ll2&tag=ajsretro-21&linkId=fe6297cbb8812aa3c2f3dc93518e986a&ref_=as_li_ss_tl
+So klingt das Leben | 2025 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GXN9CWJM?&linkCode=ll2&tag=ajsretro-21&linkId=84637c6a9639084b7a6bbe3a656c1c7b&ref_=as_li_ss_tl
 Hypnose | 2024 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0FRQ941DF?&linkCode=ll2&tag=ajsretro-21&linkId=4820360527d1b315453d5b098cd455ff&ref_=as_li_ss_tl
 Monsieur Robert kennt kein Pardon | 2023 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GSD1FP94?&linkCode=ll2&tag=ajsretro-21&linkId=5ed4172495841b3a7982eaed7938adfc&ref_=as_li_ss_tl
 Catfight | 2017 | Leichte Kost | https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl
-Larry Gaye - Völlig abgehoben | 2015 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GZ7WDWSG?&linkCode=ll2&tag=ajsretro-21&linkId=f2edf8dc338eaba525da4417be0426e7&ref_=as_li_ss_tl
 Nur für Personal! | 2011 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl
 
 # Drama  (21)
@@ -112,7 +116,7 @@ Hunting Season - Blutige Fährte | 2025 | Action | https://www.amazon.de/gp/vi
 Jack Reacher - Kein Weg zurück | 2016 | Action | https://www.amazon.de/gp/video/detail/B0HFQ8Y319?&linkCode=ll2&tag=ajsretro-21&linkId=a2f55bec584cd81c39fa9dd0993002ed&ref_=as_li_ss_tl
 The Expendables 3: A Man's Job | 2014 | Action | https://www.amazon.de/gp/video/detail/B0CGKY8CKL?&linkCode=ll2&tag=ajsretro-21&linkId=f3da38be57efefc6fdd0da98dde21aa2&ref_=as_li_ss_tl
 Transformers 3 | 2011 | Action | https://www.amazon.de/gp/video/detail/B0DKM9VV1Q?&linkCode=ll2&tag=ajsretro-21&linkId=51550b2044120d306c3e4d9ca97d4047&ref_=as_li_ss_tl
-Conan | 2011 | Action | https://www.amazon.de/gp/video/detail/B0FDXCHWFS?&linkCode=ll2&tag=ajsretro-21&linkId=354487be9f62408c27489750103e7761&ref_=as_li_ss_tl
+Machine Gun Preacher | 2011 | Action | https://www.amazon.de/gp/video/detail/B0FXTZQB33?&linkCode=ll2&tag=ajsretro-21&linkId=2273563e5eede0190fdbc25d22805c0c&ref_=as_li_ss_tl
 Das A-Team - Der Film | 2010 | Action | https://www.amazon.de/gp/video/detail/B09HZ359MX?&linkCode=ll2&tag=ajsretro-21&linkId=bb38ed195babcc17f09a407763540a7a&ref_=as_li_ss_tl
 Zwölf Runden | 2009 | Action | https://www.amazon.de/gp/video/detail/B0DHLC7YPQ?&linkCode=ll2&tag=ajsretro-21&linkId=9a03f07aa4ef2937862076ec7e9394e3&ref_=as_li_ss_tl
 Speed Racer | 2008 | Action | https://www.amazon.de/gp/video/detail/B0B6GMW2G8?&linkCode=ll2&tag=ajsretro-21&linkId=829385766e6427340b8f70523e8fe43e&ref_=as_li_ss_tl
@@ -193,11 +197,15 @@ Einfach mal was Schönes | 2022 | Deutsches Kino | https://www.amazon.de/gp/v
 Leberhaken | 2021 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0GX7W1NXQ?&linkCode=ll2&tag=ajsretro-21&linkId=dbdc76b147fc9767f399d088575fe9d8&ref_=as_li_ss_tl
 Klassentreffen 1.0 - Die unglaubliche Reise der Silberrücken | 2018 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B07Q6CTN9R?&linkCode=ll2&tag=ajsretro-21&linkId=665db9e33b65b8b7c0669ec3c2642443&ref_=as_li_ss_tl
 Aus dem Nichts | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B07212SZGF?&linkCode=ll2&tag=ajsretro-21&linkId=35b2e9ba00ab340d308b5324a50c2ba3&ref_=as_li_ss_tl
+Kilimandscharo - Reise ins Leben | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HFCQNYZG?&linkCode=ll2&tag=ajsretro-21&linkId=9d32e7ee2328e8cf7e6291eb88133c68&ref_=as_li_ss_tl
 Toni Erdmann | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0H7YYPMF7?&linkCode=ll2&tag=ajsretro-21&linkId=5bb78dd8972317bdc9e3477b6d5586ec&ref_=as_li_ss_tl
 Willkommen bei den Hartmanns | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FLHWWY64?&linkCode=ll2&tag=ajsretro-21&linkId=36fa5852fc3905d2fd591444155e1188&ref_=as_li_ss_tl
 Ich bin dann mal weg | 2015 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B01FXFI968?&linkCode=ll2&tag=ajsretro-21&linkId=2b4f54380e92da38097421c3bee0494c&ref_=as_li_ss_tl
 Vaterfreuden | 2014 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0H8YMT32T?&linkCode=ll2&tag=ajsretro-21&linkId=dac95116eed3bdc07c3532b6b9e6893d&ref_=as_li_ss_tl
+Das Herz ist ein dunkler Wald | 2007 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HJ6YTFGF?&linkCode=ll2&tag=ajsretro-21&linkId=05b2b3ddd578117f3edfa8757b569dd4&ref_=as_li_ss_tl
 Das Parfum - Die Geschichte eines Mörders | 2006 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HNFHGMY3?&linkCode=ll2&tag=ajsretro-21&linkId=3434252f54466698a35e6eed13402bbb&ref_=as_li_ss_tl
+Vom Suchen und Finden der Liebe | 2005 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0F82KS3LS?&linkCode=ll2&tag=ajsretro-21&linkId=24d3f43ac5b863968152a21a19cd6e0c&ref_=as_li_ss_tl
+Heaven | 2002 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0H8MJJ2N3?&linkCode=ll2&tag=ajsretro-21&linkId=bb1c6c68e59602510d0493996c67855a&ref_=as_li_ss_tl
 Ein Münchner im Himmel - Der Tod ist erst der Anfang | 2026 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HLRX42QW?&linkCode=ll2&tag=ajsretro-21&linkId=1459d9d7410156a96f2f5a92014b2281&ref_=as_li_ss_tl
 Bubbles... Wir waren doch Freunde | 2025 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0GSBWMC6Z?&linkCode=ll2&tag=ajsretro-21&linkId=6cb54cd1489969a8e7284679bfcdfb88&ref_=as_li_ss_tl
 Hysteria | 2025 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FR14W2N1?&linkCode=ll2&tag=ajsretro-21&linkId=d013d77a3fc757b64cfebd494e7ceb21&ref_=as_li_ss_tl
@@ -206,11 +214,7 @@ Ein nasser Hund | 2021 | Deutsches Kino | https://www.amazon.de/gp/video/deta
 Traumfabrik | 2019 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HG16BV3K?&linkCode=ll2&tag=ajsretro-21&linkId=38d819eb1a691d4240f44657e1a2ade4&ref_=as_li_ss_tl
 Auerhaus | 2019 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0DYNSWY7Y?&linkCode=ll2&tag=ajsretro-21&linkId=3def8d5f0acd37bdcb035774c6894ae1&ref_=as_li_ss_tl
 Selbstkritik eines bürgerlichen Hundes | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FXTWG97T?&linkCode=ll2&tag=ajsretro-21&linkId=e5fc3c334cb4b277f075e81557f77f58&ref_=as_li_ss_tl
-Ostzone | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0GWK32FTP?&linkCode=ll2&tag=ajsretro-21&linkId=65c1d91e9fd0bfeede334fb96282363e&ref_=as_li_ss_tl
 Vier gegen die Bank | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FMK4FCXX?&linkCode=ll2&tag=ajsretro-21&linkId=c921e230e398ab1b1d8a25f846fbbb58&ref_=as_li_ss_tl
-Lichtgestalten | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HG5VK7NF?&linkCode=ll2&tag=ajsretro-21&linkId=2c26b4fccf62e2345221cef2372027f3&ref_=as_li_ss_tl
-1000 Mexikaner | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FZD3HSLX?&linkCode=ll2&tag=ajsretro-21&linkId=70e3c02ef5b267d20e018319fae60436&ref_=as_li_ss_tl
-Highway to Hellas | 2015 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FLW5L4MN?&linkCode=ll2&tag=ajsretro-21&linkId=b775206d9d34e7a485eb75ab5c22af83&ref_=as_li_ss_tl
 
 # Animation
 
@@ -228,6 +232,7 @@ Der letzte Walsänger | 2026 | Animation | https://www.amazon.de/gp/video/det
 Meine Freundin Conni - Abenteuer mit Kranich Klaus | 2026 | Animation | https://www.amazon.de/gp/video/detail/B0H5CD5DVZ?&linkCode=ll2&tag=ajsretro-21&linkId=6696e0a756c0c539a85a7c813c94fcca&ref_=as_li_ss_tl
 Hola Frida | 2025 | Animation | https://www.amazon.de/gp/video/detail/B0H2Q617RD?&linkCode=ll2&tag=ajsretro-21&linkId=ff67a0687730d9695821f71ce2392c12&ref_=as_li_ss_tl
 Spermageddon | 2025 | Animation | https://www.amazon.de/gp/video/detail/B0FPVWB9K5?&linkCode=ll2&tag=ajsretro-21&linkId=6b9db5f196c7dfb0c73fbde2840dd7d6&ref_=as_li_ss_tl
+Grand Prix of Europe | 2025 | Animation | https://www.amazon.de/gp/video/detail/B0DL1WZVLQ?&linkCode=ll2&tag=ajsretro-21&linkId=6dbd185a5f27266bf2e4fa309ec1a935&ref_=as_li_ss_tl
 Scarlet | 2025 | Animation | https://www.amazon.de/gp/video/detail/B0FWHYJFT5?&linkCode=ll2&tag=ajsretro-21&linkId=a20c2402275c2fd041b512fb38bad7a3&ref_=as_li_ss_tl
 Blue Lock - der Film: Episode Nagi | 2024 | Animation | https://www.amazon.de/gp/video/detail/B0F2525FW9?&linkCode=ll2&tag=ajsretro-21&linkId=e7f47500e72726937c1716f3c79474a4&ref_=as_li_ss_tl
 Benjamin Bat | 2024 | Animation | https://www.amazon.de/gp/video/detail/B0HFJPRYS5?&linkCode=ll2&tag=ajsretro-21&linkId=0d9cbe65a5ceb034b46f58bd5960344e&ref_=as_li_ss_tl
