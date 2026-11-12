@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:08:13.768Z",
+  "generatedAt": "2026-11-12T09:10:34.533Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -11,7 +11,7 @@
       "genre": "Neuheiten",
       "room": 1,
       "wall": "back",
-      "count": 17
+      "count": 21
     },
     {
       "genre": "Klassiker",
@@ -41,7 +41,7 @@
       "genre": "Animation",
       "room": 1,
       "wall": "left",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Drama",
@@ -117,6 +117,29 @@
     }
   ],
   "movies": [
+    {
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "year": "2026",
+      "genres": [
+        "Komödie",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "107",
+      "rating": "7.2",
+      "overview": "Nach 15 Jahren Ehe steckt die Beziehung von Angela und Joe in der Krise. Gemeinsame Abendessen mit anderen Paaren gab es schon lange nicht mehr. Als Angela spontan die Nachbarn aus der Wohnung über ihnen einlädt, zeigt sich, dass Pina und Hawk ihnen mehr Sympathie entgegenbringen als die distanzierten Begegnungen im Fahrstuhl bislang vermuten ließen. Was als geselliger Abend mit Smalltalk über Käse, Wein und Inneneinrichtung gedacht war, entwickelt sich zu einer aberwitzigen Achterbahnfahrt der Gefühle. Wer spielt hier mit wem, und wer wird am Ende die Kontrolle verlieren?",
+      "poster": "https://image.tmdb.org/t/p/w500/qetECrN1GilQ1Wh0Eg16vER0v6G.jpg",
+      "director": "Olivia Wilde",
+      "cast": [
+        "Olivia Wilde",
+        "Seth Rogen",
+        "Penélope Cruz"
+      ],
+      "tmdbId": 950028,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8VHMYYK?&linkCode=ll2&tag=ajsretro-21&linkId=58d96bae8c44323ad188c41397a26bc9&ref_=as_li_ss_tl"
+    },
     {
       "title": "Greenland 2",
       "originalTitle": "Greenland 2: Migration",
@@ -329,6 +352,70 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl"
     },
     {
+      "title": "Forbidden Fruits",
+      "originalTitle": "Forbidden Fruits",
+      "year": "2026",
+      "genres": [
+        "Horror",
+        "Komödie"
+      ],
+      "runtime": "103",
+      "rating": "5.7",
+      "overview": "In einem Einkaufszentrum führt Apple zusammen mit den Kolleginnen Cherry und Fig einen geheimen Hexenkult. Die neue Mitarbeiterin Pumpkin hinterfragt ihre Schwesternschaft, wodurch sie sich ihrer inneren Dunkelheit stellen müssen.",
+      "poster": "https://image.tmdb.org/t/p/w500/u1iNn4AHQ5qFEVWzU6wRVvte6ST.jpg",
+      "director": "Meredith Alloway",
+      "cast": [
+        "Lili Reinhart",
+        "Alexandra Shipp",
+        "Victoria Pedretti"
+      ],
+      "tmdbId": 1450527,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXQ8X5VP?&linkCode=ll2&tag=ajsretro-21&linkId=6d5b60540122a04d677cf2fcc7695005&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "RZR Cyber Protocol",
+      "originalTitle": "RZR Cyber Protocol",
+      "year": "2026",
+      "genres": [
+        "Science Fiction"
+      ],
+      "runtime": "118",
+      "rating": "7.5",
+      "overview": "Ein Science-Fiction-Thriller, der in einer dystopischen Welt voller neuronaler Implantate, künstlicher Intelligenz, Kryptowährungen und Schwarzmarktkriminalität spielt.",
+      "poster": "https://image.tmdb.org/t/p/w500/awGlMUW2OYflNDqd0BlwMs9wafZ.jpg",
+      "director": "Yuri Alves",
+      "cast": [
+        "David Bianchi",
+        "Mena Suvari",
+        "Richard Cabral"
+      ],
+      "tmdbId": 1492252,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HGBVZGD6?&linkCode=ll2&tag=ajsretro-21&linkId=d8825919645472fa0178acd2942fa93b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Cotton Queen",
+      "originalTitle": "ملكة القطن",
+      "year": "2026",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "93",
+      "rating": "6.8",
+      "overview": "In einem sudanesischen Baumwoll-Dorf wächst die junge Nafisa mit den märchenhaften Geschichten ihrer Großmutter Al-Sitauf. Als ein Geschäftsmann aus dem Ausland mit genetisch verändertem Saatgut und großen Entwicklungsplänen erscheint, wird Nafisa zur Schlüsselfigur in einem Machtspiel um die Zukunft des Dorfes. Im Kampf um die Felder entdeckt sie ihre eigene Stärke und verändert damit ihr Leben und das ihrer Gemeinschaft für immer.",
+      "poster": "https://image.tmdb.org/t/p/w500/3txJfSqK7YY63SfPcF5QXdzTBh4.jpg",
+      "director": "Suzannah Mirghani",
+      "cast": [
+        "Mihad Murtada",
+        "Rabeha Mahmoud",
+        "Talaat Farid"
+      ],
+      "tmdbId": 974228,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HCNRVLWC?&linkCode=ll2&tag=ajsretro-21&linkId=d8025f4e8878678ef0088bb4c9ac93d9&ref_=as_li_ss_tl"
+    },
+    {
       "title": "One Night Only",
       "originalTitle": "One Night Only",
       "year": "2026",
@@ -373,8 +460,7 @@
       "year": "2026",
       "genres": [
         "Krimi",
-        "Musik",
-        "Liebesfilm"
+        "Thriller"
       ],
       "runtime": "108",
       "rating": "7.6",
@@ -1483,6 +1569,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0F8JLDYJQ?&linkCode=ll2&tag=ajsretro-21&linkId=fe6297cbb8812aa3c2f3dc93518e986a&ref_=as_li_ss_tl"
     },
     {
+      "title": "So klingt das Leben",
+      "originalTitle": "Rondallas",
+      "year": "2025",
+      "genres": [
+        "Drama",
+        "Musik"
+      ],
+      "runtime": "112",
+      "rating": "7.4",
+      "overview": "Zwei Jahre nach einem tragischen Schiffsunglück, versucht das kleine Fischerdorf A Guarda an der galicischen Küste, wieder Halt zu finden. Als die Dorfgemeinschaft beschließt, ihr traditionelles Musikensemble wieder aufleben zu lassen, übernimmt die 18-jährige Andrea die Leitung – in Erinnerung an ihren Vater, der bei der Katastrophe ums Leben kam. Mit Mut und Entschlossenheit bringt sie frischen Wind in die Proben für den regionalen Wettbewerb, verbindet vertraute Instrumente mit zeitgenössischen Hits und weckt so nach und nach die Lebensfreude und Zuversicht der Menschen. Doch der Weg zurück ist kein leichter: Die Lücken, die das Unglück hinterlassen hat, sind auch im Ensemble spürbar, und zwischen Hoffnung, Zweifel und Trauer gerät die Harmonie der Gemeinschaft immer wieder ins Wanken.",
+      "poster": "https://image.tmdb.org/t/p/w500/oryWZcq1UDfWcQlhxfB57qEqUq4.jpg",
+      "director": "Daniel Sánchez Arévalo",
+      "cast": [
+        "Javier Gutiérrez",
+        "María Vázquez",
+        "Judith Fernández"
+      ],
+      "tmdbId": 1437873,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXN9CWJM?&linkCode=ll2&tag=ajsretro-21&linkId=84637c6a9639084b7a6bbe3a656c1c7b&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Hypnose",
       "originalTitle": "Hypnosen",
       "year": "2024",
@@ -1547,27 +1655,6 @@
       "tmdbId": 408272,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Larry Gaye - Völlig abgehoben",
-      "originalTitle": "Larry Gaye: Renegade Male Flight Attendant",
-      "year": "2015",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "101",
-      "rating": "4.6",
-      "overview": "Frauenschwarm Larry „Renegade“ Gaye (Mark Feuerstein) ist Flugbegleiter aus Leidenschaft. Für seinen hervorragenden Service wurde er bereits sechs Mal in Folge mit der „Goldenen Thermoskanne“ ausgezeichnet. Als die Direktion menschlicher Flugbegleiter aufgrund einer Kostenreduzierung beschließt, Personal abzubauen und die Stewardessen und Stewards durch überaus sexy aussehende Roboter (u. a. Rebecca Romijn) des Unternehmens Technotronics zu ersetzen, ruht die Hoffnung all seiner Kollegen auf ihm. Bevor eine endgültige Entscheidung getroffen wird, soll nämlich in einem direkten Wettkampf zwischen Mensch und Maschine ein Vergleich gezogen werden. Damit schlägt Larrys große Stunde, denn wer wäre für diese Herausforderung ein besserer Kandidat als er?",
-      "poster": "https://image.tmdb.org/t/p/w500/2H2pIiboYIskJ4VBX969c65E0jh.jpg",
-      "director": "Sam Friedlander",
-      "cast": [
-        "Mark Feuerstein",
-        "Jayma Mays",
-        "Rebecca Romijn"
-      ],
-      "tmdbId": 339355,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GZ7WDWSG?&linkCode=ll2&tag=ajsretro-21&linkId=f2edf8dc338eaba525da4417be0426e7&ref_=as_li_ss_tl"
     },
     {
       "title": "Nur für Personal!",
@@ -2207,27 +2294,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DKM9VV1Q?&linkCode=ll2&tag=ajsretro-21&linkId=51550b2044120d306c3e4d9ca97d4047&ref_=as_li_ss_tl"
     },
     {
-      "title": "Conan, der Barbar",
-      "originalTitle": "Conan the Barbarian",
-      "year": "1982",
+      "title": "Machine Gun Preacher",
+      "originalTitle": "Machine Gun Preacher",
+      "year": "2011",
       "genres": [
-        "Abenteuer",
-        "Fantasy",
-        "Action"
+        "Action",
+        "Thriller",
+        "Krimi"
       ],
       "runtime": "129",
-      "rating": "6.8",
-      "overview": "Gegen Ende der Bronzezeit muss der junge Conan mit ansehen, wie die Bewohner seines Dorfes und seine Eltern von Thulsa Doom getötet werden. Er selbst wird zum Sklaven und wächst durch harte Arbeit und einen unbändigen Ehrgeiz zu einem Muskelmann heran, während andere vor Erschöpfung sterben. Dann wird Conan endlich weiterverkauft und dient seinem neuen Herrn nach ausgiebigen Trainingseinheiten als Schaukämpfer. Nachdem er schließlich freigelassen wird, hängt er sich an die Fersen von Doom und hat dabei nur eines im Sinn: Rache. Aber sein erklärter Feind ist der mächtige Anführer eines Kultes mit ebenso zahlreichen wie kampferprobten Anhängern, die ihr Leben für Doom geben würden. Conan muss noch stärker werden, um eine Chance auf den Sieg zu haben.",
-      "poster": "https://image.tmdb.org/t/p/w500/znDAdEHJoxYGNG8nRGYziRYuTVS.jpg",
-      "director": "John Milius",
+      "rating": "6.7",
+      "overview": "Sam Childers wuchs in familiär schwierigen Verhältnissen auf. Als drogensüchtiger und dealender Harley-Davidson-Biker kommt er wegen seiner kriminellen Machenschaften in den Knast. Als er aus dem Gefängnis entlassen wird, scheint im ersten Moment alles beim Alten zu sein. Doch schon bald offenbart ihm seine Frau Lynn, dass sie während seiner Abwesenheit den Glauben zu Gott gefunden hat und deswegen ihren Job als Stripperin aufgeben will. Nach anfänglicher Skepsis lässt sich Sam überreden, auch einmal in eine Kirche zu gehen und einem Gottesdienst beizuwohnen. Dort findet auch der raue Biker schnell zum Glauben. Im frisch religiösen Rausch geht der ehemalige Gangster nach Afrika, um im Sudan als Entwicklungshelfer zu arbeiten. Als er dort an die völkermordendem Milizen gerät, kommt ihm seine kriminelle Vergangenheit ganz gelegen, um sich gegen die brutalen Militärs zur Wehr zu setzen.",
+      "poster": "https://image.tmdb.org/t/p/w500/5NpLbGZ8dHwyM4egNvRSNfSqmq4.jpg",
+      "director": "Marc Forster",
       "cast": [
-        "Arnold Schwarzenegger",
-        "James Earl Jones",
-        "Sandahl Bergman"
+        "Gerard Butler",
+        "Michelle Monaghan",
+        "Kathy Baker"
       ],
-      "tmdbId": 9387,
+      "tmdbId": 45610,
       "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0FDXCHWFS?&linkCode=ll2&tag=ajsretro-21&linkId=354487be9f62408c27489750103e7761&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0FXTZQB33?&linkCode=ll2&tag=ajsretro-21&linkId=2273563e5eede0190fdbc25d22805c0c&ref_=as_li_ss_tl"
     },
     {
       "title": "Das A-Team - Der Film",
@@ -3851,6 +3938,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B07212SZGF?&linkCode=ll2&tag=ajsretro-21&linkId=35b2e9ba00ab340d308b5324a50c2ba3&ref_=as_li_ss_tl"
     },
     {
+      "title": "Kilimandscharo - Reise ins Leben",
+      "originalTitle": "Kilimandscharo - Reise ins Leben",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "90",
+      "rating": "5.4",
+      "overview": "Kilimandscharo-Bergführer Simon hat schon viel erlebt, aber noch nie ist ihm eine Gruppe anvertraut worden, in der jeder nur an sich selbst denkt: Ärztin Anna, der querschnittsgelähmte Ex-Sportler Tom, der untrainierte Lehrer Joschka und seine 25-jährige Tochter Paula. Sie haben alle nur ein Ziel: Sie wollen auf den Gipfel.  Das Ziel, den schneebedeckten Kilimandscharo, immer vor Augen, möchte keiner aufgeben, denn für jeden steht viel auf dem Spiel. Erst als sich alles gegen die Gruppe zu verschwören scheint, lernen die vier Einzelkämpfer, dass sie es nur gemeinsam auf den Gipfel schaffen.",
+      "poster": "https://image.tmdb.org/t/p/w500/43TtPL0TeIWs9CV2TqPvC14TImd.jpg",
+      "director": "Gregor Schnitzler",
+      "cast": [
+        "Anna Maria Mühe",
+        "Kostja Ullmann",
+        "Simon Schwarz"
+      ],
+      "tmdbId": 488795,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFCQNYZG?&linkCode=ll2&tag=ajsretro-21&linkId=9d32e7ee2328e8cf7e6291eb88133c68&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Toni Erdmann",
       "originalTitle": "Toni Erdmann",
       "year": "2016",
@@ -3939,6 +4047,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H8YMT32T?&linkCode=ll2&tag=ajsretro-21&linkId=dac95116eed3bdc07c3532b6b9e6893d&ref_=as_li_ss_tl"
     },
     {
+      "title": "Das Herz ist ein dunkler Wald",
+      "originalTitle": "Das Herz ist ein dunkler Wald",
+      "year": "2007",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "86",
+      "rating": "5.5",
+      "overview": "Marie, eine verheiratete Frau mit zwei Kindern entdeckt eines Tages durch Zufall, dass ihr Mann Thomas, ein Musiker, ganz in der Nähe noch eine zweite Familie mit Anna, einer ihrer früheren Freundinnen, hat. Marie versucht, mit dieser Entdeckung fertig zu werden, sie schaut sich alte Kassetten und Videos an um  sich an die positiven Seiten ihrer Beziehung zu erinnern. Doch gedemütigt und den Boden unter ihren Füßen entgleitend, sucht sie die Konfrontation mit ihrem Mann.  In Rückblenden ihrer Beziehung, die durch kurze Auftritte auf einer Theaterbühne dargestellt sind, werden Anhaltspunkte für das Entstehen der Situation angeboten, in teils surrealen Szenen gezeigt, wie Marie sich immer stärker ihren Mitmenschen, sogar Gegenständen gegenüber entfremdet.",
+      "poster": "https://image.tmdb.org/t/p/w500/uWOa9qGJSU4FLINSm2eGEbvjgWW.jpg",
+      "director": "Nicolette Krebitz",
+      "cast": [
+        "Nina Hoss",
+        "Devid Striesow",
+        "Franziska Petri"
+      ],
+      "tmdbId": 4243,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJ6YTFGF?&linkCode=ll2&tag=ajsretro-21&linkId=05b2b3ddd578117f3edfa8757b569dd4&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Das Parfum - Die Geschichte eines Mörders",
       "originalTitle": "Perfume: The Story of a Murderer",
       "year": "2006",
@@ -3960,6 +4089,54 @@
       "tmdbId": 1427,
       "genre": "Deutsches Kino",
       "url": "https://www.amazon.de/gp/video/detail/B0HNFHGMY3?&linkCode=ll2&tag=ajsretro-21&linkId=3434252f54466698a35e6eed13402bbb&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vom Suchen und Finden der Liebe",
+      "originalTitle": "Vom Suchen und Finden der Liebe",
+      "year": "2005",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama",
+        "Musik"
+      ],
+      "runtime": "105",
+      "rating": "4.7",
+      "overview": "Der Komponist Mimi Nachtigal und die Sängerin Venus Morgenstern verlieben sich unsterblich ineinander, streiten sich sieben Jahre lang und trennen sich schließlich.Nach der Trennung wird ihnen schmerzlich bewusst, dass sie die große Liebe ihres Lebens verloren haben. Zunächst versucht jeder von ihnen seinen Kummer auf pragmatische Weise zu bewältigen Venus nimmt sich einen neuen Freund, Mimi das Leben.Als sie dann schließlich feststellen mssen - er im Jenseits, sie im Diesseits - dass sie einfach nicht ohne einander sein können, scheint es zu spät.Verzweifelt, aber unerschütterlich im Glauben an eine Liebe, die über den Tod hinaus geht, steigt Venus, wie einst Orpheus, in die Unterwelt hinab, um ihren verlorenen Geliebten zurückzuholen...",
+      "poster": "https://image.tmdb.org/t/p/w500/eauZ3KLBcBejZDyXge5HoWJ6zwn.jpg",
+      "director": "Helmut Dietl",
+      "cast": [
+        "Moritz Bleibtreu",
+        "Alexandra Maria Lara",
+        "Uwe Ochsenknecht"
+      ],
+      "tmdbId": 419,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0F82KS3LS?&linkCode=ll2&tag=ajsretro-21&linkId=24d3f43ac5b863968152a21a19cd6e0c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Heaven",
+      "originalTitle": "Heaven",
+      "year": "2002",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Liebesfilm",
+        "Krimi"
+      ],
+      "runtime": "97",
+      "rating": "6.5",
+      "overview": "Turin. Vier unschuldige Menschen fallen einem Attentat zum Opfer. Widerstandslos lässt sich die Englischlehrerin Philippa festnehmen. Sie leugnet nicht - und ist am Boden zerstört. Denn ihr Ziel war ein anderer, ein Drogendealer, der ihren Mann und viele ihrer Schüler auf dem Gewissen hat. Die Polizei beharrt auf einem politischen Motiv. Nur ein junger Polizist schenkt der Engländerin Glauben, denn insgeheim ist er fest davon überzeugt, dass sie füreinander geschaffen sind. Er entwirft einen Plan , der ihr die Freiheit zurückgeben soll - egal, ob es seine Karriere oder gar sein Leben kosten kann. Er ahnt, dass er keine Bedingungen stellen darf, um ihr seine Liebe zu beweisen ...",
+      "poster": "https://image.tmdb.org/t/p/w500/AomiNtN7r8zWlVzF4E1UbYv2mkL.jpg",
+      "director": "Tom Tykwer",
+      "cast": [
+        "Cate Blanchett",
+        "Giovanni Ribisi",
+        "Remo Girone"
+      ],
+      "tmdbId": 10575,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8MJJ2N3?&linkCode=ll2&tag=ajsretro-21&linkId=bb1c6c68e59602510d0493996c67855a&ref_=as_li_ss_tl"
     },
     {
       "title": "Ein Münchner im Himmel - Der Tod ist erst der Anfang",
@@ -4135,28 +4312,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FXTWG97T?&linkCode=ll2&tag=ajsretro-21&linkId=e5fc3c334cb4b277f075e81557f77f58&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ostzone",
-      "originalTitle": "Ostzone",
-      "year": "2017",
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "runtime": "67",
-      "rating": "2.2",
-      "overview": "Im deutschen Horrorfilm Ostzone handelt sich ein junges Paar mit dem Kauf eines alten DDR-Kinderheims mehr ein als nur ein günstig erworbenes Gebäude.  Handlung von Ostzone  Linda und Marius sind Sozialpädagogen und kaufen ein Klinikgebäude, das einst in der Ostzone stand – ein Kinderheim der DDR. Lange nach der Wende ist der Bau zwar ziemlich verfallen, dafür allerdings äußerst günstig zu erwerben und so unterschreiben die beiden den Vertrag der Maklerin Frau Wagner, ohne lange zu zögern.  Doch nicht nur ihre Freundin Marie findet das alte Gemäuer unheimlich. Irgendetwas stimmt nicht in dieser Klinik, in deren Zimmern immer noch die Spuren der Vergangenheit umherspuken. Und dass Besucher hier nicht gern gesehen sind, müssen die neuen Besitzer bald auf äußerst unangenehme Weise erfahren.",
-      "poster": "https://image.tmdb.org/t/p/w500/edU1lUpDbhpxnVz4RkukGXYvrQ6.jpg",
-      "director": "René Rausch",
-      "cast": [
-        "Simson Bubbel",
-        "Friederike Serr",
-        "Saskia Geißler"
-      ],
-      "tmdbId": 458474,
-      "genre": "Deutsches Kino",
-      "url": "https://www.amazon.de/gp/video/detail/B0GWK32FTP?&linkCode=ll2&tag=ajsretro-21&linkId=65c1d91e9fd0bfeede334fb96282363e&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Vier gegen die Bank",
       "originalTitle": "Vier gegen die Bank",
       "year": "2016",
@@ -4177,69 +4332,6 @@
       "tmdbId": 366568,
       "genre": "Deutsches Kino",
       "url": "https://www.amazon.de/gp/video/detail/B0FMK4FCXX?&linkCode=ll2&tag=ajsretro-21&linkId=c921e230e398ab1b1d8a25f846fbbb58&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Lichtgestalten",
-      "originalTitle": "Lichtgestalten",
-      "year": "2016",
-      "genres": [
-        "Drama"
-      ],
-      "runtime": "84",
-      "rating": "5.0",
-      "overview": "Steffen und Katharina sind ein erfolgreiches junges Paar in Berlin. Sie wohnen in einer schicken Dachgeschoss-Maisonette, haben gute Jobs und eine liebevolle Beziehung. Doch zufrieden sind sie dennoch nicht: Ihre Existenz scheint Katharina und Steffen allzu vorhersehbar, sie sehnen sich nach etwas Neuem, Unbekannten. Und so fasst das Paar einen radikalen Entschluss. Die beiden planen, alle Spuren ihres bisherigen Daseins zu vernichten und irgendwo klammheimlich ganz neu anzufangen.",
-      "poster": "https://image.tmdb.org/t/p/w500/QpzaPIfIgRjHFLOnekhSViF4GP.jpg",
-      "director": "Christian Moris Müller",
-      "cast": [
-        "Max Riemelt",
-        "Theresa Scholze",
-        "Max Woelky"
-      ],
-      "tmdbId": 376476,
-      "genre": "Deutsches Kino",
-      "url": "https://www.amazon.de/gp/video/detail/B0HG5VK7NF?&linkCode=ll2&tag=ajsretro-21&linkId=2c26b4fccf62e2345221cef2372027f3&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "1000 Mexikaner",
-      "originalTitle": "1000 Mexikaner",
-      "year": "2016",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "81",
-      "rating": "4.2",
-      "overview": "Lukas und Adam sind beste Freunde und Mitbewohner auf dem Hamburger Kiez. Lukas, zielstrebig, clever und kreativ, ist auf dem besten Weg, in einer Werbeagentur Karriere zu machen. Adam, ein charmanter Hitzkopf, versucht vergebens, in der Hamburger Filmbranche Fuß zu fassen. Noch immer hält er an ihrem gemeinsamen Jugendtraum fest, eines Tages mit Lukas eine Filmproduktion zu gründen. Lukas hingegen geht einer beruflichen Zusammenarbeit mit seinem chaotischen Freund lieber aus dem Weg.",
-      "poster": "https://image.tmdb.org/t/p/w500/3IQRWz0V3S10jGujoCv78XZ6mQd.jpg",
-      "director": "Philipp Scholz",
-      "cast": [
-        "Bastian Reiber",
-        "Arnel Taci",
-        "David Bredin"
-      ],
-      "tmdbId": 436330,
-      "genre": "Deutsches Kino",
-      "url": "https://www.amazon.de/gp/video/detail/B0FZD3HSLX?&linkCode=ll2&tag=ajsretro-21&linkId=70e3c02ef5b267d20e018319fae60436&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Highway to Hellas",
-      "originalTitle": "Highway to Hellas",
-      "year": "2015",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "89",
-      "rating": "5.5",
-      "overview": "Deutsche Touristen sind normalerweise ziemlich beliebt in Griechenland. Das Problem ist, Jörg Geissner ist kein Tourist. Und auch nicht beliebt, denn seine Aufgabe ist es, nachzuforschen, ob für vor langer Zeit gewährte Kredite wirklich die seinerzeit angegebenen Sicherheiten bestehen. Schnell ist er den Bewohnern der griechischen Insel Paladiki ein Dorn im Auge. Allen voran Supermarktbesitzer Panos will ihm dabei einen Strich durch die Rechnung machen. Auf einer Odyssee quer über die Insel und wieder zurück, in der Hoffnung Geissner die Aufgabe so schwer wie möglich zu machen, wird der Trip ins vermeintliche Urlaubsparadies zur Hölle. Doch so sehr sich die Ereignisse auf Paladiki überschlagen, mit der Zeit wird immer deutlicher, dass man sich im Grunde gar nicht so unähnlich ist...",
-      "poster": "https://image.tmdb.org/t/p/w500/2RqX9BLGM76S1Bwks2MZiR0cCsE.jpg",
-      "director": "Aron Lehmann",
-      "cast": [
-        "Christoph Maria Herbst",
-        "Adam Bousdoukos",
-        "Ακύλλας Καραζήσης"
-      ],
-      "tmdbId": 334362,
-      "genre": "Deutsches Kino",
-      "url": "https://www.amazon.de/gp/video/detail/B0FLW5L4MN?&linkCode=ll2&tag=ajsretro-21&linkId=b775206d9d34e7a485eb75ab5c22af83&ref_=as_li_ss_tl"
     },
     {
       "title": "Der Super Mario Bros. Film",
@@ -4570,6 +4662,30 @@
       "tmdbId": 1064307,
       "genre": "Animation",
       "url": "https://www.amazon.de/gp/video/detail/B0FPVWB9K5?&linkCode=ll2&tag=ajsretro-21&linkId=6b9db5f196c7dfb0c73fbde2840dd7d6&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Grand Prix of Europe",
+      "originalTitle": "Grand Prix of Europe",
+      "year": "2025",
+      "genres": [
+        "Animation",
+        "Abenteuer",
+        "Komödie",
+        "Familie"
+      ],
+      "runtime": "98",
+      "rating": "7.1",
+      "overview": "Edda, eine junge Maus und die Tochter des Jahrmarktbetreibers Erwin, träumt davon, Rennfahrerin zu werden. Zum 50. Jubiläum des Großen Preises von Europa erhält Edda die Gelegenheit, ihr Idol, den Rennstar Ed, kennenzulernen und ihrem Vater dabei zu helfen, sein scheiterndes Unternehmen zu retten. Dafür muss sie jedoch selbst ans Steuer.",
+      "poster": "https://image.tmdb.org/t/p/w500/6Ur7ZD7farHXpCYq1v8t3suQ52Q.jpg",
+      "director": "Waldemar Fast",
+      "cast": [
+        "Hannes Maurer",
+        "Maria Koschny",
+        "DJ BoBo"
+      ],
+      "tmdbId": 1316147,
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0DL1WZVLQ?&linkCode=ll2&tag=ajsretro-21&linkId=6dbd185a5f27266bf2e4fa309ec1a935&ref_=as_li_ss_tl"
     },
     {
       "title": "Scarlet",
