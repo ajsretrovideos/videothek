@@ -274,10 +274,10 @@ Avatar: Fire and Ash | 2025 | Sci-Fi | https://www.amazon.de/gp/video/detail/B
 Infinite - Lebe unendlich | 2021 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0HK81LVBF?&linkCode=ll2&tag=ajsretro-21&linkId=a131133c344420eafdb94e99172c38dd&ref_=as_li_ss_tl
 Star Wars: Der Aufstieg Skywalkers | 2019 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0FWYPMWHB?&linkCode=ll2&tag=ajsretro-21&linkId=045a35d27c36a36ed68b51ab4a3ee5b1&ref_=as_li_ss_tl
 Men in Black - International | 2019 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0FSPMY4KW?&linkCode=ll2&tag=ajsretro-21&linkId=75390d36553012a65dbf9f7320c5cd32&ref_=as_li_ss_tl
-Ghost in the Shell | 2017 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0HH6D1BZV?&linkCode=ll2&tag=ajsretro-21&linkId=64931a0f6292f058955fb34b926293e1&ref_=as_li_ss_tl
 Independence Day - Wiederkehr | 2016 | Sci-Fi | https://www.amazon.de/gp/video/detail/B01IACAZCC?&linkCode=ll2&tag=ajsretro-21&linkId=b7bedfb5154b4df85ce7ec2b73cfd508&ref_=as_li_ss_tl
 Star Trek Beyond | 2016 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0HKZH77SJ?&linkCode=ll2&tag=ajsretro-21&linkId=c08fac51c28240a240cce69fdf9b20ca&ref_=as_li_ss_tl
 Midnight Special: Fuga Nella Notte | 2016 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0GKWFGDHX?&linkCode=ll2&tag=ajsretro-21&linkId=41bdb2a5b7acfe13abe8c7e603f2d536&ref_=as_li_ss_tl
+Die Tribute von Panem - Mockingjay 2 | 2015 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0GVB1P2SZ?&linkCode=ll2&tag=ajsretro-21&linkId=7f71332c0c75e1d70c4507bad78c6754&ref_=as_li_ss_tl
 Edge of Tomorrow | 2014 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0C82QK9SB?&linkCode=ll2&tag=ajsretro-21&linkId=cc45501eb61d4db0e60288854286adad&ref_=as_li_ss_tl
 Automata | 2014 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0G49XWX2H?&linkCode=ll2&tag=ajsretro-21&linkId=9d0ad30d74b2d91cad49071540ed85b8&ref_=as_li_ss_tl
 Darkest Hour | 2011 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0HLQBJZVD?&linkCode=ll2&tag=ajsretro-21&linkId=1cf73e28a828c4a540fef28634025088&ref_=as_li_ss_tl
@@ -307,6 +307,7 @@ Gorillas im Nebel | 1988 | Klassiker | https://www.amazon.de/gp/video/detail/B
 Ein Fisch namens Wanda | 1988 | Klassiker | https://www.amazon.de/gp/video/detail/B0GW46C5HG?&linkCode=ll2&tag=ajsretro-21&linkId=466e1b9c71ceb506da8b0cd8df826ee5&ref_=as_li_ss_tl
 Ferris macht blau | 1986 | Klassiker | https://www.amazon.de/gp/video/detail/B0DPLG34DS?&linkCode=ll2&tag=ajsretro-21&linkId=c6f9e57a4dbc1beb3bf40d77484daa23&ref_=as_li_ss_tl
 Blood Simple - Eine mörderische Nacht | 1985 | Klassiker | https://www.amazon.de/gp/video/detail/B076ZYFKR9?&linkCode=ll2&tag=ajsretro-21&linkId=1b37da3f88e7cb376eb6d38156c1c31f&ref_=as_li_ss_tl
+Atomic Hero | 1984 | Klassiker | https://www.amazon.de/gp/video/detail/B0HFNF3THG?&linkCode=ll2&tag=ajsretro-21&linkId=c42ea94cbfb07d42780b8b7beb0fa842&ref_=as_li_ss_tl
 Apocalypse Now | 1979 | Klassiker | https://www.amazon.de/gp/video/detail/B0DC16844K?&linkCode=ll2&tag=ajsretro-21&linkId=8231a918c66961a59509154221482aea&ref_=as_li_ss_tl
 Hair | 1979 | Klassiker | https://www.amazon.de/gp/video/detail/B0GZM8N4PB?&linkCode=ll2&tag=ajsretro-21&linkId=99e87766d8d0b42c88bb98565375f9fc&ref_=as_li_ss_tl
 Zombie | 1978 | Klassiker | https://www.amazon.de/gp/video/detail/B0GV5CBKG2?&linkCode=ll2&tag=ajsretro-21&linkId=057930280d34bf373fe1531bcc5335cf&ref_=as_li_ss_tl
@@ -320,3 +321,29 @@ Der Zauberer von Oz | 1939 | Klassiker | https://www.amazon.de/gp/video/detail
 King Kong und die weisse Frau | 1933 | Klassiker | https://www.amazon.de/gp/video/detail/B0B7CNYN98?&linkCode=ll2&tag=ajsretro-21&linkId=ff5633a934806076e53735a767f421a0&ref_=as_li_ss_tl
 Tarzan, der Affenmensch | 1932 | Klassiker | https://www.amazon.de/gp/video/detail/B0DJQNXNLM?&linkCode=ll2&tag=ajsretro-21&linkId=d7028ef17d246098093fa2aa32786681&ref_=as_li_ss_tl
 M - Eine Stadt sucht einen Mörder | 1931 | Klassiker | https://www.amazon.de/gp/video/detail/B0HFZ41645?&linkCode=ll2&tag=ajsretro-21&linkId=39fb3a6e5537a599f7d536e5a61e3bea&ref_=as_li_ss_tl
+
+# Dokus
+
+They Shall Not Grow Old | 2018 | Dokus | https://www.amazon.de/gp/video/detail/B0C6FT7J97?&linkCode=ll2&tag=ajsretro-21&linkId=f1af7eb96a94ddc730b135491b3aa899&ref_=as_li_ss_tl
+Your Attention Please | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0H6GL4THT?&linkCode=ll2&tag=ajsretro-21&linkId=2b895e15e1637f63d8d8d1860e93c4ee&ref_=as_li_ss_tl
+The Experiencers: Full Disclosure | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0H16V3Y9F?&linkCode=ll2&tag=ajsretro-21&linkId=9b1ce718e09fb5e806bc33af79020359&ref_=as_li_ss_tl
+Jenseits von "Top Secret" - Die Ära der Enthüllung | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0HKG4WRTR?&linkCode=ll2&tag=ajsretro-21&linkId=bdab5e3cbc414ddb78231a1fb5d6f0c0&ref_=as_li_ss_tl
+Mammutjäger | 2025 | Dokus | https://www.amazon.de/gp/video/detail/B0GVZRF9WT?&linkCode=ll2&tag=ajsretro-21&linkId=6458dbe62987b380da62dc3198c5ed8e&ref_=as_li_ss_tl
+Röbi geht | 2025 | Dokus | https://www.amazon.de/gp/video/detail/B0FQV4PY1V?&linkCode=ll2&tag=ajsretro-21&linkId=b42ee1ce04f980fc442d69fa12c7cc95&ref_=as_li_ss_tl
+Ungebunden | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0F1GF29HT?&linkCode=ll2&tag=ajsretro-21&linkId=9ee8a2a1575db844ca3d8d6c974c987f&ref_=as_li_ss_tl
+The Bad Guy | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0D51FYL8Z?&linkCode=ll2&tag=ajsretro-21&linkId=7ba6d5c015bfa41964f93a14664362a0&ref_=as_li_ss_tl
+Eno | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0HFF63HDX?&linkCode=ll2&tag=ajsretro-21&linkId=637ffe1f5d53cac03ee9c7a50f990078&ref_=as_li_ss_tl
+Trollsturm | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0D28HCTYC?&linkCode=ll2&tag=ajsretro-21&linkId=19c7f62dc6e178dba801d7232ec046df&ref_=as_li_ss_tl
+Leben an Bord | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0DLLFTDL9?&linkCode=ll2&tag=ajsretro-21&linkId=92566553bba6656e243556d59b1c4ff3&ref_=as_li_ss_tl
+Jeff Koons: A Private Portrait | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0DTB6CFNL?&linkCode=ll2&tag=ajsretro-21&linkId=ee4cfba8805f7fc869028ca36d8deec0&ref_=as_li_ss_tl
+Fantastic Machine | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0F7JGPXLW?&linkCode=ll2&tag=ajsretro-21&linkId=b9d385968888a22abc1d9401dee63000&ref_=as_li_ss_tl
+Loch Ness: Sie schufen ein Monster | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0FX32KB1S?&linkCode=ll2&tag=ajsretro-21&linkId=c1b20a861455dcd5197e5726bc81134e&ref_=as_li_ss_tl
+Unter tödlichem Himmel: Die Ostfront der Ukraine | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0CGYDPMTR?&linkCode=ll2&tag=ajsretro-21&linkId=6f8cf5bf2035460b74332309587ccf72&ref_=as_li_ss_tl
+Unter dem Himmel von Damaskus | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0D9LV65SJ?&linkCode=ll2&tag=ajsretro-21&linkId=b8ad3bb8491d5ec5099985fa40cef68e&ref_=as_li_ss_tl
+Schöner Jackson | 2022 | Dokus | https://www.amazon.de/gp/video/detail/B0DZ2BMMP1?&linkCode=ll2&tag=ajsretro-21&linkId=b95e471ba877a47dad37a83ee6943a56&ref_=as_li_ss_tl
+Summer of Soul | 2021 | Dokus | https://www.amazon.de/gp/video/detail/B09PQCLB27?&linkCode=ll2&tag=ajsretro-21&linkId=4e49f06317b9f7fb8e24fa2c899347ef&ref_=as_li_ss_tl
+The Real Charlie Chaplin | 2021 | Dokus | https://www.amazon.de/gp/video/detail/B0CWDQFLK2?&linkCode=ll2&tag=ajsretro-21&linkId=bc683aaff5d553c86432f4253f258fe4&ref_=as_li_ss_tl
+Insert Coin | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0CBQW38KY?&linkCode=ll2&tag=ajsretro-21&linkId=8443c9f57610210dc7e17549b794d5a7&ref_=as_li_ss_tl
+Anders Essen - Das Experiment | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0DK9J98RR?&linkCode=ll2&tag=ajsretro-21&linkId=49c9f51d38d982cd2e129dc1ee192fe1&ref_=as_li_ss_tl
+Ein Wurm im Herzen | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0C8Y41P4L?&linkCode=ll2&tag=ajsretro-21&linkId=54a840ce31b978f9511366afc9cf4b12&ref_=as_li_ss_tl
+Momentum Generation | 2018 | Dokus | https://www.amazon.de/gp/video/detail/B0HKY77H57?&linkCode=ll2&tag=ajsretro-21&linkId=126219769e3de5e8de014835c1f324ad&ref_=as_li_ss_tl
