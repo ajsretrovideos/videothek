@@ -101,6 +101,21 @@ async function init() {
   els.backdoorHot.addEventListener("click", () => showRoom(2, true));
   els.backroom.addEventListener("click", () => showRoom(1, true));
 
+  // Kurzinhalt-Karte schließen: x-Knopf (Handy) und Tipp daneben
+  const lensClose = els.lens.querySelector(".lens-close");
+  if (lensClose) {
+    lensClose.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      closePhoneLens();
+    });
+  }
+  document.addEventListener("click", (e) => {
+    if (!isPhone() || !els.lens.classList.contains("show")) return;
+    if (e.target.closest(".lens") || e.target.closest(".card.has-lens")) return;
+    closePhoneLens();
+  });
+
   // Handy: breiter Wegweiser am Ende von Raum 1 statt der 3D-Tür
   const mb = document.createElement("button");
   mb.type = "button";
@@ -622,18 +637,6 @@ function closePhoneLens() {
   document.querySelectorAll(".card.has-lens").forEach((c) => c.classList.remove("has-lens"));
 }
 
-els.lens.querySelector(".lens-close").addEventListener("click", (e) => {
-  e.preventDefault();
-  e.stopPropagation();
-  closePhoneLens();
-});
-
-// Tipp irgendwo außerhalb von Karte und Cover schließt ebenfalls
-document.addEventListener("click", (e) => {
-  if (!isPhone() || !els.lens.classList.contains("show")) return;
-  if (e.target.closest(".lens") || e.target.closest(".card.has-lens")) return;
-  closePhoneLens();
-});
 
 function hideLens() {
   if (isPhone()) { closePhoneLens(); return; }
