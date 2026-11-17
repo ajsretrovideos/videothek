@@ -9,7 +9,8 @@
 #
 # Zeilen mit # werden ignoriert.
 
-# Neuheiten  (15)
+# Neuheiten
+
 G.O.A.T. - Bock auf grosse Sprünge | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GGHKVLBY?&linkCode=ll2&tag=ajsretro-21&linkId=8340bf9a5cae645f5c683bf1b4dc0f9d&ref_=as_li_ss_tl
 The Invite | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H8VHMYYK?&linkCode=ll2&tag=ajsretro-21&linkId=58d96bae8c44323ad188c41397a26bc9&ref_=as_li_ss_tl
 Greenland 2 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GDH3SX3L?&linkCode=ll2&tag=ajsretro-21&linkId=0ca1e503767b9abcc978ffb65331bd5b&ref_=as_li_ss_tl
@@ -34,7 +35,8 @@ Kampf der Thundermans | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail
 Girls like Girls | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H61V93LD?&linkCode=ll2&tag=ajsretro-21&linkId=e61f4a71f2d982212da93fb04ebae095&ref_=as_li_ss_tl
 Mother Mary | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=75cb3c3635d59649643ab7ccc8626026&ref_=as_li_ss_tl
 
-# RomCom  (24)
+# RomCom
+
 Magic Mike: The Last Dance | 2023 | RomCom | https://www.amazon.de/gp/video/detail/B0B75DTB2S?&linkCode=ll2&tag=ajsretro-21&linkId=747ae5038fcb47cacb1309e01a75748c&ref_=as_li_ss_tl
 Willkommen in Marwen | 2018 | RomCom | https://www.amazon.de/gp/video/detail/B0CLK19YBB?&linkCode=ll2&tag=ajsretro-21&linkId=b649576375d002c555c4c423c8d2c81e&ref_=as_li_ss_tl
 Eighth Grade | 2018 | RomCom | https://www.amazon.de/gp/video/detail/B0HC5N7M4Q?&linkCode=ll2&tag=ajsretro-21&linkId=f9586c02aad3268200b845477b6a2566&ref_=as_li_ss_tl
@@ -60,7 +62,8 @@ Monday: Die Liebe eines Sommers | 2021 | RomCom | https://www.amazon.de/gp/vi
 In Deinen Armen | 2020 | RomCom | https://www.amazon.de/gp/video/detail/B0CXQ7ZQ2L?&linkCode=ll2&tag=ajsretro-21&linkId=064bf2f4bebb081f20ddb68b6dd66b66&ref_=as_li_ss_tl
 Effie Gray | 2014 | RomCom | https://www.amazon.de/gp/video/detail/B0D8WM7MFG?&linkCode=ll2&tag=ajsretro-21&linkId=7b32c4f307028d264268d08f4095a2cc&ref_=as_li_ss_tl
 
-# Leichte Kost  (24)
+# Leichte Kost
+
 Let them all talk | 2020 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0B8MRQJLV?&linkCode=ll2&tag=ajsretro-21&linkId=97ecca4074bf2151316834aff5bd40f9&ref_=as_li_ss_tl
 Daddy's Home 2 - Mehr Väter, mehr Probleme! | 2017 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0HLDQ2NJC?&linkCode=ll2&tag=ajsretro-21&linkId=07fa9a7e1e2f986485ccafcac449726e&ref_=as_li_ss_tl
 Florence Foster Jenkins | 2016 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0HFF3719R?&linkCode=ll2&tag=ajsretro-21&linkId=14c87fa30ff7ac6c8de45abfa5408562&ref_=as_li_ss_tl
@@ -87,7 +90,8 @@ Monsieur Robert kennt kein Pardon | 2023 | Leichte Kost | https://www.amazon.de/
 Catfight | 2017 | Leichte Kost | https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl
 Nur für Personal! | 2011 | Leichte Kost | https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl
 
-# Drama  (21)
+# Drama
+
 Sentimental Value | 2025 | Drama | https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl
 Dreams - Gefährliches Verlangen | 2025 | Drama | https://www.amazon.de/gp/video/detail/B0GZ886YY9?&linkCode=ll2&tag=ajsretro-21&linkId=f7fa78e3d7f433ef2731c5b6b9207c64&ref_=as_li_ss_tl
 Ben is Back | 2018 | Drama | https://www.amazon.de/gp/video/detail/B0BZXTB1T2?&linkCode=ll2&tag=ajsretro-21&linkId=24dcd3ba7c0ece579ce5d5cb986da556&ref_=as_li_ss_tl
@@ -113,7 +117,8 @@ Blue Bayou | 2021 | Drama | https://www.amazon.de/gp/video/detail/B0DRCT5RZ2?&li
 The Last Vermeer | 2019 | Drama | https://www.amazon.de/gp/video/detail/B0HN6KGMV8?&linkCode=ll2&tag=ajsretro-21&linkId=61817428387baa3378a397d9e3246357&ref_=as_li_ss_tl
 Der Ausbruch | 2018 | Drama | https://www.amazon.de/gp/video/detail/B094LZDJDM?&linkCode=ll2&tag=ajsretro-21&linkId=639d738e8a2d07d4e96c0b1a84ccf1d4&ref_=as_li_ss_tl
 
-# Action  (24)
+# Action
+
 Hunting Season - Blutige Fährte | 2025 | Action | https://www.amazon.de/gp/video/detail/B0GJ5WW15R?&linkCode=ll2&tag=ajsretro-21&linkId=13b24ae266af84f8a7e465998156bc9c&ref_=as_li_ss_tl
 Dead of Winter - Eisige Stille | 2025 | Action | https://www.amazon.de/gp/video/detail/B0GC57TR31?&linkCode=ll2&tag=ajsretro-21&linkId=2a8d8caa3ce41e3638ea2f5840b31c7a&ref_=as_li_ss_tl
 Disturbing the Peace | 2020 | Action | https://www.amazon.de/gp/video/detail/B0CJPL6VBT?&linkCode=ll2&tag=ajsretro-21&linkId=dccfa622f3aae944c76f7a7fe75bacbe&ref_=as_li_ss_tl
@@ -139,33 +144,35 @@ Scorpion King - Aufstieg eines Kriegers | 2008 | Action | https://www.amazon.de/
 Flags of our Fathers | 2006 | Action | https://www.amazon.de/gp/video/detail/B0CPBQ183S?&linkCode=ll2&tag=ajsretro-21&linkId=811e10028dfb32a998e0d41e70ca8de9&ref_=as_li_ss_tl
 Collateral | 2004 | Action | https://www.amazon.de/gp/video/detail/B0HN6GVLGM?&linkCode=ll2&tag=ajsretro-21&linkId=e74888a31e75481af4ba9b47f74b347c&ref_=as_li_ss_tl
 
-# Thrill  (24)
+# Thrill
+
 The Housemaid - Wenn sie wüsste | 2025 | Thrill | https://www.amazon.de/gp/video/detail/B0G8HPFYKR?&linkCode=ll2&tag=ajsretro-21&linkId=1b4eac1e73ca4d9e0de62b5deb152945&ref_=as_li_ss_tl
 Black Bag - Doppeltes Spiel | 2025 | Thrill | https://www.amazon.de/gp/video/detail/B0DWZNRZZZ?&linkCode=ll2&tag=ajsretro-21&linkId=985caa8752e0fe4d1ff707643272700d&ref_=as_li_ss_tl
+The Critic | 2024 | Thrill | https://www.amazon.de/gp/video/detail/B0FY63Z9F7?&linkCode=ll2&tag=ajsretro-21&linkId=ad660c285eecf6de1f0769b602ef2c9d&ref_=as_li_ss_tl
 Bark | 2023 | Thrill | https://www.amazon.de/gp/video/detail/B0FHH9JT4W?&linkCode=ll2&tag=ajsretro-21&linkId=51063798fdf5d474b535e98300e66905&ref_=as_li_ss_tl
 A Haunting in Venice | 2023 | Thrill | https://www.amazon.de/gp/video/detail/B0CGVSZ18K?&linkCode=ll2&tag=ajsretro-21&linkId=b953b1ffb1c4c4e2291d31bab3c55674&ref_=as_li_ss_tl
 Tod auf dem Nil | 2022 | Thrill | https://www.amazon.de/gp/video/detail/B09SJ49SX1?&linkCode=ll2&tag=ajsretro-21&linkId=57ebe642f9d2bcb86a5f27c24897507f&ref_=as_li_ss_tl
 Don't Worry Darling | 2022 | Thrill | https://www.amazon.de/gp/video/detail/B0B8MTYKFS?&linkCode=ll2&tag=ajsretro-21&linkId=1e029faf538176bc29ae50da5eca2646&ref_=as_li_ss_tl
 She Said | 2022 | Thrill | https://www.amazon.de/gp/video/detail/B0B8MH2RTV?&linkCode=ll2&tag=ajsretro-21&linkId=72b5c96dff1830de3ab827bef358b1a5&ref_=as_li_ss_tl
+Nightmare Alley | 2021 | Thrill | https://www.amazon.de/gp/video/detail/B0B6TGSKH8?&linkCode=ll2&tag=ajsretro-21&linkId=c0d35770ed89d980fa4288e6cb4fd02e&ref_=as_li_ss_tl
+No Sudden Move | 2021 | Thrill | https://www.amazon.de/gp/video/detail/B0B6VJKYK1?&linkCode=ll2&tag=ajsretro-21&linkId=78ff65c71e9f2ff245025bd6ab10b765&ref_=as_li_ss_tl
+The Night Clerk | 2020 | Thrill | https://www.amazon.de/gp/video/detail/B0GXGP4945?&linkCode=ll2&tag=ajsretro-21&linkId=dcf35a36a9fc7ae1db9c494ebcad71ca&ref_=as_li_ss_tl
 Just Mercy | 2019 | Thrill | https://www.amazon.de/gp/video/detail/B0D62Y7LN3?&linkCode=ll2&tag=ajsretro-21&linkId=4828957dabbc0552caa22e3247314a76&ref_=as_li_ss_tl
+Villains | 2019 | Thrill | https://www.amazon.de/gp/video/detail/B0HN9BL9NS?&linkCode=ll2&tag=ajsretro-21&linkId=e154e60f09b9e90971c0c1b7de4ba200&ref_=as_li_ss_tl
 The Hate U Give | 2018 | Thrill | https://www.amazon.de/gp/video/detail/B0GGXF6K37?&linkCode=ll2&tag=ajsretro-21&linkId=84360a7a03da2055fc20a063db5ac540&ref_=as_li_ss_tl
-Der Richter - Recht oder Ehre | 2014 | Thrill | https://www.amazon.de/gp/video/detail/B0DRWH9C5L?&linkCode=ll2&tag=ajsretro-21&linkId=a91a5077a74f7037a9cc626361a729b2&ref_=as_li_ss_tl
+The Book of Henry | 2017 | Thrill | https://www.amazon.de/gp/video/detail/B0DZB1FDGC?&linkCode=ll2&tag=ajsretro-21&linkId=c51731689470183ecf574c4532d3d347&ref_=as_li_ss_tl
+Shock & Awe - Krieg der Lügen | 2017 | Thrill | https://www.amazon.de/gp/video/detail/B0HJ46Y6NP?&linkCode=ll2&tag=ajsretro-21&linkId=f11b3e4e5ab50f4228aa9e1b4a76547e&ref_=as_li_ss_tl
+Complete Unknown - Du bist, wer Du vorgibst zu sein | 2016 | Thrill | https://www.amazon.de/gp/video/detail/B0H9ZR72FN?&linkCode=ll2&tag=ajsretro-21&linkId=32b2cb6e1553f536614a7252f0cfd6fa&ref_=as_li_ss_tl
+True Story - Spiel um Macht | 2015 | Thrill | https://www.amazon.de/gp/video/detail/B0CKF4QB19?&linkCode=ll2&tag=ajsretro-21&linkId=40e7e37df8e006a64a7177ce118e9557&ref_=as_li_ss_tl
+The Drop - Bargeld | 2014 | Thrill | https://www.amazon.de/gp/video/detail/B0CVQCT9F8?&linkCode=ll2&tag=ajsretro-21&linkId=2ea680060dcc20202f4653d1066cacc7&ref_=as_li_ss_tl
 The Place beyond the Pines | 2013 | Thrill | https://www.amazon.de/gp/video/detail/B0HLVNS122?&linkCode=ll2&tag=ajsretro-21&linkId=aca34b07169890a2310af6a89a52991c&ref_=as_li_ss_tl
 Gangster Squad | 2013 | Thrill | https://www.amazon.de/gp/video/detail/B00FYTGKQU?&linkCode=ll2&tag=ajsretro-21&linkId=da149cb9384f7e472d7d3b03b603631d&ref_=as_li_ss_tl
 Argo | 2012 | Thrill | https://www.amazon.de/gp/video/detail/B00FYTAX22?&linkCode=ll2&tag=ajsretro-21&linkId=95bd14496c5acf4e13f2c1d2a890ac39&ref_=as_li_ss_tl
+The Factory | 2012 | Thrill | https://www.amazon.de/gp/video/detail/B0HNHLHBQM?&linkCode=ll2&tag=ajsretro-21&linkId=e4928d6f29e76642a4e010fd1e6f010e&ref_=as_li_ss_tl
 Headhunters | 2011 | Thrill | https://www.amazon.de/gp/video/detail/B0HGFTC972?&linkCode=ll2&tag=ajsretro-21&linkId=b3563d7bb335b0f9977f80927d9e79ac&ref_=as_li_ss_tl
-Salt | 2010 | Thrill | https://www.amazon.de/gp/video/detail/B0GXZPCYP9?&linkCode=ll2&tag=ajsretro-21&linkId=d815ea8a4f69ec48ab018ec1d89026e3&ref_=as_li_ss_tl
-Gone Baby Gone - Kein Kinderspiel | 2007 | Thrill | https://www.amazon.de/gp/video/detail/B0H8TJP1GT?&linkCode=ll2&tag=ajsretro-21&linkId=175464ac56f3adc7dcff4cf2c290de9e&ref_=as_li_ss_tl
-Machtlos | 2007 | Thrill | https://www.amazon.de/gp/video/detail/B00J8VOC6U?&linkCode=ll2&tag=ajsretro-21&linkId=769c5a78a279a6490a1ea69fc0aef197&ref_=as_li_ss_tl
-Red Eye - Nachtflug in den Tod | 2005 | Thrill | https://www.amazon.de/gp/video/detail/B0HL5CKLB4?&linkCode=ll2&tag=ajsretro-21&linkId=0608c563a0a7666db4f0dd7571f3be74&ref_=as_li_ss_tl
-Syriana | 2005 | Thrill | https://www.amazon.de/gp/video/detail/B0GSS2WJ5N?&linkCode=ll2&tag=ajsretro-21&linkId=0b270ea30d5465d0e37c34bb37a95043&ref_=as_li_ss_tl
-The Village - Das Dorf | 2004 | Thrill | https://www.amazon.de/gp/video/detail/B0FNWP2X99?&linkCode=ll2&tag=ajsretro-21&linkId=d48a93e7910ad49be654494907daee0b&ref_=as_li_ss_tl
-Catch Me if you can - Mein Leben auf der Flucht | 2002 | Thrill | https://www.amazon.de/gp/video/detail/B0HK9Q3TXY?&linkCode=ll2&tag=ajsretro-21&linkId=a90e9f339991994d5768b57ed22164ff&ref_=as_li_ss_tl
-Insomnia - Schlaflos | 2002 | Thrill | https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl
-Das Tribunal | 2002 | Thrill | https://www.amazon.de/gp/video/detail/B0GYS5G7R2?&linkCode=ll2&tag=ajsretro-21&linkId=6561fee5dc59856f0957f4a98a099055&ref_=as_li_ss_tl
-Der talentierte Mr. Ripley | 1999 | Thrill | https://www.amazon.de/gp/video/detail/B0HC56139L?&linkCode=ll2&tag=ajsretro-21&linkId=2cee34fb87f9c7588629832bc35a2e1a&ref_=as_li_ss_tl
 
-# Horror  (24)
+# Horror
+
 Teenage Sex and Death at Camp Miasma | 2026 | Horror | https://www.amazon.de/gp/video/detail/B0HBWRYGRN?&linkCode=ll2&tag=ajsretro-21&linkId=83a302b1a84772c2876f1a11ae3bebea&ref_=as_li_ss_tl
 We Bury the Dead | 2026 | Horror | https://www.amazon.de/gp/video/detail/B0GRKSGVKW?&linkCode=ll2&tag=ajsretro-21&linkId=6a1076a9299cb7050120098fe2cd59ed&ref_=as_li_ss_tl
 Dolly | 2026 | Horror | https://www.amazon.de/gp/video/detail/B0H49NPRQV?&linkCode=ll2&tag=ajsretro-21&linkId=43c13d9f777a7c99d34ea54ce98a0c80&ref_=as_li_ss_tl
@@ -327,23 +334,13 @@ M - Eine Stadt sucht einen Mörder | 1931 | Klassiker | https://www.amazon.de
 They Shall Not Grow Old | 2018 | Dokus | https://www.amazon.de/gp/video/detail/B0C6FT7J97?&linkCode=ll2&tag=ajsretro-21&linkId=f1af7eb96a94ddc730b135491b3aa899&ref_=as_li_ss_tl
 Your Attention Please | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0H6GL4THT?&linkCode=ll2&tag=ajsretro-21&linkId=2b895e15e1637f63d8d8d1860e93c4ee&ref_=as_li_ss_tl
 The Experiencers: Full Disclosure | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0H16V3Y9F?&linkCode=ll2&tag=ajsretro-21&linkId=9b1ce718e09fb5e806bc33af79020359&ref_=as_li_ss_tl
-Jenseits von "Top Secret" - Die Ära der Enthüllung | 2026 | Dokus | https://www.amazon.de/gp/video/detail/B0HKG4WRTR?&linkCode=ll2&tag=ajsretro-21&linkId=bdab5e3cbc414ddb78231a1fb5d6f0c0&ref_=as_li_ss_tl
-Mammutjäger | 2025 | Dokus | https://www.amazon.de/gp/video/detail/B0GVZRF9WT?&linkCode=ll2&tag=ajsretro-21&linkId=6458dbe62987b380da62dc3198c5ed8e&ref_=as_li_ss_tl
 Röbi geht | 2025 | Dokus | https://www.amazon.de/gp/video/detail/B0FQV4PY1V?&linkCode=ll2&tag=ajsretro-21&linkId=b42ee1ce04f980fc442d69fa12c7cc95&ref_=as_li_ss_tl
-Ungebunden | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0F1GF29HT?&linkCode=ll2&tag=ajsretro-21&linkId=9ee8a2a1575db844ca3d8d6c974c987f&ref_=as_li_ss_tl
 The Bad Guy | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0D51FYL8Z?&linkCode=ll2&tag=ajsretro-21&linkId=7ba6d5c015bfa41964f93a14664362a0&ref_=as_li_ss_tl
 Eno | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0HFF63HDX?&linkCode=ll2&tag=ajsretro-21&linkId=637ffe1f5d53cac03ee9c7a50f990078&ref_=as_li_ss_tl
-Trollsturm | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0D28HCTYC?&linkCode=ll2&tag=ajsretro-21&linkId=19c7f62dc6e178dba801d7232ec046df&ref_=as_li_ss_tl
-Leben an Bord | 2024 | Dokus | https://www.amazon.de/gp/video/detail/B0DLLFTDL9?&linkCode=ll2&tag=ajsretro-21&linkId=92566553bba6656e243556d59b1c4ff3&ref_=as_li_ss_tl
 Jeff Koons: A Private Portrait | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0DTB6CFNL?&linkCode=ll2&tag=ajsretro-21&linkId=ee4cfba8805f7fc869028ca36d8deec0&ref_=as_li_ss_tl
 Fantastic Machine | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0F7JGPXLW?&linkCode=ll2&tag=ajsretro-21&linkId=b9d385968888a22abc1d9401dee63000&ref_=as_li_ss_tl
-Loch Ness: Sie schufen ein Monster | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0FX32KB1S?&linkCode=ll2&tag=ajsretro-21&linkId=c1b20a861455dcd5197e5726bc81134e&ref_=as_li_ss_tl
-Unter tödlichem Himmel: Die Ostfront der Ukraine | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0CGYDPMTR?&linkCode=ll2&tag=ajsretro-21&linkId=6f8cf5bf2035460b74332309587ccf72&ref_=as_li_ss_tl
-Unter dem Himmel von Damaskus | 2023 | Dokus | https://www.amazon.de/gp/video/detail/B0D9LV65SJ?&linkCode=ll2&tag=ajsretro-21&linkId=b8ad3bb8491d5ec5099985fa40cef68e&ref_=as_li_ss_tl
-Schöner Jackson | 2022 | Dokus | https://www.amazon.de/gp/video/detail/B0DZ2BMMP1?&linkCode=ll2&tag=ajsretro-21&linkId=b95e471ba877a47dad37a83ee6943a56&ref_=as_li_ss_tl
 Summer of Soul | 2021 | Dokus | https://www.amazon.de/gp/video/detail/B09PQCLB27?&linkCode=ll2&tag=ajsretro-21&linkId=4e49f06317b9f7fb8e24fa2c899347ef&ref_=as_li_ss_tl
 The Real Charlie Chaplin | 2021 | Dokus | https://www.amazon.de/gp/video/detail/B0CWDQFLK2?&linkCode=ll2&tag=ajsretro-21&linkId=bc683aaff5d553c86432f4253f258fe4&ref_=as_li_ss_tl
 Insert Coin | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0CBQW38KY?&linkCode=ll2&tag=ajsretro-21&linkId=8443c9f57610210dc7e17549b794d5a7&ref_=as_li_ss_tl
 Anders Essen - Das Experiment | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0DK9J98RR?&linkCode=ll2&tag=ajsretro-21&linkId=49c9f51d38d982cd2e129dc1ee192fe1&ref_=as_li_ss_tl
-Ein Wurm im Herzen | 2020 | Dokus | https://www.amazon.de/gp/video/detail/B0C8Y41P4L?&linkCode=ll2&tag=ajsretro-21&linkId=54a840ce31b978f9511366afc9cf4b12&ref_=as_li_ss_tl
 Momentum Generation | 2018 | Dokus | https://www.amazon.de/gp/video/detail/B0HKY77H57?&linkCode=ll2&tag=ajsretro-21&linkId=126219769e3de5e8de014835c1f324ad&ref_=as_li_ss_tl
