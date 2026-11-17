@@ -16,10 +16,11 @@
 
 # ---- Raum 1: Hauptraum ----
 
-# Rückwand (3)
+# Rückwand (4)
 Alex' Tips       | 1 | back
 Neuheiten        | 1 | back
 Klassiker        | 1 | back
+X-Mas		 | 1 | back
 
 # Linke Wand (4)
 RomCom           | 1 | left
@@ -44,6 +45,7 @@ Horror           | 2 | back
 # Linke Wand (2)
 Sci-Fi           | 2 | left
 Fantasy          | 2 | left
+Heroes		 | 2 | left
 
 # Rechte Wand (2)
 Western          | 2 | right
