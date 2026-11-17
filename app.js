@@ -614,8 +614,29 @@ function mutePhoneLens() {
   clearTimeout(lensHideTimer);
 }
 
+// Handy: Karte sofort schließen (x-Knopf, Tipp daneben, Zurück)
+function closePhoneLens() {
+  clearTimeout(lensHideTimer);
+  els.lens.classList.remove("show");
+  els.lens.setAttribute("aria-hidden", "true");
+  document.querySelectorAll(".card.has-lens").forEach((c) => c.classList.remove("has-lens"));
+}
+
+els.lens.querySelector(".lens-close").addEventListener("click", (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  closePhoneLens();
+});
+
+// Tipp irgendwo außerhalb von Karte und Cover schließt ebenfalls
+document.addEventListener("click", (e) => {
+  if (!isPhone() || !els.lens.classList.contains("show")) return;
+  if (e.target.closest(".lens") || e.target.closest(".card.has-lens")) return;
+  closePhoneLens();
+});
+
 function hideLens() {
-  if (isPhone()) return;
+  if (isPhone()) { closePhoneLens(); return; }
   lensHideTimer = setTimeout(() => {
     els.lens.classList.remove("show");
     els.lens.setAttribute("aria-hidden", "true");
