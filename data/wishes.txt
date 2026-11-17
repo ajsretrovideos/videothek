@@ -10,6 +10,7 @@
 # Zeilen mit # werden ignoriert.
 
 # Neuheiten  (15)
+G.O.A.T. - Bock auf grosse Sprünge | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GGHKVLBY?&linkCode=ll2&tag=ajsretro-21&linkId=8340bf9a5cae645f5c683bf1b4dc0f9d&ref_=as_li_ss_tl
 The Invite | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H8VHMYYK?&linkCode=ll2&tag=ajsretro-21&linkId=58d96bae8c44323ad188c41397a26bc9&ref_=as_li_ss_tl
 Greenland 2 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GDH3SX3L?&linkCode=ll2&tag=ajsretro-21&linkId=0ca1e503767b9abcc978ffb65331bd5b&ref_=as_li_ss_tl
 Woodwalkers 2 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0G8VBY2KX?&linkCode=ll2&tag=ajsretro-21&linkId=13852b2b36e57281259f510a7b746c36&ref_=as_li_ss_tl
@@ -20,6 +21,7 @@ Toy Story 5 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H9ZLPJ9
 Paw Patrol: Der Dino Film | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HCK4NBYJ?&linkCode=ll2&tag=ajsretro-21&linkId=4a3dcfa99e671463929cab35f9d6ebea&ref_=as_li_ss_tl
 Minions & Monster | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H61Y7RV6?&linkCode=ll2&tag=ajsretro-21&linkId=23be5f9cc40c796bfd4764508c939a58&ref_=as_li_ss_tl
 The Deputy | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl
+Clika | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0FJFH8CTL?&linkCode=ll2&tag=ajsretro-21&linkId=a2de3fdbac3dbfae9d34fd15af06c6bf&ref_=as_li_ss_tl
 Forbidden Fruits | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXQ8X5VP?&linkCode=ll2&tag=ajsretro-21&linkId=6d5b60540122a04d677cf2fcc7695005&ref_=as_li_ss_tl
 RZR Cyber Protocol | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HGBVZGD6?&linkCode=ll2&tag=ajsretro-21&linkId=d8825919645472fa0178acd2942fa93b&ref_=as_li_ss_tl
 Cotton Queen | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HCNRVLWC?&linkCode=ll2&tag=ajsretro-21&linkId=d8025f4e8878678ef0088bb4c9ac93d9&ref_=as_li_ss_tl
@@ -175,19 +177,19 @@ V/H/S/Halloween | 2025 | Horror | https://www.amazon.de/gp/video/detail/B0HF7Z
 Nosferatu - Der Untote | 2024 | Horror | https://www.amazon.de/gp/video/detail/B0DNMNTRZ7?&linkCode=ll2&tag=ajsretro-21&linkId=7e863f35b8292cfd84784ea96d7c04d1&ref_=as_li_ss_tl
 Speak No Evil | 2024 | Horror | https://www.amazon.de/gp/video/detail/B0DC188JTF?&linkCode=ll2&tag=ajsretro-21&linkId=84e57f7545a18e109676b7dea2f4b2fe&ref_=as_li_ss_tl
 Smile - Siehst Du es auch? | 2022 | Horror | https://www.amazon.de/gp/video/detail/B0HG7STYCM?&linkCode=ll2&tag=ajsretro-21&linkId=b1358ab93065fa7a4bb79336ca51a9ff&ref_=as_li_ss_tl
+Bodies, Bodies, Bodies | 2022 | Horror | https://www.amazon.de/gp/video/detail/B0HNCRKZ1Y?&linkCode=ll2&tag=ajsretro-21&linkId=359da9c3359e25873577eafd490889dd&ref_=as_li_ss_tl
+Paranormal Activity: Verwandtschaftsverhältnisse | 2021 | Horror | https://www.amazon.de/gp/video/detail/B0FK8F6BX3?&linkCode=ll2&tag=ajsretro-21&linkId=b8e5d3df334d4944fc2ff52ae659a5d8&ref_=as_li_ss_tl
+Saw: Spiral | 2021 | Horror | https://www.amazon.de/gp/video/detail/B0F1B3WKBP?&linkCode=ll2&tag=ajsretro-21&linkId=44068ca214e4e0a22e9b8404545d8bb0&ref_=as_li_ss_tl
 Malignant | 2021 | Horror | https://www.amazon.de/gp/video/detail/B0BX2WGS77?&linkCode=ll2&tag=ajsretro-21&linkId=fc89a24cf71ce734ba2bd8c302ff1a98&ref_=as_li_ss_tl
 A Quiet Place 2 | 2020 | Horror | https://www.amazon.de/gp/video/detail/B0HK47L1T8?&linkCode=ll2&tag=ajsretro-21&linkId=4fedabb1e31f0a8f8c695e8d6538d775&ref_=as_li_ss_tl
 Child's Play | 2019 | Horror | https://www.amazon.de/gp/video/detail/B0GN3KVVT1?&linkCode=ll2&tag=ajsretro-21&linkId=59e69e39f1ce668f9be1bd3b0fe15217&ref_=as_li_ss_tl
+Suspiria | 2018 | Horror | https://www.amazon.de/gp/video/detail/B0FX7BM3NM?&linkCode=ll2&tag=ajsretro-21&linkId=0cebffaeb641693fdce7bf128c0ae1b6&ref_=as_li_ss_tl
+Hereditary - Das Vermächtnis | 2018 | Horror | https://www.amazon.de/gp/video/detail/B0FQ9KWMZB?&linkCode=ll2&tag=ajsretro-21&linkId=5e4ea47a9476b5768061e66d0da6a17b&ref_=as_li_ss_tl
+Don't Breathe | 2016 | Horror | https://www.amazon.de/gp/video/detail/B0CVQVM4BN?&linkCode=ll2&tag=ajsretro-21&linkId=dc7ccbd6c048bbc319e2389b684ae2d1&ref_=as_li_ss_tl
 The Autopsy of Jane Doe | 2016 | Horror | https://www.amazon.de/gp/video/detail/B0HJ25LFX5?&linkCode=ll2&tag=ajsretro-21&linkId=816c0896b00be9b1ec0602031b570891&ref_=as_li_ss_tl
+Paranormal Activity - Die Gezeichneten | 2014 | Horror | https://www.amazon.de/gp/video/detail/B0HFH7HM9Y?&linkCode=ll2&tag=ajsretro-21&linkId=bdc3714cc398f7503203709a6633cc36&ref_=as_li_ss_tl
 You're Next | 2013 | Horror | https://www.amazon.de/gp/video/detail/B0FX4NV3KR?&linkCode=ll2&tag=ajsretro-21&linkId=9a71c04c3b04eabc22c4e1df7a5a43e2&ref_=as_li_ss_tl
-V/H/S - Eine mörderische Sammlung | 2012 | Horror | https://www.amazon.de/gp/video/detail/B0GWNCHMDT?&linkCode=ll2&tag=ajsretro-21&linkId=e879c03af2ea7aa7e02034b8e4c1b8b3&ref_=as_li_ss_tl
-Daybreakers | 2010 | Horror | https://www.amazon.de/gp/video/detail/B0HC7B54Q2?&linkCode=ll2&tag=ajsretro-21&linkId=2108c06f14f783e1547496d9e24abc56&ref_=as_li_ss_tl
-Motel | 2007 | Horror | https://www.amazon.de/gp/video/detail/B0CVN5KHW9?&linkCode=ll2&tag=ajsretro-21&linkId=8ead2c3618ea37109b6e0179e726fb0e&ref_=as_li_ss_tl
-Slither - Volleyball auf den Schleim gegangen | 2006 | Horror | https://www.amazon.de/gp/video/detail/B0B8RTXMD4?&linkCode=ll2&tag=ajsretro-21&linkId=94ec2d31d2abaa6af7d5c2870dd4070b&ref_=as_li_ss_tl
-Amityville Horror - Eine wahre Geschichte | 2005 | Horror | https://www.amazon.de/gp/video/detail/B0H8MFSNV8?&linkCode=ll2&tag=ajsretro-21&linkId=0c05a9222648216a255b127ecfbd8f9c&ref_=as_li_ss_tl
-Cursed | 2005 | Horror | https://www.amazon.de/gp/video/detail/B0HFV7ZN95?&linkCode=ll2&tag=ajsretro-21&linkId=90d3763c3d406d03b10216c85544702f&ref_=as_li_ss_tl
-Audition | 2000 | Horror | https://www.amazon.de/gp/video/detail/B0H8Q8NVWR?&linkCode=ll2&tag=ajsretro-21&linkId=9b68933ee0483a725cd406c113f8d0fd&ref_=as_li_ss_tl
-From Dusk Till Dawn | 1996 | Horror | https://www.amazon.de/gp/video/detail/B0HF1D7R2Q?&linkCode=ll2&tag=ajsretro-21&linkId=e9c86c54ce8d6ec4da8898f336e8e6e6&ref_=as_li_ss_tl
+Quarantäne | 2008 | Horror | https://www.amazon.de/gp/video/detail/B0CQFZ4XMW?&linkCode=ll2&tag=ajsretro-21&linkId=8316b851d5debd8cce255aa11a9dc25a&ref_=as_li_ss_tl
 
 # Deutsches Kino
 
@@ -197,7 +199,6 @@ Einfach mal was Schönes | 2022 | Deutsches Kino | https://www.amazon.de/gp/v
 Leberhaken | 2021 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0GX7W1NXQ?&linkCode=ll2&tag=ajsretro-21&linkId=dbdc76b147fc9767f399d088575fe9d8&ref_=as_li_ss_tl
 Klassentreffen 1.0 - Die unglaubliche Reise der Silberrücken | 2018 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B07Q6CTN9R?&linkCode=ll2&tag=ajsretro-21&linkId=665db9e33b65b8b7c0669ec3c2642443&ref_=as_li_ss_tl
 Aus dem Nichts | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B07212SZGF?&linkCode=ll2&tag=ajsretro-21&linkId=35b2e9ba00ab340d308b5324a50c2ba3&ref_=as_li_ss_tl
-Kilimandscharo - Reise ins Leben | 2017 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HFCQNYZG?&linkCode=ll2&tag=ajsretro-21&linkId=9d32e7ee2328e8cf7e6291eb88133c68&ref_=as_li_ss_tl
 Toni Erdmann | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0H7YYPMF7?&linkCode=ll2&tag=ajsretro-21&linkId=5bb78dd8972317bdc9e3477b6d5586ec&ref_=as_li_ss_tl
 Willkommen bei den Hartmanns | 2016 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0FLHWWY64?&linkCode=ll2&tag=ajsretro-21&linkId=36fa5852fc3905d2fd591444155e1188&ref_=as_li_ss_tl
 Ich bin dann mal weg | 2015 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B01FXFI968?&linkCode=ll2&tag=ajsretro-21&linkId=2b4f54380e92da38097421c3bee0494c&ref_=as_li_ss_tl
