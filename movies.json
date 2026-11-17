@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:33:40.196Z",
+  "generatedAt": "2026-11-17T22:33:12.562Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -17,7 +17,7 @@
       "genre": "Klassiker",
       "room": 1,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "RomCom",
@@ -53,7 +53,7 @@
       "genre": "Dokus",
       "room": 1,
       "wall": "right",
-      "count": 0
+      "count": 23
     },
     {
       "genre": "Sportfilme",
@@ -1361,7 +1361,7 @@
         "Thriller"
       ],
       "runtime": "99",
-      "rating": "7.1",
+      "rating": "7.2",
       "overview": "Man sagt, \"Geld und Liebe - das funktioniert nicht.\" Aber man kann es Harry Lockhart nicht übel nehmen, dass er es trotzdem versucht hat. Er wurde aus seinem Kleinganovendasein gerissen und nach Hollywood verfrachtet, um für die Rolle als Ermittler in einem Film vorzusprechen. Dafür erhält er zunächst Detektivstunden bei einem hartgesottenen Privatschnüffler, jetzt muss er nur noch seiner Traumfrau glaubhaft machen, dass er tatsächlich ein Detektiv ist und dabei versuchen, nicht über die vielen Leichen zu stolpern, die überall plötzlich auftauchen.",
       "poster": "https://image.tmdb.org/t/p/w500/kt4hTJgeskt6PnbU6yTHZ1ffxCl.jpg",
       "director": "Shane Black",
@@ -5516,29 +5516,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FSPMY4KW?&linkCode=ll2&tag=ajsretro-21&linkId=75390d36553012a65dbf9f7320c5cd32&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ghost in The Shell",
-      "originalTitle": "GHOST IN THE SHELL / 攻殻機動隊",
-      "year": "1995",
-      "genres": [
-        "Action",
-        "Animation",
-        "Science Fiction"
-      ],
-      "runtime": "82",
-      "rating": "7.9",
-      "overview": "Im Jahre 2029 ist es normal, sich einzelne Körperteile durch künstliche Komponenten ersetzen zu lassen. Diese Bestandteile befähigen die Menschheit, nahezu alle Grenzen des Fleisches und des Geistes zu überwinden. Einige Menschen besitzen gar nur noch eine Biokapsel als Körper, genannt „Shell“, und lediglich ein Rest an ursprünglichen Gehirnzellen definieren den „Ghost“, der Identität und Persönlichkeit eines Individuums erhält. Dies macht die Bedrohung durch einen Computer-Hacker namens „Puppenspieler“ umso akuter, da er in der Lage ist, die Firewalls der „Ghosts“ zu überwinden und sie nach seinen Vorstellungen zu verändern. Majorin Motoko Kusanagi vom japanischen Geheimdienst Sektion 9 ist ebenfalls betroffen und macht sich auf die Jagd nach dem Cyber-Verbrecher.",
-      "poster": "https://image.tmdb.org/t/p/w500/z9S9V4vtVJqyHxFfI8HFWCobdrH.jpg",
-      "director": "Mamoru Oshii",
-      "cast": [
-        "Atsuko Tanaka",
-        "Akio Otsuka",
-        "Koichi Yamadera"
-      ],
-      "tmdbId": 9323,
-      "genre": "Sci-Fi",
-      "url": "https://www.amazon.de/gp/video/detail/B0HH6D1BZV?&linkCode=ll2&tag=ajsretro-21&linkId=64931a0f6292f058955fb34b926293e1&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Independence Day - Wiederkehr",
       "originalTitle": "Independence Day: Resurgence",
       "year": "2016",
@@ -5606,6 +5583,29 @@
       "tmdbId": 245703,
       "genre": "Sci-Fi",
       "url": "https://www.amazon.de/gp/video/detail/B0GKWFGDHX?&linkCode=ll2&tag=ajsretro-21&linkId=41bdb2a5b7acfe13abe8c7e603f2d536&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Tribute von Panem – Mockingjay Teil 2",
+      "originalTitle": "The Hunger Games: Mockingjay - Part 2",
+      "year": "2015",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "137",
+      "rating": "6.9",
+      "overview": "Katniss, die sich im 13. Distrikt versteckt hält, wird von den Revolutionsführern gegen das Capitol als Propagandainstrument ausgenutzt. Sie erwacht in einem Krankenhaus und erfährt, dass Peeta das Opfer einer Gedankenmanipulation des Capitols war. Doch die eigentliche Bedrohung geht nicht vom Capitol aus, sondern auch in den eigenen Reihen wird schon für die Zeit nach dem Krieg geplant, in der die Revolutionsikone Katniss für viele, die selbst auf die Macht hoffen, zu beliebt bei der Bevölkerung geworden ist. Katniss gelingt es nur schwer, Peeta zumindest ansatzweise wieder zu heilen. Trotzdem begibt sie sich mit ihm und einer kleinen Einheit in einer letzten geheimen Mission ins Capitol, um Präsident Snow zu töten. Seine Hinrichtung soll live im Fernsehen zu sehen sein, da die Anführer der Revolution glauben, die werde den Krieg beenden. Doch gerade ihren Anführern kann Katniss schon lange nicht mehr trauen. Alles was ihr bleibt, ist das Vertrauen auf ihren Instinkt.",
+      "poster": "https://image.tmdb.org/t/p/w500/gGkGiNZ98aztaHtKxuvtWpNOwoD.jpg",
+      "director": "Francis Lawrence",
+      "cast": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth"
+      ],
+      "tmdbId": 131634,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GVB1P2SZ?&linkCode=ll2&tag=ajsretro-21&linkId=7f71332c0c75e1d70c4507bad78c6754&ref_=as_li_ss_tl"
     },
     {
       "title": "Edge of Tomorrow",
@@ -6193,6 +6193,30 @@
       "url": "https://www.amazon.de/gp/video/detail/B076ZYFKR9?&linkCode=ll2&tag=ajsretro-21&linkId=1b37da3f88e7cb376eb6d38156c1c31f&ref_=as_li_ss_tl"
     },
     {
+      "title": "Atomic Hero",
+      "originalTitle": "The Toxic Avenger",
+      "year": "1984",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime": "87",
+      "rating": "6.2",
+      "overview": "Melvin Junko ist der größte Loser aus Tromaville. Wegen seiner tollpatschigen Art und seinem nicht gerade kinokompatiblen Aussehen ist Melvin ein ständiges Opfer für üble Scherze und Belästigungen aller Art. Ein besonders bösartiger Scherz endet schließlich damit, dass Melvin in einem rosa Tütü durch das ganze Fitnessstudio gejagt wird. Melvin kann sich vor der andauernden Demütigung nur durch einen Sprung aus dem Fenster retten. Anstatt jedoch seinen Peinigern zu entfliehen, landet er kopfüber in einem Fass mit radioaktiv verseuchtem Giftmüll auf der Ladefläche eines zufällig vor dem Fitnessstudio parkenden Lastwagens.",
+      "poster": "https://image.tmdb.org/t/p/w500/xoWEL38vyI6X4C49II2lqT9cSuo.jpg",
+      "director": "Lloyd Kaufman",
+      "cast": [
+        "Andree Maranda",
+        "Mitch Cohen",
+        "Jennifer Prichard"
+      ],
+      "tmdbId": 15239,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFNF3THG?&linkCode=ll2&tag=ajsretro-21&linkId=c42ea94cbfb07d42780b8b7beb0fa842&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Apocalypse Now",
       "originalTitle": "Apocalypse Now",
       "year": "1979",
@@ -6340,7 +6364,7 @@
       "rating": "7.2",
       "overview": "Im Ghetto zu Manhattan können sich zwei Jugendbanden, die von weißen Amerikanern dominierten \"Jets\" und die puertoricanischen \"Sharks\", ganz besonders wenig leiden. Als der Ex-Jet Tony auf einer öffentlichen Tanzveranstaltung sein Herz für die schöne Maria, ihres Zeichens Schwester des Shark-Anführers Bernardo, entdeckt, ist ein gewaltsamer Konflikt vorprogrammiert.",
       "poster": "https://image.tmdb.org/t/p/w500/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
-      "director": "Robert Wise",
+      "director": "Jerome Robbins",
       "cast": [
         "Natalie Wood",
         "Richard Beymer",
@@ -6481,6 +6505,371 @@
       "tmdbId": 832,
       "genre": "Klassiker",
       "url": "https://www.amazon.de/gp/video/detail/B0HFZ41645?&linkCode=ll2&tag=ajsretro-21&linkId=39fb3a6e5537a599f7d536e5a61e3bea&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "They Shall Not Grow Old",
+      "originalTitle": "They Shall Not Grow Old",
+      "year": "2018",
+      "genres": [
+        "Dokumentarfilm",
+        "Historie",
+        "Kriegsfilm"
+      ],
+      "runtime": "99",
+      "rating": "7.8",
+      "overview": "Peter Jackson greift in seinem Dokumentarfilm das Geschehen des Ersten Weltkriegs auf und zeigt dabei nicht nur die Kriegsvorbereitungen, sondern auch die an der Front kämpfenden, in Gräben stationierten Soldaten bis hin zum 1918 eintretenden Waffenstillstand. Unter Verwendung modernster Technik erweckt der neuseeländische Filmemacher historisches Filmmaterial zum Leben, wie man es noch nie zuvor gesehen hat: Die über 100 Jahre alten Schwarz-Weiß-Bilder wurden aufwändig restauriert und koloriert, geschärft und in 3D konvertiert, und vermitteln dem Zuschauer intensiver denn je, was es im Ersten Weltkrieg bedeutete, durch den Schlamm zu kriechen, dem Feind aufzulauern und nicht zu wissen, ob man am nächsten Tag überhaupt noch am Leben sein wird.",
+      "poster": "https://image.tmdb.org/t/p/w500/A10qr20rS5wQShjvAwpsi4lzM5c.jpg",
+      "director": "Peter Jackson",
+      "cast": [
+        "Thomas Adlam",
+        "William Argent",
+        "John Ashby"
+      ],
+      "tmdbId": 543580,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0C6FT7J97?&linkCode=ll2&tag=ajsretro-21&linkId=f1af7eb96a94ddc730b135491b3aa899&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Your Attention Please",
+      "originalTitle": "Your Attention Please",
+      "year": "2026",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "98",
+      "rating": "8.0",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/r5iBaVn4xTRF22sz5C6aXYZaatL.jpg",
+      "director": "Sara Robin",
+      "cast": [
+        "Kristin Bride",
+        "Ilya Kneppelhout",
+        "Jordy van Bennekom"
+      ],
+      "tmdbId": 1629373,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0H6GL4THT?&linkCode=ll2&tag=ajsretro-21&linkId=2b895e15e1637f63d8d8d1860e93c4ee&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Experiencers: Full Disclosure",
+      "originalTitle": "The Experiencers: Full Disclosure",
+      "year": "2026",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": null,
+      "rating": "4.0",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bgcgR8bKHkIov4u619j2gqKIqLc.jpg",
+      "director": "Dean Alioto",
+      "cast": [
+        "John E. Mack",
+        "Alan Tudyk",
+        "Travis Walton"
+      ],
+      "tmdbId": 1207016,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0H16V3Y9F?&linkCode=ll2&tag=ajsretro-21&linkId=9b1ce718e09fb5e806bc33af79020359&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Jenseits von \"Top Secret\" - Die Ära der Enthüllung",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKG4WRTR?&linkCode=ll2&tag=ajsretro-21&linkId=bdab5e3cbc414ddb78231a1fb5d6f0c0&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2026",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Mammutjäger",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0GVZRF9WT?&linkCode=ll2&tag=ajsretro-21&linkId=6458dbe62987b380da62dc3198c5ed8e&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2025",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Röbi geht",
+      "originalTitle": "Röbi geht",
+      "year": "2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "84",
+      "rating": null,
+      "overview": "Robert Widmer-Demuth, liebevoll „Röbi” genannt, ist ein Mann, der Zeit seines Lebens für andere da war und nun mit derselben Hingabe seinen letzten Weg geht. Er weiß, dass er bald sterben wird. Statt sich gegen das Unvermeidliche zu wehren, nimmt Röbi den Tod an, ohne die Liebe am Leben zu verlieren. Der kleinen Filmcrew öffnet er sein Zuhause und sein Herz. Er nimmt uns mit auf die Reise durch Erinnerungen an sein bewegtes Leben, seine Begegnungen mit Freund*innen, Spaziergänge mit seinem Hund und die unermessliche Liebe zu seiner Familie – und widmet sich den großen Fragen, die sich am Ende eines Lebens stellen. Ein intimer und zugleich universeller Film, der den Tod nicht als Ende, sondern als Teil des Lebens begreift und ihm mit berührender Ehrlichkeit und großer Behutsamkeit begegnet.",
+      "poster": "https://image.tmdb.org/t/p/w500/7uEtx0azD5W3MJhu5AFF46voiOd.jpg",
+      "director": "Christian Labhart",
+      "cast": [],
+      "tmdbId": 1110385,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0FQV4PY1V?&linkCode=ll2&tag=ajsretro-21&linkId=b42ee1ce04f980fc442d69fa12c7cc95&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ungebunden",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0F1GF29HT?&linkCode=ll2&tag=ajsretro-21&linkId=9ee8a2a1575db844ca3d8d6c974c987f&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2024",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "The Bad Guy",
+      "originalTitle": "The Bad Guy",
+      "year": "2024",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "69",
+      "rating": null,
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/iyqnRZQC2vH3j8bGMJt4LpajHq5.jpg",
+      "director": "Louise van Assche",
+      "cast": [],
+      "tmdbId": 1371110,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0D51FYL8Z?&linkCode=ll2&tag=ajsretro-21&linkId=7ba6d5c015bfa41964f93a14664362a0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Eno",
+      "originalTitle": "Eno",
+      "year": "2024",
+      "genres": [
+        "Dokumentarfilm",
+        "Musik"
+      ],
+      "runtime": "80",
+      "rating": "7.0",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6ruB0J7iPWu5LIrxhcqNieu1yE5.jpg",
+      "director": "Gary Hustwit",
+      "cast": [
+        "Brian Eno",
+        "Laurie Anderson",
+        "David Bowie"
+      ],
+      "tmdbId": 1695067,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFF63HDX?&linkCode=ll2&tag=ajsretro-21&linkId=637ffe1f5d53cac03ee9c7a50f990078&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Trollsturm",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0D28HCTYC?&linkCode=ll2&tag=ajsretro-21&linkId=19c7f62dc6e178dba801d7232ec046df&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2024",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Leben an Bord",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0DLLFTDL9?&linkCode=ll2&tag=ajsretro-21&linkId=92566553bba6656e243556d59b1c4ff3&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2024",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Jeff Koons: A Private Portrait",
+      "originalTitle": "Jeff Koons - Un ritratto privato",
+      "year": "2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "80",
+      "rating": "6.0",
+      "overview": "In seinem filmischen Portrait, das sich über mehrere Jahrzehnte erstreckt, ermöglicht der auf Künstlerbiografien spezialisierte italienische Filmemacher Pappi Corsicato persönliche Einblicke in die Welt des erfolgreichen Neo-Pop-Art-Künstlers Jeff Koons, dem es gelungen ist, massenproduzierte Alltagsgegenstände in angesehene Kunst zu verwandeln und so unter anderem eines der teuersten Kunstwerke unserer Zeit zu schaffen.",
+      "poster": "https://image.tmdb.org/t/p/w500/hgLZoxOtdqJj8X7J0M6iPC8sjET.jpg",
+      "director": "Pappi Corsicato",
+      "cast": [
+        "Jeff Koons"
+      ],
+      "tmdbId": 1183749,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0DTB6CFNL?&linkCode=ll2&tag=ajsretro-21&linkId=ee4cfba8805f7fc869028ca36d8deec0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "And the King Said, What a Fantastic Machine",
+      "originalTitle": "And the King Said, What a Fantastic Machine",
+      "year": "2023",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "88",
+      "rating": "7.5",
+      "overview": "Zwischen den allerersten Fotografien und der heutigen Zeit, in der mehr als 45 Milliarden Fotoapparate nebeneinander existieren, liegen gerade einmal 200 Jahre. Eine echte Revolution in unserer Welt, in der Bilder, die zu \"Inhalten\" geworden sind, unser Leben bestimmen. Die Filmemacher Axel Danielson und Maximilien Van Aertryck setzen sich in ihrem jüngsten Dokumentarfilm mit der Besessenheit der Menschen auseinander, durch das Auge der Kamera auf die Welt zu blicken. Eine rasante Reise durch das weite Meer der Mediengeschichte und schwindelerregende Achterbahnfahrt, die diesen jüngsten Hype der Menschheit durchfährt.",
+      "poster": "https://image.tmdb.org/t/p/w500/msLVGl9si2zDT5ktUNgXkTXJNjV.jpg",
+      "director": "Axel Danielson",
+      "cast": [
+        "Maximilien Van Aertryck"
+      ],
+      "tmdbId": 1058652,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0F7JGPXLW?&linkCode=ll2&tag=ajsretro-21&linkId=b9d385968888a22abc1d9401dee63000&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Loch Ness: Sie schufen ein Monster",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0FX32KB1S?&linkCode=ll2&tag=ajsretro-21&linkId=c1b20a861455dcd5197e5726bc81134e&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2023",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Unter tödlichem Himmel: Die Ostfront der Ukraine",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0CGYDPMTR?&linkCode=ll2&tag=ajsretro-21&linkId=6f8cf5bf2035460b74332309587ccf72&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2023",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Unter dem Himmel von Damaskus",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0D9LV65SJ?&linkCode=ll2&tag=ajsretro-21&linkId=b8ad3bb8491d5ec5099985fa40cef68e&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2023",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Schöner Jackson",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0DZ2BMMP1?&linkCode=ll2&tag=ajsretro-21&linkId=b95e471ba877a47dad37a83ee6943a56&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2022",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "originalTitle": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
+      "year": "2021",
+      "genres": [
+        "Musik",
+        "Dokumentarfilm",
+        "Historie"
+      ],
+      "runtime": "117",
+      "rating": "7.6",
+      "overview": "Das Harlem Cultural Festival fand im selben Sommer wie das berühmte Woodstock-Festival statt und konnte sich mit einer Besucherzahl rühmen, die der des 100 Meilen entfernten Konzerts gleichkam. Über 300.000 Menschen nahmen daran teil, doch die Mainstream-Medien berichteten so gut wie gar nicht darüber. Das 40-stündige, noch nie gesehene Filmmaterial lag in den letzten 50 Jahren im Lager und hielt dieses unglaubliche Ereignis in der Geschichte Amerikas verloren - bis jetzt. Es zeigt viele außergewöhnliche Auftritte von Künstlern wie Stevie Wonder, Sly and The Family Stone, Nina Simone, B.B. King, den Staple Singers, der 5th Dimension, David Ruffin, Mahalia Jackson, Ray Barretto und Gladys Knight and the Pips.",
+      "poster": "https://image.tmdb.org/t/p/w500/8kNwhqUGvpzWJd60O1Qvb8G6psK.jpg",
+      "director": "Questlove",
+      "cast": [
+        "Stevie Wonder",
+        "Lin-Manuel Miranda",
+        "Chris Rock"
+      ],
+      "tmdbId": 776527,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B09PQCLB27?&linkCode=ll2&tag=ajsretro-21&linkId=4e49f06317b9f7fb8e24fa2c899347ef&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Real Charlie Chaplin",
+      "originalTitle": "The Real Charlie Chaplin",
+      "year": "2021",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "114",
+      "rating": "7.7",
+      "overview": "Ein Blick auf das Leben und Werk von Charlie Chaplin in seinen eigenen Worten mit einem ausführlichen Interview, das er 1966 dem Magazin Life gab.",
+      "poster": "https://image.tmdb.org/t/p/w500/zajwv6MwIweYlyhu1ibMojr65wB.jpg",
+      "director": "Pete Middleton",
+      "cast": [
+        "Pearl Mackie",
+        "Charlie Chaplin",
+        "Jeff Rawle"
+      ],
+      "tmdbId": 788396,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0CWDQFLK2?&linkCode=ll2&tag=ajsretro-21&linkId=bc683aaff5d553c86432f4253f258fe4&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Insert Coin",
+      "originalTitle": "Insert Coin",
+      "year": "2020",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "103",
+      "rating": "6.8",
+      "overview": "Die Dokumentation erzählt die Geschichte eines Teams von Nerds und Außenseitern, die in einer Fabrik in Chicago die größten Videospiele aller Zeiten entwickelten. Midway Games war Vorreiter des Live-Action-Gamings, löste damit einen neuen Arcade-Boom aus und erzielte mit Hits wie Mortal Kombat und NBA Jam Milliardenumsätze. Die Dokumentation beleuchtet einen Großteil der Geschichte von Mortal Kombat, darunter die Entwicklung der Fatalities und Charaktere wie Liu Kang, Kitana, Johnny Cage und Scorpion.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhgSTSt7tYVWjbAv1fwkI4Iw8VO.jpg",
+      "director": "Joshua Tsui",
+      "cast": [
+        "Eugene Jarvis",
+        "George Petro",
+        "Jack Haeger"
+      ],
+      "tmdbId": 682263,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0CBQW38KY?&linkCode=ll2&tag=ajsretro-21&linkId=8443c9f57610210dc7e17549b794d5a7&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Anders essen - Das Experiment",
+      "originalTitle": "Anders essen - Das Experiment",
+      "year": "2020",
+      "genres": [
+        "Dokumentarfilm",
+        "TV-Film"
+      ],
+      "runtime": "84",
+      "rating": "6.8",
+      "overview": "Für den Film “Anders essen – Das Experiment” wird erstmals ein Acker mit genau jenen Getreiden, Gemüsen, Früchten, Ölsaaten und Gräsern bepflanzt, die pro Person auf unseren Tellern landen – und die die Industrie u.a. zu Futtermitteln für Tiere verarbeitet. Es entsteht ein Feld von 4.400 m2 Größe, die Fläche eines kleinen Fußballfeldes, das der „durchschnittliche“ Bürger benötigt. Zwei Drittel davon liegen im Ausland. Insgesamt verbrauchen wir doppelt so viel, wie uns eigentlich zusteht: Würden sich alle Menschen so ernähren, bräuchten wir eine zweite Erde.  Lässt sich daran etwas ändern? Drei Familien wagen sich in den Selbstversuch. Sie beginnen regional einzukaufen und entdecken das Kochen neu. Das Ergebnis überrascht. Anders essen verändert tatsächlich unseren Landverbrauch und die CO2-Last.  Ein Experiment, das Mut macht.  Ein Film, der zeigt, wie es gehen könnte.",
+      "poster": "https://image.tmdb.org/t/p/w500/het59iEVo8PF8l03h7LfvXGegMl.jpg",
+      "director": "Kurt Langbein",
+      "cast": [
+        "Daniel Langbein"
+      ],
+      "tmdbId": 667444,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0DK9J98RR?&linkCode=ll2&tag=ajsretro-21&linkId=49c9f51d38d982cd2e129dc1ee192fe1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Wurm im Herzen",
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0C8Y41P4L?&linkCode=ll2&tag=ajsretro-21&linkId=54a840ce31b978f9511366afc9cf4b12&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2020",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "Momentum Generation",
+      "originalTitle": "Momentum Generation",
+      "year": "2018",
+      "genres": [
+        "Dokumentarfilm"
+      ],
+      "runtime": "104",
+      "rating": "6.9",
+      "overview": "1992 veränderte ein Film die gesamte Surfwelt: „Momentum “ von Taylor Steele mixte nie zuvor gesehenes New-School-Surfen mit einem druckvollen Punkrock-Soundtrack und machte so die Teenager Kelly Slater, Rob Machado, Shane Dorian, Taylor Knox und ihre Crew über Nacht zu Stars. Ihr Surfen schien von einem anderen Stern zu sein, ihr Stil sollte für die nächsten zwei Jahrzehnte die Szene beherrschen. Doch nicht nur die Performance der „Momentum Generation“ war eine Zeitenwende – zum ersten Mal verstanden sich Pros auch als Clique, die zusammen in einem Haus auf Hawaii lebten, Musik machten und gemeinsam Videos drehten. Doch mit dem unterschiedlichen Erfolg, besonders der explodierenden Popularität von Kelly Slater, zerbrach die Gemeinschaft – noch beschleunigt durch den frühen Tod von Todd Chesser, der an den Outer Reefs von O’ahu ertrank.",
+      "poster": "https://image.tmdb.org/t/p/w500/i9WuKrDlGi4ajvwLZycDZUhVS9S.jpg",
+      "director": "Jeff Zimbalist",
+      "cast": [
+        "Kelly Slater",
+        "Taylor Knox",
+        "Ross Williams"
+      ],
+      "tmdbId": 511548,
+      "genre": "Dokus",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKY77H57?&linkCode=ll2&tag=ajsretro-21&linkId=126219769e3de5e8de014835c1f324ad&ref_=as_li_ss_tl"
     }
   ]
 }
