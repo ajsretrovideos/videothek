@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T16:57:20.016Z",
+  "generatedAt": "2026-11-17T17:55:21.363Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -17,7 +17,7 @@
       "genre": "Klassiker",
       "room": 1,
       "wall": "back",
-      "count": 0
+      "count": 23
     },
     {
       "genre": "RomCom",
@@ -89,13 +89,13 @@
       "genre": "Horror",
       "room": 2,
       "wall": "back",
-      "count": 24
+      "count": 23
     },
     {
       "genre": "Sci-Fi",
       "room": 2,
       "wall": "left",
-      "count": 0
+      "count": 24
     },
     {
       "genre": "Fantasy",
@@ -1743,6 +1743,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl"
     },
     {
+      "title": "Dreams - Gefährliches Verlangen",
+      "originalTitle": "Dreams: Sueños",
+      "year": "2025",
+      "genres": [
+        "Liebesfilm",
+        "Thriller",
+        "Drama"
+      ],
+      "runtime": "98",
+      "rating": "6.1",
+      "overview": "Jennifer ist ebenso reich wie attraktiv und genießt ein glamouröses Leben als Philanthropin in der amerikanischen High Society. Niemand ahnt, dass sie während ihrer regelmäßigen Aufenthalte in Mexiko eine leidenschaftliche Beziehung mit dem jungen Balletttänzer Fernando führt – einem vielversprechenden Talent ihrer Kulturstiftung. Verliebt und voller Hoffnung auf eine bessere Zukunft in den USA wagt Fernando eines Tages den gefährlichen Weg über die Grenze. Als er plötzlich in Jennifers luxuriösem Apartment in San Francisco auftaucht, gerät ihre sorgfältig kontrollierte Welt aus den Fugen.",
+      "poster": "https://image.tmdb.org/t/p/w500/vDOHlAega35IvNz2GdEgDo4cudW.jpg",
+      "director": "Michel Franco",
+      "cast": [
+        "Jessica Chastain",
+        "Isaac Hernández",
+        "Rupert Friend"
+      ],
+      "tmdbId": 1134463,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZ886YY9?&linkCode=ll2&tag=ajsretro-21&linkId=f7fa78e3d7f433ef2731c5b6b9207c64&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Ben Is Back",
       "originalTitle": "Ben Is Back",
       "year": "2018",
@@ -2028,29 +2051,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HGQC9T23?&linkCode=ll2&tag=ajsretro-21&linkId=3fa4e7b1701be036eefb37373e4d7162&ref_=as_li_ss_tl"
     },
     {
-      "title": "Dreams - Gefährliches Verlangen",
-      "originalTitle": "Dreams: Sueños",
-      "year": "2025",
-      "genres": [
-        "Liebesfilm",
-        "Thriller",
-        "Drama"
-      ],
-      "runtime": "98",
-      "rating": "6.1",
-      "overview": "Jennifer ist ebenso reich wie attraktiv und genießt ein glamouröses Leben als Philanthropin in der amerikanischen High Society. Niemand ahnt, dass sie während ihrer regelmäßigen Aufenthalte in Mexiko eine leidenschaftliche Beziehung mit dem jungen Balletttänzer Fernando führt – einem vielversprechenden Talent ihrer Kulturstiftung. Verliebt und voller Hoffnung auf eine bessere Zukunft in den USA wagt Fernando eines Tages den gefährlichen Weg über die Grenze. Als er plötzlich in Jennifers luxuriösem Apartment in San Francisco auftaucht, gerät ihre sorgfältig kontrollierte Welt aus den Fugen.",
-      "poster": "https://image.tmdb.org/t/p/w500/vDOHlAega35IvNz2GdEgDo4cudW.jpg",
-      "director": "Michel Franco",
-      "cast": [
-        "Jessica Chastain",
-        "Isaac Hernández",
-        "Rupert Friend"
-      ],
-      "tmdbId": 1134463,
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0GZ886YY9?&linkCode=ll2&tag=ajsretro-21&linkId=f7fa78e3d7f433ef2731c5b6b9207c64&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Drive Back Home",
       "originalTitle": "Drive Back Home",
       "year": "2024",
@@ -2269,6 +2269,97 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GJ5WW15R?&linkCode=ll2&tag=ajsretro-21&linkId=13b24ae266af84f8a7e465998156bc9c&ref_=as_li_ss_tl"
     },
     {
+      "title": "Dead Of Winter - Eisige Stille",
+      "originalTitle": "Dead of Winter",
+      "year": "2025",
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "runtime": "97",
+      "rating": "6.5",
+      "overview": "Eine verwitwete Fischerin, die allein durch den verschneiten Norden Minnesotas reist, stört die Entführung eines jungen Mädchens. Stundenlang von der nächsten Stadt entfernt und ohne Telefonempfang erkennt sie, dass sie die einzige Hoffnung des jungen Mädchens ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/5PlNvqhgBsEy35WJuN1d94d7ARr.jpg",
+      "director": "Brian Kirk",
+      "cast": [
+        "Emma Thompson",
+        "Judy Greer",
+        "Marc Menchaca"
+      ],
+      "tmdbId": 1235746,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0GC57TR31?&linkCode=ll2&tag=ajsretro-21&linkId=2a8d8caa3ce41e3638ea2f5840b31c7a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Disturbing the Peace",
+      "originalTitle": "Disturbing the Peace",
+      "year": "2020",
+      "genres": [
+        "Action",
+        "Krimi"
+      ],
+      "runtime": "90",
+      "rating": "4.6",
+      "overview": "Jim Dillon ist Sheriff der Kleinstadt Silver Rock. Er hat keine Waffe mehr getragen, seitdem er seinen Freund und Partner in einer Schießerei durch eine Kugel lebensbedrohlich verletzt hat.\r Einige Jahre nach dem Unglück taucht in der idyllischen Kleinstadt, die nach Ende des 'Silberrauschs' außer einem Casino nicht mehr viel zu bieten hat, eine Biker-Gang auf und beginnt, die Stadt nach und nach abzuriegeln. Den Bürgern ist es ein Rätsel, was das Ziel und Begehren der Gang ist. Jim hingegen wird schnell klar, dass er nach über 10 Jahren seine Waffe wieder aufnehmen muss, um Silver Rock und seine Einwohner zu schützen.",
+      "poster": "https://image.tmdb.org/t/p/w500/6x51vc0OUY1Jsfve8lnPW0M6vTm.jpg",
+      "director": "York Alec Shackleton",
+      "cast": [
+        "Guy Pearce",
+        "Devon Sawa",
+        "Kelly Greyson"
+      ],
+      "tmdbId": 620924,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0CJPL6VBT?&linkCode=ll2&tag=ajsretro-21&linkId=dccfa622f3aae944c76f7a7fe75bacbe&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Backdraft 2",
+      "originalTitle": "Backdraft 2",
+      "year": "2019",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "102",
+      "rating": "6.4",
+      "overview": "Der Brandermittler Sean McCaffrey, Sohn des verstorbenen Steven \"Bull\" McCaffrey, arbeitet jetzt zusammen mit seinem Onkel Brian im selben Feuerwehrhaus in Chicago. Als Sean beauftragt wird, ein tödliches Feuer zu untersuchen, stellen er und seine Partnerin Maggie bald fest, dass es sich um mehr als um ein normales Feuer handelt. Die Hinweise, die sie entdecken, führen sie einen tückischen Weg der Brandstiftung, des Mordes und des internationalen Terrorismus entlang. Sean muss seiner Intuition folgen und versucht mit Hilfe des berüchtigten inhaftierten Brandstifters Ronald Bartel herausfinden, wer hinter dem Feuer steckt, um die Drahtzieher daran zu hindern, ihre teuflischen Pläne zu verwirklichen.",
+      "poster": "https://image.tmdb.org/t/p/w500/wNXPzD2QYmahDCaUFnHYU9zwoLy.jpg",
+      "director": "Gonzalo López-Gallego",
+      "cast": [
+        "Joe Anderson",
+        "Alisha Bailey",
+        "Jessamine-Bliss Bell"
+      ],
+      "tmdbId": 587808,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0F9XHGW9H?&linkCode=ll2&tag=ajsretro-21&linkId=2eee0ca076dae7f645677e3cd86b7fea&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Maze Runner - Die Auserwählten in der Todeszone",
+      "originalTitle": "Maze Runner: The Death Cure",
+      "year": "2018",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer",
+        "Thriller"
+      ],
+      "runtime": "144",
+      "rating": "7.1",
+      "overview": "Nachdem Thomas dem Labyrinth entkommen ist und die Brandwüste durchquert hat, sind die Abenteuer für ihn und seine Freunde noch längst nicht ausgestanden. Ein Jahr ist vergangen. Inzwischen haben er, Newt, Minho und Teresa so einiges in Erfahrung gebracht.  Sie wissen nun, dass sie Teil eines groß angelegten Experiments waren, mit dem die Organisation Wicked ein Heilmittel für die weltweit ausgebrochene Seuche namens \"Der Brand\" finden wollte, die Menschen in tollwütige Bestien verwandelt. Thomas gehört zu den wenigen Personen, die gegen den letztendlich tödlich endenden Virus immun sind, und so fällt es nun ihm zu, den Verfall der Menschheit aufzuhalten.",
+      "poster": "https://image.tmdb.org/t/p/w500/f1cy6Mf8bGJGEMbe86i1K8DYFYg.jpg",
+      "director": "Wes Ball",
+      "cast": [
+        "Dylan O'Brien",
+        "Kaya Scodelario",
+        "Thomas Brodie-Sangster"
+      ],
+      "tmdbId": 336843,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DFJS1HVX?&linkCode=ll2&tag=ajsretro-21&linkId=d3a6d117dc11db0e9d5fd63f6792ccfa&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Jack Reacher - Kein Weg zurück",
       "originalTitle": "Jack Reacher: Never Go Back",
       "year": "2016",
@@ -2292,6 +2383,121 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HFQ8Y319?&linkCode=ll2&tag=ajsretro-21&linkId=a2f55bec584cd81c39fa9dd0993002ed&ref_=as_li_ss_tl"
     },
     {
+      "title": "Kicks",
+      "originalTitle": "Kicks",
+      "year": "2016",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Action",
+        "Abenteuer"
+      ],
+      "runtime": "87",
+      "rating": "6.7",
+      "overview": "Nichts ist so wie es scheint. Der 15-jährige Brandon sehnt sich nach dem neuesten Paar Sneaker, das man sich für Geld kaufen kann, in der Annahme, diese würden ihn durch die traurige Realität der Armut helfen. Außerdem wird er von den Mädchen missachtet und jeder hackt auf ihm herum. Er arbeitet hart dafür, sich die Schuhe leisten zu können, doch kaum hat er sie endlich gekauft, wird er erneut zum Opfer und seine geliebten Sneaker werden ihm gestohlen. Doch dieses Mal kommt ihm der Dieb Flaco nicht so leicht davon und Brian begibt sich gemeinsam mit zwei Freunden auf die gefährliche Mission, sich die Schuhe zurück zu holen. Dabei stellt sich heraus, dass Flacos bedrohliche Erscheinung nur aufgesetzt ist und er mit ganz eigenen Problemen zu kämpfen hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/av1qf2UpM0Y9eVGn2cWE1nUrOAH.jpg",
+      "director": "Justin Tipping",
+      "cast": [
+        "Jahking Guillory",
+        "Kofi Siriboe",
+        "Mahershala Ali"
+      ],
+      "tmdbId": 385736,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0C7PHWQ5K?&linkCode=ll2&tag=ajsretro-21&linkId=78abe5d4d6c3bae88340922a65ccfc95&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Gunman",
+      "originalTitle": "The Gunman",
+      "year": "2015",
+      "genres": [
+        "Action",
+        "Drama",
+        "Krimi"
+      ],
+      "runtime": "105",
+      "rating": "5.8",
+      "overview": "Nach seinem Dienstaustritt möchte der ehemalige Special-Forces-Agent Jim Terrier ein normales Leben führen. Er will nicht mehr ständig in Gefahr sein, nicht mehr schießen, nicht mehr töten, sondern so viel Zeit wie möglich mit seiner großen Jugendliebe Annie verbringen. Doch die Vergangenheit holt den Elite-Soldaten, der unter posttraumatischer Belastungsstörung leidet, unbarmherzig ein: Der Ex-Agent gerät plötzlich ins Fadenkreuz seines ehemaligen Auftraggebers und ein gnadenlose, atemlose Hetzjagd über den Globus beginnt, von Afrika über London bis nach Barcelona. Getrieben von der einmaligen Chance, seine alte Liebe zurückzugewinnen, setzt Terrier alles daran, seinen Namen wieder reinzuwaschen – und er bekämpft die Organisation, für die er einst sein Leben riskierte…",
+      "poster": "https://image.tmdb.org/t/p/w500/8KeSBEC5CvzKbPRVGjLdFreDS7N.jpg",
+      "director": "Pierre Morel",
+      "cast": [
+        "Sean Penn",
+        "Jasmine Trinca",
+        "Javier Bardem"
+      ],
+      "tmdbId": 266396,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HCJG4HMD?&linkCode=ll2&tag=ajsretro-21&linkId=c02d9fdec2d42806c474c3af17b5f32f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Macbeth",
+      "originalTitle": "Macbeth",
+      "year": "2015",
+      "genres": [
+        "Drama",
+        "Kriegsfilm"
+      ],
+      "runtime": "113",
+      "rating": "6.4",
+      "overview": "Als Anführer der schottischen Streitkräfte kann Macbeth im Mittelalter einen brutalen Triumph nach dem anderen auf dem Schlachtfeld einheimsen. Dabei steigt er stetig in der Gunst seines Königs Duncan. Als er nach einem besonders bedeutenden Sieg von drei geheimnisvollen Frauen jedoch vorhergesagt bekommt, dass er eines Tages König von Schottland wird, und ihn seine machthungrige Frau Lady Macbeth energisch anstachelt, diese Prophezeiung mit allen Mitteln wahr werden zu lassen, ringt sich Macbeth schließlich dazu durch, Duncan zu töten, um selbst auf dem Thron Platz zu nehmen. Begleitet vom wachsenden Misstrauen seines engen Freundes Banquo, scheint Macbeth zunehmend dem Größenwahn zu verfallen. Doch macht er sich dabei auch zahlreiche Feinde, sodass sich schon bald Duncans Sohn Malcolm mit Macbeths größtem Kontrahenten Macduff zusammentut, um den tyrannischen neuen König zu stürzen.",
+      "poster": "https://image.tmdb.org/t/p/w500/6qFR0IXCJW6R2oRhjh6edmHpCdD.jpg",
+      "director": "Justin Kurzel",
+      "cast": [
+        "Michael Fassbender",
+        "Marion Cotillard",
+        "Paddy Considine"
+      ],
+      "tmdbId": 225728,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLJN3S5S?&linkCode=ll2&tag=ajsretro-21&linkId=9f22f7a512028000983622bf47d58d1d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Jack Ryan: Shadow Recruit",
+      "originalTitle": "Jack Ryan: Shadow Recruit",
+      "year": "2014",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "105",
+      "rating": "6.1",
+      "overview": "Jack Ryan hat sich nach seinen Erfahrungen als Soldat in Afghanistan einem bürgerlichen Leben verschrieben. Aus diesem Grund ist er mit seinem Bürojob an der New Yorker Wall Street mehr als zufrieden - doch Ryan muss schneller wieder zur Waffe greifen, als ihm lieb ist. Unter einem Vorwand lädt ihn der CIA-Agent William Harper zu einem Gespräch ein, bei dem er Ryan eröffnet, dass er dessen Hilfe brauche, um einen Anschlag zu verhindern. Die Gefahr geht angeblich vom russischen Oligarchen Viktor Cherevin aus, der zuerst die Vereinigten Staaten und dann sämtliche wichtigen Finanzplätze lahmlegen will...",
+      "poster": "https://image.tmdb.org/t/p/w500/3KK1yx6H4IIhSBOL5LhNqEJmM1I.jpg",
+      "director": "Kenneth Branagh",
+      "cast": [
+        "Chris Pine",
+        "Keira Knightley",
+        "Kevin Costner"
+      ],
+      "tmdbId": 137094,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFCM11BL?&linkCode=ll2&tag=ajsretro-21&linkId=158ede08252a69d14e150fbfae74b64a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Herz aus Stahl",
+      "originalTitle": "Fury",
+      "year": "2014",
+      "genres": [
+        "Kriegsfilm",
+        "Drama",
+        "Action"
+      ],
+      "runtime": "135",
+      "rating": "7.5",
+      "overview": "April 1945: Die Alliierten starten im Zweiten Weltkrieg ihre finale Offensive gegen Nazi-Deutschland. Ganz vorne dabei ist ein Sherman-Panzer, der von seiner Crew liebevoll \"Fury\" getauft wurde. Angeführt wird die fünfköpfige Truppe vom kampferprobten Sergeant Wardaddy, der den Krieg bestens kennt und schon viele Schlachten geschlagen hat. Immer weiter stoßen er und seine Männer ins feindliche Gebiet vor und finden sich bald in einer gefährlichen Lage wieder. Denn plötzlich sind sie in der Unterzahl, mit dem jungen Norman Ellison ist zudem erst kürzlich ein Rookie zum Team gestoßen. Doch gegen jede Wahrscheinlichkeit wollen die tapferen Männer ein weiteres Mal bestehen und Nazi-Deutschland mitten ins Herz treffen.",
+      "poster": "https://image.tmdb.org/t/p/w500/8vctPE05o44k4RnM2HK4sC3uUBW.jpg",
+      "director": "David Ayer",
+      "cast": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman"
+      ],
+      "tmdbId": 228150,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B01BFJI5CO?&linkCode=ll2&tag=ajsretro-21&linkId=880691725458624579f345c63de9b171&ref_=as_li_ss_tl"
+    },
+    {
       "title": "The Expendables 3",
       "originalTitle": "The Expendables 3",
       "year": "2014",
@@ -2313,6 +2519,52 @@
       "tmdbId": 138103,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0CGKY8CKL?&linkCode=ll2&tag=ajsretro-21&linkId=f3da38be57efefc6fdd0da98dde21aa2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Counselor",
+      "originalTitle": "The Counselor",
+      "year": "2013",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "117",
+      "rating": "5.3",
+      "overview": "Michael Fassbender ist The Counselor, ein respektierter Anwalt in der Nähe der mexikanischen Grenze, der gemeinsam mit seiner Frau Laura ein beinahe sorgenfreies Leben führt. Sein einziges Problem ist seine Geldnot, die vor allem seiner Liebe zu Laura und ihrem Geschmack für Luxus geschuldet ist. Bald sieht er sich gezwungen, eine Geschäftspartnerschaft mit Reiner und seiner Freundin, der eiskalt berechnenden Malkina einzugehen. Während sich die großen Kartelle gegenseitig in einem Drogenkrieg aufreiben, können sie beinahe unbemerkt ihr eigenes  Unterstützung erhalten sie von Westray, der die Geldwäsche übernehmen soll. Es stellt sich jedoch schnell heraus, dass die Kartelle alles andere als abgelenkt sind und weder Skrupel noch Kosten kennen, wenn es darum geht, ihr Eigentum zu verteidigen.",
+      "poster": "https://image.tmdb.org/t/p/w500/2i6GvL3kYipQfw2oORjjKslQeZV.jpg",
+      "director": "Ridley Scott",
+      "cast": [
+        "Michael Fassbender",
+        "Penélope Cruz",
+        "Cameron Diaz"
+      ],
+      "tmdbId": 109091,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DFWYYRKC?&linkCode=ll2&tag=ajsretro-21&linkId=63493cd3206f09a7bff4c253f080a546&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Last Stand",
+      "originalTitle": "The Last Stand",
+      "year": "2013",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "107",
+      "rating": "6.1",
+      "overview": "Sheriff Ray Owens, einst ein knallharter Cop aus Los Angeles, hat es in eine verschlafene Kleinstadt an der Grenze zu Mexiko verschlagen. Schon bald wird seine geballte Erfahrung gefordert, denn einem gewieften Drogengangster ist in Las Vegas die Flucht aus einem schwer bewachten Gefangenenkonvoi gelungen und er rast direkt auf Owens Bezirk zu - begleitet von seinen Spießgesellen. Owens will ihn keinesfalls über die Grenze lassen – auch wenn ihm nur ein kleines Grüppchen von Laien und Chaoten zur Seite steht.",
+      "poster": "https://image.tmdb.org/t/p/w500/j2gCLnFFtmUUAACiNiKL83yi9rQ.jpg",
+      "director": "Kim Jee-woon",
+      "cast": [
+        "Arnold Schwarzenegger",
+        "Johnny Knoxville",
+        "Jaimie Alexander"
+      ],
+      "tmdbId": 76640,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0FMWSC87G?&linkCode=ll2&tag=ajsretro-21&linkId=2e012aa0fcd10e51ee6d6c75e9a20566&ref_=as_li_ss_tl"
     },
     {
       "title": "Transformers 3",
@@ -2361,6 +2613,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FXTZQB33?&linkCode=ll2&tag=ajsretro-21&linkId=2273563e5eede0190fdbc25d22805c0c&ref_=as_li_ss_tl"
     },
     {
+      "title": "Death Race 2",
+      "originalTitle": "Death Race 2",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "96",
+      "rating": "5.9",
+      "overview": "Um der steigenden Kriminalität Herr zu werden, werden privat geführte und profit-orientierte Gefängnisse zugelassen, wodurch eine gesetzlose Subkultur ensteht, angeführt von kaltblütigen Killern und Soziopathen. Das schlimmste Gefängnis ist Terminal Island, wo die sich die Insassen in einem vielbeachteten Todesrennen bekämpfen, bei dem es keine Regeln gibt. Der verurteilte Cop-Killer Carl Lucas ist gerade in diesem Knast angekommen, als die rücksichtslose Fernsehfrau September Jones das Spektakel zu der ultimativen Realityshow ausbauen will – dem Death Race.",
+      "poster": "https://image.tmdb.org/t/p/w500/v5r46wglLWeFbPyAmWgLUWrLT5F.jpg",
+      "director": "Roel Reiné",
+      "cast": [
+        "Luke Goss",
+        "Lauren Cohan",
+        "Sean Bean"
+      ],
+      "tmdbId": 51620,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0DMK229V2?&linkCode=ll2&tag=ajsretro-21&linkId=5517275d9676cc3684f095f904a23ceb&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Das A-Team - Der Film",
       "originalTitle": "The A-Team",
       "year": "2010",
@@ -2382,6 +2657,29 @@
       "tmdbId": 34544,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B09HZ359MX?&linkCode=ll2&tag=ajsretro-21&linkId=bb38ed195babcc17f09a407763540a7a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Entführung der U-Bahn Pelham 123",
+      "originalTitle": "The Taking of Pelham 1 2 3",
+      "year": "2009",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Action"
+      ],
+      "runtime": "121",
+      "rating": "6.4",
+      "overview": "Nach einer Strafversetzung muss Walter Garber nun die U-Bahnen in New York koordinieren, nachdem er für die MTA bis vor kurzem noch in einer höheren Position beschäftigt war. Gegen 15 Uhr bemerkt er, dass die U-Bahn Pelham 123 mitten auf der Strecke stehen blieb. Kurze Zeit später meldet sich nicht der Zugführer Jerry Pollard über Funk, sondern der Gangster Ryder, der Pelham 123 zusammen mit seinen Männern überfiel und in seine Gewalt brachte. Nun stellt er Garber seine Forderungen: er hat 19 Geiseln und verlangt innerhalb einer Stunde 10 Millionen Dollar. Sollte er hingehalten werden, so wird er jede verspätete Minute eine der Geiseln töten. Ein Geiselnahme-Verhandlungsteam unter der Leitung Camonettis findet jedoch wenig Zuspruch bei Ryder. Er möchte in der Stunde, in der er auf sein Geld wartet, nur mit Garber kommunizieren.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPewJrWQbaqgCtiYJqSSApzpEcG.jpg",
+      "director": "Tony Scott",
+      "cast": [
+        "Denzel Washington",
+        "John Travolta",
+        "John Turturro"
+      ],
+      "tmdbId": 18487,
+      "genre": "Action",
+      "url": "https://www.amazon.de/gp/video/detail/B0H41BRXHB?&linkCode=ll2&tag=ajsretro-21&linkId=7641f671d22ddaab06ee900ef4147007&ref_=as_li_ss_tl"
     },
     {
       "title": "Zwölf Runden",
@@ -2454,28 +2752,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DQYSF6P2?&linkCode=ll2&tag=ajsretro-21&linkId=02d73d931f52d20cb8ae9d0d2d0b43de&ref_=as_li_ss_tl"
     },
     {
-      "title": "Jackass 2.5",
-      "originalTitle": "Jackass 2.5",
-      "year": "2007",
-      "genres": [
-        "Komödie",
-        "Dokumentarfilm"
-      ],
-      "runtime": "64",
-      "rating": "6.1",
-      "overview": "Aus dem überschüssigen Material zum zweiten Kinofilm zusammen geschnittene Collage einschlägigen Jackass-Materials. Johnny Knoxville, Bam Margera, Steve-O und die restliche Truppe bietet die gewohnte Mischung aus sinnlosen Stunts, geschmacklosen Ekel-Ideen und Passanten-Verulkungen im Stil der versteckten Kamera.",
-      "poster": "https://image.tmdb.org/t/p/w500/nFCSqC4bjK3Rn6gXHTZGpOUiJ1C.jpg",
-      "director": "Jeff Tremaine",
-      "cast": [
-        "Johnny Knoxville",
-        "Steve-O",
-        "Bam Margera"
-      ],
-      "tmdbId": 14158,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DX12C98M?&linkCode=ll2&tag=ajsretro-21&linkId=6d97f09508c76eab8010119e869ccdc4&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Flags of Our Fathers",
       "originalTitle": "Flags of Our Fathers",
       "year": "2006",
@@ -2520,280 +2796,6 @@
       "tmdbId": 1538,
       "genre": "Action",
       "url": "https://www.amazon.de/gp/video/detail/B0HN6GVLGM?&linkCode=ll2&tag=ajsretro-21&linkId=e74888a31e75481af4ba9b47f74b347c&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Last Samurai",
-      "originalTitle": "The Last Samurai",
-      "year": "2003",
-      "genres": [
-        "Drama",
-        "Action",
-        "Kriegsfilm"
-      ],
-      "runtime": "154",
-      "rating": "7.6",
-      "overview": "Der abgehalfterte US-Militär Captain Nathan Algren nimmt im Jahr 1875 den Auftrag an, die Armee des japanischen Kaisers auszubilden. Er soll die Truppe auf den Kampf gegen die alten Krieger des japanischen Kaiserreichs vorbereiten: den Kampf gegen die Samurai. Doch bereits im ersten Gefecht werden die Soldaten vernichtend geschlagen und Algren wird gefangen genommen. Schwer verletzt wird er in das Dorf des Anführers der Samurai Katsumoto gebracht. Er wird gesund gepflegt und lernt die Lebensweise der Samurai kennen. Wieder zurück in Tokio muss er sich entscheiden, auf welcher Seite er steht. Wird er mit den von Amerikanern geführten japanischen Soldaten kämpfen oder sich für die Seite der Samurai entscheiden?",
-      "poster": "https://image.tmdb.org/t/p/w500/zxUiSv7gK4VLfCyU7quE9r5S0Qt.jpg",
-      "director": "Edward Zwick",
-      "cast": [
-        "Tom Cruise",
-        "Ken Watanabe",
-        "Timothy Spall"
-      ],
-      "tmdbId": 616,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0CWB4YLB3?&linkCode=ll2&tag=ajsretro-21&linkId=681ac82c771423adc1ffbbd1cef68aa4&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Windtalkers",
-      "originalTitle": "Windtalkers",
-      "year": "2002",
-      "genres": [
-        "Kriegsfilm",
-        "Action"
-      ],
-      "runtime": "135",
-      "rating": "6.4",
-      "overview": "Im Pazifikkrieg werden die Marines Joe Enders und „Ox“ Henderson per Geheimbefehl abgestellt, als eine Art Leibwächter für die Funker Ben Yahzee und Charlie Whitehorse zu fungieren. Die beiden Navajos beherrschen einen speziellen Code, der auf keinen Fall in die Hände der Feinde gelangen darf. Die erbitterten Kämpfe um die Insel Saipan schweissen die Männer zusammen. Und es ist nur eine Frage der Zeit, bis die beiden Beschützer der Code-Sprecher mit einer furchtbaren Frage konfrontiert werden: Würden sie wirklich bis zum Äussersten gehen, um den Code zu schützen?",
-      "poster": "https://image.tmdb.org/t/p/w500/xN2yEoi4pyCFlZ7GvaobOITivxr.jpg",
-      "director": "John Woo",
-      "cast": [
-        "Nicolas Cage",
-        "Adam Beach",
-        "Peter Stormare"
-      ],
-      "tmdbId": 12100,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GHJCLPL2?&linkCode=ll2&tag=ajsretro-21&linkId=d02100035cd71554730b1c473a18b67d&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ronin",
-      "originalTitle": "Ronin",
-      "year": "1998",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Krimi"
-      ],
-      "runtime": "122",
-      "rating": "7.0",
-      "overview": "Die geheimnisvolle Dierdre heuert mehrere Ronins (Samurais ohne Meister), käufliche Spezialisten für alle Fälle, an, um eine Tasche zu stehlen, ehe der momentane Besitzer sie an den KGB verkaufen kann. Die Männer kennen sich nicht, und obwohl sie unterschiedliche Berufs- und Lebensauffassungen haben, führen sie den Job aus. Doch die Tasche verschwindet kurz nach dem Coup und bald stecken alle Beteiligten in einem tödlichen Spiel, bei dem niemand sicher ist und jeder ein Verräter sein kann.",
-      "poster": "https://image.tmdb.org/t/p/w500/it9iwy9SfyTjx9ggxbfycESJn1S.jpg",
-      "director": "John Frankenheimer",
-      "cast": [
-        "Robert De Niro",
-        "Jean Reno",
-        "Natascha McElhone"
-      ],
-      "tmdbId": 8195,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DKFFCP79?&linkCode=ll2&tag=ajsretro-21&linkId=d4b066003298219ca83350f7f5e53fe9&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mission: Impossible",
-      "originalTitle": "Mission: Impossible",
-      "year": "1996",
-      "genres": [
-        "Abenteuer",
-        "Action",
-        "Thriller"
-      ],
-      "runtime": "110",
-      "rating": "7.0",
-      "overview": "Als eine Liste mit den Codenamen verdeckter Top-Agenten zum Verkauf angeboten wird, soll ein Team von Spezialagenten den Verräter auf frischer Tat überführen.Cruise spielt den Geheimagenten Ethan Hunt, der miterleben muss, wie seine Kollegen bei diesem Einsatz zu Tode kommen. Bei einem Treffen mit seinem Kontaktmann der CIA erkennt Hunt, daß hinter der Mission ein perfides Doppelspiel steckt. Als Überlebenden wird ihm die Schuld am Tod seines Teams angehängt. Um seine Unschuld zu beweisen, muß Hunt den wahren Maulwurf finden. Ob auf der Flucht vor Killerkommandos der Regierung, beim Eindringen in den Hochsicherheitstrakt der CIA oder gar am Dach eines Hochgeschwindigkeitszuges festgeklammert, Hunt muß alles daransetzen, seinen Verfolgern stets einen Schritt voraus zu sein und der schrecklichen Wahrheit Schritt für Schritt näher zu kommen...",
-      "poster": "https://image.tmdb.org/t/p/w500/dNClI7niLaky8fS96fO5JF2UvgR.jpg",
-      "director": "Brian De Palma",
-      "cast": [
-        "Tom Cruise",
-        "Jon Voight",
-        "Emmanuelle Béart"
-      ],
-      "tmdbId": 954,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GZNX6SDN?&linkCode=ll2&tag=ajsretro-21&linkId=3b8d521268c22f0297e7cc4943a90375&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "James Bond 007 - GoldenEye",
-      "originalTitle": "GoldenEye",
-      "year": "1995",
-      "genres": [
-        "Abenteuer",
-        "Action",
-        "Thriller"
-      ],
-      "runtime": "130",
-      "rating": "6.9",
-      "overview": "Die russische Mafia-Gruppe Janus hat “Goldeneye”, zwei Satelliten, deren elektromagnetische Strahlen alle elektrischen Geräte im Umkreis eines anvisierten Ziels zerstören, in ihre Kontrolle gebracht. Der Chef dieser kriminellen Bande ist Ex-”006″ Alec Trevelyan, James Bonds ehemaliger Kollege. Zusammen mit der Computerspezialistin Natalya Simonova setzt sich 007 auf die Spuren des Verräters.",
-      "poster": "https://image.tmdb.org/t/p/w500/dlim5SqnaPVuTAinwc4mhLLRyxR.jpg",
-      "director": "Martin Campbell",
-      "cast": [
-        "Pierce Brosnan",
-        "Sean Bean",
-        "Izabella Scorupco"
-      ],
-      "tmdbId": 710,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DS6GHTYZ?&linkCode=ll2&tag=ajsretro-21&linkId=d924220eaa166ce32ea2bcd4d8137187&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Running Man",
-      "originalTitle": "The Running Man",
-      "year": "1987",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "runtime": "101",
-      "rating": "6.5",
-      "overview": "Im Jahr 2017 trägt die populärste Fernsehshow den Namen 'Running Man'. Straffällig gewordene Männer und Frauen müssen ihren Preis gegenüber der Gesellschaft mit dem Tod bezahlen. Dieser Tod tritt allerdings erst nach einem brutalen, aussichtslosen Kampf gegen die Gladiatoren von 'Running Man' ein. Jetzt allerdings befindet sich Ben Richards in der Todeszone und der Moderator der Show, Damon Killian, sollte niemals Richards' letzte Worte vergessen: Ich komme wieder.",
-      "poster": "https://image.tmdb.org/t/p/w500/hINKpALQTJBtdxnaFruEBenDCS7.jpg",
-      "director": "Paul Michael Glaser",
-      "cast": [
-        "Arnold Schwarzenegger",
-        "Richard Dawson",
-        "María Conchita Alonso"
-      ],
-      "tmdbId": 865,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0HGQB152G?&linkCode=ll2&tag=ajsretro-21&linkId=1f4569075f9fa094900d67310ca5a04f&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "James Bond 007 - Octopussy",
-      "originalTitle": "Octopussy",
-      "year": "1983",
-      "genres": [
-        "Abenteuer",
-        "Action",
-        "Thriller"
-      ],
-      "runtime": "131",
-      "rating": "6.4",
-      "overview": "Um die wahren Hintergründe einer gigantischen Juwelenschieberei aufzuspüren, ist James Bond der geheimnisvollen Octopussy auf den Fersen. Sie ahnt nicht, dass sie von einem Wahnsinnigen hinters Licht geführt wird. Der russische General Orlov benutzt ihren Octopussy-Zirkus vorgeblich, mit ihm den geraubten Kreml-Schatz durch Europa zu schmuggeln. Tatsächlich dient er ihm nur als trojanisches Pferd für einen atomaren Sprengkörper, der auf dem Gelände der US-Airforce in Feldberg detonieren soll.",
-      "poster": "https://image.tmdb.org/t/p/w500/ezfTabPy2lhS2qZA6pByq4Hz8To.jpg",
-      "director": "John Glen",
-      "cast": [
-        "Roger Moore",
-        "Maud Adams",
-        "Louis Jourdan"
-      ],
-      "tmdbId": 700,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0DJL4VPZN?&linkCode=ll2&tag=ajsretro-21&linkId=2183b37cd9f43fde15e86324fc10c693&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "James Bond 007 - Moonraker - Streng geheim",
-      "originalTitle": "Moonraker",
-      "year": "1979",
-      "genres": [
-        "Action",
-        "Abenteuer",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "runtime": "126",
-      "rating": "6.2",
-      "overview": "Während des Transportes auf dem Rücken einer Boeing 747 wird ein Space Shuttle entführt und das Flugzeug vernichtet. Seine Nachforschungen führen James Bond zu der Herstellerfirma des Shuttles. Schon bald merkt er, dass deren Besitzer Hugo Drax die gesamte Menschheit vernichten will. Es kommt zum Showdown im Weltall.",
-      "poster": "https://image.tmdb.org/t/p/w500/6eLKYWcFWhtCTdaI2ErY60Z5uui.jpg",
-      "director": "Lewis Gilbert",
-      "cast": [
-        "Roger Moore",
-        "Lois Chiles",
-        "Michael Lonsdale"
-      ],
-      "tmdbId": 698,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GYYF8V7H?&linkCode=ll2&tag=ajsretro-21&linkId=b5762f54021f2b46e71be282c3add262&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "The Huntress - Stunde der Jägerin",
-      "originalTitle": "Badh",
-      "year": "2025",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "runtime": "84",
-      "rating": "5.7",
-      "overview": "Als der Polizist Ilias angeschossen wird und ins Koma fällt, muss Alma ihre frühere Identität als Badh, eine skrupellose Geheimagentin und geschickte Auftragsmörderin, wiederfinden. Sie eliminiert brutal ein Mitglied des Khoury-Clans nach dem anderen und entfesselt damit den Zorn ihres Anführers Mansour. Doch dann entdeckt sie, dass Mansour mit Joana, ihrer ehemaligen Geheimdienstoffizierin, zusammenarbeitet.",
-      "poster": "https://image.tmdb.org/t/p/w500/3RW7sSd73IIgOZsoU7lWJ1JCJj8.jpg",
-      "director": "Guillaume de Fontenay",
-      "cast": [
-        "Marine Vacth",
-        "Emmanuelle Bercot",
-        "Grégoire Colin"
-      ],
-      "tmdbId": 1383247,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0G17WGLJN?&linkCode=ll2&tag=ajsretro-21&linkId=dc139740b0b9bd489e80bea395a5c29f&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Stone Cold Fox",
-      "originalTitle": "Stone Cold Fox",
-      "year": "2025",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Krimi"
-      ],
-      "runtime": "87",
-      "rating": "6.3",
-      "overview": "In den 1980er Jahren flieht Fox aus einer missbräuchlichen Kommune und sucht nach ihrer Familie. Queenpin entführt die Schwester und schickt einen korrupten Cop hinter Fox her. Fox muss erneut in den entkommenen Ort eindringen, um ihre Schwester zu retten.",
-      "poster": "https://image.tmdb.org/t/p/w500/ofQ1CWmY48vplYdJMaINKrBINtd.jpg",
-      "director": "Sophie Tabet",
-      "cast": [
-        "Kiernan Shipka",
-        "Kiefer Sutherland",
-        "Krysten Ritter"
-      ],
-      "tmdbId": 1287814,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0FYKXGC78?&linkCode=ll2&tag=ajsretro-21&linkId=d89c647309b9b95ad6ea201b918bcae0&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "The Orphans - Blutsbrüder",
-      "originalTitle": "Les Orphelins",
-      "year": "2025",
-      "genres": [
-        "Action"
-      ],
-      "runtime": "95",
-      "rating": "6.7",
-      "overview": "Gab und Driss waren einmal Freunde. Seit ihrer gemeinsamen Zeit im Waisenhaus haben sie sich allerdings zerstritten und führen nun völlig unterschiedliche Leben: Einer ist Polizist bei der IGPN,der internen Kontrollbehörde der französischen Nationalpolizei, der andere hat sich für ein Leben als Krimineller entschieden. Als ihre erste große Liebe bei einem seltsamen Unfall ums Leben kommt, schnappt sich deren 17-jährige Tochter Leïla Gabs Waffe und begibt sich auf die Spur einer mächtigen Organisation, die alles tun würde, um den Fall zu vertuschen. Gezwungen, zusammenzuarbeiten, müssen die beiden Waisen sie aufhalten, bevor sie eine Grenze überschreitet, von der es kein Zurück mehr gibt …",
-      "poster": "https://image.tmdb.org/t/p/w500/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
-      "director": "Olivier Schneider",
-      "cast": [
-        "Alban Lenoir",
-        "Dali Benssalah",
-        "Sonia Faidi"
-      ],
-      "tmdbId": 1244975,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0GD2FY38Q?&linkCode=ll2&tag=ajsretro-21&linkId=b8b6039fe0c5e16a28d019b249d18240&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Jackdaw",
-      "originalTitle": "Jackdaw",
-      "year": "2024",
-      "genres": [
-        "Action",
-        "Drama",
-        "Krimi",
-        "Thriller"
-      ],
-      "runtime": "97",
-      "rating": "4.6",
-      "overview": "Der ehemalige Motocross-Champion Jack Dawson kehrt in seine Heimatstadt zurück, um sich um seinen jüngeren Bruder zu kümmern. In der Hoffnung auf ein neues Leben nimmt er einen riskanten Job an. Was als einfache Abholung einer Drogenlieferung in der Nordsee geplant war, wird zum Albtraum, als Jack hintergangen und sein Bruder entführt wird. Eine nächtliche Odyssee durch die kriminelle Unterwelt von Englands Norden beginnt, in welcher Jack sich den Geistern seiner Vergangenheit stellen muss.",
-      "poster": "https://image.tmdb.org/t/p/w500/3BwjPFEaUIlTTskAADOcRhWMoi0.jpg",
-      "director": "Jamie Childs",
-      "cast": [
-        "Oliver Jackson-Cohen",
-        "Jenna Coleman",
-        "Thomas Turgoose"
-      ],
-      "tmdbId": 1081680,
-      "genre": "Action",
-      "url": "https://www.amazon.de/gp/video/detail/B0CXTPY4C1?&linkCode=ll2&tag=ajsretro-21&linkId=0f87cc93f127301ee7d1578e7dbf4a8a&ref_=as_li_ss_tl"
     },
     {
       "title": "The Housemaid - Wenn sie wüsste",
@@ -3709,28 +3711,6 @@
       "tmdbId": 533642,
       "genre": "Horror",
       "url": "https://www.amazon.de/gp/video/detail/B0GN3KVVT1?&linkCode=ll2&tag=ajsretro-21&linkId=59e69e39f1ce668f9be1bd3b0fe15217&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Suspiria - In den Krallen des Bösen",
-      "originalTitle": "Suspiria",
-      "year": "1977",
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "runtime": "94",
-      "rating": "7.4",
-      "overview": "Die junge Ballett-Elevin Suzy kommt aus den USA nach Freiburg, um dort an einer angesehenen Schule Tanz zu studieren. Als sie dort ankommt, beobachtet sie noch ein junges Mädchen, das aus der Schule flieht, um dann aber später in der eigenen Wohnung auf mysteriöse Art und Weise ermordet zu werden. Doch auch Suzy kommt die Schule zunehmend merkwürdig vor. Die Lehrerinnen führen ein hartes Regiment, nachts hört man seltsame Geräusche und etwas schleicht nachts durch den provisorischen Schlafsaal. Langsam aber sicher forscht Suzy den merkwürdigen Vorgängen nach und findet heraus, dass das Haus an sich eine unheimliche Geschichte hat und eine dunkle Macht beherbergt.",
-      "poster": "https://image.tmdb.org/t/p/w500/21WRTi0rGQCyfYbB5BZOWlygmgE.jpg",
-      "director": "Dario Argento",
-      "cast": [
-        "Jessica Harper",
-        "Stefania Casini",
-        "Flavio Bucci"
-      ],
-      "tmdbId": 11906,
-      "genre": "Horror",
-      "url": "https://www.amazon.de/gp/video/detail/B0FX7BM3NM?&linkCode=ll2&tag=ajsretro-21&linkId=0cebffaeb641693fdce7bf128c0ae1b6&ref_=as_li_ss_tl"
     },
     {
       "title": "Hereditary - Das Vermächtnis",
@@ -4985,6 +4965,30 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GX9ZYMKC?&linkCode=ll2&tag=ajsretro-21&linkId=522390191bff525a40f364c88307f0e6&ref_=as_li_ss_tl"
     },
     {
+      "title": "TKKG",
+      "originalTitle": "TKKG",
+      "year": "2019",
+      "genres": [
+        "Abenteuer",
+        "Familie",
+        "Krimi",
+        "Komödie"
+      ],
+      "runtime": "92",
+      "rating": "5.2",
+      "overview": "Tim und Willi, genannt Klößchen, lernen sich am ersten Schultag auf dem Internat kennen. Unterschiedlicher könnten die beiden kaum sein und besonders Willi, Sohn aus gutem Hause, ist nicht gerade erfreut, sich ein Zimmer mit Tim, einem Stipendiaten aus der Vorstadt, zu teilen. Doch als Klößchens Vater entführt wird und mit ihm eine wertvolle Statue aus seiner Kunstsammlung verschwindet, ist Tim der Einzige, der Willi glaubt, dass die Polizei auf der falschen Fährte ist. Gemeinsam mit dem hochintelligenten Außenseiter Karl und der smarten Polizistentochter Gaby beginnt die Gruppe auf eigene Faust zu ermitteln: ein Flugzeugabsturz, maskierte Kung-Fu-Kämpfer, eine versteckte Botschaft von Klößchens Vater. Wie passt das alles zusammen? Und was haben der blinde Hellseher Raimondo und seine Assistentin Amanda damit zu tun? Gegen alle Widerstände decken die vier eine Verschwörung auf. So wird aus Tim, Klößchen, Karl und Gaby die legendäre Bande TKKG!",
+      "poster": "https://image.tmdb.org/t/p/w500/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg",
+      "director": "Robert Thalheim",
+      "cast": [
+        "Ilyes Raoul",
+        "Lorenzo Germeno",
+        "Emma-Louise Schimpf"
+      ],
+      "tmdbId": 603641,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0FMK41NRQ?&linkCode=ll2&tag=ajsretro-21&linkId=48bf9d440cc58c6deabd4f1df102753d&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Conni & Co 2 - Das Geheimnis des T-Rex",
       "originalTitle": "Conni & Co 2 - Das Geheimnis des T-Rex",
       "year": "2017",
@@ -5148,30 +5152,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B00P5FLWPW?&linkCode=ll2&tag=ajsretro-21&linkId=61997d7aea9923a21d07e0a78734699c&ref_=as_li_ss_tl"
     },
     {
-      "title": "TKKG",
-      "originalTitle": "TKKG",
-      "year": "2019",
-      "genres": [
-        "Abenteuer",
-        "Familie",
-        "Krimi",
-        "Komödie"
-      ],
-      "runtime": "92",
-      "rating": "5.2",
-      "overview": "Tim und Willi, genannt Klößchen, lernen sich am ersten Schultag auf dem Internat kennen. Unterschiedlicher könnten die beiden kaum sein und besonders Willi, Sohn aus gutem Hause, ist nicht gerade erfreut, sich ein Zimmer mit Tim, einem Stipendiaten aus der Vorstadt, zu teilen. Doch als Klößchens Vater entführt wird und mit ihm eine wertvolle Statue aus seiner Kunstsammlung verschwindet, ist Tim der Einzige, der Willi glaubt, dass die Polizei auf der falschen Fährte ist. Gemeinsam mit dem hochintelligenten Außenseiter Karl und der smarten Polizistentochter Gaby beginnt die Gruppe auf eigene Faust zu ermitteln: ein Flugzeugabsturz, maskierte Kung-Fu-Kämpfer, eine versteckte Botschaft von Klößchens Vater. Wie passt das alles zusammen? Und was haben der blinde Hellseher Raimondo und seine Assistentin Amanda damit zu tun? Gegen alle Widerstände decken die vier eine Verschwörung auf. So wird aus Tim, Klößchen, Karl und Gaby die legendäre Bande TKKG!",
-      "poster": "https://image.tmdb.org/t/p/w500/mfJ6GFmbrc6XVC9TaSlMlolhNn9.jpg",
-      "director": "Robert Thalheim",
-      "cast": [
-        "Ilyes Raoul",
-        "Lorenzo Germeno",
-        "Emma-Louise Schimpf"
-      ],
-      "tmdbId": 603641,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0FMK41NRQ?&linkCode=ll2&tag=ajsretro-21&linkId=48bf9d440cc58c6deabd4f1df102753d&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Wo dein Schatz ist, da ist auch dein Herz",
       "originalTitle": "Lucky's Treasure",
       "year": "2017",
@@ -5238,29 +5218,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0G354Z7KW?&linkCode=ll2&tag=ajsretro-21&linkId=fa92e2bf076f7fde352ccd72c2100c17&ref_=as_li_ss_tl"
     },
     {
-      "title": "Ein Hund rettet den Sommer",
-      "originalTitle": "The Dog Who Saved Summer",
-      "year": "2015",
-      "genres": [
-        "Familie",
-        "TV-Film",
-        "Komödie"
-      ],
-      "runtime": "89",
-      "rating": "6.1",
-      "overview": "Die Sommerferien haben begonnen… Aber nicht im Hause Bannister! Nachdem unser geliebter Hund Zeus eine Party von Belinda sprengt, wird er zusammen mit Herrchen George in die Hundeschule geschickt. Dort läuft alles aus dem Ruder. George gerät mit dem Hundetrainer aneinander. Zeus schafft es, bei jeder Lektion durchzufallen und Apollo, ein ehemaliger Militärhund macht den Unterricht zu einer spaßfreien Veranstaltung. Zeus letzte Rettung scheint Mr. Lee. Der Hausmeister unterrichtet ihn mit seinen einzigartigen Trainingsmethoden. Schafft es Zeus mit seiner Hilfe die Abschlussprüfung zu bestehen und verhindert er gleichzeitig, dass ein Diebes-Trio den Menschen den Sommer verhagelt?",
-      "poster": "https://image.tmdb.org/t/p/w500/jTbXKQOPKYrJW8ivqMOobJlyp5Y.jpg",
-      "director": "Sean Olson",
-      "cast": [
-        "Martin Kove",
-        "William Zabka",
-        "Dean Cain"
-      ],
-      "tmdbId": 339344,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0BX1SWH1L?&linkCode=ll2&tag=ajsretro-21&linkId=2ee08474234b11aa740d755ce579e321&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Gespensterjäger",
       "originalTitle": "Gespensterjäger",
       "year": "2015",
@@ -5282,6 +5239,29 @@
       "tmdbId": 333112,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B0FCCTYXKK?&linkCode=ll2&tag=ajsretro-21&linkId=f77940b2dc5fc7d79ecf7a6124860244&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Hund rettet den Sommer",
+      "originalTitle": "The Dog Who Saved Summer",
+      "year": "2015",
+      "genres": [
+        "Familie",
+        "TV-Film",
+        "Komödie"
+      ],
+      "runtime": "89",
+      "rating": "6.1",
+      "overview": "Die Sommerferien haben begonnen… Aber nicht im Hause Bannister! Nachdem unser geliebter Hund Zeus eine Party von Belinda sprengt, wird er zusammen mit Herrchen George in die Hundeschule geschickt. Dort läuft alles aus dem Ruder. George gerät mit dem Hundetrainer aneinander. Zeus schafft es, bei jeder Lektion durchzufallen und Apollo, ein ehemaliger Militärhund macht den Unterricht zu einer spaßfreien Veranstaltung. Zeus letzte Rettung scheint Mr. Lee. Der Hausmeister unterrichtet ihn mit seinen einzigartigen Trainingsmethoden. Schafft es Zeus mit seiner Hilfe die Abschlussprüfung zu bestehen und verhindert er gleichzeitig, dass ein Diebes-Trio den Menschen den Sommer verhagelt?",
+      "poster": "https://image.tmdb.org/t/p/w500/jTbXKQOPKYrJW8ivqMOobJlyp5Y.jpg",
+      "director": "Sean Olson",
+      "cast": [
+        "Martin Kove",
+        "William Zabka",
+        "Dean Cain"
+      ],
+      "tmdbId": 339344,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0BX1SWH1L?&linkCode=ll2&tag=ajsretro-21&linkId=2ee08474234b11aa740d755ce579e321&ref_=as_li_ss_tl"
     },
     {
       "title": "Mein Freund, der Delfin 2",
@@ -5441,6 +5421,1066 @@
       "tmdbId": 39180,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B00FYW1L8E?&linkCode=ll2&tag=ajsretro-21&linkId=96948ce689e0614fddf84e2889c40722&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Avatar: Fire and Ash",
+      "originalTitle": "Avatar: Fire and Ash",
+      "year": "2025",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "runtime": "197",
+      "rating": "7.6",
+      "overview": "Nach dem verheerenden Krieg gegen die RDA und dem Verlust ihres ältesten Sohnes sehen sich Jake Sully und Neytiri mit einer neuen Bedrohung auf Pandora konfrontiert: dem Aschvolk, einem gewalttätigen und machthungrigen Na'vi-Stamm unter der Führung des skrupellosen Varang. Jakes Familie muss in einem Konflikt, der sie an ihre emotionalen und physischen Grenzen bringt, um ihr Überleben und die Zukunft von Pandora kämpfen.",
+      "poster": "https://image.tmdb.org/t/p/w500/nB8gjQdI6RPczGcJ5mzCgAdjdH8.jpg",
+      "director": "James Cameron",
+      "cast": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "tmdbId": 83533,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GS3JL6MY?&linkCode=ll2&tag=ajsretro-21&linkId=f24da7d86b0aab3f8fdba8f1db413bd9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Infinite - Lebe unendlich",
+      "originalTitle": "Infinite",
+      "year": "2021",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "runtime": "106",
+      "rating": "6.5",
+      "overview": "Evan McCauley verfolgen Fähigkeiten, die er nie gelernt hat, und Erinnerungen an Orte, die er nie besucht hat, sein tägliches Leben. Selbstmedikamentiert und am Rande des Nervenzusammenbruchs, kommt ihm eine geheime Gruppe, die sich selbst „Infinites“ nennt, zu Hilfe und offenbart ihm, dass seine Erinnerungen real sind – aber sie stammen aus mehreren vergangenen Leben. Die Infinites bringen Evan in ihre außergewöhnliche Welt, in der einige wenige Begabte die Fähigkeit erhalten, mit ihren Erinnerungen und ihrem über Jahrhunderte angesammelten Wissen wiedergeboren zu werden. Mit kritischen Geheimnissen, die in seiner Vergangenheit vergraben sind, muss Evan mit den Infinites zusammenarbeiten, um die Antworten in seinen Erinnerungen zu entschlüsseln – in einem Rennen gegen die Zeit, um die Menschheit vor einem der ihren zu retten, der sie zerstören will.",
+      "poster": "https://image.tmdb.org/t/p/w500/80gmBmKASG3hzyRB1NqcGPH2WId.jpg",
+      "director": "Antoine Fuqua",
+      "cast": [
+        "Mark Wahlberg",
+        "Chiwetel Ejiofor",
+        "Sophie Cookson"
+      ],
+      "tmdbId": 581726,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HK81LVBF?&linkCode=ll2&tag=ajsretro-21&linkId=a131133c344420eafdb94e99172c38dd&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Star Wars: Der Aufstieg Skywalkers",
+      "originalTitle": "Star Wars: The Rise of Skywalker",
+      "year": "2019",
+      "genres": [
+        "Abenteuer",
+        "Action",
+        "Science Fiction"
+      ],
+      "runtime": "142",
+      "rating": "6.2",
+      "overview": "Etwa ein Jahr, nachdem der letzte Rest des Widerstands durch Luke Skywalkers Opfertat aus dem Griff der Ersten Ordnung entkommen konnte, kämpfen die völlig unterlegenen Rebellen aus dem Hinterhalt gegen Kylo Ren und dessen Truppen. Zum ersten Mal gehen dabei die neuen Helden Rey, Finn und der Super-Pilot Poe gemeinsam auf eine lange Mission ...",
+      "poster": "https://image.tmdb.org/t/p/w500/dAk1ClViS20eUEjfxjeknceMBi7.jpg",
+      "director": "J.J. Abrams",
+      "cast": [
+        "Carrie Fisher",
+        "Mark Hamill",
+        "Daisy Ridley"
+      ],
+      "tmdbId": 181812,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0FWYPMWHB?&linkCode=ll2&tag=ajsretro-21&linkId=045a35d27c36a36ed68b51ab4a3ee5b1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Men in Black - International",
+      "originalTitle": "Men in Black: International",
+      "year": "2019",
+      "genres": [
+        "Komödie",
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "runtime": "115",
+      "rating": "5.9",
+      "overview": "Als junges Mädchen beobachtete Molly einen Einsatz der Men In Black. Seitdem ist sie fest entschlossen, die Wahrheit über Aliens und die mysteriösen Männer in den schwarzen Anzügen herauszufinden. Sie sucht nach Antworten und entdeckt schließlich das Hauptquartier der MIB in New York. Dort ist Agent O  von Mollys Intelligenz und Fähigkeiten beeindruckt und macht aus Molly Agent M. – Ihr erster Auftrag führt sie nach London, wo sie gemeinsam mit Agent H  Vungus, einen Angehörigen des außerirdischen Königshauses treffen. Kurz nach seiner Ankunft wird er in einem noblen Nachtclub ermordet, gibt aber vor seinem Tod noch eine mächtige Waffe an M weiter. Die beiden Geheimagenten vermuten einen Maulwurf innerhalb der MIB-Organisation, der die Information über Vungus' Aufenthaltsort weitergegeben haben muss. Sie setzen nun alles daran, den Mörder und Verräter zu finden, bevor die mächtige Waffe in die falschen Hände gelangt …",
+      "poster": "https://image.tmdb.org/t/p/w500/tMkKc8Iwk4K9qtHXjaelzaghPab.jpg",
+      "director": "F. Gary Gray",
+      "cast": [
+        "Chris Hemsworth",
+        "Tessa Thompson",
+        "Kumail Nanjiani"
+      ],
+      "tmdbId": 479455,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0FSPMY4KW?&linkCode=ll2&tag=ajsretro-21&linkId=75390d36553012a65dbf9f7320c5cd32&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ghost in The Shell",
+      "originalTitle": "GHOST IN THE SHELL / 攻殻機動隊",
+      "year": "1995",
+      "genres": [
+        "Action",
+        "Animation",
+        "Science Fiction"
+      ],
+      "runtime": "82",
+      "rating": "7.9",
+      "overview": "Im Jahre 2029 ist es normal, sich einzelne Körperteile durch künstliche Komponenten ersetzen zu lassen. Diese Bestandteile befähigen die Menschheit, nahezu alle Grenzen des Fleisches und des Geistes zu überwinden. Einige Menschen besitzen gar nur noch eine Biokapsel als Körper, genannt „Shell“, und lediglich ein Rest an ursprünglichen Gehirnzellen definieren den „Ghost“, der Identität und Persönlichkeit eines Individuums erhält. Dies macht die Bedrohung durch einen Computer-Hacker namens „Puppenspieler“ umso akuter, da er in der Lage ist, die Firewalls der „Ghosts“ zu überwinden und sie nach seinen Vorstellungen zu verändern. Majorin Motoko Kusanagi vom japanischen Geheimdienst Sektion 9 ist ebenfalls betroffen und macht sich auf die Jagd nach dem Cyber-Verbrecher.",
+      "poster": "https://image.tmdb.org/t/p/w500/z9S9V4vtVJqyHxFfI8HFWCobdrH.jpg",
+      "director": "Mamoru Oshii",
+      "cast": [
+        "Atsuko Tanaka",
+        "Akio Otsuka",
+        "Koichi Yamadera"
+      ],
+      "tmdbId": 9323,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HH6D1BZV?&linkCode=ll2&tag=ajsretro-21&linkId=64931a0f6292f058955fb34b926293e1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Independence Day - Wiederkehr",
+      "originalTitle": "Independence Day: Resurgence",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "120",
+      "rating": "5.4",
+      "overview": "20 Jahre ist es her, dass Aliens die Erde attackierten und die Hälfte der Bevölkerung auslöschten. Vor allem der mutigen Mission des Piloten Steven Hiller und des Satellitentechnikers David Levinson verdanken wir es, dass die Außerirdischen 1996 besiegt wurden – tragischerweise kam Hiller dann 2007 ums Leben, als er einen Alien-Hybrid-Fighter testete. Und 2016 wird er umso mehr vermisst, als sich die Warnung des Ex-Präsidenten Whitmore bewahrheitet und die Außerirdischen einen neuen, noch verheerenderen Angriff starten! Die Menschheit, die in bis dato nie gekannter Einigkeit ein mit Alien-Technologie erweitertes Verteidigungssystem schuf, steht vor ihrer größten Herausforderung. Die Hoffnungen ruhen auf den jungen Kampfpiloten Jake und Dylan, dem Sohn des verstorbenen Steven Hiller …",
+      "poster": "https://image.tmdb.org/t/p/w500/6Eg7AvTjGhv4GYQtLpYO9UuqI1G.jpg",
+      "director": "Roland Emmerich",
+      "cast": [
+        "Liam Hemsworth",
+        "Jeff Goldblum",
+        "Jessie T. Usher"
+      ],
+      "tmdbId": 47933,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B01IACAZCC?&linkCode=ll2&tag=ajsretro-21&linkId=b7bedfb5154b4df85ce7ec2b73cfd508&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Star Trek Beyond",
+      "originalTitle": "Star Trek Beyond",
+      "year": "2016",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "122",
+      "rating": "6.8",
+      "overview": "Auf ihrer Forschungsmission gerät die Enterprise in einen gnadenlosen Hinterhalt. Unter Dauerbeschuss kann die Crew um Captain Kirk nur in letzter Sekunde auf fremdem Terrain notlanden. Doch statt in Sicherheit befindet sie sich plötzlich zwischen den Fronten eines scheinbar ausweglosen Konflikts. Getrennt voneinander und ohne Kontakt zur Außenwelt ziehen Kirk und sein Team in den Kampf gegen einen mysteriösen und übermächtigen Feind.",
+      "poster": "https://image.tmdb.org/t/p/w500/xpo9ssBGLUByAQv07IDndHjt99s.jpg",
+      "director": "Justin Lin",
+      "cast": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Karl Urban"
+      ],
+      "tmdbId": 188927,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKZH77SJ?&linkCode=ll2&tag=ajsretro-21&linkId=c08fac51c28240a240cce69fdf9b20ca&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Midnight Special",
+      "originalTitle": "Midnight Special",
+      "year": "2016",
+      "genres": [
+        "Abenteuer",
+        "Drama",
+        "Science Fiction"
+      ],
+      "runtime": "112",
+      "rating": "6.3",
+      "overview": "Vater Roy ist mit seinem kleinen Sohn Alton auf der Flucht- er will ihn beschützen und herausfinden, was hinter den mysteriösen, außergewöhnlichen Fähigkeiten des Jungen steckt, wegen denen der Kleine eine Schutzbrille tragen muss. Was als Flucht vor religiösen Extremisten und vor der Polizei beginnt, wird zur landesweiten Menschenjagd, inklusive Regierungsbeteiligung. NSA-Spezialist Sevier will möglichst viel über den besonderen Jungen und seine Fähigkeiten erfahren und nimmt zu diesem Zweck Altons Ziehvater und Sekten-Guru Calvin samt dessen Gemeinde in Gewahrsam, um sie einem Verhör zu unterziehen. Währenddessen setzen Roy und sein Kumpel Lucas alles daran, Alton vor dem Schlimmsten zu bewahren. Und sie wollen ihm dabei helfen, sein Schicksal zu erfüllen, das die ganze Welt beeinflussen könnte...",
+      "poster": "https://image.tmdb.org/t/p/w500/hgDRq1l4ATxwufWjILKsYtglbI6.jpg",
+      "director": "Jeff Nichols",
+      "cast": [
+        "Michael Shannon",
+        "Jaeden Martell",
+        "Joel Edgerton"
+      ],
+      "tmdbId": 245703,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GKWFGDHX?&linkCode=ll2&tag=ajsretro-21&linkId=41bdb2a5b7acfe13abe8c7e603f2d536&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "originalTitle": "Edge of Tomorrow",
+      "year": "2014",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "runtime": "113",
+      "rating": "7.6",
+      "overview": "In naher Zukunft beginnt eine insektenartige Alienrasse – die sogenannten Mimics, mit einer Invasion der Erde. Mit ihrer überlegenen Technologie zerstören die Mimics unerbittlich Städte und ganze Länder, das menschliche Militär ist so gut wie machtlos. Doch noch ist nicht alle Hoffnung verloren, denn die militärischen Kräfte der ganzen Welt haben sich verbündet, um in einer letzten Offensive gegen das übermächtige Alienheer in die Schlacht zu ziehen. In diesem gigantischen Selbstmordkommando findet sich auch der degradierte Lt. Col. Bill Cage wieder. Er stirbt während der Schlacht, aber unglaublicherweise erwacht er daraufhin wieder am Morgen desselben Tages.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ajE3sEyuEvfuqTTwK4XLKO8ROe.jpg",
+      "director": "Doug Liman",
+      "cast": [
+        "Tom Cruise",
+        "Emily Blunt",
+        "Brendan Gleeson"
+      ],
+      "tmdbId": 137113,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0C82QK9SB?&linkCode=ll2&tag=ajsretro-21&linkId=cc45501eb61d4db0e60288854286adad&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Automata",
+      "originalTitle": "Autómata",
+      "year": "2014",
+      "genres": [
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "109",
+      "rating": "5.9",
+      "overview": "In der Zukunft steht die Welt endgültig am Rande einer ökologischen Katastrophe. Gleichzeitig ist die Menschheit so weit entwickelt, dass sie künstliche Intelligenzen und Roboter erschafft. Jacq Vaucan ist Versicherungsagent bei ROC, dem Konzern hinter der Schöpfung jener Maschinen, und untersucht routinemäßig einige Fälle von Roboter-Fehlfunktionen. Als er feststellt, dass diese auf mutwillige Manipulation zurückführen sind, stößt er auf Dinge, die das Schicksal der Menschheit verändern könnten. Was ist, wenn Maschinen sich selbst reparieren, ihre eigene Programmierung ändern? Es könnte dazu führen, dass sie auch ein eigenes Bewusstsein entwickeln. Doch diese Vorstellung ist für die Menschen, die mittlerweile von Robotern umgeben leben, derart beängstigend, dass entsprechende Gegenmaßnahmen unausweichlich scheinen...",
+      "poster": "https://image.tmdb.org/t/p/w500/dg3tIo6iDp0GpOPRyWwRPIwnnKy.jpg",
+      "director": "Gabe Ibáñez",
+      "cast": [
+        "Antonio Banderas",
+        "Melanie Griffith",
+        "Birgitte Hjort Sørensen"
+      ],
+      "tmdbId": 262543,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0G49XWX2H?&linkCode=ll2&tag=ajsretro-21&linkId=9d0ad30d74b2d91cad49071540ed85b8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Darkest Hour",
+      "originalTitle": "The Darkest Hour",
+      "year": "2011",
+      "genres": [
+        "Horror",
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "89",
+      "rating": "5.3",
+      "overview": "Es soll eine einzige große Party werden, doch es wird zum Kampf ums Überleben. Fünf Freunde reisen nach Moskau, um die faszinierende Metropole zu erleben. Doch dann kommt es zu einer Invasion aus dem All. Außerirdische, die kaum zu sehen sind, greifen die Erde an und fangen sofort an, die Menschheit zu töten. Die Invasoren können die Elektrizität kontrollieren und als tödliche Waffe einsetzen. Den Freunden gelingt es in den Untergrund zu fliehen und so zu überleben, während überirdisch die Menschheit nach und nach ausgerottet wird. Nach wenigen Tagen gleicht die einstige Metropole einer Geisterstadt. Die Gruppe fasst einen verzweifelten Entschluss: sie tritt zum Kampf gegen die außerirdische Macht an.",
+      "poster": "https://image.tmdb.org/t/p/w500/iUrtHcc8rn7iX31Id3MYOT1rbyw.jpg",
+      "director": "Chris Gorak",
+      "cast": [
+        "Emile Hirsch",
+        "Rachael Taylor",
+        "Olivia Thirlby"
+      ],
+      "tmdbId": 71469,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HLQBJZVD?&linkCode=ll2&tag=ajsretro-21&linkId=1cf73e28a828c4a540fef28634025088&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Book of Eli",
+      "originalTitle": "The Book of Eli",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "118",
+      "rating": "6.8",
+      "overview": "Nach einer Katastrophe, die fast alles Leben auf Erden ausgelöscht hat, bahnt sich im Jahr 2044 ein einsamer Wanderer seinen Weg auf zerstörten Freeways und durch kalte Ruinen. Die Umgebung ist feindselig, überall könnten marodierende Banden zuschlagen und ein Schluck Wasser oder ein paar Schuhe entscheiden, wer unter Jägern und Gejagten den nächsten Tag erlebt. Der Name des Wanderers ist Eli. Obwohl er nicht weiß, ob es tatsächlich irgendwo noch Hoffnung für die Zivilisation gibt, ist er unterwegs nach Westen. Im Gepäck ein mysteriöses Buch, das auch von anderen manisch begehrt und von Eli mit seinem Leben geschützt wird. In einer zerfallenen Stadt, in der das Gesetz des Stärkeren herrscht, trifft Eli auf den despotischen Carnegie, der seinem Geheimnis bald auf die Schliche kommt. Zwar kann sich Eli zunächst der Waffengewalt von Carnegies Schergen erwehren und mit Hilfe der jungen Solara flüchten.",
+      "poster": "https://image.tmdb.org/t/p/w500/mw2cR8Q6HT7HrWFj5kdY5BXMGnF.jpg",
+      "director": "Allen Hughes",
+      "cast": [
+        "Denzel Washington",
+        "Gary Oldman",
+        "Mila Kunis"
+      ],
+      "tmdbId": 20504,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXLN6PFR?&linkCode=ll2&tag=ajsretro-21&linkId=f299024b77889f62c96f3f3535f7cfc2&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "District 9",
+      "originalTitle": "District 9",
+      "year": "2009",
+      "genres": [
+        "Science Fiction"
+      ],
+      "runtime": "112",
+      "rating": "7.5",
+      "overview": "1982 tauchte ein Raumschiff über Johannesburg auf, an Bord außerirdische Flüchtlinge. Zwanzig Jahre später ist die ursprüngliche Gastfreundschaft der Menschen geschwunden. Aus dem Flüchtlingslager ist ein elendes Ghetto geworden, in dem die ungeliebten Besucher interniert sind: District 9. Das Privatunternehmen Multi-National United (MNU) erhält den Auftrag, sich um die Angelegenheit zu kümmern, verfolgt dabei aber ganz eigene Interessen. Als der MNU-Agent Wikus van de Merwe sich mit einem seltsamen Virus infiziert, wird er zur Zielscheibe und findet ausgerechnet im District 9 neue Freunde, die ihn unterstützen.",
+      "poster": "https://image.tmdb.org/t/p/w500/x4PVikCbtYJX1pglNlSMY7l96Y9.jpg",
+      "director": "Neill Blomkamp",
+      "cast": [
+        "Sharlto Copley",
+        "Jason Cope",
+        "Nathalie Boltt"
+      ],
+      "tmdbId": 17654,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8NFHKNZ?&linkCode=ll2&tag=ajsretro-21&linkId=af1b784436f7833fa6b2c550819bd624&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Star Trek",
+      "originalTitle": "Star Trek",
+      "year": "2009",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Abenteuer"
+      ],
+      "runtime": "127",
+      "rating": "7.4",
+      "overview": "Wir schreiben das 23. Jahrhundert. Der junge James Tiberius Kirk ist ein Draufgänger, der keiner Kneipenschlägerei aus den Weg geht und bevorzugt mit dem Kopf durch die Wand marschiert. Der Heißsporn bewirbt sich auf Rat eines alten Freundes seines verstorbenen Vaters bei der Sternenflotten-Akademie der Föderation und findet in dem kauzigen Arzt Dr. Leonard \"Pille\" McCoy sogar gleich einen neuen Kumpel. Ansonsten macht sich der Frauenheld auf der Akademie eher Feinde. So wie den Halb-Vulkanier Spock, dem auffällt, dass Tiberius bei einer Prüfung gemogelt hat. Die beiden entwickeln sich zu erbitterten Rivalen, müssen ihre Feindseligkeiten jedoch aufgeben, als die U.S.S. Enterprise vom Stapel läuft und Captain Pike bei einer Mission von dem romulanischen Outlaw Nero gefangen genommen wird, der nur von einem Gedanken beseelt ist: Rache!",
+      "poster": "https://image.tmdb.org/t/p/w500/hbFaX3xicuHbfdW0XpUy6uHS3EN.jpg",
+      "director": "J.J. Abrams",
+      "cast": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy"
+      ],
+      "tmdbId": 13475,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HM9M182W?&linkCode=ll2&tag=ajsretro-21&linkId=71456dd120bd90f7af24b6c2887325a1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Frozen - Etwas hat überlebt",
+      "originalTitle": "The Thaw",
+      "year": "2009",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime": "90",
+      "rating": "5.7",
+      "overview": "Im Zuge der Erderwärmung tauchen Dinge wieder aus dem Eis auf, die dort seit Urzeiten eingeschlossen waren. So auch insektoide Parasiten, die sich sogleich auf eine Gruppe von Forschern stürzt und diese infiziert und zum Teil dahinrafft. Forschungsleiter Dr. Kruipen versucht noch das Eintreffen seiner Tochter Evelyn auf der Station zu verhindern, aber diese macht sich dennoch zusammen mit 3 anderen Studenten auf den Weg dahin. Dort angekommen finden sie Tote, Verletzte und Chaos vor, Kruipen selbst ist verschwunden.Den Neuankömmlingen wird schnell klar, was dort vorgefallen sein muss und es beginnt zunächst ein Kampf ums eigene Überleben. Doch hinter der ganzen Sache scheint noch mehr zu stecken wie Evelyn Kruipen rausfindet und ausgerechnet ihr Vater hat wohl damit zu tun ...",
+      "poster": "https://image.tmdb.org/t/p/w500/yuXTDsvMHZgbkpDfgKnn85bioh6.jpg",
+      "director": "Mark A. Lewis",
+      "cast": [
+        "Val Kilmer",
+        "Martha MacIsaac",
+        "Aaron Ashmore"
+      ],
+      "tmdbId": 23410,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GX7GF6HY?&linkCode=ll2&tag=ajsretro-21&linkId=6602af8161c56f2fa0a8c34244774f8e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Cloverfield",
+      "originalTitle": "Cloverfield",
+      "year": "2008",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "runtime": "85",
+      "rating": "6.7",
+      "overview": "Eine ausgelassene Abschiedsparty mitten in Manhattan, doch plötzlich wackeln sprichwörtlich die Wände und Explosionen ziehen eine Schneise durch Manhattan, infernalisches Gebrüll tönt durch die Straßenschluchten und etwas, das dem Meer entstiegen ist, hat der Freiheitsstatue den Kopf abgerissen und schleudert diesen zur Begrüßung quer durch die halbe Stadt.  Das Monstrum wird „Cloverfield“ genannt und für die gerade eben noch Feiernden bedeutet das erst mal nur eins: Raus aus der Stadt, möglichst lebendig, und auch ohne in die Schusslinie der Army zu geraten, die „Cloverfield“ alles entgegen feuert, was verfügbar ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmQPopu8A4W9HuskcaGTpqILRsj.jpg",
+      "director": "Matt Reeves",
+      "cast": [
+        "Lizzy Caplan",
+        "Jessica Lucas",
+        "T.J. Miller"
+      ],
+      "tmdbId": 7191,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKGH1FJ1?&linkCode=ll2&tag=ajsretro-21&linkId=fad6415165a24b0f67ecf8ca2edd9f8a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Æon Flux",
+      "originalTitle": "Æon Flux",
+      "year": "2005",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "93",
+      "rating": "5.6",
+      "overview": "400 Jahre in der Zukunft, genauer im Jahre 2415, ist Æon Flux eine mysteriöse Attentäterin. Vier Jahrhunderte nach einem Virus, der fast die gesamte menschliche Rasse ausgelöscht hat, leben 5 Millionen Menschen in einer utopischen Stadt genannt Bregna. Æon kämpft um das Goodchild Regime zu vernichten, dass von ihrem Namensvetter und Herrschers von Bregna, Trevor Goodchild angeführt wird. Æon versucht Trevor Goodchild zu töten, doch kurz bevor offenbaren sich weitere Geheimnisse die entdeckt werden müssen und Verschwörungen die vereitelt werden müssen.",
+      "poster": "https://image.tmdb.org/t/p/w500/eqqV7NmGBGej7EfCdyStg4YpXa9.jpg",
+      "director": "Karyn Kusama",
+      "cast": [
+        "Charlize Theron",
+        "Marton Csokas",
+        "Jonny Lee Miller"
+      ],
+      "tmdbId": 8202,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN3F5DCP?&linkCode=ll2&tag=ajsretro-21&linkId=089695fad46d9f534791db91deabcf99&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Minority Report",
+      "originalTitle": "Minority Report",
+      "year": "2002",
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Thriller"
+      ],
+      "runtime": "145",
+      "rating": "7.4",
+      "overview": "Im Washington, D.C., des Jahres 2054 gibt es keine Morde mehr. Die Zukunft ist bekannt und Mörder werden gefasst, bevor sie ihr Verbrechen begehen können. Dafür sorgt Pre-Crime, eine Elite-Einheit der Polizei, die die Visionen der Pre-Cogs, drei Wesen mit hellseherischen Fähigkeiten, auswertet und zur Tat schreitet. Das System ist perfekt. Und John Anderton ist sein perfekter Chef: Seit einem tragischen Verlust sechs Jahre zuvor widmet er sein Leben mit vollkommener Leidenschaft der Verbrecherjagd. Es gibt keinen Grund für ihn, am System zu zweifeln bis er in einer Vision selbst als Mörder zu sehen ist. 36 Stunden bleiben ihm bis zu dem Verbrechen. 36 Stunden, um zu beweisen, dass er unschuldig ist und das perfekte System fehlbar. Die Flucht kann beginnen.",
+      "poster": "https://image.tmdb.org/t/p/w500/pW1k71rXEZoXESdg9OTuorEDfvV.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Tom Cruise",
+        "Colin Farrell",
+        "Samantha Morton"
+      ],
+      "tmdbId": 180,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GYK55ZV9?&linkCode=ll2&tag=ajsretro-21&linkId=c2d5c1196bc2e9cc8af26bb57b87a301&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Astronaut's Wife - Das Böse hat ein neues Gesicht",
+      "originalTitle": "The Astronaut's Wife",
+      "year": "1999",
+      "genres": [
+        "Drama",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "runtime": "109",
+      "rating": "5.6",
+      "overview": "Auf einer Mission im Weltraum verliert der Astronaut Spencer Armacost plötzlich den Kontakt zur Bodenstation. Als er wieder auf die Erde zurückkehrt, scheint er seinen Freunden gegenüber der Gleiche geblieben zu sein, doch seine Frau merkt, dass er sich verändert hat. Sie wird schwanger, und mit der Zeit bekommt sie den Verdacht, dass die Frucht, die sie in sich trägt, nicht von dieser Welt ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/rHMTPJ1BOj4EAks61qi9aYCEE0F.jpg",
+      "director": "Rand Ravich",
+      "cast": [
+        "Johnny Depp",
+        "Charlize Theron",
+        "Joe Morton"
+      ],
+      "tmdbId": 2900,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GKY185YP?&linkCode=ll2&tag=ajsretro-21&linkId=53308ef5b71ecc3fd6fae42aa00ffa0a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Sphere - Die Macht aus dem All",
+      "originalTitle": "Sphere",
+      "year": "1998",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "runtime": "134",
+      "rating": "6.1",
+      "overview": "Als ein Untersee-Telefonkabel entlang des Pazifikgrundes verlegt werden soll, wird dort ein jahrhunderte altes Raumschiff entdeckt. Ein Expertenteam um den Psychologen Norman Goodman, die Meeresbiologin Beth Halperin, den Mathematiker Harry Adams und den Astrophysiker Ted Fielding zieht aus, um die Ursprünge des unbekannten Flugobjekts herauszufinden. Wenn auch die Zusammenarbeit der argwöhnischen Forscher eher zu wünschen übrig lässt, finden sie heraus, dass das Raumschiff amerikanischen Ursprungs ist und aus der Zukunft stammen muss. Als sie auf eine riesige Kugel nicht-irdischen Ursprungs stoßen und diese betreten wollen, wird ihre Neugier jedoch jäh bestraft. Und als unerwartet ein schwerer Sturm aufzieht, ist das Team am Meeresboden plötzlich völlig auf sich allein gestellt.",
+      "poster": "https://image.tmdb.org/t/p/w500/iTs8RVgyNxKIHT23PlLLecmYlbt.jpg",
+      "director": "Barry Levinson",
+      "cast": [
+        "Dustin Hoffman",
+        "Sharon Stone",
+        "Samuel L. Jackson"
+      ],
+      "tmdbId": 10153,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0GPWX929V?&linkCode=ll2&tag=ajsretro-21&linkId=3c0ab144da127c109f65bed7c2d2973e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lost in Space",
+      "originalTitle": "Lost in Space",
+      "year": "1998",
+      "genres": [
+        "Science Fiction",
+        "Abenteuer",
+        "Action"
+      ],
+      "runtime": "125",
+      "rating": "5.4",
+      "overview": "Im Jahr 2058 sind die lebensnotwendigen Ressourcen der Erde beinahe aufgebraucht. In einer verzweifelten Rettungsaktion wird die Familie Robinson an Bord des Raumschiffes Jupiter 2 auf die zehnjährige Reise zum Planeten Alpha Prime geschickt, um dort ein \"Hypergate\" zu installieren, das der Menschheit die problemlose Übersiedlung in eine rettende Galaxie garantieren soll. Doch kurz vor dem Start gelingt es John Robinsons ewigem Kontrahenten Dr. Smith, die Computer des Shuttles zu manipulieren. Er hat nämlich ganz andere Pläne...",
+      "poster": "https://image.tmdb.org/t/p/w500/9mXki2wNgNJe39vtB2CL8NEQdZ1.jpg",
+      "director": "Stephen Hopkins",
+      "cast": [
+        "William Hurt",
+        "Matt LeBlanc",
+        "Mimi Rogers"
+      ],
+      "tmdbId": 2157,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0C5GBYVVB?&linkCode=ll2&tag=ajsretro-21&linkId=03f1b8ea0a0587a4cd95d1517555fe31&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Independence Day",
+      "originalTitle": "Independence Day",
+      "year": "1996",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Science Fiction"
+      ],
+      "runtime": "145",
+      "rating": "6.9",
+      "overview": "Eine gewaltige außerirdische Armee bedroht die Existenz der Erde. Die Invasion beginnt mit dem Auftauchen gigantischer Raumschiffe, die sich über den wichtigsten Zentren der Welt positionieren. Die bedrohliche Faszination schlägt schnell in unvorstellbare Panik um, als die Raumschiffe angreifen und bedingungslos zerstören. Nun liegt das Schicksal der Menschheit in den Händen der wenigen Überlebenden, die sich für den alles entscheidenden Kampf gegen die Invasoren bereit machen…",
+      "poster": "https://image.tmdb.org/t/p/w500/xCTFGyQksFAvcmUMCc2hZG4hmdr.jpg",
+      "director": "Roland Emmerich",
+      "cast": [
+        "Will Smith",
+        "Bill Pullman",
+        "Jeff Goldblum"
+      ],
+      "tmdbId": 602,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0DFBV6TVD?&linkCode=ll2&tag=ajsretro-21&linkId=1b5052945b5cf8128e20f8e3ba450271&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Prospect",
+      "originalTitle": "Prospect",
+      "year": "2018",
+      "genres": [
+        "Science Fiction"
+      ],
+      "runtime": "100",
+      "rating": "6.2",
+      "overview": "Die junge Cee und ihr Vater Damon fliegen auf einen fremden, gefährlichen Mond, auf dem es begehrte Edelsteine geben soll. Die beiden haben die Chance gewittert, reich zu werden – müssen nach der Bruchlandung vor Ort aber feststellen, dass sie nicht die einzigen sind, die den toxischen Wald absuchen. Ein Kampf ums Überleben beginnt, bei dem Cee irgendwann auf die Hilfe des fremden, zwielichtigen Ezra angewiesen ist, der schon verdammt lange auf dem Planeten festsitzt …",
+      "poster": "https://image.tmdb.org/t/p/w500/mx8WDLVtVXMS4Wyt30JWdbxkxzF.jpg",
+      "director": "Zeek Earl",
+      "cast": [
+        "Sophie Thatcher",
+        "Pedro Pascal",
+        "Jay Duplass"
+      ],
+      "tmdbId": 506072,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJCN2S94?&linkCode=ll2&tag=ajsretro-21&linkId=ca0a7ff434d6018ef72c01de83657006&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Alien Hunter",
+      "originalTitle": "Alien Hunter",
+      "year": "2016",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "runtime": "89",
+      "rating": "3.5",
+      "overview": "Courtney und ihre Freunde fahren zum Campen tief in die Wälder Nordkaliforniens. Mitten in das berüchtigte Smaragd-Dreieck. Hier lebt in einer abgelegenen Waldhütte Brock, ein seltsamer Einsiedler mit seiner Familie. Was die Clique nicht wissen kann...",
+      "poster": "https://image.tmdb.org/t/p/w500/d5sxvVSkCTvVmzUBGYowDl6s72d.jpg",
+      "director": "David Telles",
+      "cast": [
+        "Dan Horton",
+        "Isaac Linares",
+        "Farrah Mackenzie"
+      ],
+      "tmdbId": 467174,
+      "genre": "Sci-Fi",
+      "url": "https://www.amazon.de/gp/video/detail/B0H11FRGSQ?&linkCode=ll2&tag=ajsretro-21&linkId=3b97959c1e1663667551aa60fa0bd338&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Interview mit einem Vampir",
+      "originalTitle": "Interview with the Vampire",
+      "year": "1994",
+      "genres": [
+        "Horror",
+        "Drama",
+        "Fantasy"
+      ],
+      "runtime": "123",
+      "rating": "7.4",
+      "overview": "Der Vampir Louis erzählt in der Jetztzeit dem Journalisten Malloy die Geschichte seiner Existenz: Als Plantagenbesitzer wird er, nachdem er im Anschluß an den Tod seiner Frau jeden Lebensmut verloren hat, im Jahre 1791 von dem Vampir Lestat auf eigenen Wunsch gebissen und selbst zu einem Vampir gemacht. Doch Louis fängt schon bald an, seine Existenz zu hassen und will schon bald keine Menschen mehr töten. Damit Louis wie in einer Familie leben kann, macht Lestat auch ein kleines Mädchen zu einem Vampir. Doch Konflikte sind vorprogrammiert, während die Zeit vergeht und Louis und Lestat werden zu Feinden.",
+      "poster": "https://image.tmdb.org/t/p/w500/6I0YePV2dowtoxZ2COHja17h6Uk.jpg",
+      "director": "Neil Jordan",
+      "cast": [
+        "Tom Cruise",
+        "Brad Pitt",
+        "Antonio Banderas"
+      ],
+      "tmdbId": 628,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0B777CLXW?&linkCode=ll2&tag=ajsretro-21&linkId=cb43df9913baf418f67d183edaa6a91e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Perfect World",
+      "originalTitle": "A Perfect World",
+      "year": "1993",
+      "genres": [
+        "Drama",
+        "Krimi"
+      ],
+      "runtime": "138",
+      "rating": "7.5",
+      "overview": "Die beiden Kriminellen Butch Haynes und Terry Pugh entkommen aus dem Gefängnis in Huntsville. Bei ihrer Flucht durch Texas nehmen sie den kleinen Phillip als Geisel. Als sich Pugh an dem Jungen vergehen will, erschießt ihn Haynes und setzt seine Flucht mit Phillip allein fort. Der Texas Ranger Red Garnett setzt sich auf Haynes’ Fersen. Dabei wird ihm vom Gouverneur, gegen seinen Willen, die FBI-Mitarbeiterin Sally Gerber zur Seite gestellt. Zwischen Phillip und seinem Entführer entwickelt sich eine Freundschaft. Immer mehr sieht Phillip in Butch einen Vater, da der Vater des Jungen seine Mutter schon lange verlassen hat. Dies ist eine große Gemeinsamkeit zwischen Phillip und Butch, der auch ohne Vater aufwuchs.",
+      "poster": "https://image.tmdb.org/t/p/w500/xI35piSTR2Z0WKkPgX841RQqns8.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Kevin Costner",
+        "Clint Eastwood",
+        "Laura Dern"
+      ],
+      "tmdbId": 9559,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B00FYWV2V0?&linkCode=ll2&tag=ajsretro-21&linkId=457dc258a078da049d249e23f5c2a368&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "New Jack City",
+      "originalTitle": "New Jack City",
+      "year": "1991",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "97",
+      "rating": "6.7",
+      "overview": "Bei den Junkies von New York ist Crack der neueste Trend. Nino und seine Gang haben das erkannt, und verdienen sich mit diesem Stoff eine goldene Nase. Die Polizei kann dem ganzen nur machtlos zusehen, lediglich Inspector Stone kämpft im Alleingang gegen die Drogenbande. Er schleust sogar einige seiner Bekannten in die Gang ein, aber damit ist der Kampf gegen die Dealer noch nicht gewonnen.",
+      "poster": "https://image.tmdb.org/t/p/w500/k9VjzXyGElRAxXyXgPvtRRSznyL.jpg",
+      "director": "Mario Van Peebles",
+      "cast": [
+        "Wesley Snipes",
+        "Ice-T",
+        "Allen Payne"
+      ],
+      "tmdbId": 10952,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B09QFVYNHW?&linkCode=ll2&tag=ajsretro-21&linkId=812f9bb179e2a2b5d875880d747ff28c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Havanna",
+      "originalTitle": "Havana",
+      "year": "1990",
+      "genres": [
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "139",
+      "rating": "5.8",
+      "overview": "Dezember 1958. Der Spieler Jack wird auf Kuba durch die attraktive Roberta in die politischen Wirren vor der Machtübernahme Castros verwickelt. Eigentlich nur auf der Suche nach einem \"großen Spiel\" lernt er ihren Mann Arturo, einen der Führer der Revolution, kennen. Als beide verhaftet werden, hat Jack gerade sein Spiel arrangiert. Hin- und hergerissen zwischen Profession und der Zuneigung zu Roberta, entscheidet er sich für die Frau. Er holt sie aus dem Gefängnis, Arturo gilt als tot. Jack und Roberta beginnen ein Verhältnis, doch als die Nachricht eintrifft, daß Arturo lebt, verzichtet Jack auf die Liebe seines Lebens. Als Castro am Neujahrstag die Macht übernimmt, kehrt Jack in die USA zurück.",
+      "poster": "https://image.tmdb.org/t/p/w500/19kwGXpikQHHmEcUkBzskrlWxO5.jpg",
+      "director": "Sydney Pollack",
+      "cast": [
+        "Robert Redford",
+        "Lena Olin",
+        "Alan Arkin"
+      ],
+      "tmdbId": 22189,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B00IAG7RCA?&linkCode=ll2&tag=ajsretro-21&linkId=1177f013ccd988bb29d87ec0b807f2e1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Harry und Sally",
+      "originalTitle": "When Harry Met Sally...",
+      "year": "1989",
+      "genres": [
+        "Komödie",
+        "Liebesfilm",
+        "Drama"
+      ],
+      "runtime": "96",
+      "rating": "7.4",
+      "overview": "Harry nervt Sally und Sally nervt Harry. Das war während ihrer gemeinsamen unfreiwilligen 18-Stunden-Fahrt nach New York so, und bleibt auch so fünf Jahre später, als sie sich zufällig im Flugzeug treffen. Weitere fünf Jahre später – beide im Beziehungsfrust – tritt das ungleiche Paar mehr aus Not den Gegenbeweis für Harrys Lieblingsthese an: „Männer und Frauen können nie Freunde sein – der Sex kommt ihnen immer in die Quere.“ Und wie in jeder guten Komödie merken die beiden als allerletzte, dass sie im Grunde füreinander geschaffen sind.",
+      "poster": "https://image.tmdb.org/t/p/w500/i6L2FanSxToy4OxGDUYxzST4FwR.jpg",
+      "director": "Rob Reiner",
+      "cast": [
+        "Billy Crystal",
+        "Meg Ryan",
+        "Carrie Fisher"
+      ],
+      "tmdbId": 639,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0HG7DXPY5?&linkCode=ll2&tag=ajsretro-21&linkId=6e61b51e00499aebe4b3a3cb68a85e67&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Verdammten des Krieges",
+      "originalTitle": "Casualties of War",
+      "year": "1989",
+      "genres": [
+        "Drama",
+        "Historie",
+        "Kriegsfilm"
+      ],
+      "runtime": "113",
+      "rating": "7.2",
+      "overview": "Gerade drei Wochen ist Eriksson an der Front, als er von seinem kaltschnäuzigen Sergeant Meserve aus einer Falle des Vietcong gerettet wird. Pausenlose Feindeinsätze im vietnamesischen Dschungel strapazieren die GI’s bis zum Äussersten. Wenig später, auf einem langen Erkundungsmarsch, befiehlt Meserve schier Unglaubliches: “Zur besseren Unterhaltung” der Truppe soll eine junge Vietnamesin gekidnappt, mitgenommen und vergewaltigt werden. Meserves Männer sind von der Idee begeistert. Eriksson ist schockiert und weigert sich mitzumachen, doch bald muss er sich mehr vor seinen Kameraden fürchten als vor dem Gegner.",
+      "poster": "https://image.tmdb.org/t/p/w500/7MtaIc1tvOoJHvqjo5V9NIRncu5.jpg",
+      "director": "Brian De Palma",
+      "cast": [
+        "Michael J. Fox",
+        "Sean Penn",
+        "Don Harvey"
+      ],
+      "tmdbId": 10142,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0G3L3BGS7?&linkCode=ll2&tag=ajsretro-21&linkId=a4d4c2d38f1b4fe6127c32b265f49ab0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Gorillas im Nebel",
+      "originalTitle": "Gorillas in the Mist",
+      "year": "1988",
+      "genres": [
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "129",
+      "rating": "7.0",
+      "overview": "1967 ließ Dian Fossey ihr Leben voller Bequemlichkeit zurück, um in Afrika die letzten vom Aussterben bedrohten Berggorillas zu studieren. In einem Land voller Schönheit und Gefahren setzte sie alles aufs Spiel - um die Gorillas um Nebel zu retten. Doch jemand wollte das verhindern...",
+      "poster": "https://image.tmdb.org/t/p/w500/mFsssdEPpDgtN82P9B23Hc4qXP2.jpg",
+      "director": "Michael Apted",
+      "cast": [
+        "Sigourney Weaver",
+        "Bryan Brown",
+        "Julie Harris"
+      ],
+      "tmdbId": 10130,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6H34QH4?&linkCode=ll2&tag=ajsretro-21&linkId=40790d1da20259392f223b1cfa5e0c67&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ein Fisch namens Wanda",
+      "originalTitle": "A Fish Called Wanda",
+      "year": "1988",
+      "genres": [
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "108",
+      "rating": "7.2",
+      "overview": "Dem schmierigen Ganoven George gelingt der ganz große Coup. Zusammen mit seinem Bruder, dem stotternden Tierschutzaktivisten Ken seiner Geliebten Wanda und deren Bruder Otto, einem pseudointellektuellen Ex-CIA-Killer, gelingt es ihm, Juwelen im Wert von 13 Millionen Pfund zu rauben. Anschließend wird die Beute in einem abgelegenen Versteck gut verwahrt, danach will man weitersehen. Doch George kehrt noch einmal zurück und nimmt die kostbaren Klunker an sich, denn er traut Otto nicht über den Weg. Völlig berechtigt, wie sich herausstellt, da dieser mitnichten mit Wanda verwandt ist und mit ihr zusammen die ganze Zeit über ein doppeltes Spiel gespielt hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/aGecKl9WbzVMwKcpmlCIFH9gfxM.jpg",
+      "director": "Charles Crichton",
+      "cast": [
+        "Jamie Lee Curtis",
+        "John Cleese",
+        "Kevin Kline"
+      ],
+      "tmdbId": 623,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0GW46C5HG?&linkCode=ll2&tag=ajsretro-21&linkId=466e1b9c71ceb506da8b0cd8df826ee5&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ferris macht Blau",
+      "originalTitle": "Ferris Bueller's Day Off",
+      "year": "1986",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "103",
+      "rating": "7.6",
+      "overview": "An einem Frühlingstag kurz vor seiner Abschlussprüfung geht Ferris Bueller seinem riesigen Bedürfnis nach, die Schule zu schwänzen, um mit seiner Freundin und seinem besten Freund durch die Innenstadt von Chicago zu streifen, Sehenswürdigkeiten zu besichtigen, einen Tag voller Freiheit zu genießen und zu zeigen, dass das Leben mit 17 ein wenig Einfallsreichtum, etwas Mut und mit einem roten Ferrari voller Spaß sein kann!",
+      "poster": "https://image.tmdb.org/t/p/w500/xm2FEDBxvPIpG6mEiBFy5gjUWIB.jpg",
+      "director": "John Hughes",
+      "cast": [
+        "Matthew Broderick",
+        "Alan Ruck",
+        "Mia Sara"
+      ],
+      "tmdbId": 9377,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0DPLG34DS?&linkCode=ll2&tag=ajsretro-21&linkId=c6f9e57a4dbc1beb3bf40d77484daa23&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Blood Simple - Eine mörderische Nacht",
+      "originalTitle": "Blood Simple",
+      "year": "1985",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "95",
+      "rating": "7.2",
+      "overview": "Tief im Herzen von Texas. Eine attraktive, junge Ehefrau flieht in die Arme eines Angestellten ihres unwissenden Ehemannes. Erst einem schwerfälligen Privatdetektiv gelingt es, ihn von der Untreue seiner Frau zu überzeugen. Fortan lässt der Ehemann nichts unversucht, mit blinder Besessenheit den Mord an dem Paar zu arrangieren. Doch die vermeintlich simple Bluttat ist leichter gedacht als getan! Was als perfekter Mord geplant war, geht entsetzlich schief: Der Anstifter wird selbst zum Opfer – und die Liebenden zu ahnungslosen Zielscheiben eines berechnenden Killers. Ein Alptraum aus Betrug, Missverständnissen und tödlichen Geheimnissen nimmt seinen Lauf...",
+      "poster": "https://image.tmdb.org/t/p/w500/xObj4lxzHuYXm5NuYyFa4gisbBW.jpg",
+      "director": "Joel Coen",
+      "cast": [
+        "John Getz",
+        "Frances McDormand",
+        "Dan Hedaya"
+      ],
+      "tmdbId": 11368,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B076ZYFKR9?&linkCode=ll2&tag=ajsretro-21&linkId=1b37da3f88e7cb376eb6d38156c1c31f&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Apocalypse Now",
+      "originalTitle": "Apocalypse Now",
+      "year": "1979",
+      "genres": [
+        "Drama",
+        "Kriegsfilm"
+      ],
+      "runtime": "194",
+      "rating": "8.3",
+      "overview": "Im Jahr 1969, mitten im Vietnamkrieg, erhält Captain Benjamin L. Willard den Auftrag, den abtrünnigen Colonel Walter E. Kurtz zu liquidieren. Dieser hat sich von der amerikanischen Militärführung distanziert und lässt sich nicht mehr kontrollieren. Im kambodschanischen Dschungel hat er sich ein eigenes „Reich“ aufgebaut, über das er gebieterisch herrscht. Captain Willard macht sich in einem Patrouillenboot samt Besatzung von Saigon aus auf den Weg durch den Dschungel. Die Reise der Männer entwickelt sich zu einem Höllentrip durch die Absurditäten eines sinnentleerten Kriegs und offenbart, analog zur Romanvorlage, die Abgründe der menschlichen Seele.",
+      "poster": "https://image.tmdb.org/t/p/w500/u8rsAW9xWcsA511NBsOEsbSnVlC.jpg",
+      "director": "Francis Ford Coppola",
+      "cast": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Frederic Forrest"
+      ],
+      "tmdbId": 28,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0DC16844K?&linkCode=ll2&tag=ajsretro-21&linkId=8231a918c66961a59509154221482aea&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Hair",
+      "originalTitle": "Hair",
+      "year": "1979",
+      "genres": [
+        "Musik",
+        "Drama",
+        "Komödie"
+      ],
+      "runtime": "121",
+      "rating": "7.3",
+      "overview": "Der Provinzler Claude aus Oklahoma will sich zwei Tage vor seiner Einberufung nach Vietnam das New Yorker Stadtleben ansehen. Im Central Park gerät er an eine Gruppe Hippies, die ihn nicht nur mit Haschisch und Flower-Power-Philosophie vertraut machen, sondern ihn auch in die Arme einer Millionärstochter treiben. Seinen Einsatz in Asien können sie dennoch nicht verhindern.",
+      "poster": "https://image.tmdb.org/t/p/w500/sp6DpsAvvamgbgobf1VYguC3Ju2.jpg",
+      "director": "Miloš Forman",
+      "cast": [
+        "John Savage",
+        "Treat Williams",
+        "Beverly D'Angelo"
+      ],
+      "tmdbId": 10654,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0GZM8N4PB?&linkCode=ll2&tag=ajsretro-21&linkId=99e87766d8d0b42c88bb98565375f9fc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Zombie",
+      "originalTitle": "Dawn of the Dead",
+      "year": "1978",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ],
+      "runtime": "126",
+      "rating": "7.5",
+      "overview": "Es herrschen Panik und Chaos auf der Welt. Der nationale Notstand wird ausgerufen. Aus unbekannten Gründen verwandeln sich die Körper kürzlich Verstorbener in fleischhungrige Untote. Auf den Straßen wandeln die Zombies umher. Vier Menschen können sich mit einem Hubschrauber aus Fängen des Grauens retten. Sie verstecken sich in einem gigantischen Shopping-Center und verschanzen sich dort. Anfangs scheint dies ein sicherer Ort zu sein, doch schon bald müssen sie feststellen, dass die lebenden Toten viel gefährlicher sein können, als zuerst angenommen. Gemeinsam beginnen sie einen Kampf gegen die Zombie-Übermacht und müssen sich bald noch brutaleren Gegnern stellen.  George A. Romeo setzte mit „Zombies: Dawn of the Dead“ seinen Kultklassiker „Night of the Living Dead“ fort und schuf gleichzeitig einen neuen Meilenstein des Horrorkinos.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TIVjqgJdkiH6iHUbZpQRcLIQHv.jpg",
+      "director": "George A. Romero",
+      "cast": [
+        "David Emge",
+        "Ken Foree",
+        "Scott H. Reiniger"
+      ],
+      "tmdbId": 923,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0GV5CBKG2?&linkCode=ll2&tag=ajsretro-21&linkId=057930280d34bf373fe1531bcc5335cf&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Unheimliche Begegnung der dritten Art",
+      "originalTitle": "Close Encounters of the Third Kind",
+      "year": "1977",
+      "genres": [
+        "Science Fiction",
+        "Drama"
+      ],
+      "runtime": "135",
+      "rating": "7.4",
+      "overview": "In der amerikanischen Provinz geht Merkwürdiges vor: Elektronische Geräte machen sich selbständig, mehrere Menschen werden unabhängig voneinander Augenzeugen unnatürlicher Himmelsphänomene, und einige von ihnen fühlen fortan die Neigung, seltsame Dinge zu tun und einen mysteriösen Tafelberg im Mittelwesten aufzusuchen. Dort stellen sich auch bald jede Menge Militär und Wissenschaftler ein, denn Großes steht bevor: Eine außerirdische Zivilisation besucht Mutter Erde, um Kontakt mit der Menschheit aufzunehmen.",
+      "poster": "https://image.tmdb.org/t/p/w500/k4NVC2f3ABKq2DQoeywZAs7Cjl5.jpg",
+      "director": "Steven Spielberg",
+      "cast": [
+        "Richard Dreyfuss",
+        "François Truffaut",
+        "Teri Garr"
+      ],
+      "tmdbId": 840,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0D4HJGLH8?&linkCode=ll2&tag=ajsretro-21&linkId=f019741b5a377ac3b8e9935eecd67392&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Frenzy",
+      "originalTitle": "Frenzy",
+      "year": "1972",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Horror"
+      ],
+      "runtime": "116",
+      "rating": "7.1",
+      "overview": "In London versetzt ein Triebverbrecher, bekannt als \"der Krawattenmörder\", die Polizei in Alarmbereitschaft. Durch Indizien gerät Richard Blaney in Verdacht der allerdings völlig unschuldig ist. Da die Polizei ihm allerdings nicht zu glauben scheint, macht sich Blaney auf eigene Faust auf die Jagd nach dem Mörder...",
+      "poster": "https://image.tmdb.org/t/p/w500/93gy7bFutGf11yPkiPtVRTCDfky.jpg",
+      "director": "Alfred Hitchcock",
+      "cast": [
+        "Jon Finch",
+        "Barry Foster",
+        "Barbara Leigh-Hunt"
+      ],
+      "tmdbId": 573,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0CKY9F1W9?&linkCode=ll2&tag=ajsretro-21&linkId=dcccec33d46f26be1be1d607d298feb0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Lawrence von Arabien",
+      "originalTitle": "Lawrence of Arabia",
+      "year": "1962",
+      "genres": [
+        "Abenteuer",
+        "Historie",
+        "Kriegsfilm"
+      ],
+      "runtime": "216",
+      "rating": "8.0",
+      "overview": "Der britische Offizier Lawrence wird auf die arabische Halbinsel geschickt, um die dortigen politischen Entwicklungen unter Prinz Faisal zu beobachten und den Aufstand der Araber gegen das Osmanische Reich zu unterstützen. Schon kurz nach seiner Ankunft wird dem Briten schonungslos vermittelt, dass es zwischen den verschiedenen Beduinenstämmen einige Konflikte gibt. Wer sich nicht an die Regeln hält, wird erschossen. Im Lager des Prinzen Faisal trifft Lawrence erneut auf Sherif Ali, der ihm bereits in der Wüste begegnete. Gemeinsam machen sie sich auf den Weg, die Wüste Nefud zu durchqueren, um so nach Akaba zu gelangen...",
+      "poster": "https://image.tmdb.org/t/p/w500/qQqKOayGbxMEk7HxJTymhCIpO74.jpg",
+      "director": "David Lean",
+      "cast": [
+        "Peter O'Toole",
+        "Alec Guinness",
+        "Anthony Quinn"
+      ],
+      "tmdbId": 947,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8TMFT2R?&linkCode=ll2&tag=ajsretro-21&linkId=f9489cb9ad1c861f3e3c12d5ef4dab7a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "West Side Story",
+      "originalTitle": "West Side Story",
+      "year": "1961",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Liebesfilm"
+      ],
+      "runtime": "151",
+      "rating": "7.2",
+      "overview": "Im Ghetto zu Manhattan können sich zwei Jugendbanden, die von weißen Amerikanern dominierten \"Jets\" und die puertoricanischen \"Sharks\", ganz besonders wenig leiden. Als der Ex-Jet Tony auf einer öffentlichen Tanzveranstaltung sein Herz für die schöne Maria, ihres Zeichens Schwester des Shark-Anführers Bernardo, entdeckt, ist ein gewaltsamer Konflikt vorprogrammiert.",
+      "poster": "https://image.tmdb.org/t/p/w500/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
+      "director": "Robert Wise",
+      "cast": [
+        "Natalie Wood",
+        "Richard Beymer",
+        "Russ Tamblyn"
+      ],
+      "tmdbId": 1725,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN5Q6GS9?&linkCode=ll2&tag=ajsretro-21&linkId=09e2810d5b016b4d55f49fa3fb01e8bc&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Katze auf dem heißen Blechdach",
+      "originalTitle": "Cat on a Hot Tin Roof",
+      "year": "1958",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "108",
+      "rating": "7.6",
+      "overview": "Der reiche Plantagenbesitzer Big Daddy versammelt zu seinem 65. Geburtstag die ganze Familie auf seinem herrschaftlichen Anwesen. Was der alte Mann nicht ahnt: Er hat Krebs und seine gesamte Verwandtschaft versucht nun, sich das umfangreiche Erbe zu sichern. Der Beginn einer Auseinandersetzung zwischen den Familienmitgliedern, die tragisch endet ...",
+      "poster": "https://image.tmdb.org/t/p/w500/74hGdL4wboqVdLh4GYsD8q92CLC.jpg",
+      "director": "Richard Brooks",
+      "cast": [
+        "Elizabeth Taylor",
+        "Paul Newman",
+        "Burl Ives"
+      ],
+      "tmdbId": 261,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B017TI5YLA?&linkCode=ll2&tag=ajsretro-21&linkId=34f3cdad4ca9c430dec37462fec336be&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Jenseits von Eden",
+      "originalTitle": "East of Eden",
+      "year": "1955",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "115",
+      "rating": "7.5",
+      "overview": "Im kalifornischen Ort Salinas betreibt Gemüsebauer Adam Trask im Jahr 1917 seine eigene Farm. Unterstützt wird der alleinerziehende Vater von seinen beiden Söhnen Aron und Caleb, die sich schon immer als Rivalen gesehen haben, wenn es um die Gunst ihres Vaters geht. Ihre Mutter Kate sei schon lange tot, in diesem Glauben ließ Adam seine Söhne zumindest. Doch Cal weiß schon lange, dass Kate die Familie freiwillig verließ und ein Bordell in Monterey leitet. Nur Aron ahnt von dieser Tatsache nichts.  Als Adam bei einem Versuch, tiefgefrorenen Salat an die Ostküste zu transportieren, sein gesamtes Vermögen verliert, fasst Cal den Plan, ihm das Geld wieder zu beschaffen. Er nutzt den Eintritt der USA in den Ersten Weltkrieg, um schnell Gewinn zu erzielen. Noch begreift Cal nicht, dass eine Liebe zwischen Vater und Sohn nicht auf Geld basiert.",
+      "poster": "https://image.tmdb.org/t/p/w500/yVbB9XUEuxj6eXLPN4CymgkiT2V.jpg",
+      "director": "Elia Kazan",
+      "cast": [
+        "James Dean",
+        "Julie Harris",
+        "Raymond Massey"
+      ],
+      "tmdbId": 220,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0B66VH35N?&linkCode=ll2&tag=ajsretro-21&linkId=d66cf1e491e83260a4223a7cf102bef0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der Zauberer von Oz",
+      "originalTitle": "The Wizard of Oz",
+      "year": "1939",
+      "genres": [
+        "Abenteuer",
+        "Fantasy",
+        "Familie"
+      ],
+      "runtime": "101",
+      "rating": "7.6",
+      "overview": "Ein Sturm trägt die kleine Dorothy Gayle in das magische Land Oz. Verzweifelt macht sie sich auf den Weg in die Hauptstadt, wo der große Zauberer von Oz lebt - nur er kann ihr die Rückkehr nach Hause ermöglichen. Der Weg dorthin wird zu einer Reise voller Gefahren und Abenteuer, doch Dorothy findet schnell Freunde und Verbündete: eine Vogelscheuche, die sich Verstand wünscht, einen Mann aus Blech, der gern ein Herz hätte und einen furchtsamen Löwen, der unbedingt mutiger sein möchte.",
+      "poster": "https://image.tmdb.org/t/p/w500/687dPKnfjHV1k3j14TiivWGDV92.jpg",
+      "director": "Victor Fleming",
+      "cast": [
+        "Judy Garland",
+        "Ray Bolger",
+        "Jack Haley"
+      ],
+      "tmdbId": 630,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0H993LX5P?&linkCode=ll2&tag=ajsretro-21&linkId=822ab9f6447adc318dd793e3d9910a60&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "King Kong und die weiße Frau",
+      "originalTitle": "King Kong",
+      "year": "1933",
+      "genres": [
+        "Abenteuer",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtime": "100",
+      "rating": "7.6",
+      "overview": "Ein amerikanisches Filmteam und die Diva Ann Darrow reisen zu Dreharbeiten auf eine Dschungel-Insel. Die Insel ist das Reich unzähliger Urwelttiere und der Riesenaffe King Kong wird von den Eingeborenen als Gottheit verehrt. Von Zeit zu Zeit bringen sie ihm Menschenopfer dar. Eines Nachts wird die schöne Ann entführt und von den Wilden zur Opferstätte gebracht. Der Affenkönig verschleppt sie in den Dschungel.",
+      "poster": "https://image.tmdb.org/t/p/w500/jr9kq0PdUmlv4AdooLvWmm7Oys0.jpg",
+      "director": "Merian C. Cooper",
+      "cast": [
+        "Robert Armstrong",
+        "Fay Wray",
+        "Bruce Cabot"
+      ],
+      "tmdbId": 244,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0B7CNYN98?&linkCode=ll2&tag=ajsretro-21&linkId=ff5633a934806076e53735a767f421a0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Tarzan, der Affenmensch",
+      "originalTitle": "Tarzan the Ape Man",
+      "year": "1932",
+      "genres": [
+        "Abenteuer"
+      ],
+      "runtime": "99",
+      "rating": "6.6",
+      "overview": "Der Großwildjäger James Parker (C. Aubrey Smith) will in Afrika den sagenunwobenen Friedhof der Elefanten finden. Bei ihm ist seine Tochter Jane (Maureen O'Sullivan) und deren Verlobter Harry Holt (Neil Hamilton). Bei ihrer Erkundungsreise werden sie von dem weißen Affenmenschen Tarzan (Johnny Weissmüller) gestört, der seit seiner Kindheit von Affen aufgezogen wurde. Jane zieht Tarzan an, der sie sogleich entführt und hoch in die Bäume verschleppt. Anfangs noch verängstigt, findet sie doch bald Zutrauen zu dem Wilden. Als sie bemerkt, dass Tarzan nicht Englisch spricht, bringt sie ihm seine ersten Worte bei. Ihre tiefgreifende Verbindung stellt sich als Glück für Jane heraus. Nachdem Tarzan sie zu ihrem Vater und ihrem Verlobten zurückgebracht hat, werden diese von Pygmäen angegriffen. Gut, dass Tarzan ihnen zur Hilfe eilt...  (Quelle:  http://www.filmstarts.de/kritiken/45978.html)",
+      "poster": "https://image.tmdb.org/t/p/w500/5dguy0fG93S2bbKZgKcfDjLddgN.jpg",
+      "director": "W.S. Van Dyke",
+      "cast": [
+        "Johnny Weissmüller",
+        "Maureen O'Sullivan",
+        "Neil Hamilton"
+      ],
+      "tmdbId": 26845,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0DJQNXNLM?&linkCode=ll2&tag=ajsretro-21&linkId=d7028ef17d246098093fa2aa32786681&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "M - Eine Stadt sucht einen Mörder",
+      "originalTitle": "M - Eine Stadt sucht einen Mörder",
+      "year": "1931",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Krimi"
+      ],
+      "runtime": "117",
+      "rating": "8.1",
+      "overview": "Berlin 1931: Ein psychopathischer Kindermörder ängstigt die Bevölkerung, narrt die Polizei und versetzt die Unterwelt in Aufregung: Ständige Razzien und Kontrollen behindern die Kriminellen bei ihrer Arbeit. Während Kommissar Lohmann dem Täter so auf die Spur kommen will, sendet die Bettler- und Ganovenorganisation ihre Spitzel nach dem Mörder aus, der schließlich von den Verbrechern gestellt wird, in letzter Minute der aufgebrachten Menge entkommen kann und in die Arme der Justiz flieht.",
+      "poster": "https://image.tmdb.org/t/p/w500/oZheqlzWYyo1uinAN5CSXilX5Wb.jpg",
+      "director": "Fritz Lang",
+      "cast": [
+        "Peter Lorre",
+        "Ellen Widmann",
+        "Inge Landgut"
+      ],
+      "tmdbId": 832,
+      "genre": "Klassiker",
+      "url": "https://www.amazon.de/gp/video/detail/B0HFZ41645?&linkCode=ll2&tag=ajsretro-21&linkId=39fb3a6e5537a599f7d536e5a61e3bea&ref_=as_li_ss_tl"
     }
   ]
 }
