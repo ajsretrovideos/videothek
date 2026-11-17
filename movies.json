@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:10:08.334Z",
+  "generatedAt": "2026-11-17T23:17:11.518Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -18,6 +18,12 @@
       "room": 1,
       "wall": "back",
       "count": 24
+    },
+    {
+      "genre": "X-Mas",
+      "room": 1,
+      "wall": "back",
+      "count": 0
     },
     {
       "genre": "RomCom",
@@ -47,7 +53,7 @@
       "genre": "Drama",
       "room": 1,
       "wall": "right",
-      "count": 23
+      "count": 22
     },
     {
       "genre": "Dokus",
@@ -99,6 +105,12 @@
     },
     {
       "genre": "Fantasy",
+      "room": 2,
+      "wall": "left",
+      "count": 0
+    },
+    {
+      "genre": "Heroes",
       "room": 2,
       "wall": "left",
       "count": 0
@@ -1919,16 +1931,6 @@
       "tmdbId": 451204,
       "genre": "Drama",
       "url": "https://www.amazon.de/gp/video/detail/B0GV8KL6T5?&linkCode=ll2&tag=ajsretro-21&linkId=d3574ade7758d6e03b0b59a9d23e3872&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Life of a King - Think before you move",
-      "genre": "Drama",
-      "url": "https://www.amazon.de/gp/video/detail/B0FZPGV4C5?&linkCode=ll2&tag=ajsretro-21&linkId=9007ca27ee30482b3d5a1d4981905c2f&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2013",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "Young Adult",
