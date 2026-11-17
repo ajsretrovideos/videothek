@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:33:12.562Z",
+  "generatedAt": "2026-11-17T22:49:58.471Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -53,7 +53,7 @@
       "genre": "Dokus",
       "room": 1,
       "wall": "right",
-      "count": 23
+      "count": 13
     },
     {
       "genre": "Sportfilme",
@@ -419,16 +419,17 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GXQ8X5VP?&linkCode=ll2&tag=ajsretro-21&linkId=6d5b60540122a04d677cf2fcc7695005&ref_=as_li_ss_tl"
     },
     {
-      "title": "RZR Cyber Protocol",
-      "originalTitle": "RZR Cyber Protocol",
+      "title": "Cyber Protocol",
+      "originalTitle": "Cyber Protocol",
       "year": "2026",
       "genres": [
-        "Science Fiction"
+        "Science Fiction",
+        "Thriller"
       ],
       "runtime": "118",
       "rating": "7.5",
       "overview": "Ein Science-Fiction-Thriller, der in einer dystopischen Welt voller neuronaler Implantate, künstlicher Intelligenz, Kryptowährungen und Schwarzmarktkriminalität spielt.",
-      "poster": "https://image.tmdb.org/t/p/w500/awGlMUW2OYflNDqd0BlwMs9wafZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/btU6HHsmB90kSlrwaQRAPp01rGk.jpg",
       "director": "Yuri Alves",
       "cast": [
         "David Bianchi",
@@ -2842,6 +2843,30 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DWZNRZZZ?&linkCode=ll2&tag=ajsretro-21&linkId=985caa8752e0fe4d1ff707643272700d&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Critic",
+      "originalTitle": "The Critic",
+      "year": "2024",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama",
+        "Mystery"
+      ],
+      "runtime": "101",
+      "rating": "5.8",
+      "overview": "London, 1934: Als der berüchtigte Theaterkritiker Jimmy Erskine seinen Job wie seinen hedonistischen Lebensstil gefährdet sieht, spinnt er ein gefährliches Netz aus Intrige und Erpressung. Schauspiellegende Ian McKellen glänzt in dem packenden Thriller THE CRITIC als faszinierender Antiheld im Mittelpunkt eines Faust’schen Pakts.",
+      "poster": "https://image.tmdb.org/t/p/w500/bD6XBCrqZQOHrxrucAU1NR8dGzY.jpg",
+      "director": "Anand Tucker",
+      "cast": [
+        "Ian McKellen",
+        "Gemma Arterton",
+        "Mark Strong"
+      ],
+      "tmdbId": 992940,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0FY63Z9F7?&linkCode=ll2&tag=ajsretro-21&linkId=ad660c285eecf6de1f0769b602ef2c9d&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Bark - Nichts bleibt verborgen",
       "originalTitle": "Bark",
       "year": "2024",
@@ -2955,6 +2980,74 @@
       "url": "https://www.amazon.de/gp/video/detail/B0B8MH2RTV?&linkCode=ll2&tag=ajsretro-21&linkId=72b5c96dff1830de3ab827bef358b1a5&ref_=as_li_ss_tl"
     },
     {
+      "title": "Nightmare Alley",
+      "originalTitle": "Nightmare Alley",
+      "year": "2021",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "146",
+      "rating": "6.9",
+      "overview": "Als der charismatische, aber vom Pech verfolgte Stanton Carlisle  auf einem Jahrmarkt die Hellseherin Zeena  und ihren Mann und Mentalisten Pete kennenlernt, wittert er seine Chance. Er nutzt die Gelegenheit, lernt von ihnen was er nur kann und nutzt sein neu erworbenes Wissen, um die wohlhabende Elite der New Yorker Gesellschaft der 40er Jahre auszunehmen. Mit der ihm treu ergebenen Molly, plant Stanton den gefährlichen Tycoon Ezra Grindle  zu betrügen. Eine mysteriöse Psychiaterin soll ihm dabei helfen. Doch ausgerechnet sie könnte sich als seine bisher gefährlichste Gegnerin erweisen.",
+      "poster": "https://image.tmdb.org/t/p/w500/mLpXCkkR8GaBqmN1XZXxeQ55Fbt.jpg",
+      "director": "Guillermo del Toro",
+      "cast": [
+        "Bradley Cooper",
+        "Cate Blanchett",
+        "Toni Collette"
+      ],
+      "tmdbId": 597208,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6TGSKH8?&linkCode=ll2&tag=ajsretro-21&linkId=c0d35770ed89d980fa4288e6cb4fd02e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "No Sudden Move",
+      "originalTitle": "No Sudden Move",
+      "year": "2021",
+      "genres": [
+        "Krimi",
+        "Thriller"
+      ],
+      "runtime": "115",
+      "rating": "6.4",
+      "overview": "Curt Goynes (Don Cheadle) kommt frisch aus dem Gefängnis und hat direkt wieder Ärger: Er wird in die Machenschaften des afroamerikanischen Verbrechersyndikats von Detroit verstrickt. Seine Chance, dem Ärger zu entgehen, besteht in einem Job, den ihm der zwielichtige Mittelsmann Jones (Brendan Fraser) anbietet. Curt soll einen Babysitter-Job für die Familie des einfachen Autoverkäufers Matt Wertz (David Harbour) übernehmen – und findet sich plötzlich mit zwei anderen Kleinkriminellen, Ronald Russo (Benicio Del Toro) und Charley Barnes (Kieran Culkin), im Haus der Familie des Autoverkäufers wieder. Bald darauf gehen die Dinge so richtig schief. Curt und Ronald geraten mitten rein in den Kampf der lokalen Verbrecherwelt, bei dem es um ein Stück Papier in einem Safe geht. Auch die Polizei tritt auf und Detective Joe Finney (Jon Hamm) macht die Sache dabei für alle beteiligten Gangster noch unangenehmer, als sie eh schon ist.",
+      "poster": "https://image.tmdb.org/t/p/w500/sxOkdeaAgk46OeAtglnDVY1823a.jpg",
+      "director": "Steven Soderbergh",
+      "cast": [
+        "Don Cheadle",
+        "Benicio del Toro",
+        "David Harbour"
+      ],
+      "tmdbId": 649409,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6VJKYK1?&linkCode=ll2&tag=ajsretro-21&linkId=78ff65c71e9f2ff245025bd6ab10b765&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Night Clerk",
+      "originalTitle": "The Night Clerk",
+      "year": "2020",
+      "genres": [
+        "Thriller",
+        "Krimi",
+        "Drama"
+      ],
+      "runtime": "90",
+      "rating": "6.2",
+      "overview": "Bart Bromley leidet an Autismus und arbeitet hart daran, seinem Zustand die Stirn zu bieten. Er arbeitet als Hotelnachtwächter und installiert Überwachungskameras, um die Gäste heimlich zu beobachten - das soll seiner Sozialkompetenz auf die Sprünge helfen. Während einer seiner Schichten wird eine Frau ermordet, Bart gerät in den Fokus der polizeilichen Ermittlungen. Seine Aufnahmen könnten seine Unschuld beweisen, doch er will sie der Polizei nicht aushändigen.",
+      "poster": "https://image.tmdb.org/t/p/w500/oXUePs6sLkLs77TVifiyRerHsRU.jpg",
+      "director": "Michael Cristofer",
+      "cast": [
+        "Tye Sheridan",
+        "Ana de Armas",
+        "John Leguizamo"
+      ],
+      "tmdbId": 526007,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXGP4945?&linkCode=ll2&tag=ajsretro-21&linkId=dcf35a36a9fc7ae1db9c494ebcad71ca&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Just Mercy",
       "originalTitle": "Just Mercy",
       "year": "2019",
@@ -2976,6 +3069,29 @@
       "tmdbId": 522212,
       "genre": "Thrill",
       "url": "https://www.amazon.de/gp/video/detail/B0D62Y7LN3?&linkCode=ll2&tag=ajsretro-21&linkId=4828957dabbc0552caa22e3247314a76&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Villains",
+      "originalTitle": "Villains",
+      "year": "2019",
+      "genres": [
+        "Komödie",
+        "Horror",
+        "Thriller"
+      ],
+      "runtime": "90",
+      "rating": "6.2",
+      "overview": "Mickey und Jules ein Liebespaar auf der Flucht, das nach einem Tankstellenraub, im Sunshine State einen Neuanfang beginnen will. Der Raub geht schief, ihr Wagen bleibt liegen. Sie brechen in ein nahegelegenes Haus ein und suchen dort nach brauchbaren Ersatzteilen. Was sie stattdessen finden, sind scheinbar reizende Hausbesitzer mit einem dunklen sadistischen Geheimnis, die alles daran setzen, dass dieses nicht ans Tageslicht kommt.",
+      "poster": "https://image.tmdb.org/t/p/w500/Arefq9eI1z94Jtrbbuqzg9p5mf8.jpg",
+      "director": "Robert Olsen",
+      "cast": [
+        "Bill Skarsgård",
+        "Maika Monroe",
+        "Kyra Sedgwick"
+      ],
+      "tmdbId": 510388,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN9BL9NS?&linkCode=ll2&tag=ajsretro-21&linkId=e154e60f09b9e90971c0c1b7de4ba200&ref_=as_li_ss_tl"
     },
     {
       "title": "The Hate U Give",
@@ -3000,25 +3116,105 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GGXF6K37?&linkCode=ll2&tag=ajsretro-21&linkId=84360a7a03da2055fc20a063db5ac540&ref_=as_li_ss_tl"
     },
     {
-      "title": "Der Richter - Recht oder Ehre",
-      "originalTitle": "The Judge",
+      "title": "The Book of Henry",
+      "originalTitle": "The Book of Henry",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ],
+      "runtime": "106",
+      "rating": "7.5",
+      "overview": "Die Dinge sind nicht immer so, wie sie zu sein scheinen - vor allem nicht in dem kleinen Vorort, in dem die Familie Carpenter lebt.  Susan arbeitet als Kellnerin in einem Diner, um als alleinerziehende Mutter ihre beiden Söhne versorgen zu können – den achtjährigen Peter, der die meiste Zeit mit seinen Spielsachen verbringt und den drei Jahre älteren, hochbegabten Henry. Henry hält das Gefüge zusammen und schafft es, auf seine eigene ganz besondere Art und Weise, für alles und jeden im Haushalt zu sorgen. Als Beschützer seines liebenswürdigen kleinen Bruders und unermüdlicher Unterstützer seiner oftmals überforderten Mutter, bewältigt er den Alltag seiner Familie quasi im Alleingang.  Vermeintlich friedlich wirkt das Haus nebenan – hier lebt Henrys Schulkameradin Christina , zusammen mit ihrem Stiefvater Glenn.  Als Henry Näheres über die Geschehnisse im Nachbarhaus erfährt, erstellt er einen ausgetüftelten Rettungsplan.",
+      "poster": "https://image.tmdb.org/t/p/w500/quE8ILsp2jWb9YISaJyMjSRvLuS.jpg",
+      "director": "Colin Trevorrow",
+      "cast": [
+        "Naomi Watts",
+        "Jaeden Martell",
+        "Jacob Tremblay"
+      ],
+      "tmdbId": 382614,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0DZB1FDGC?&linkCode=ll2&tag=ajsretro-21&linkId=c51731689470183ecf574c4532d3d347&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Shock and Awe - Krieg der Lügen",
+      "originalTitle": "Shock and Awe",
+      "year": "2017",
+      "genres": [
+        "Historie",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "90",
+      "rating": "6.3",
+      "overview": "Am 11. September 2001 wurde das World Trade Center von der Terrororganisation Al-Qaida zerstört. Inmitten des darauf folgenden Chaos hörten die Reporter des Nachrichtendienstes Knight-Ridder, Jonathan Landay und Warren Strobel unter der Leitung von John Walcott, merkwürdige Berichte, wonach die Regierung von Präsident Bush weniger daran interessiert war, den Al-Qaida-Anführer Osama Bin Laden zu finden, als vielmehr den säkularen Diktator des Irak, Saddam Hussein, dafür verantwortlich zu machen.",
+      "poster": "https://image.tmdb.org/t/p/w500/iFq20m9hXcvACcDMBJg770fHqKR.jpg",
+      "director": "Rob Reiner",
+      "cast": [
+        "Woody Harrelson",
+        "James Marsden",
+        "Rob Reiner"
+      ],
+      "tmdbId": 476335,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJ46Y6NP?&linkCode=ll2&tag=ajsretro-21&linkId=f11b3e4e5ab50f4228aa9e1b4a76547e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Complete Unknown - Du bist, wer Du vorgibst zu sein",
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0H9ZR72FN?&linkCode=ll2&tag=ajsretro-21&linkId=32b2cb6e1553f536614a7252f0cfd6fa&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2016",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
+      "title": "True Story - Spiel um Macht",
+      "originalTitle": "True Story",
+      "year": "2015",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Historie"
+      ],
+      "runtime": "100",
+      "rating": "6.3",
+      "overview": "Der Journalist Michael Finkel hat sich bis an die Spitze geschrieben, davon zeugen die gerahmten Magazincover an seiner Bürowand und vor allem der Name seines Arbeitgebers \"New York Times\". Doch Finkel begeht einen journalistischen Kardinalfehler. Für seinen neuen Artikel verlässt er sich nicht auf Fakten, sondern bedient sich seiner Vorstellungskraft – und wird gefeuert. Gar nicht schlecht, findet Finkels Freundin Jill, denn die Arbeit für die Times sei ihm sowieso nicht bekommen. Doch bald wartet neuer Stoff, eine Geschichte von großer Brisanz. Der inhaftierte Christian Longo, der seine Familie umgebracht haben soll, kontaktiert den Journalisten und bietet ihm Insiderinformationen über die blutigen Ereignisse. Zwischen dem Verdächtigen, der sich bei seiner Verhaftung als Finkel ausgegeben hatte, und dem Journalisten entsteht eine Vertrauensbeziehung mit potenziell gefährlichen Folgen…",
+      "poster": "https://image.tmdb.org/t/p/w500/dib0gXxAgYH0Ovs5fkH19yqsh7w.jpg",
+      "director": "Rupert Goold",
+      "cast": [
+        "Jonah Hill",
+        "James Franco",
+        "Felicity Jones"
+      ],
+      "tmdbId": 245706,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0CKF4QB19?&linkCode=ll2&tag=ajsretro-21&linkId=40e7e37df8e006a64a7177ce118e9557&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Drop - Bargeld",
+      "originalTitle": "The Drop",
       "year": "2014",
       "genres": [
-        "Drama"
+        "Drama",
+        "Krimi"
       ],
-      "runtime": "141",
-      "rating": "7.3",
-      "overview": "Der smarte Hank Palmer hat seinem kleinen Geburtsort schon vor Jahren den Rücken gekehrt und arbeitet seither als erfolgreicher Anwalt in der Großstadt. Nicht nur räumlich hat er sich weiterbewegt, auch zu seiner Familie hat Hank den Kontakt längst abgebrochen. Als er vom Tod seiner Mutter erfährt, kehrt er das erste Mal nach langer Zeit nach Hause zurück, wenn auch nur sehr widerwillig. Nach seiner Ankunft wird der Großstädter auch gleich mit weiteren familiären Problemen konfrontiert: Sein Vater Joseph, der vor seinem Ruhestand als Richter des Städtchens fungierte, ist an Alzheimer erkrankt und wird des Mordes angeklagt. Um diesen Anschuldigungen zu begegnen, übernimmt Hank die Verteidigung seines Vaters vor Gericht. Durch die Krankheit wird der Beweis der Unschuld jedoch erheblich erschwert und Hank findet in seinen persönlichen Ermittlungen mehr über die Familie heraus als ihm lieb ist...",
-      "poster": "https://image.tmdb.org/t/p/w500/yZjvpdgHw2CbCdlCraRlAXe4oC0.jpg",
-      "director": "David Dobkin",
+      "runtime": "106",
+      "rating": "6.8",
+      "overview": "Der Barkeeper und ehemalige Kriminelle Bob Saginowski versucht, seinen Kopf irgendwie über Wasser zu halten. Die Bar, die er zusammen mit seinem Cousin Marv in einem Brennpunkt Brooklyns betreibt, ist regelmäßiger Anlaufpunkt für Gangster des Viertels und wird auch als Möglichkeit zur Geldwäsche missbraucht. So richtig kompliziert wird der Alltag für Saginowski und seine Freundin Nadia aber erst, als sie einen verwundeten Pitbull-Welpen in einer Mülltonne finden und bei sich aufnehmen und wenig später die Bar von Gangstern ausgeraubt wird. Sofort verlangt die örtliche Unterwelt ihr Geld zurück, egal wie. Bob und Marv müssen sich auf ihre Qualitäten aus scheinbar längst geschlossenen Kapiteln ihres Lebens verlassen und mit harten Bandagen die Räuber aufspüren.",
+      "poster": "https://image.tmdb.org/t/p/w500/oPJSZrl68dzPQj9zGkqvOOkjE1U.jpg",
+      "director": "Michaël R. Roskam",
       "cast": [
-        "Robert Downey Jr.",
-        "Robert Duvall",
-        "Vera Farmiga"
+        "Tom Hardy",
+        "Noomi Rapace",
+        "James Gandolfini"
       ],
-      "tmdbId": 205587,
+      "tmdbId": 154400,
       "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0DRWH9C5L?&linkCode=ll2&tag=ajsretro-21&linkId=a91a5077a74f7037a9cc626361a729b2&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0CVQCT9F8?&linkCode=ll2&tag=ajsretro-21&linkId=2ea680060dcc20202f4653d1066cacc7&ref_=as_li_ss_tl"
     },
     {
       "title": "The Place Beyond the Pines",
@@ -3089,6 +3285,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B00FYTAX22?&linkCode=ll2&tag=ajsretro-21&linkId=95bd14496c5acf4e13f2c1d2a890ac39&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Factory",
+      "originalTitle": "The Factory",
+      "year": "2012",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Mystery"
+      ],
+      "runtime": "108",
+      "rating": "5.6",
+      "overview": "Die Statistik besagt, falls eine Entführung nicht innerhalb der ersten 48 Stunden aufgeklärt wird, bleibt das Opfer für immer verschwunden. Für den Polizisten Mike Fletcher wird diese Statistik zur bitteren Wahrheit: Seine eigene Tochter wird entführt! Damit beginnt die Jagd nach einem wahnsinnigen Serientäter, bei der Fletcher mit Hilfe seiner Kollegin Kelsey Walker alle Regeln und Gesetze bricht -- während seine Tochter sich einem grausamen Schicksal in einem Kellerverlies stellen muss.",
+      "poster": "https://image.tmdb.org/t/p/w500/rgUHYrbMycN8VTrLAFVqFladDFM.jpg",
+      "director": "Morgan O'Neill",
+      "cast": [
+        "John Cusack",
+        "Jennifer Carpenter",
+        "Mae Whitman"
+      ],
+      "tmdbId": 136911,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0HNHLHBQM?&linkCode=ll2&tag=ajsretro-21&linkId=e4928d6f29e76642a4e010fd1e6f010e&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Headhunters",
       "originalTitle": "Hodejegerne",
       "year": "2011",
@@ -3110,231 +3329,6 @@
       "tmdbId": 70670,
       "genre": "Thrill",
       "url": "https://www.amazon.de/gp/video/detail/B0HGFTC972?&linkCode=ll2&tag=ajsretro-21&linkId=b3563d7bb335b0f9977f80927d9e79ac&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Salt",
-      "originalTitle": "Salt",
-      "year": "2010",
-      "genres": [
-        "Action",
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime": "100",
-      "rating": "6.4",
-      "overview": "Evelyn Salt genießt bei der CIA den Ruf, eine der besten Agentinnen des Geheimdienstes zu sein. Loyalität und Patriotismus stehen bei ihr an vorderster Stelle. Niemand würde ihre Integrität in Frage stellen. Bis ein Überläufer sie beschuldigt, eine russische Spionin zu sein. Salt setzt sich ab. Während sie ihre gesammelten Fähigkeiten einsetzt, um ihre Verfolger zu täuschen und abzuschütteln, müht sie sich darum, ihre Unschuld zu beweisen. Damit bewirkt sie aber nur das Gegenteil. Offenbar gibt es ein Geheimnis, von dem keiner erfahren soll.",
-      "poster": "https://image.tmdb.org/t/p/w500/ywlfN9ZiRJSxVsxEWEY5U0Ixo7S.jpg",
-      "director": "Phillip Noyce",
-      "cast": [
-        "Angelina Jolie",
-        "Liev Schreiber",
-        "Chiwetel Ejiofor"
-      ],
-      "tmdbId": 27576,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0GXZPCYP9?&linkCode=ll2&tag=ajsretro-21&linkId=d815ea8a4f69ec48ab018ec1d89026e3&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Gone Baby Gone - Kein Kinderspiel",
-      "originalTitle": "Gone Baby Gone",
-      "year": "2007",
-      "genres": [
-        "Krimi",
-        "Drama",
-        "Mystery"
-      ],
-      "runtime": "114",
-      "rating": "7.3",
-      "overview": "In einem der ärmeren Viertel Bostons kommt es zu einem tragischen Vorfall: die 4-jährige Amanda McCready verschwindet spurlos aus der eigenen Wohnung, in der sie mit ihrer drogenabhängigen Mutter Helene wohnt. Diese vernachlässigte sie schon seit geraumer Zeit und auch an diesem Abend vergnügte sie sich mit ihrem Liebhaber Ray in einer Bar, anstatt auf ihr Kind aufzupassen. Amandas Onkel Lionel und seine Frau Beatrice schalten zusätzlich die beiden Privatdetektive Patrick Kenzie und seine Freundin Angie Gennaro ein, die die Polizei, unter der Führung von Jack Doyle, bei der Suche unterstützen sollen. Erst einige Informationen, die Helene Patrick und Angie zukommen lässt, der Polizei aber verschwieg, bringen sie auf eine erste Spur. Gemeinsam mit den Detectives Bressant und Poole verfolgen sie den Drogendealer Cheese, dem Helene und Ray Geld klauten. Allerdings ist das erst der Anfang der Ermittlungen...",
-      "poster": "https://image.tmdb.org/t/p/w500/w98tAPUjNPxGAMCipNDWDt8PJo.jpg",
-      "director": "Ben Affleck",
-      "cast": [
-        "Casey Affleck",
-        "Michelle Monaghan",
-        "Morgan Freeman"
-      ],
-      "tmdbId": 4771,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0H8TJP1GT?&linkCode=ll2&tag=ajsretro-21&linkId=175464ac56f3adc7dcff4cf2c290de9e&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Machtlos",
-      "originalTitle": "Rendition",
-      "year": "2007",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime": "122",
-      "rating": "6.4",
-      "overview": "Das Leben der El-Ibrahims verändert sich von Grund auf, als Anwar El-Ibrahim nach seinem Südafrika Aufenthalt nicht bei seiner Frau Izabella in den Vereinigten Staaten eintrifft. Izabella versucht verzweifelt etwas über den Verbleib ihres Gatten in Erfahrung zu bringen wobei sie feststellen muss, dass die CIA ihn ins Ausland entführt hat. Im Namen der nationalen Sicherheit wird Anwar von der Homeland Security als unmittelbare, terroristische Bedrohung eingestuft und daraufhin in ein Gefangenlager deportiert. Dort arbeitet zum Zeitpunkt seines Eintreffens ein junger, aufstrebender CIA-Analyst Douglas Freeman, welcher einer brutalen Befragung El-Ibrahims beiwohnen muss. Aufgrund dieses menschenverachtenden Verhörs stellt Douglas die Vorgehensweise seines Arbeitgebers in Frage und sucht nach einer plausiblen Rechtfertigung dieser unvertretbaren Strategie im Kampf gegen den Terrorismus.",
-      "poster": "https://image.tmdb.org/t/p/w500/vSTuRlhbtAbUf9FdgGGiYjWMCRC.jpg",
-      "director": "Gavin Hood",
-      "cast": [
-        "Reese Witherspoon",
-        "Jake Gyllenhaal",
-        "Meryl Streep"
-      ],
-      "tmdbId": 5125,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B00J8VOC6U?&linkCode=ll2&tag=ajsretro-21&linkId=769c5a78a279a6490a1ea69fc0aef197&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Red Eye - Nachtflug in den Tod",
-      "originalTitle": "Red Eye",
-      "year": "2005",
-      "genres": [
-        "Thriller",
-        "Mystery"
-      ],
-      "runtime": "86",
-      "rating": "6.4",
-      "overview": "Lisa Reisert hat panische Flugangst, doch sie muss nach Miami und deshalb überwindet sie ihre Angst und steigt in ein Flugzeug - ein fataler Fehler wie sich schnell herausstellt. Kurz nach Start der Maschine stellt sich ihr Nachbar Jackson Rippner als Auftragskiller vor, der auf diesem Flug einen Mord verüben soll. Dafür braucht er allerdings Lisa, mit deren Hilfe er einen Geschäftsmann umbringen soll. Als sie nicht einwilligt, weiß er sich zu wehren und erpresst sie: Wenn sie ihm nicht hilft, stirbt ihr Vater Joe",
-      "poster": "https://image.tmdb.org/t/p/w500/ylWzfTbFqZBfZf58KAtw8Ibwsue.jpg",
-      "director": "Wes Craven",
-      "cast": [
-        "Rachel McAdams",
-        "Cillian Murphy",
-        "Brian Cox"
-      ],
-      "tmdbId": 11460,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0HL5CKLB4?&linkCode=ll2&tag=ajsretro-21&linkId=0608c563a0a7666db4f0dd7571f3be74&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Syriana",
-      "originalTitle": "Syriana",
-      "year": "2005",
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "runtime": "128",
-      "rating": "6.4",
-      "overview": "Der langjährige CIA-Agent und Terrorismusexperte Robert Baer muss mit Erschrecken feststellen, dass die CIA trotz wachsender Terrorgefahr seine Budgets kürzt. Gleichzeitig widerfährt dem Öl-Makler Bryan Woodman und seiner Frau Julie eine familiäre Tragödie, durch die er sich mit dem idealistischen persischen Prinzen Nasir anfreundet. Außerdem wird der Anwalt Bennett Holiday von Gewissensbissen geplagt, nachdem er die fragwürdige Fusion zweier Öl-Konzerne einfädelte.",
-      "poster": "https://image.tmdb.org/t/p/w500/mO3hWUTOxmLJxihvDU0YFkb0Mb5.jpg",
-      "director": "Stephen Gaghan",
-      "cast": [
-        "George Clooney",
-        "Matt Damon",
-        "Jeffrey Wright"
-      ],
-      "tmdbId": 231,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0GSS2WJ5N?&linkCode=ll2&tag=ajsretro-21&linkId=0b270ea30d5465d0e37c34bb37a95043&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "The Village - Das Dorf",
-      "originalTitle": "The Village",
-      "year": "2004",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "runtime": "108",
-      "rating": "6.5",
-      "overview": "Ein dunkles Geheimnis umgibt das verlassene Covington, ein 60-Seelen-Dörfchen wie aus dem Bilderbuch, das in den Wäldern von Pennsylvania seit Jahren komplett von der Außenwelt abgeschnitten ist. Man sagt, der undurchdringliche Wald sei von unheimlichen Wesen bevölkert, und die Angst der Dorfbewohner sorgt dafür, dass kein Einwohner auch nur jemals einen Fuß vor die Stadtgrenzen setzt. Als sich der junge Lucius in Kitty verliebt und mit ihr Covington verlassen möchte, bricht er mit seinem Vorhaben ein ungeschriebenes Gesetz. Dabei entdecken sie ein furchtbares Geheimnis ...",
-      "poster": "https://image.tmdb.org/t/p/w500/9casGIPs9wWjY2mL7xttfYmeX0O.jpg",
-      "director": "M. Night Shyamalan",
-      "cast": [
-        "Bryce Dallas Howard",
-        "Joaquin Phoenix",
-        "Adrien Brody"
-      ],
-      "tmdbId": 6947,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0FNWP2X99?&linkCode=ll2&tag=ajsretro-21&linkId=d48a93e7910ad49be654494907daee0b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Catch Me If You Can",
-      "originalTitle": "Catch Me If You Can",
-      "year": "2002",
-      "genres": [
-        "Drama",
-        "Krimi"
-      ],
-      "runtime": "141",
-      "rating": "8.0",
-      "overview": "Frank W. Abagnale war nicht nur als Arzt und Rechtsanwalt erfolgreich, sondern auch als Copilot einer großen Fluglinie. Das alles erreichte er vor seinem 21. Geburtstag. Er ist ein Meister der Täuschung, aber auch ein brillanter Fälscher. Durch geschickte Scheckbetrügereien ist er zu einem Vermögen von mehreren Millionen Dollar gekommen. FBI-Agent Carl Hanratty hat ihn schon länger im Visier und macht sich zur Aufgabe, Frank zu fassen und vor Gericht zu bringen. Frank ist ihm jedoch immer einen Schritt voraus und macht sich einen Spaß daraus, seinem Verfolger kleine Köder vorzuwerfen, damit die Jagd weiter geht…",
-      "poster": "https://image.tmdb.org/t/p/w500/bJLrws4RmIw6UdXQJ6Ok4UOvKo0.jpg",
-      "director": "Steven Spielberg",
-      "cast": [
-        "Leonardo DiCaprio",
-        "Tom Hanks",
-        "Christopher Walken"
-      ],
-      "tmdbId": 640,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0HK9Q3TXY?&linkCode=ll2&tag=ajsretro-21&linkId=a90e9f339991994d5768b57ed22164ff&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Insomnia - Schlaflos",
-      "originalTitle": "Insomnia",
-      "year": "2002",
-      "genres": [
-        "Thriller",
-        "Krimi",
-        "Drama"
-      ],
-      "runtime": "118",
-      "rating": "7.0",
-      "overview": "Der berühmte Detective Will Dormer aus Los Angeles fliegt mit seinem Partner Hap Eckhart nach Nightmute/Alaska, weil dort ein alter Bekannter, Chief Nyback, in einem undurchsichtigen Mordfall Hilfe braucht. Ganz freiwillig sind Will und Hap allerdings nicht ans Ende der Welt geflogen: Nyback weiß bereits, dass die Polizeiaufsicht von L.A. eine interne Untersuchung gegen die beiden Cops eingeleitet hat…",
-      "poster": "https://image.tmdb.org/t/p/w500/nDjJyjHkNfWllvBVsbA7BIB7J8C.jpg",
-      "director": "Christopher Nolan",
-      "cast": [
-        "Al Pacino",
-        "Robin Williams",
-        "Hilary Swank"
-      ],
-      "tmdbId": 320,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0CM54ZVBL?&linkCode=ll2&tag=ajsretro-21&linkId=586bbff4150a6e4fc5ce201037a24054&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Das Tribunal",
-      "originalTitle": "Hart's War",
-      "year": "2002",
-      "genres": [
-        "Drama",
-        "Kriegsfilm"
-      ],
-      "runtime": "125",
-      "rating": "6.4",
-      "overview": "Der zweite Weltkrieg, ein Kriegsgefangenenlager für US-Soldaten bei Augsburg. US-Lieutenant Thomas Hart wird von dem höchsten gefangenen Offizier McNamara  in eine gemeine Soldatenbaracke gesperrt. Dort kommen auch zwei schwarze Kampfpiloten unter, die sich ständig rassistischer Attacken erwehren müssen. Eines Tages findet man eine Waffe bei einem von Ihnen, der daraufhin hingerichtet wird. Am nächsten Tag liegt der Anführer der Rassisten tot in der Baracke. Sein Freund gerät unter Verdacht und kommt vor ein Tribunal, daß der deutsche Lagerkommandant die allierten Gefangenen selbst führen läßt. Hart wird mit der Verteidigung beauftragt und merkt bald, daß McNamara mit der Verhandlung ganz eigene Pläne verfolgt...",
-      "poster": "https://image.tmdb.org/t/p/w500/cvj5HSRNnuzDLZeBIV7Y4xkdq0b.jpg",
-      "director": "Gregory Hoblit",
-      "cast": [
-        "Bruce Willis",
-        "Colin Farrell",
-        "Terrence Howard"
-      ],
-      "tmdbId": 10592,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0GYS5G7R2?&linkCode=ll2&tag=ajsretro-21&linkId=6561fee5dc59856f0957f4a98a099055&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Der talentierte Mr. Ripley",
-      "originalTitle": "The Talented Mr. Ripley",
-      "year": "1999",
-      "genres": [
-        "Thriller",
-        "Krimi",
-        "Drama"
-      ],
-      "runtime": "139",
-      "rating": "7.2",
-      "overview": "Der mittellose Tom Ripley erhält den Auftrag, nach Italien zu reisen, um seinen Altersgenossen, den jungen amerikanischen Playboy Dickie Greenleaf zu überreden, in die USA zurückzukehren. Dickie aber bleibt hartnäckig und zieht es vor, weiterhin das Dolce Vita mit seiner reizenden Verlobten Marge zu genießen. Tom beneidet Dickie um das Leben, das er führt. Eines Tages, während einer gemeinsamen Reise zum Jazzfestival von San Remo, kommt es zu einer Rauferei, die fast aus Versehen beginnt, sich aber zum todernsten Kampf ausweitet. Mit viel Talent schlüpft Tom Ripley von nun an in die Haut des getöteten Dickie Greenleaf, eignet sich seinen Lebensstil an und will alles hinter sich lassen. Er genießt sein Leben am Abgrund, denn einige Menschen, die Dickie Greenleaf nahe standen, stellen sich natürlich Fragen: Ist es möglich, dass jemand, selbst wenn er so extrem launisch ist wie Dickie, einfach verschwindet?",
-      "poster": "https://image.tmdb.org/t/p/w500/8YlmaxQTBiqVSAbW6Vc8VKPBdYg.jpg",
-      "director": "Anthony Minghella",
-      "cast": [
-        "Matt Damon",
-        "Gwyneth Paltrow",
-        "Jude Law"
-      ],
-      "tmdbId": 1213,
-      "genre": "Thrill",
-      "url": "https://www.amazon.de/gp/video/detail/B0HC56139L?&linkCode=ll2&tag=ajsretro-21&linkId=2cee34fb87f9c7588629832bc35a2e1a&ref_=as_li_ss_tl"
     },
     {
       "title": "Teenage Sex and Death at Camp Miasma",
@@ -6572,26 +6566,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H16V3Y9F?&linkCode=ll2&tag=ajsretro-21&linkId=9b1ce718e09fb5e806bc33af79020359&ref_=as_li_ss_tl"
     },
     {
-      "title": "Jenseits von \"Top Secret\" - Die Ära der Enthüllung",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0HKG4WRTR?&linkCode=ll2&tag=ajsretro-21&linkId=bdab5e3cbc414ddb78231a1fb5d6f0c0&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2026",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
-      "title": "Mammutjäger",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0GVZRF9WT?&linkCode=ll2&tag=ajsretro-21&linkId=6458dbe62987b380da62dc3198c5ed8e&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2025",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
       "title": "Röbi geht",
       "originalTitle": "Röbi geht",
       "year": "2023",
@@ -6607,16 +6581,6 @@
       "tmdbId": 1110385,
       "genre": "Dokus",
       "url": "https://www.amazon.de/gp/video/detail/B0FQV4PY1V?&linkCode=ll2&tag=ajsretro-21&linkId=b42ee1ce04f980fc442d69fa12c7cc95&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ungebunden",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0F1GF29HT?&linkCode=ll2&tag=ajsretro-21&linkId=9ee8a2a1575db844ca3d8d6c974c987f&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2024",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "The Bad Guy",
@@ -6658,26 +6622,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HFF63HDX?&linkCode=ll2&tag=ajsretro-21&linkId=637ffe1f5d53cac03ee9c7a50f990078&ref_=as_li_ss_tl"
     },
     {
-      "title": "Trollsturm",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0D28HCTYC?&linkCode=ll2&tag=ajsretro-21&linkId=19c7f62dc6e178dba801d7232ec046df&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2024",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
-      "title": "Leben an Bord",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0DLLFTDL9?&linkCode=ll2&tag=ajsretro-21&linkId=92566553bba6656e243556d59b1c4ff3&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2024",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
       "title": "Jeff Koons: A Private Portrait",
       "originalTitle": "Jeff Koons - Un ritratto privato",
       "year": "2023",
@@ -6714,46 +6658,6 @@
       "tmdbId": 1058652,
       "genre": "Dokus",
       "url": "https://www.amazon.de/gp/video/detail/B0F7JGPXLW?&linkCode=ll2&tag=ajsretro-21&linkId=b9d385968888a22abc1d9401dee63000&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Loch Ness: Sie schufen ein Monster",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0FX32KB1S?&linkCode=ll2&tag=ajsretro-21&linkId=c1b20a861455dcd5197e5726bc81134e&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2023",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
-      "title": "Unter tödlichem Himmel: Die Ostfront der Ukraine",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0CGYDPMTR?&linkCode=ll2&tag=ajsretro-21&linkId=6f8cf5bf2035460b74332309587ccf72&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2023",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
-      "title": "Unter dem Himmel von Damaskus",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0D9LV65SJ?&linkCode=ll2&tag=ajsretro-21&linkId=b8ad3bb8491d5ec5099985fa40cef68e&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2023",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
-      "title": "Schöner Jackson",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0DZ2BMMP1?&linkCode=ll2&tag=ajsretro-21&linkId=b95e471ba877a47dad37a83ee6943a56&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2022",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "Summer of Soul (...Or, When the Revolution Could Not Be Televised)",
@@ -6839,16 +6743,6 @@
       "tmdbId": 667444,
       "genre": "Dokus",
       "url": "https://www.amazon.de/gp/video/detail/B0DK9J98RR?&linkCode=ll2&tag=ajsretro-21&linkId=49c9f51d38d982cd2e129dc1ee192fe1&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ein Wurm im Herzen",
-      "genre": "Dokus",
-      "url": "https://www.amazon.de/gp/video/detail/B0C8Y41P4L?&linkCode=ll2&tag=ajsretro-21&linkId=54a840ce31b978f9511366afc9cf4b12&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2020",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "Momentum Generation",
