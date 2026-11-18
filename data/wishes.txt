@@ -22,6 +22,9 @@ Toy Story 5 | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H9ZLPJ9
 Paw Patrol: Der Dino Film | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HCK4NBYJ?&linkCode=ll2&tag=ajsretro-21&linkId=4a3dcfa99e671463929cab35f9d6ebea&ref_=as_li_ss_tl
 Minions & Monster | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H61Y7RV6?&linkCode=ll2&tag=ajsretro-21&linkId=23be5f9cc40c796bfd4764508c939a58&ref_=as_li_ss_tl
 The Deputy | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl
+You, Me & Italy | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GPLDG2GX?&linkCode=ll2&tag=ajsretro-21&linkId=f3622ddb3d9a1ba76b53e5249f876e19&ref_=as_li_ss_tl
+Tides of Fear | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HL4FDN4J?&linkCode=ll2&tag=ajsretro-21&linkId=8eb737b34d068757adfaf22b01b89e55&ref_=as_li_ss_tl
+H wie Habicht | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H71J5HDF?&linkCode=ll2&tag=ajsretro-21&linkId=81b05cf6a311c398a42acbd17f2818cb&ref_=as_li_ss_tl
 Clika | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0FJFH8CTL?&linkCode=ll2&tag=ajsretro-21&linkId=a2de3fdbac3dbfae9d34fd15af06c6bf&ref_=as_li_ss_tl
 Forbidden Fruits | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXQ8X5VP?&linkCode=ll2&tag=ajsretro-21&linkId=6d5b60540122a04d677cf2fcc7695005&ref_=as_li_ss_tl
 RZR Cyber Protocol | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HGBVZGD6?&linkCode=ll2&tag=ajsretro-21&linkId=d8825919645472fa0178acd2942fa93b&ref_=as_li_ss_tl
@@ -31,9 +34,7 @@ Hanging by a Wire | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/
 The Piano Tuner | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GZFNBST4?&linkCode=ll2&tag=ajsretro-21&linkId=7925526cb68b17de065d5193a3510f45&ref_=as_li_ss_tl
 The Florist | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HFKMGC5R?&linkCode=ll2&tag=ajsretro-21&linkId=4bcb888ad6379e31f42fc7ab2ed7fd99&ref_=as_li_ss_tl
 Power Ballad - Der Song meines Lebens | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXQJ5KJ5?&linkCode=ll2&tag=ajsretro-21&linkId=fa43e7b20bfbe1f4042e6688d3d6c4cd&ref_=as_li_ss_tl
-Kampf der Thundermans | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0HF6ZR1Y8?&linkCode=ll2&tag=ajsretro-21&linkId=9823a640b8acecdc6dbec50b02d7ce71&ref_=as_li_ss_tl
 Girls like Girls | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0H61V93LD?&linkCode=ll2&tag=ajsretro-21&linkId=e61f4a71f2d982212da93fb04ebae095&ref_=as_li_ss_tl
-Mother Mary | 2026 | Neuheiten | https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=75cb3c3635d59649643ab7ccc8626026&ref_=as_li_ss_tl
 
 # RomCom
 
@@ -92,6 +93,7 @@ Nur für Personal! | 2011 | Leichte Kost | https://www.amazon.de/gp/video/detail
 
 # Drama
 
+Mother Mary | 2026 | Drama | https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=5beb015ab279eef7fbc3b2159379640b&ref_=as_li_ss_tl
 Sentimental Value | 2025 | Drama | https://www.amazon.de/gp/video/detail/B0FWDSR9YW?&linkCode=ll2&tag=ajsretro-21&linkId=0d3e07483f866a52e02aa73555fdaeb9&ref_=as_li_ss_tl
 Dreams - Gefährliches Verlangen | 2025 | Drama | https://www.amazon.de/gp/video/detail/B0GZ886YY9?&linkCode=ll2&tag=ajsretro-21&linkId=f7fa78e3d7f433ef2731c5b6b9207c64&ref_=as_li_ss_tl
 My Dead Friend Zoe | 2025 | Drama | https://www.amazon.de/gp/video/detail/B0DY7M7FWM?&linkCode=ll2&tag=ajsretro-21&linkId=0e1bdc9f34c52dbf6aa3c6de7113df71&ref_=as_li_ss_tl
@@ -160,6 +162,7 @@ Villains | 2019 | Thrill | https://www.amazon.de/gp/video/detail/B0HN9BL9NS?&
 The Hate U Give | 2018 | Thrill | https://www.amazon.de/gp/video/detail/B0GGXF6K37?&linkCode=ll2&tag=ajsretro-21&linkId=84360a7a03da2055fc20a063db5ac540&ref_=as_li_ss_tl
 The Book of Henry | 2017 | Thrill | https://www.amazon.de/gp/video/detail/B0DZB1FDGC?&linkCode=ll2&tag=ajsretro-21&linkId=c51731689470183ecf574c4532d3d347&ref_=as_li_ss_tl
 Shock & Awe - Krieg der Lügen | 2017 | Thrill | https://www.amazon.de/gp/video/detail/B0HJ46Y6NP?&linkCode=ll2&tag=ajsretro-21&linkId=f11b3e4e5ab50f4228aa9e1b4a76547e&ref_=as_li_ss_tl
+The Infiltrator | 2016 | Thrill | https://www.amazon.de/gp/video/detail/B0H991SNKC?&linkCode=ll2&tag=ajsretro-21&linkId=6cc3be6cd926c8b6c18f5c49a64e331c&ref_=as_li_ss_tl
 True Story - Spiel um Macht | 2015 | Thrill | https://www.amazon.de/gp/video/detail/B0CKF4QB19?&linkCode=ll2&tag=ajsretro-21&linkId=40e7e37df8e006a64a7177ce118e9557&ref_=as_li_ss_tl
 The Drop - Bargeld | 2014 | Thrill | https://www.amazon.de/gp/video/detail/B0CVQCT9F8?&linkCode=ll2&tag=ajsretro-21&linkId=2ea680060dcc20202f4653d1066cacc7&ref_=as_li_ss_tl
 The Place beyond the Pines | 2013 | Thrill | https://www.amazon.de/gp/video/detail/B0HLVNS122?&linkCode=ll2&tag=ajsretro-21&linkId=aca34b07169890a2310af6a89a52991c&ref_=as_li_ss_tl
@@ -193,6 +196,7 @@ The Autopsy of Jane Doe | 2016 | Horror | https://www.amazon.de/gp/video/deta
 Paranormal Activity - Die Gezeichneten | 2014 | Horror | https://www.amazon.de/gp/video/detail/B0HFH7HM9Y?&linkCode=ll2&tag=ajsretro-21&linkId=bdc3714cc398f7503203709a6633cc36&ref_=as_li_ss_tl
 You're Next | 2013 | Horror | https://www.amazon.de/gp/video/detail/B0FX4NV3KR?&linkCode=ll2&tag=ajsretro-21&linkId=9a71c04c3b04eabc22c4e1df7a5a43e2&ref_=as_li_ss_tl
 Quarantäne | 2008 | Horror | https://www.amazon.de/gp/video/detail/B0CQFZ4XMW?&linkCode=ll2&tag=ajsretro-21&linkId=8316b851d5debd8cce255aa11a9dc25a&ref_=as_li_ss_tl
+Scream 3 | 2000 | Horror | https://www.amazon.de/gp/video/detail/B0HMMWZ18Q?&linkCode=ll2&tag=ajsretro-21&linkId=ea7d7799ac473f671e6afc56c7075b5e&ref_=as_li_ss_tl
 
 # Deutsches Kino
 
@@ -219,6 +223,7 @@ Das geheime Stockwerk | 2026 | Deutsches Kino | https://www.amazon.de/gp/vide
 Pferd am Stiel | 2026 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0GW5S2HKB?&linkCode=ll2&tag=ajsretro-21&linkId=159415a6d0d7d29f4388ca0ce73f5303&ref_=as_li_ss_tl
 Traumfabrik | 2019 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0HG16BV3K?&linkCode=ll2&tag=ajsretro-21&linkId=38d819eb1a691d4240f44657e1a2ade4&ref_=as_li_ss_tl
 Auerhaus | 2019 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0DYNSWY7Y?&linkCode=ll2&tag=ajsretro-21&linkId=3def8d5f0acd37bdcb035774c6894ae1&ref_=as_li_ss_tl
+Kleinruppin Forever | 2004 | Deutsches Kino | https://www.amazon.de/gp/video/detail/B0CH3VPHYP?&linkCode=ll2&tag=ajsretro-21&linkId=049978ce95b44894eb991854d5eb2d65&ref_=as_li_ss_tl
 
 # Animation
 
@@ -296,7 +301,7 @@ The Astronaut's Wife - Das Böse hat ein neues Gesicht | 1999 | Sci-Fi | https
 Sphere - Die Macht aus dem All | 1998 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0GPWX929V?&linkCode=ll2&tag=ajsretro-21&linkId=3c0ab144da127c109f65bed7c2d2973e&ref_=as_li_ss_tl
 Lost in Space | 1998 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0C5GBYVVB?&linkCode=ll2&tag=ajsretro-21&linkId=03f1b8ea0a0587a4cd95d1517555fe31&ref_=as_li_ss_tl
 Independence Day | 1996 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0DFBV6TVD?&linkCode=ll2&tag=ajsretro-21&linkId=1b5052945b5cf8128e20f8e3ba450271&ref_=as_li_ss_tl
-Prospect | 2018 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0HJCN2S94?&linkCode=ll2&tag=ajsretro-21&linkId=ca0a7ff434d6018ef72c01de83657006&ref_=as_li_ss_tl
+Freejack - Geisel der Zukunft | 1992 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0H33GN7RT?&linkCode=ll2&tag=ajsretro-21&linkId=0dea0e869aec468b4b2d32afabfe88bd&ref_=as_li_ss_tl
 Alien Hunter | 2016 | Sci-Fi | https://www.amazon.de/gp/video/detail/B0H11FRGSQ?&linkCode=ll2&tag=ajsretro-21&linkId=3b97959c1e1663667551aa60fa0bd338&ref_=as_li_ss_tl
 
 # Klassiker
