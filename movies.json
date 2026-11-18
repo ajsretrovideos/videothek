@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T06:19:25.043Z",
+  "generatedAt": "2026-11-18T16:46:13.315Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -11,7 +11,7 @@
       "genre": "Neuheiten",
       "room": 1,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Klassiker",
@@ -53,7 +53,7 @@
       "genre": "Drama",
       "room": 1,
       "wall": "right",
-      "count": 22
+      "count": 23
     },
     {
       "genre": "Dokus",
@@ -71,7 +71,7 @@
       "genre": "Deutsches Kino",
       "room": 1,
       "wall": "right",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Action",
@@ -80,22 +80,16 @@
       "count": 24
     },
     {
-      "genre": "Heroes",
-      "room": 2,
-      "wall": "back",
-      "count": 0
-    },
-    {
       "genre": "Thrill",
       "room": 2,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Horror",
       "room": 2,
       "wall": "back",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Sci-Fi",
@@ -256,7 +250,7 @@
       "rating": "7.5",
       "overview": "Jahrelang hat Matt gespart, um seiner Verlobten eine Traumhochzeit in Italien und unvergessliche Flitterwochen zu ermöglichen. Doch dann lässt seine Zukünftige ihn plötzlich allein vor dem Altar zurück. Mit gebrochenem Herzen bleibt Matt nichts anderes übrig, als die teuer gebuchte Reise allein anzutreten.",
       "poster": "https://image.tmdb.org/t/p/w500/97pvFpZCwJ9IMGifRqbBMvW1abE.jpg",
-      "director": "Charles Kinnane",
+      "director": "Daniel Kinnane",
       "cast": [
         "Kevin James",
         "Nicole Grimaudo",
@@ -385,6 +379,71 @@
       "tmdbId": 1291366,
       "genre": "Neuheiten",
       "url": "https://www.amazon.de/gp/video/detail/B0HG3RRG61?&linkCode=ll2&tag=ajsretro-21&linkId=ebca7c74d29d5b0ab1dc2ecd7e69f3e0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "You, Me & Italy",
+      "originalTitle": "You, Me & Tuscany",
+      "year": "2026",
+      "genres": [
+        "Liebesfilm",
+        "Komödie"
+      ],
+      "runtime": "104",
+      "rating": "7.3",
+      "overview": "Anna ist Profi in Sachen Fehlentscheidungen. Ein spontaner Flug nach Italien und eine unerlaubte Übernachtung in der Villa von Zufallsbekanntschaft Matteo gehören garantiert dazu – spätestens, als seine Mutter vor der Tür steht. Dann taucht auch noch Cousin Michael auf. Ein Traumtyp! Könnte dies die beste schlechte Entscheidung ihres Lebens sein?",
+      "poster": "https://image.tmdb.org/t/p/w500/tNgAvGHKYyml8Xt7XYgs6ICW44w.jpg",
+      "director": "Kat Coiro",
+      "cast": [
+        "Halle Bailey",
+        "Regé-Jean Page",
+        "Lorenzo de Moor"
+      ],
+      "tmdbId": 1455079,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0GPLDG2GX?&linkCode=ll2&tag=ajsretro-21&linkId=f3622ddb3d9a1ba76b53e5249f876e19&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Tides Of Fear",
+      "originalTitle": "Above & Below",
+      "year": "2026",
+      "genres": [
+        "Thriller",
+        "Krimi"
+      ],
+      "runtime": "95",
+      "rating": "5.9",
+      "overview": "Für ein paar Freunde wird der Urlaub auf dem Meer samt Hai-Sichtung plötzlich zum Albtraum. Denn gerade als Tatiana (Laura Marano) mit ihrer Freundin im Käfig unter Wasser ist, entdeckt einer ihrer Freunde, dass dass Boot von einem Kartellboss (Antonio Banderas) auch zum Drogenschmuggel genutzt wird. Natürlich können die Gangster es nicht zulassen, dass jemand davon erfährt. So geraten die jungen Frauen schnell zwischen zwei tödliche Fronten. Über ihnen wartet eine bewaffnete Crew und rund um sie kreisen die vom ersten Blut angelockten Haie...",
+      "poster": "https://image.tmdb.org/t/p/w500/iF9zxk21zj7I1m1mS0k3lTUaUKX.jpg",
+      "director": "Jesse V. Johnson",
+      "cast": [
+        "Laura Marano",
+        "Christina Ochoa",
+        "Mario Tardón"
+      ],
+      "tmdbId": 1514682,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0HL4FDN4J?&linkCode=ll2&tag=ajsretro-21&linkId=8eb737b34d068757adfaf22b01b89e55&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "H wie Habicht",
+      "originalTitle": "H Is for Hawk",
+      "year": "2025",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "128",
+      "rating": "7.0",
+      "overview": "Als Helens geliebter Vater stirbt, wird sie von tiefer Trauer überwältigt und verliert sich in Erinnerungen an ihre gemeinsame Zeit beim Beobachten von Vögeln und beim Erkunden der Natur. Besessen von der Idee, selbst einen Habicht abzurichten, holt sie den imposanten Vogel Mabel zu sich nach Cambridge.  Fest entschlossen, sich dem mühsamen Prozess der Zähmung eines der wildesten Tiere zu stellen, füllt Helen ihren Gefrierschrank mit Futter und schaltet ihr Telefon aus. Doch während sie versucht, Mabel das Jagen und das eigenständige Fliegen beizubringen, erkennt sie, wie sehr sie ihre eigenen Gefühle und ihr Leben vernachlässigt hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/7vB1MPcZTI9jX366sumg66fqvI9.jpg",
+      "director": "Philippa Lowthorpe",
+      "cast": [
+        "Claire Foy",
+        "Brendan Gleeson",
+        "Lindsay Duncan"
+      ],
+      "tmdbId": 1243006,
+      "genre": "Neuheiten",
+      "url": "https://www.amazon.de/gp/video/detail/B0H71J5HDF?&linkCode=ll2&tag=ajsretro-21&linkId=81b05cf6a311c398a42acbd17f2818cb&ref_=as_li_ss_tl"
     },
     {
       "title": "Clika",
@@ -580,30 +639,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0GXQJ5KJ5?&linkCode=ll2&tag=ajsretro-21&linkId=fa43e7b20bfbe1f4042e6688d3d6c4cd&ref_=as_li_ss_tl"
     },
     {
-      "title": "Kampf der Thundermans",
-      "originalTitle": "Clash of the Thundermans",
-      "year": "2026",
-      "genres": [
-        "TV-Film",
-        "Familie",
-        "Action",
-        "Science Fiction"
-      ],
-      "runtime": "73",
-      "rating": "6.6",
-      "overview": "Als Chloe (Maya Le Clark) eine gefährliche neue Superkraft entwickelt, will die Hero League sie dazu zwingen, auf ein Eliteinternat für Superheld*innen zu gehen, um zu lernen, wie sie ihre Fähigkeiten kontrollieren kann. Dadurch werden die Thundermans gespalten: Während Phoebe (Kira Kosarin), Barb (Rosa Blasi) und Billy (Diego Velazquez) Chloe verstecken wollen, stellen sich Max (Jack Griffo), Hank (Chris Tallman) und Nora (Addison Riecke) auf die Seite der Obrigkeit...",
-      "poster": "https://image.tmdb.org/t/p/w500/4WlBJeO4uMgLdKrz8FI2BHNaFtc.jpg",
-      "director": "Trevor Kirschner",
-      "cast": [
-        "Kira Kosarin",
-        "Jack Griffo",
-        "Maya Le Clark"
-      ],
-      "tmdbId": 1506560,
-      "genre": "Neuheiten",
-      "url": "https://www.amazon.de/gp/video/detail/B0HF6ZR1Y8?&linkCode=ll2&tag=ajsretro-21&linkId=9823a640b8acecdc6dbec50b02d7ce71&ref_=as_li_ss_tl"
-    },
-    {
       "title": "Girls Like Girls",
       "originalTitle": "Girls Like Girls",
       "year": "2026",
@@ -624,29 +659,6 @@
       "tmdbId": 1397485,
       "genre": "Neuheiten",
       "url": "https://www.amazon.de/gp/video/detail/B0H61V93LD?&linkCode=ll2&tag=ajsretro-21&linkId=e61f4a71f2d982212da93fb04ebae095&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mother Mary",
-      "originalTitle": "Mother Mary",
-      "year": "2026",
-      "genres": [
-        "Musik",
-        "Thriller",
-        "Drama"
-      ],
-      "runtime": "110",
-      "rating": "5.7",
-      "overview": "Mother Mary ist ein Megastar – auf der Bühne eine glamouröse und unvergleichliche Erscheinung, doch hinter den Kulissen erschöpft und einsam. Überwältigt von ihrem mit Spannung erwarteten Bühnen-Comeback sucht sie Zuflucht bei ihrer einstigen Freundin und Weggefährtin Sam, einer Modedesignerin, die den ikonischen Stil von Mother Mary zu Beginn ihrer Karriere geprägt hat.",
-      "poster": "https://image.tmdb.org/t/p/w500/fdXIDJGNHfAjG5bWZfzrooglOh.jpg",
-      "director": "David Lowery",
-      "cast": [
-        "Anne Hathaway",
-        "Michaela Coel",
-        "Hunter Schafer"
-      ],
-      "tmdbId": 1102883,
-      "genre": "Neuheiten",
-      "url": "https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=75cb3c3635d59649643ab7ccc8626026&ref_=as_li_ss_tl"
     },
     {
       "title": "Magic Mike: The Last Dance",
@@ -1733,6 +1745,29 @@
       "tmdbId": 57243,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Mother Mary",
+      "originalTitle": "Mother Mary",
+      "year": "2026",
+      "genres": [
+        "Musik",
+        "Thriller",
+        "Drama"
+      ],
+      "runtime": "110",
+      "rating": "5.7",
+      "overview": "Mother Mary ist ein Megastar – auf der Bühne eine glamouröse und unvergleichliche Erscheinung, doch hinter den Kulissen erschöpft und einsam. Überwältigt von ihrem mit Spannung erwarteten Bühnen-Comeback sucht sie Zuflucht bei ihrer einstigen Freundin und Weggefährtin Sam, einer Modedesignerin, die den ikonischen Stil von Mother Mary zu Beginn ihrer Karriere geprägt hat.",
+      "poster": "https://image.tmdb.org/t/p/w500/fdXIDJGNHfAjG5bWZfzrooglOh.jpg",
+      "director": "David Lowery",
+      "cast": [
+        "Anne Hathaway",
+        "Michaela Coel",
+        "Hunter Schafer"
+      ],
+      "tmdbId": 1102883,
+      "genre": "Drama",
+      "url": "https://www.amazon.de/gp/video/detail/B0GXTM9VH9?&linkCode=ll2&tag=ajsretro-21&linkId=5beb015ab279eef7fbc3b2159379640b&ref_=as_li_ss_tl"
     },
     {
       "title": "Sentimental Value",
@@ -3132,6 +3167,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HJ46Y6NP?&linkCode=ll2&tag=ajsretro-21&linkId=f11b3e4e5ab50f4228aa9e1b4a76547e&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Infiltrator",
+      "originalTitle": "The Infiltrator",
+      "year": "2016",
+      "genres": [
+        "Krimi",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "127",
+      "rating": "6.7",
+      "overview": "In den 80er Jahren arbeitet der Agent der US-Drogenvollzugsbehörde Robert Mazur fünf Jahre lang als schmieriger Geschäftsmann Bob Musella undercover und wäscht Geld für das internationale Verbrechen. Mazur dringt dabei bis in die innersten Kreise des organisierten Verbrechens vor. Dabei unterstützen ihn Kathy Ertz, die sich als seine Verlobte ausgibt, sowie sein Agenten-Kollege Emir Ebreu Gemeinsam ermitteln sie gegen kriminelle Banker und Geschäftsleute, die ihren Einfluss auf der ganzen Welt ausüben und milliardenschwere Drogengeschäfte tätigen. Die in dieser Zeit gesammelten Erkenntnisse setzt Mazur später ein, um die weltweit größten Kartelle zu stürzen - darunter auch den berühmt-berüchtigten Drogenbaron Pablo Escobar, mit dessen rechter Hand Roberto Alcaino  er sich zuvor anfreundet...",
+      "poster": "https://image.tmdb.org/t/p/w500/f2jS04SfTW9APAJDDQIsmcaJML1.jpg",
+      "director": "Brad Furman",
+      "cast": [
+        "Bryan Cranston",
+        "Diane Kruger",
+        "John Leguizamo"
+      ],
+      "tmdbId": 325789,
+      "genre": "Thrill",
+      "url": "https://www.amazon.de/gp/video/detail/B0H991SNKC?&linkCode=ll2&tag=ajsretro-21&linkId=6cc3be6cd926c8b6c18f5c49a64e331c&ref_=as_li_ss_tl"
+    },
+    {
       "title": "True Story - Spiel um Macht",
       "originalTitle": "True Story",
       "year": "2015",
@@ -3802,6 +3860,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0CQFZ4XMW?&linkCode=ll2&tag=ajsretro-21&linkId=8316b851d5debd8cce255aa11a9dc25a&ref_=as_li_ss_tl"
     },
     {
+      "title": "Scream 3",
+      "originalTitle": "Scream 3",
+      "year": "2000",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "runtime": "116",
+      "rating": "6.0",
+      "overview": "Nach ihren diversen Abenteuern mit maskierten Serienkillern hat sich Sidney Prescott in die Abgeschiedenheit der Provinz zurückgezogen, wo sie als Telefon-Sorgentante mehr schlecht als recht ihr immer noch von Angst beherrschtes Dasein fristet. Ein mysteriöser Anruf mit dem Hinweis auf eine Mordserie in der kommenden Produktion des Horrorthrillers \"Stab 3\" bringt sie auf alte Gedanken, und sie fährt nach Hollywood, wo es zum Wiedersehen mit diversen Schulfreunden kommt. Und auch das Phantom in der Maske lässt sich nicht lange bitten.",
+      "poster": "https://image.tmdb.org/t/p/w500/uEEFNePbOOz7yK4frJndFbVO5OI.jpg",
+      "director": "Wes Craven",
+      "cast": [
+        "Neve Campbell",
+        "David Arquette",
+        "Courteney Cox"
+      ],
+      "tmdbId": 4234,
+      "genre": "Horror",
+      "url": "https://www.amazon.de/gp/video/detail/B0HMMWZ18Q?&linkCode=ll2&tag=ajsretro-21&linkId=ea7d7799ac473f671e6afc56c7075b5e&ref_=as_li_ss_tl"
+    },
+    {
       "title": "22 Bahnen",
       "originalTitle": "22 Bahnen",
       "year": "2025",
@@ -3921,7 +4001,7 @@
       "rating": "4.7",
       "overview": "Der Episodenfilm Berlin, I Love You führt unterschiedlichste Liebende in der deutschen Hauptstadt in neun verschiedenen Liebesgeschichten zusammen.  Berlin, I Love You - oder Berlin, ick liebe dir wie manch Einheimischer vielleicht sagen würde - führt ganz verschiedene Männer und Frauen in der Stadt an der Spree zusammen und erzählt ihre Liebesgeschichten. Sowohl an bekannten Orten der deutschen Hauptstadt als auch in versteckteren Ecken kommen Gefühle zum Vorschein und neue wie alte Beziehungen erblühen.",
       "poster": "https://image.tmdb.org/t/p/w500/m1DImRNYuNe0nvFuScMhYI200Gg.jpg",
-      "director": "Dennis Gansel",
+      "director": "Dani Levy",
       "cast": [
         "Keira Knightley",
         "Helen Mirren",
@@ -4309,6 +4389,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DYNSWY7Y?&linkCode=ll2&tag=ajsretro-21&linkId=3def8d5f0acd37bdcb035774c6894ae1&ref_=as_li_ss_tl"
     },
     {
+      "title": "Kleinruppin forever",
+      "originalTitle": "Kleinruppin forever",
+      "year": "2004",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "99",
+      "rating": "6.0",
+      "overview": "Bremen, 1985: Der 19-jährige Tim ist als angehender Tennis-Profi der Held in seiner Schule. Die Mädchen lieben ihn, er liebt sich und seinen perfekten Top-Spin. Doch während eines Schulausflugs nach Kleinruppin in der DDR trifft Tim plötzlich auf seinen ihm unbekannten Zwillingsbruder Ronnie, der ihn mit einem Schlag niederstreckt und an Tims Stelle zurück in den Westen fährt. Nun sitzt Tim fest. Niemand glaubt ihm, denn alle halten ihn für Ronnie. Und so heißt es jetzt: Broiler statt Cherry Coke, Schwalbe statt Vespa und FKK mit Mundharmonika spielenden 'Blueskunden'. Die einzige Chance sieht Tim in der Flucht, aber die DDR verlässt man nicht einfach so. Aber als er Jana begegnet, wird die graue DDR plötzlich bunt und Tim bemerkt, dass Glück etwas anderes bedeutet, als die passenden Slipper zum Lacoste-Hemd im Schrank.",
+      "poster": "https://image.tmdb.org/t/p/w500/7uV58p1QACUo9RRIZyRrW9V1Ra9.jpg",
+      "director": "Carsten Fiebeler",
+      "cast": [
+        "Tobias Schenke",
+        "Anna Brüggemann",
+        "Michael Gwisdek"
+      ],
+      "tmdbId": 11346,
+      "genre": "Deutsches Kino",
+      "url": "https://www.amazon.de/gp/video/detail/B0CH3VPHYP?&linkCode=ll2&tag=ajsretro-21&linkId=049978ce95b44894eb991854d5eb2d65&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Der Super Mario Bros. Film",
       "originalTitle": "The Super Mario Bros. Movie",
       "year": "2023",
@@ -4323,7 +4424,7 @@
       "rating": "7.6",
       "overview": "Bei unterirdischen Reparaturarbeiten werden die Klempner Mario und Luigi durch eine geheimnisvolle Röhre in eine magische neue Welt gesaugt. Als die Brüder dort getrennt werden, begibt Mario sich auf eine gigantische Reise, um Luigi zu finden. Mit der Unterstützung des Pilzkönigreichbewohners Toad und dank eines Trainings von Princess Peach, der willensstarken Herrscherin des Pilzkönigreiches, entdeckt Mario dabei ungeahnte Kräfte in sich.",
       "poster": "https://image.tmdb.org/t/p/w500/iH0DprDjxfLQZdiKeHlll0Drx9X.jpg",
-      "director": "Michael Jelenic",
+      "director": "Aaron Horvath",
       "cast": [
         "Chris Pratt",
         "Anya Taylor-Joy",
@@ -5645,7 +5746,7 @@
       "rating": "6.8",
       "overview": "Nach einer Katastrophe, die fast alles Leben auf Erden ausgelöscht hat, bahnt sich im Jahr 2044 ein einsamer Wanderer seinen Weg auf zerstörten Freeways und durch kalte Ruinen. Die Umgebung ist feindselig, überall könnten marodierende Banden zuschlagen und ein Schluck Wasser oder ein paar Schuhe entscheiden, wer unter Jägern und Gejagten den nächsten Tag erlebt. Der Name des Wanderers ist Eli. Obwohl er nicht weiß, ob es tatsächlich irgendwo noch Hoffnung für die Zivilisation gibt, ist er unterwegs nach Westen. Im Gepäck ein mysteriöses Buch, das auch von anderen manisch begehrt und von Eli mit seinem Leben geschützt wird. In einer zerfallenen Stadt, in der das Gesetz des Stärkeren herrscht, trifft Eli auf den despotischen Carnegie, der seinem Geheimnis bald auf die Schliche kommt. Zwar kann sich Eli zunächst der Waffengewalt von Carnegies Schergen erwehren und mit Hilfe der jungen Solara flüchten.",
       "poster": "https://image.tmdb.org/t/p/w500/mw2cR8Q6HT7HrWFj5kdY5BXMGnF.jpg",
-      "director": "Albert Hughes",
+      "director": "Allen Hughes",
       "cast": [
         "Denzel Washington",
         "Gary Oldman",
@@ -5883,25 +5984,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DFBV6TVD?&linkCode=ll2&tag=ajsretro-21&linkId=1b5052945b5cf8128e20f8e3ba450271&ref_=as_li_ss_tl"
     },
     {
-      "title": "Prospect",
-      "originalTitle": "Prospect",
-      "year": "2018",
+      "title": "Freejack - Geisel der Zukunft",
+      "originalTitle": "Freejack",
+      "year": "1992",
       "genres": [
-        "Science Fiction"
+        "Science Fiction",
+        "Action",
+        "Krimi",
+        "Drama"
       ],
-      "runtime": "100",
-      "rating": "6.2",
-      "overview": "Die junge Cee und ihr Vater Damon fliegen auf einen fremden, gefährlichen Mond, auf dem es begehrte Edelsteine geben soll. Die beiden haben die Chance gewittert, reich zu werden – müssen nach der Bruchlandung vor Ort aber feststellen, dass sie nicht die einzigen sind, die den toxischen Wald absuchen. Ein Kampf ums Überleben beginnt, bei dem Cee irgendwann auf die Hilfe des fremden, zwielichtigen Ezra angewiesen ist, der schon verdammt lange auf dem Planeten festsitzt …",
-      "poster": "https://image.tmdb.org/t/p/w500/mx8WDLVtVXMS4Wyt30JWdbxkxzF.jpg",
-      "director": "Zeek Earl",
+      "runtime": "110",
+      "rating": "5.5",
+      "overview": "In der nahen Zukunft ist der Traum von Unsterblichkeit wirklich geworden. Der Fortschritt macht es möglich, Unfallopfer aus der Vergangenheit per Zeitreise in die Gegenwart zu holen und verbrauchte Körper gegen gesunde einzutauschen. Der Rennfahrer Alex ist ein solches Unfallopfer. Er kann allerdings seinem Schicksal entkommen...",
+      "poster": "https://image.tmdb.org/t/p/w500/bzBJ1WrmXYOa5RBgYvSs4TW9664.jpg",
+      "director": "Geoff Murphy",
       "cast": [
-        "Sophie Thatcher",
-        "Pedro Pascal",
-        "Jay Duplass"
+        "Emilio Estevez",
+        "Mick Jagger",
+        "Rene Russo"
       ],
-      "tmdbId": 506072,
+      "tmdbId": 9278,
       "genre": "Sci-Fi",
-      "url": "https://www.amazon.de/gp/video/detail/B0HJCN2S94?&linkCode=ll2&tag=ajsretro-21&linkId=ca0a7ff434d6018ef72c01de83657006&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0H33GN7RT?&linkCode=ll2&tag=ajsretro-21&linkId=0dea0e869aec468b4b2d32afabfe88bd&ref_=as_li_ss_tl"
     },
     {
       "title": "Alien Hunter",
@@ -6656,7 +6760,7 @@
       "rating": "7.7",
       "overview": "Ein Blick auf das Leben und Werk von Charlie Chaplin in seinen eigenen Worten mit einem ausführlichen Interview, das er 1966 dem Magazin Life gab.",
       "poster": "https://image.tmdb.org/t/p/w500/zajwv6MwIweYlyhu1ibMojr65wB.jpg",
-      "director": "Pete Middleton",
+      "director": "James Spinney",
       "cast": [
         "Pearl Mackie",
         "Charlie Chaplin",
