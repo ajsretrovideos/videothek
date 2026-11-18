@@ -38,7 +38,6 @@ Deutsches Kino   | 1 | right
 
 # Rückwand (4)
 Action           | 2 | back
-Heroes           | 2 | back
 Thrill           | 2 | back
 Horror           | 2 | back
 
