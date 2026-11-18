@@ -41,7 +41,7 @@ Action           | 2 | back
 Thrill           | 2 | back
 Horror           | 2 | back
 
-# Linke Wand (2)
+# Linke Wand (3)
 Sci-Fi           | 2 | left
 Fantasy          | 2 | left
 Heroes		 | 2 | left
