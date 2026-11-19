@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:19:17.364Z",
+  "generatedAt": "2026-11-19T06:21:23.680Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -250,7 +250,7 @@
       "rating": "7.5",
       "overview": "Jahrelang hat Matt gespart, um seiner Verlobten eine Traumhochzeit in Italien und unvergessliche Flitterwochen zu ermöglichen. Doch dann lässt seine Zukünftige ihn plötzlich allein vor dem Altar zurück. Mit gebrochenem Herzen bleibt Matt nichts anderes übrig, als die teuer gebuchte Reise allein anzutreten.",
       "poster": "https://image.tmdb.org/t/p/w500/97pvFpZCwJ9IMGifRqbBMvW1abE.jpg",
-      "director": "Charles Kinnane",
+      "director": "Daniel Kinnane",
       "cast": [
         "Kevin James",
         "Nicole Grimaudo",
@@ -577,7 +577,8 @@
       "year": "2026",
       "genres": [
         "Krimi",
-        "Thriller"
+        "Liebesfilm",
+        "Musik"
       ],
       "runtime": "108",
       "rating": "7.5",
@@ -2237,7 +2238,7 @@
         "Thriller"
       ],
       "runtime": "100",
-      "rating": "7.4",
+      "rating": "7.3",
       "overview": "Als ein zurückgezogen lebender Überlebenskünstler und seine Tochter eine mysteriöse, verletzte Frau aus einem Fluss retten, werden sie in einem tödlichen Netz aus Gewalt und Rache verstrickt, das sie zwingt, sich einem brutalen Verbrecher zu stellen, um zu überleben.",
       "poster": "https://image.tmdb.org/t/p/w500/AjdYHF9dJGHXI4tXOjabD6tyr7H.jpg",
       "director": "Raja Collins",
@@ -6389,7 +6390,7 @@
       "rating": "7.2",
       "overview": "Im Ghetto zu Manhattan können sich zwei Jugendbanden, die von weißen Amerikanern dominierten \"Jets\" und die puertoricanischen \"Sharks\", ganz besonders wenig leiden. Als der Ex-Jet Tony auf einer öffentlichen Tanzveranstaltung sein Herz für die schöne Maria, ihres Zeichens Schwester des Shark-Anführers Bernardo, entdeckt, ist ein gewaltsamer Konflikt vorprogrammiert.",
       "poster": "https://image.tmdb.org/t/p/w500/nzCMu6D5q60i2bVrIQ0DxlRSgCZ.jpg",
-      "director": "Jerome Robbins",
+      "director": "Robert Wise",
       "cast": [
         "Natalie Wood",
         "Richard Beymer",
@@ -6724,7 +6725,7 @@
       "rating": "7.7",
       "overview": "Ein Blick auf das Leben und Werk von Charlie Chaplin in seinen eigenen Worten mit einem ausführlichen Interview, das er 1966 dem Magazin Life gab.",
       "poster": "https://image.tmdb.org/t/p/w500/zajwv6MwIweYlyhu1ibMojr65wB.jpg",
-      "director": "Pete Middleton",
+      "director": "James Spinney",
       "cast": [
         "Pearl Mackie",
         "Charlie Chaplin",
