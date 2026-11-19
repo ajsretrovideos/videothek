@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T06:21:23.680Z",
+  "generatedAt": "2026-11-19T08:26:55.374Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -47,7 +47,7 @@
       "genre": "Animation",
       "room": 1,
       "wall": "left",
-      "count": 23
+      "count": 24
     },
     {
       "genre": "Drama",
@@ -4749,6 +4749,16 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DG8GFNCP?&linkCode=ll2&tag=ajsretro-21&linkId=053c55db480283e8224e2e745509e0a3&ref_=as_li_ss_tl"
     },
     {
+      "title": "In einem Land vor unserer Zeit V - Die geheimnisvolle Insel",
+      "genre": "Animation",
+      "url": "https://www.amazon.de/gp/video/detail/B0FBLN2FF2?&linkCode=ll2&tag=ajsretro-21&linkId=3b1f13a4a25898fba54b982d05630357&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "1987",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
+    },
+    {
       "title": "Toy Story",
       "originalTitle": "Toy Story",
       "year": "1995",
@@ -5012,6 +5022,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0FMK41NRQ?&linkCode=ll2&tag=ajsretro-21&linkId=48bf9d440cc58c6deabd4f1df102753d&ref_=as_li_ss_tl"
     },
     {
+      "title": "Dog Days",
+      "originalTitle": "Dog Days",
+      "year": "2018",
+      "genres": [
+        "Komödie",
+        "Familie",
+        "Liebesfilm"
+      ],
+      "runtime": "112",
+      "rating": "6.6",
+      "overview": "In Los Angeles kreuzen sich die Wege mehrerer Menschen, die eines gemeinsam haben: ein Herz für Hunde. Als Elizabeth von ihrem Freund betrogen wird, braucht nicht nur ihr Hund Sam eine Therapie. Tara schwärmt für sexy Tierarzt Dr. Mike, während Chaot Dax auf Vierbeiner Charlie aufpassen muss - prompt vertilgt der Hund einen Haschkuchen. Walter trauert um seinen entlaufenen Mops Mabel, Grace und Kurt wollen ihrer Adoptivtochter Amelia ein warmes Zuhause bieten. Doch sie ist bei ihrer neuen Familie unglücklich - bis sie einen kleinen Streuner aufliest...",
+      "poster": "https://image.tmdb.org/t/p/w500/nzuIK1bMAxQmDlegeV6Xm7uRz8K.jpg",
+      "director": "Ken Marino",
+      "cast": [
+        "Nina Dobrev",
+        "Vanessa Hudgens",
+        "Adam Pally"
+      ],
+      "tmdbId": 477510,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0CNXJ38RV?&linkCode=ll2&tag=ajsretro-21&linkId=e6b94eb79e613a94e3b8b5b8f1dd292f&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Conni & Co 2 - Das Geheimnis des T-Rex",
       "originalTitle": "Conni & Co 2 - Das Geheimnis des T-Rex",
       "year": "2017",
@@ -5079,6 +5112,74 @@
       "tmdbId": 389370,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B0FLW79TBN?&linkCode=ll2&tag=ajsretro-21&linkId=cd58c566f29e70de4ae7bf5f0838cc98&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Legende von Aang",
+      "originalTitle": "The Last Airbender",
+      "year": "2010",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Fantasy"
+      ],
+      "runtime": "103",
+      "rating": "4.6",
+      "overview": "Der Avatar Aang ist der Einzige seiner Generation, der es vermag, die vier Elemente zu beherrschen und damit für Frieden unter den entsprechenden vier Nationen zu sorgen. Die Legende von Aang nimmt ihren Anfang, als Aang eines Tages spurlos verschwindet und die kriegerische Nation des Feuers die anderen Nationen zu unterdrücken beginnt.Hundert Jahre später finden die junge Wasserbändigerin Katara und ihr Bruder Sokka ein mysteriöses Kind, eingefroren im ewigen Eis. Es ist eben jener jahrzentelang verschollene Avatar in Gestalt des zwölfjährigen Jungen Aang. Alle Hoffnung liegt nun auf ihm, dem letzten Luftbändiger, der nun endlich seiner Bestimmung entgegengehen kann. Kann Aang die drohende Weltherrschaft des Feuerlords Ozai aufhalten?",
+      "poster": "https://image.tmdb.org/t/p/w500/1Uw9ltP9RohvLraqvHMr2e9GpEx.jpg",
+      "director": "M. Night Shyamalan",
+      "cast": [
+        "Noah Ringer",
+        "Dev Patel",
+        "Nicola Peltz Beckham"
+      ],
+      "tmdbId": 10196,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0HJK6Y5K7?&linkCode=ll2&tag=ajsretro-21&linkId=f6dac1e7104ea2839e5eb7389dac3af0&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Eulen - Kleine Freunde in großer Gefahr",
+      "originalTitle": "Hoot",
+      "year": "2006",
+      "genres": [
+        "Familie",
+        "Abenteuer"
+      ],
+      "runtime": "91",
+      "rating": "5.6",
+      "overview": "Der 15jährige Roy zieht mit seinen Eltern von Montana nach Florida. Er hat zunächst Schwierigkeiten sich in seiner neuen Umgebung zurecht zu finden. Doch dann begegnet er eines Tages diesem merkwürdigen barfüssigen Jungen. Zur gleichen Zeit gehen im Ort seltsame Dinge vor: Das 100. Restaurant einer Fastfoodkette soll auf einem Grundstück entstehen, auf dem eine bedrohte Eulenart lebt. Doch die Bauarbeiten werden immer wieder von Unbekannten sabotiert. Hat der barfüssige Junge seine Finger im Spiel?",
+      "poster": "https://image.tmdb.org/t/p/w500/uvti823hUOB0OTwFtbv7VmDnv7J.jpg",
+      "director": "Wil Shriner",
+      "cast": [
+        "Luke Wilson",
+        "Logan Lerman",
+        "Brie Larson"
+      ],
+      "tmdbId": 18276,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0GV4YBZ2Z?&linkCode=ll2&tag=ajsretro-21&linkId=02ffa73deb4126d0b8322bede7efffbf&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Abenteuer von Sharkboy und Lavagirl",
+      "originalTitle": "The Adventures of Sharkboy and Lavagirl",
+      "year": "2005",
+      "genres": [
+        "Abenteuer",
+        "Familie",
+        "Science Fiction"
+      ],
+      "runtime": "89",
+      "rating": "5.2",
+      "overview": "Weil der Schulalltag unter der Fuchtel des Klassenfieslings Linus sich für Max eher unerfreulich gestaltet, flüchtet er sich in seine ganz persönliche Traumwelt. Hauptfiguren des in seinem Tagebuch festgehaltenen Fantasieuniversums sind der bei Haien aufgewachsene Shark Boy und das süße Lava Girl. Als Linus Max' Tagebuch in die Finger bekommt, geschehen plötzlich ungeheuerliche Dinge: Shark Boy und Lava Girl werden nämlich lebendig und rekrutieren Max zur Rettung ihres Heimatplaneten Drool.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLGMriHJX5yQOhsUnBKonFlw00d.jpg",
+      "director": "Robert Rodriguez",
+      "cast": [
+        "Taylor Lautner",
+        "Taylor Dooley",
+        "Cayden Boyd"
+      ],
+      "tmdbId": 14199,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0HMHJV7JP?&linkCode=ll2&tag=ajsretro-21&linkId=96c2025a4cae6b690c4d6a4ee1f99ca2&ref_=as_li_ss_tl"
     },
     {
       "title": "Lemony Snicket - Rätselhafte Ereignisse",
@@ -5154,6 +5255,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B00FCLKHGE?&linkCode=ll2&tag=ajsretro-21&linkId=7373cb2d8e49c126cbce95b033b949c2&ref_=as_li_ss_tl"
     },
     {
+      "title": "Dennis",
+      "originalTitle": "Dennis the Menace",
+      "year": "1993",
+      "genres": [
+        "Familie",
+        "Komödie"
+      ],
+      "runtime": "94",
+      "rating": "5.9",
+      "overview": "Dennis ist ein typischer Lausbub in einer amerikanischen Vorstadt. Gemeinsam mit seinem treuen Hund Ruff piesakt das blonde Biest mit Vorliebe seinen Lieblingsnachbarn Mr. Wilson und dessen Frau Martha. Besonders turbulent wird es, als die Wilsons für einige Tage auf Dennis aufpassen sollen. Ausgerechnet in dieser Zeit soll Mr. Wilsons seltene Blume ein einziges Mal blühen. Ein gerissener Landstreicher sorgt für zusätzliche Aufregung. Für Dennis stellt er kein großes Hindernis dar.",
+      "poster": "https://image.tmdb.org/t/p/w500/5sEjQ3pJqRCGEUWLRlJiuNLVjmu.jpg",
+      "director": "Nick Castle",
+      "cast": [
+        "Mason Gamble",
+        "Walter Matthau",
+        "Joan Plowright"
+      ],
+      "tmdbId": 12139,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0CM3GJ5RW?&linkCode=ll2&tag=ajsretro-21&linkId=acff2d0c5cf35c6914b7c5fd537041fd&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Wir Kinder aus Bullerbü",
       "originalTitle": "Alla vi barn i Bullerbyn",
       "year": "1986",
@@ -5175,70 +5298,60 @@
       "url": "https://www.amazon.de/gp/video/detail/B00P5FLWPW?&linkCode=ll2&tag=ajsretro-21&linkId=61997d7aea9923a21d07e0a78734699c&ref_=as_li_ss_tl"
     },
     {
-      "title": "Wo dein Schatz ist, da ist auch dein Herz",
-      "originalTitle": "Lucky's Treasure",
-      "year": "2017",
+      "title": "Kampf der Thundermans",
+      "originalTitle": "Clash of the Thundermans",
+      "year": "2026",
       "genres": [
-        "Abenteuer",
-        "Familie"
+        "TV-Film",
+        "Familie",
+        "Action",
+        "Science Fiction"
       ],
-      "runtime": "90",
-      "rating": "7.0",
-      "overview": "Nach der Highschool zieht die junge Emily aus der Großstadt zu ihrem Großvater aufs Land. Dieser hat erst vor kurzem seine Frau verloren und leidet sehr darunter. Emily fällt es nicht leicht, sich in ihrer neuen Umgebung einzugewöhnen - bis sie Jake kennenlernt. Die beiden finden heraus, dass Emilys Großmutter bei der Suche nach einem Schatz ums Leben kam. Sie beschließen, ihre Mission fortzusetzen und selbst den Schatz aufzuspüren.",
-      "poster": "https://image.tmdb.org/t/p/w500/xOBge3fXYFTx6lAk8Qg9rFxiXRp.jpg",
-      "director": "Shane Hawks",
+      "runtime": "73",
+      "rating": "6.6",
+      "overview": "Als Chloe (Maya Le Clark) eine gefährliche neue Superkraft entwickelt, will die Hero League sie dazu zwingen, auf ein Eliteinternat für Superheld*innen zu gehen, um zu lernen, wie sie ihre Fähigkeiten kontrollieren kann. Dadurch werden die Thundermans gespalten: Während Phoebe (Kira Kosarin), Barb (Rosa Blasi) und Billy (Diego Velazquez) Chloe verstecken wollen, stellen sich Max (Jack Griffo), Hank (Chris Tallman) und Nora (Addison Riecke) auf die Seite der Obrigkeit...",
+      "poster": "https://image.tmdb.org/t/p/w500/4WlBJeO4uMgLdKrz8FI2BHNaFtc.jpg",
+      "director": "Trevor Kirschner",
       "cast": [
-        "Michael Ironside",
-        "Delaney",
-        "JT Neal"
+        "Kira Kosarin",
+        "Jack Griffo",
+        "Maya Le Clark"
       ],
-      "tmdbId": 449304,
+      "tmdbId": 1506560,
       "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0GX315GDV?&linkCode=ll2&tag=ajsretro-21&linkId=4d015cb1776ce5169f66a4cbf189d487&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0HF6ZR1Y8?&linkCode=ll2&tag=ajsretro-21&linkId=32f2e86e039861905e17b6f842abb48c&ref_=as_li_ss_tl"
     },
     {
-      "title": "Growing Up Smith",
-      "originalTitle": "Growing Up Smith",
-      "year": "2017",
-      "genres": [
-        "Komödie",
-        "Drama",
-        "Familie"
-      ],
-      "runtime": "102",
-      "rating": "7.1",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ncALkAajnctju0CYKH4bFm40QJD.jpg",
-      "director": "Frank Lotito",
-      "cast": [
-        "Roni Akurati",
-        "Brighton Sharbino",
-        "Jason Lee"
-      ],
-      "tmdbId": 426469,
+      "title": "Zurück zu den Dinos",
       "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0GW5KL8DD?&linkCode=ll2&tag=ajsretro-21&linkId=a401d1357ae38c4e1fd01f314daa5e9a&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0HLMDR1SN?&linkCode=ll2&tag=ajsretro-21&linkId=5f496d4ba00ac722fc4e49570135baad&ref_=as_li_ss_tl",
+      "poster": null,
+      "year": "2022",
+      "runtime": null,
+      "rating": null,
+      "overview": ""
     },
     {
-      "title": "Kleine Helden, große Wildnis 2 - Abenteuer Serengeti",
-      "originalTitle": "Against the Wild II: Survive the Serengeti",
-      "year": "2016",
+      "title": "10 Tage ohne Mama",
+      "originalTitle": "10 jours sans maman",
+      "year": "2020",
       "genres": [
-        "Abenteuer"
+        "Familie",
+        "Komödie"
       ],
-      "runtime": "90",
-      "rating": "5.4",
-      "overview": "Eigentlich wollten die beiden Geschwister Ryan und Emma ihren Vater in Afrika besuchen und mit ihm ein wundervolles Wochenende verbringen. Doch das kleine Versorgungsflugzeug, das sie zu ihm bringen soll, gerät in schwere Turbulenzen und sie müssen mitten in der Serengeti notlanden. Da die komplette Funkanlage zerstört und zudem der Pilot kaum noch bei Bewusstsein ist, müssen sich die Geschwister und der Huskie Chinook auf eine gefahrvolle Reise mitten durch die Wildnis begeben. Nachdem sie einen jungen Elefantenbullen aus einer verzweifelten Lage befreien konnten, steht ihnen auch ein imposanter Beschützer zur Seite. Dennoch werden Sie nur dann allen Gefahren trotzen können und das Rennen gegen die Zeit gewinnen, wenn sie fest zusammen halten und sich ihren Ängsten stellen…",
-      "poster": "https://image.tmdb.org/t/p/w500/jpxpyx4Hg0xhGlqhgtDLhbpCtKV.jpg",
-      "director": "Richard Boddington",
+      "runtime": "99",
+      "rating": "6.0",
+      "overview": "Antoine und Isabelle haben zusammen vier Kinder. Während Antoine vollkommen für seinen Job lebt, widmet sich Isabelle ganz der Familie. Als die gestresste Vollzeit-Mutter beschließt, sich auch mal um sich selbst zu kümmern, muss Antoine übernehmen - und ist restlos überfordert. Das entstehende Chaos hält für Antoine und die Kinder aber auch eine Chance bereit: sich einmal richtig kennenzulernen.",
+      "poster": "https://image.tmdb.org/t/p/w500/xSpUkBWfCnrcgMW79bQo0QluIO4.jpg",
+      "director": "Ludovic Bernard",
       "cast": [
-        "Jeri Ryan",
-        "Ella Ballentine",
-        "John Paul Ruttan"
+        "Franck Dubosc",
+        "Aure Atika",
+        "Alice David"
       ],
-      "tmdbId": 388259,
+      "tmdbId": 605735,
       "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0G354Z7KW?&linkCode=ll2&tag=ajsretro-21&linkId=fa92e2bf076f7fde352ccd72c2100c17&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B08MYWLFW9?&linkCode=ll2&tag=ajsretro-21&linkId=68749960e16025165b9a1115a296dd9d&ref_=as_li_ss_tl"
     },
     {
       "title": "Gespensterjäger",
@@ -5262,74 +5375,6 @@
       "tmdbId": 333112,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B0FCCTYXKK?&linkCode=ll2&tag=ajsretro-21&linkId=f77940b2dc5fc7d79ecf7a6124860244&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ein Hund rettet den Sommer",
-      "originalTitle": "The Dog Who Saved Summer",
-      "year": "2015",
-      "genres": [
-        "Familie",
-        "TV-Film",
-        "Komödie"
-      ],
-      "runtime": "89",
-      "rating": "6.1",
-      "overview": "Die Sommerferien haben begonnen… Aber nicht im Hause Bannister! Nachdem unser geliebter Hund Zeus eine Party von Belinda sprengt, wird er zusammen mit Herrchen George in die Hundeschule geschickt. Dort läuft alles aus dem Ruder. George gerät mit dem Hundetrainer aneinander. Zeus schafft es, bei jeder Lektion durchzufallen und Apollo, ein ehemaliger Militärhund macht den Unterricht zu einer spaßfreien Veranstaltung. Zeus letzte Rettung scheint Mr. Lee. Der Hausmeister unterrichtet ihn mit seinen einzigartigen Trainingsmethoden. Schafft es Zeus mit seiner Hilfe die Abschlussprüfung zu bestehen und verhindert er gleichzeitig, dass ein Diebes-Trio den Menschen den Sommer verhagelt?",
-      "poster": "https://image.tmdb.org/t/p/w500/jTbXKQOPKYrJW8ivqMOobJlyp5Y.jpg",
-      "director": "Sean Olson",
-      "cast": [
-        "Martin Kove",
-        "William Zabka",
-        "Dean Cain"
-      ],
-      "tmdbId": 339344,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0BX1SWH1L?&linkCode=ll2&tag=ajsretro-21&linkId=2ee08474234b11aa740d755ce579e321&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mein Freund, der Delfin 2",
-      "originalTitle": "Dolphin Tale 2",
-      "year": "2014",
-      "genres": [
-        "Familie",
-        "Drama"
-      ],
-      "runtime": "107",
-      "rating": "6.9",
-      "overview": "Vor einigen Jahren hat der Junge Sawyer Nelson zusammen mit Freundin Hazel und dem Team von Dr. Clay Haskett am Clearwater Marine Hospital das Delfin-Weibchen Winter gerettet, das seither in dem Aquarium lebt. Doch nach dem Tod ihrer Artgenossin Panama muss schnell neue Gesellschaft für Winter her, denn Delfine dürfen nicht isoliert gehalten werden. Als mit der gestrandeten Hope tatsächlich ein Delfin-Neuzugang in den Park kommt, scheint Winter gerettet. Doch es ist nicht sicher, ob die beiden Tiere auch wirklich gut miteinander auskommen werden. Winter unterscheidet sich schließlich von anderen Delfinen und schwimmt seit ihrer Rettung mit Hilfe einer Flossenprothese, die Dr. Cameron McCarthy extra für sie entworfen hat. Wird Winter von Hope dennoch akzeptiert werden?",
-      "poster": "https://image.tmdb.org/t/p/w500/rKInyPh2DIRINKcZFMTYGxcObPB.jpg",
-      "director": "Charles Martin Smith",
-      "cast": [
-        "Nathan Gamble",
-        "Cozi Zuehlsdorff",
-        "Harry Connick Jr."
-      ],
-      "tmdbId": 227735,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0H1DG69JF?&linkCode=ll2&tag=ajsretro-21&linkId=c0d24ba3382c55de4128fc5f29879d70&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Mein Freund Shadow",
-      "originalTitle": "Penny's Shadow",
-      "year": "2011",
-      "genres": [
-        "Familie",
-        "Drama",
-        "Liebesfilm"
-      ],
-      "runtime": "111",
-      "rating": "5.3",
-      "overview": "Lisa ist 17 Jahre alt und hat eine ganz besondere Beziehung zu Pferden. Zusammen mit ihrer Mutter, der kleinen Schwester Tess und deren frechen Pony Rakker verbringt sie den Urlaub auf der niederländischen Insel Ameland, wo sie in einem Camp auf der Farm des 18-jährigen Kai und dessen Vater wohnen. Kais Mutter starb vor Jahren bei einem Unfall mit ihrem geliebten Pferd Shadow. Der schwarze Hengst überlebte, wurde aber schwer traumatisiert und lässt sich seitdem nicht mehr reiten. Kai, der den Unfall miterlebte, ist seither wütend auf das Pferd. Lisa ermutigt Kai wieder mit Shadow zu reiten, doch Kai wehrt sich dagegen. Da schmiedet Lisa einen geheimen Plan, wie sie Kai und Shadow helfen kann...",
-      "poster": "https://image.tmdb.org/t/p/w500/7OPmMbdZ57n6vKT5uX0pJuAACcJ.jpg",
-      "director": "Steven de Jong",
-      "cast": [
-        "Liza Sips",
-        "Levi van Kempen",
-        "Valerie Pos"
-      ],
-      "tmdbId": 77479,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0GYH626XS?&linkCode=ll2&tag=ajsretro-21&linkId=53a3cedc2ce2c79450eb9654d61a2195&ref_=as_li_ss_tl"
     },
     {
       "title": "Der 16. Wunsch",
@@ -5398,52 +5443,6 @@
       "tmdbId": 10628,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B00GSBQ6NK?&linkCode=ll2&tag=ajsretro-21&linkId=03cb679707a1d1811c4166b83323d3d5&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Rat Race - Der nackte Wahnsinn",
-      "originalTitle": "Rat Race",
-      "year": "2001",
-      "genres": [
-        "Abenteuer",
-        "Komödie"
-      ],
-      "runtime": "112",
-      "rating": "6.3",
-      "overview": "Donald Sinclair ist exzentrischer Multimilliardär und Besitzer des größten und extravagantesten Spielkasinos in Las Vegas. Um einige seiner wohlhabendsten Gönner angemessen zu unterhalten, lässt er sich ein Spiel der etwas anderen Art einfallen: Sechs zufällig ausgewählte Personen werden auf den in einem Schließfach in New Mexico deponierten Gewinn in Höhe von Zwei Millionen Dollar angesetzt. Was die Teilnehmer des Spieles “ohne Regeln” aber nicht wissen, ist, dass der Tycoon und seine reichen Freunde eine Wette auf den Ausgang des Rennens abgeschlossen haben und jede ihrer Bewegungen verfolgen, gerade so, als seien sie Laborratten in einer Versuchsanordnung. Getrieben von Gier, Hast und einer Menge Böswilligkeiten, sind die Teilnehmer zu allem bereit, was sie dem verlockenden Cash-Gewinn näher bringen kann. Es ist jedoch nur eine Frage der Zeit, bis sie realisieren, dass sie lediglich Teil jener elitären Wette sind und den Spieß umdrehen.",
-      "poster": "https://image.tmdb.org/t/p/w500/pfANAbpRLc3mDjHs7o8p6PUO9l3.jpg",
-      "director": "Jerry Zucker",
-      "cast": [
-        "Gloria Allred",
-        "Breckin Meyer",
-        "Cuba Gooding Jr."
-      ],
-      "tmdbId": 9896,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0B6CYB5K3?&linkCode=ll2&tag=ajsretro-21&linkId=43e0bf391027bbc8d41a1b38cc2dff52&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Spot - Ein Hund auf Abwegen",
-      "originalTitle": "See Spot Run",
-      "year": "2001",
-      "genres": [
-        "Familie",
-        "Komödie",
-        "Action",
-        "Krimi"
-      ],
-      "runtime": "94",
-      "rating": "6.1",
-      "overview": "Als Postbote, der vor Hunden Angst hat, nimmt Gordon Smith regelmäßig einen Spießroutenlauf durch die Vorgärten in Kauf. Aber eines Tages muss er sich doch mit einem Hund vertragen, denn dieser springt bei seiner Flucht zufällig in Gordons Auto, wo er als Babysitter mit dem fidelen Sohn seiner Nachbarin sitzt. Gordon hat schon länger Interesse an der lieblichen Nachbarin. Und ihre freundliche Bitte, ob er auf ihren Sohn aufpassen könnte, kommt ihm sehr gelegen. Was Gordon und der kleine James, der den Hund sofort lieb gewinnt und ihn in \"Spot\" tauft, jedoch nicht wissen ist, dass dieser Hund ein Drogenschnüffler von der FBI ist und momentan von der Mafia gejagt wird.",
-      "poster": "https://image.tmdb.org/t/p/w500/7ohPValvF9kg6iGXeg5Gvhyspzn.jpg",
-      "director": "John Whitesell",
-      "cast": [
-        "David Arquette",
-        "Leslie Bibb",
-        "Michael Clarke Duncan"
-      ],
-      "tmdbId": 39180,
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B00FYW1L8E?&linkCode=ll2&tag=ajsretro-21&linkId=96948ce689e0614fddf84e2889c40722&ref_=as_li_ss_tl"
     },
     {
       "title": "Avatar: Fire and Ash",
