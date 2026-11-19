@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:26:55.374Z",
+  "generatedAt": "2026-11-19T08:31:17.405Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -5091,6 +5091,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0H8NK2TQD?&linkCode=ll2&tag=ajsretro-21&linkId=cab61ca3e5b8c879233db461ffbb0a90&ref_=as_li_ss_tl"
     },
     {
+      "title": "Kindergarten Cop 2",
+      "originalTitle": "Kindergarten Cop 2",
+      "year": "2016",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "100",
+      "rating": "4.9",
+      "overview": "Der hartgesottene FBI-Agent Reed hat schon so einige heikle und nicht selten auch gefährliche Aufträge gemeistert. Doch als er im Rahmen seines neuesten Falls einen Datenträger mit besonders brisanten Informationen beschaffen soll, stellt ihn dies vor seine bislang größte Herausforderung. Die Spur führt ihn nämlich ausgerechnet in einen Kindergarten, in den sich Reed notgedrungen undercover als Erzieher einschleust, um vor Ort möglichst unauffällig weitere Nachforschungen anstellen zu können. Was sich auf dem Papier zunächst nach einem Kinderspiel anhört, bringt den Top-Agenten bald schon an seine Grenzen, halten ihn die kleinen Satansbraten doch mächtig auf Trab. Obwohl er mit der Lage schnell überfordert ist, muss sich Reed wohl oder übel mit ihr arrangieren, wenn er seine Mission erfolgreich abschließen will.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKqbQRoRFgL4ZojzATKxmIaUhhn.jpg",
+      "director": "Don Michael Paul",
+      "cast": [
+        "Dolph Lundgren",
+        "Sarah Strange",
+        "Bill Bellamy"
+      ],
+      "tmdbId": 383121,
+      "genre": "Familie",
+      "url": "https://www.amazon.de/gp/video/detail/B0C5MHG6YN?&linkCode=ll2&tag=ajsretro-21&linkId=0b6673ef037494d39e6a249a3e7eaaf8&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Conni & Co",
       "originalTitle": "Conni & Co",
       "year": "2016",
@@ -5320,16 +5341,6 @@
       "tmdbId": 1506560,
       "genre": "Familie",
       "url": "https://www.amazon.de/gp/video/detail/B0HF6ZR1Y8?&linkCode=ll2&tag=ajsretro-21&linkId=32f2e86e039861905e17b6f842abb48c&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Zurück zu den Dinos",
-      "genre": "Familie",
-      "url": "https://www.amazon.de/gp/video/detail/B0HLMDR1SN?&linkCode=ll2&tag=ajsretro-21&linkId=5f496d4ba00ac722fc4e49570135baad&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2022",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "10 Tage ohne Mama",
