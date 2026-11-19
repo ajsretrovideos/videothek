@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:31:17.405Z",
+  "generatedAt": "2026-11-19T11:29:56.277Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -35,7 +35,7 @@
       "genre": "Leichte Kost",
       "room": 1,
       "wall": "left",
-      "count": 25
+      "count": 24
     },
     {
       "genre": "Familie",
@@ -113,7 +113,7 @@
       "genre": "Western",
       "room": 2,
       "wall": "right",
-      "count": 0
+      "count": 21
     },
     {
       "genre": "Eastern",
@@ -250,7 +250,7 @@
       "rating": "7.5",
       "overview": "Jahrelang hat Matt gespart, um seiner Verlobten eine Traumhochzeit in Italien und unvergessliche Flitterwochen zu ermöglichen. Doch dann lässt seine Zukünftige ihn plötzlich allein vor dem Altar zurück. Mit gebrochenem Herzen bleibt Matt nichts anderes übrig, als die teuer gebuchte Reise allein anzutreten.",
       "poster": "https://image.tmdb.org/t/p/w500/97pvFpZCwJ9IMGifRqbBMvW1abE.jpg",
-      "director": "Daniel Kinnane",
+      "director": "Charles Kinnane",
       "cast": [
         "Kevin James",
         "Nicole Grimaudo",
@@ -1173,6 +1173,29 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HHN1BFHW?&linkCode=ll2&tag=ajsretro-21&linkId=1bb9d9ca7bc2af07b7667edf88955218&ref_=as_li_ss_tl"
     },
     {
+      "title": "The Lost City - Das Geheimnis der verlorenen Stadt",
+      "originalTitle": "The Lost City",
+      "year": "2022",
+      "genres": [
+        "Action",
+        "Abenteuer",
+        "Komödie"
+      ],
+      "runtime": "112",
+      "rating": "6.4",
+      "overview": "Loretta Sage ist eine brillante Autorin, die zurückgezogen lebt und sich Liebes- und Abenteuerromane über exotische Orte ausdenkt. In den Geschichten geht es um den gutaussehenden Dash, der stets auf den Romancovern abgedruckt ist und vom selbstverliebten Modell Alan verkörpert wird. Auf einer Buch-Tournee mit Alan wird Loretta entführt: Der exzentrische Milliardär Fairfax steckt dahinter und verlangt von der Autorin, ihn zum Schatz der antiken verlorenen Stadt aus einem ihrer Romane zu führen. Alan reist zur Rettung von Loretta in den Dschungel, wo er beweisen will, dass er ein echter Held ist und mehr auf dem Kasten hat als nur zu posen. Ein tropisches Abenteuer nimmt seinen Lauf. Alan und Loretta müssen ein Team werden, um die Gefahren des Urwalds zu überleben und den Schatz zu finden. Doch es würde enorm helfen, wenn Alan dabei nicht dermaßen unbeholfen wäre …",
+      "poster": "https://image.tmdb.org/t/p/w500/dM8lEfO0htADEYRZAGTYDv6E1yr.jpg",
+      "director": "Aaron Nee",
+      "cast": [
+        "Sandra Bullock",
+        "Channing Tatum",
+        "Daniel Radcliffe"
+      ],
+      "tmdbId": 752623,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HMWK7W4T?&linkCode=ll2&tag=ajsretro-21&linkId=09256db7752cbcbb39d50ea4d69aa08b&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Let Them All Talk",
       "originalTitle": "Let Them All Talk",
       "year": "2020",
@@ -1193,6 +1216,121 @@
       "tmdbId": 623856,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0B8MRQJLV?&linkCode=ll2&tag=ajsretro-21&linkId=97ecca4074bf2151316834aff5bd40f9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Jumanji: The Next Level",
+      "originalTitle": "Jumanji: The Next Level",
+      "year": "2019",
+      "genres": [
+        "Abenteuer",
+        "Komödie",
+        "Fantasy"
+      ],
+      "runtime": "124",
+      "rating": "6.9",
+      "overview": "Als Spencer verschwindet, ist Martha schnell klar: Der Junge, in den sie sich einst verliebte, der aber nun doch nur noch ein guter Freund ist, ist erneut im Videospiel Jumanji gelandet. Gemeinsam mit dem Footballspieler Anthony „Fridge“ Johnson will sie ihn retten und erneut in das Spiel eintauchen. Doch leider landen dabei auch Spencers Großvater Eddie und dessen Kumpel Milo in der wundersamen Welt von Jumanji. Während Martha nun wieder im Körper von Bad-Ass Kämpferin Ruby Roundhouse steckt, wird das Abenteuer dadurch erschwert und gefährlicher, dass die Senioren als Abenteurer Dr. Smolder Bravestone sowie Zoologe und Waffenspezialist Moose Finbar nicht gerade eine große Hilfe sind. Auch Fridge muss sich erst einmal daran gewöhnen, nun den dicken Bauch von Kartograf Shelly Oberon zu haben…",
+      "poster": "https://image.tmdb.org/t/p/w500/mKl2yUeITVBOlXpPDBqxJRZBb4X.jpg",
+      "director": "Jake Kasdan",
+      "cast": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Jack Black"
+      ],
+      "tmdbId": 512200,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B082J7B4N7?&linkCode=ll2&tag=ajsretro-21&linkId=2ac6b66786a362491cb8555e047ba9d9&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Art of Self-Defense",
+      "originalTitle": "The Art of Self-Defense",
+      "year": "2019",
+      "genres": [
+        "Komödie",
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "runtime": "104",
+      "rating": "6.6",
+      "overview": "Casey wird mitten auf der Straße willkürlich angegriffen. Er will sich erst eine Waffe kaufen, doch dann meldet sich er bei einem lokalen Dojo, also einer Übungshalle für japanische Kampfkünste, an. Der charismatische, aber dennoch mysteriöse Anführer der Gruppe nennt sich Sensei und lehrt seinen Schülern die Kunst der Selbstverteidigung auf eher eigenwillige Weise. Casey wird schnell von seinem \"Meister\" inspiriert, wird immer selbstbewusster und will sogar bald seine Angreifer von einst aufspüren und sich ihnen stellen.",
+      "poster": "https://image.tmdb.org/t/p/w500/bTq793Qwl3tCXb94zrDPAwppbsC.jpg",
+      "director": "Riley Stearns",
+      "cast": [
+        "Jesse Eisenberg",
+        "Alessandro Nivola",
+        "Imogen Poots"
+      ],
+      "tmdbId": 480001,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B09Q14W7J1?&linkCode=ll2&tag=ajsretro-21&linkId=596be19be29bbe4eb306603103d28b5d&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "The Happytime Murders",
+      "originalTitle": "The Happytime Murders",
+      "year": "2018",
+      "genres": [
+        "Action",
+        "Krimi",
+        "Komödie"
+      ],
+      "runtime": "91",
+      "rating": "5.8",
+      "overview": "In einer Welt in der Puppen als ‚Menschen‘ zweiter Klasse mit eben diesen koexistieren, ist der Privatdetektiv und Ex-Cop Phil Phillips auf der Jagd nach einem Mörder, der bereits seinen Bruder auf dem Gewissen hat. Aktuell hat der Verbrecher es auf die Darsteller der berühmten 80er-Jahre-Fernsehshow „The Happytime Gang“ abgesehen und killt ein Ensemblemitglied nach dem anderen. – Phil sorgte zwar mit einem Fehler einst dafür, dass sämtliche Puppen vom Polizeidienst ausgeschlossen wurden, doch nun sind die Cops auf sein Insiderwissen angewiesen. – Bei den Ermittlungen im düster-versauten Milieu der Puppen stellen Connie und Phil bald fest, dass es der Killer auch auf Phils Ex-Freundin Jenny abgesehen hat …",
+      "poster": "https://image.tmdb.org/t/p/w500/ku3PVkJxwA8t48l6DtvQrUc6Muw.jpg",
+      "director": "Brian Henson",
+      "cast": [
+        "Melissa McCarthy",
+        "Bill Barretta",
+        "Leslie David Baker"
+      ],
+      "tmdbId": 412988,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HNDL83TV?&linkCode=ll2&tag=ajsretro-21&linkId=4be8927dd0a30b979f4048bff18696ca&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Don’t Worry, weglaufen geht nicht",
+      "originalTitle": "Don't Worry, He Won't Get Far on Foot",
+      "year": "2018",
+      "genres": [
+        "Komödie",
+        "Drama"
+      ],
+      "runtime": "104",
+      "rating": "6.7",
+      "overview": "John Callahan liebt das wilde Leben, schräge Witze und Alkohol. Den Alkohol liebt er allerdings etwas zu sehr. Selbst als sein Leben nach einer nächtlichen Sauftour durch einen schweren Autounfall völlig aus der Bahn geworfen wird, denkt er gar nicht daran, mit dem Trinken aufzuhören. Seiner Freundin und einem freigiebigen Unterstützer ist es zu verdanken, dass er sich widerwillig auf eine Entzugstherapie einlässt. Dabei entdeckt er sein Zeichentalent – und wendet es für bissige, respektlose Cartoons an, die er zunächst in einer Lokalzeitung veröffentlicht, die ihm bald aber Fans in vielen Ländern einbringen und ihm ein neues Leben schenken...",
+      "poster": "https://image.tmdb.org/t/p/w500/1F0ETqtGC9kZRXHVGKiNAZCGt9p.jpg",
+      "director": "Gus Van Sant",
+      "cast": [
+        "Joaquin Phoenix",
+        "Jonah Hill",
+        "Rooney Mara"
+      ],
+      "tmdbId": 443009,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0HKZML8FQ?&linkCode=ll2&tag=ajsretro-21&linkId=3cf6bf698835354475ca26a15bfa8956&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Jumanji: Willkommen im Dschungel",
+      "originalTitle": "Jumanji: Welcome to the Jungle",
+      "year": "2017",
+      "genres": [
+        "Abenteuer",
+        "Komödie",
+        "Fantasy"
+      ],
+      "runtime": "119",
+      "rating": "6.8",
+      "overview": "Vier Teenager entdecken beim Nachsitzen ein altes Videospiel, doch statt einem ungefährlichen Spaß vorm Fernseher wird das Quartett in die Dschungelwelt von Jumanji gezogen! In dieser unwirtlichen Umgebung bekommen es die Schüler mit Nashörnern, schwarzen Mambas und einer unendlichen Vielfalt an Dschungel-Fallen und -Puzzeln zu tun – allerdings in den Körpern der Figuren des Games. Der bescheidene Spencer wird zum Abenteurer Dr. Smolder Bravestone, Football-Spieler Anthony „Fridge“ Johnson zum Zoologen und Waffenspezialisten Moose Finbar, It-Girl Bethany zum Kartografen/Kryptografen Shelly Oberon und die unsportliche Außenseiterin Martha zur Kämpferin Ruby Roundhouse. Um das Spiel zu gewinnen, müssen sie in ihren neuen Körpern allerlei gefährliche Abenteuer überstehen...",
+      "poster": "https://image.tmdb.org/t/p/w500/AWVWOWfuTmY3uusIsIQ2riDg9T.jpg",
+      "director": "Jake Kasdan",
+      "cast": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Jack Black"
+      ],
+      "tmdbId": 353486,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B09Q5M6LSD?&linkCode=ll2&tag=ajsretro-21&linkId=58e57a73872615de27fcd10f14748502&ref_=as_li_ss_tl"
     },
     {
       "title": "Daddy's Home 2 - Mehr Väter, mehr Probleme!",
@@ -1238,6 +1376,71 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HFF3719R?&linkCode=ll2&tag=ajsretro-21&linkId=14c87fa30ff7ac6c8de45abfa5408562&ref_=as_li_ss_tl"
     },
     {
+      "title": "Bad Neighbors 2",
+      "originalTitle": "Neighbors 2: Sorority Rising",
+      "year": "2016",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "92",
+      "rating": "5.8",
+      "overview": "Endlich haben es Mac und Kelly Radner geschafft: Töchterchen Stella schläft längst durch, ein zweites Baby ist unterwegs und in der Nachbarschaft ist wieder Ruhe eingekehrt. Der ideale Zeitpunkt also, um den nächsten Schritt Richtung gepflegte Bürgerlichkeit zu tun.  Doch gerade als sie ihr Haus verkaufen und in die Vorstadt ziehen wollen, hält nebenan plötzlich wieder eine Studentenverbindung Einzug. Und die Mädels von Kappa Nu lassen Teddy und seine Jungs im Rückblick fast wie Traumnachbarn erscheinen.  Die Radners haben nur eine Chance, wenn sie die unliebsamen Störenfriede loswerden und damit den Marktwert ihres Hauses retten wollen: Sie bitten ihren Ex-Rivalen Teddy um Mithilfe. Sein charmantes Lächeln und die gestählten Bauchmuskeln sollen die Party-Bitches stoppen. Doch jung und verrückt wie sie sind, geben sich Shelby und Co. nicht so schnell geschlagen.",
+      "poster": "https://image.tmdb.org/t/p/w500/iAAWJpTiYgHNYb2RJtEbfDHjdex.jpg",
+      "director": "Nicholas Stoller",
+      "cast": [
+        "Seth Rogen",
+        "Zac Efron",
+        "Rose Byrne"
+      ],
+      "tmdbId": 325133,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B09SJ3CWXG?&linkCode=ll2&tag=ajsretro-21&linkId=53aae18c43bbb7efbc77e0f631d00b6a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Big Business - Außer Spesen nichts gewesen",
+      "originalTitle": "Unfinished Business",
+      "year": "2015",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "91",
+      "rating": "5.5",
+      "overview": "Dan hat genug davon, dass seine Leistung in seiner Firma nicht anständig gewürdigt wird. Er kündigt, ein Jahr später hat er sein eigenes Unternehmen. Das besteht neben ihm nur aus zwei weiteren Mitarbeitern und mit denen gibt es jeweils ein Problem: Mike ist zu jung, Timothy ist zu alt. Um einen wichtigen Deal an Land zu ziehen, macht sich das Trio auf den Weg nach Europa. Doch bei dem als Routinereise geplanten Trip geht so gut wie alles schief, was schief gehen kann: Die Reisegruppe platzt auf einen von gewaltsamen Protesten begleiteten globalen Wirtschaftsgipfel, der Besuch eines riesigen Fetisch-Events läuft völlig aus dem Ruder und eine toughe Kollegin setzt Dan mächtig unter Druck. Der wird nicht geringer, als das chaotische Team realisiert, dass die Firma pleite ist, falls der Deal scheitert…",
+      "poster": "https://image.tmdb.org/t/p/w500/6bglIVkU3D8xsb67TyEBrmDvQHU.jpg",
+      "director": "Ken Scott",
+      "cast": [
+        "Vince Vaughn",
+        "Dave Franco",
+        "Sienna Miller"
+      ],
+      "tmdbId": 239573,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0CZTV8TTN?&linkCode=ll2&tag=ajsretro-21&linkId=9898f3929128079ef34f8eb633156844&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Spy - Susan Cooper Undercover",
+      "originalTitle": "Spy",
+      "year": "2015",
+      "genres": [
+        "Action",
+        "Komödie",
+        "Krimi"
+      ],
+      "runtime": "120",
+      "rating": "6.8",
+      "overview": "Susan Cooper ist eine bescheidene CIA-Analystin, die ausschließlich am Schreibtisch arbeitet. Auch wenn sie damit für die eigentliche Planung der gefährlichen Missionen des Geheimdienstes verantwortlich ist, sind es die Agenten im Feldeinsatz, die anschließend die Lorbeeren für einen erfolgreich abgeschlossenen Job ernten und Susan bleibt weitgehend unbeachtet. Doch als ihr Partner Bradley Fine den Machenschaften der schönen Raina Boyanov  und ihren Strippenziehern im Hintergrund zum Opfer fällt, meldet sich Susan kurzerhand freiwillig für einen heiklen Undercover-Einsatz. Bei diesem soll sie die Organisation eines gefährlichen Waffenhändlers infiltrieren und gleichzeitig wird ihr so die Möglichkeit geboten, Vergeltung für ihren Partner zu üben. In zum Teil unglamourösen Tarnungen, etwa als Katzenliebhaberin aus Iowa, erlebt Susan das Abenteuer ihres Lebens, bei dem sie zur Heldin der gefährlichsten Mission des CIA wird.",
+      "poster": "https://image.tmdb.org/t/p/w500/kZFAjfLjKiteKvxuL1b0ZRSh6Yx.jpg",
+      "director": "Paul Feig",
+      "cast": [
+        "Melissa McCarthy",
+        "Rose Byrne",
+        "Jason Statham"
+      ],
+      "tmdbId": 238713,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B01DPNRYZ2?&linkCode=ll2&tag=ajsretro-21&linkId=f75c6b3ea20b3b25d50f68573f746a77&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Miss Bodyguard",
       "originalTitle": "Hot Pursuit",
       "year": "2015",
@@ -1258,6 +1461,27 @@
       "tmdbId": 268920,
       "genre": "Leichte Kost",
       "url": "https://www.amazon.de/gp/video/detail/B0HJCCSLPG?&linkCode=ll2&tag=ajsretro-21&linkId=ff2f316f6286bec4de6f263d1487cb1b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Sex Tape",
+      "originalTitle": "Sex Tape",
+      "year": "2014",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "94",
+      "rating": "5.4",
+      "overview": "Was anfangs nach der nie enden wollenden Romanze aussieht, verkommt nach einigen Jahren schnell zur pflichtbewussten Routine: So ergeht es auch Annie und Jay, bei denen nach zehn Jahren Ehe und zwei Kindern kein Feuer mehr im Bett aufkommen will. Um dem Ganzen wieder etwas Schwung zu verleihen, entscheidet sich das Paar für eine unkonventionelle Methode. Sie halten einen dreistündigen Sex-Marathon von sich, während dem sie jede erdenkliche Stellung einnehmen, mit dem iPad fest. Der Nervenkitzel scheint seine Wirkung nicht verfehlt zu haben, am nächsten Morgen sind die beiden glücklich und ausgelastet, wie schon seit Jahren nicht mehr. Das Entsetzen folgt, als das Ehepaar realisiert, dass die Videodatei nicht gelöscht, sondern in die Cloud hochgeladen wurde, auf die alle iPads Zugriff haben, die Jay und Annie ihren Freunden und Verwandten geschenkt haben...",
+      "poster": "https://image.tmdb.org/t/p/w500/uohs5wNXYeIFvON62tKDXERQlWW.jpg",
+      "director": "Jake Kasdan",
+      "cast": [
+        "Cameron Diaz",
+        "Jason Segel",
+        "Rob Corddry"
+      ],
+      "tmdbId": 225886,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0FS76XCJN?&linkCode=ll2&tag=ajsretro-21&linkId=23cebd11e26ca0c535b85c541488a2b3&ref_=as_li_ss_tl"
     },
     {
       "title": "Rock of Ages",
@@ -1353,6 +1577,28 @@
       "url": "https://www.amazon.de/gp/video/detail/B0B668224W?&linkCode=ll2&tag=ajsretro-21&linkId=f945b6b620e65321c2c63103f3f37c05&ref_=as_li_ss_tl"
     },
     {
+      "title": "Meine Frau, die Spartaner und ich",
+      "originalTitle": "Meet the Spartans",
+      "year": "2008",
+      "genres": [
+        "Komödie",
+        "Fantasy"
+      ],
+      "runtime": "84",
+      "rating": "4.1",
+      "overview": "Sparta, irgendwann A.D., der große Pinguin-Bezwinger und Anführer von Sparta Leonidas muss gegen die übermächtige Armee des Perserkönigs Xerxes in den Krieg ziehen. Zwar haben nicht alle 300 tapferen Krieger Spartas Zeit für diese gefährliche Mission, aber dafür stehen 13 Muskel-bepackte Sandalenhelden hinter Leonidas. Und der Gegner, der auf sie wartet, hat es in sich, denn in den Reihen der Perser tummelt sich so manch sagenhafter Superheld der Neuzeit: Von Ghost Rider über Rocky bis zu den Transformers. Und während die Männer ihre heißen Lenden riskieren, mischt Queen Margo im spartanischen Männer-Plenum mit ...",
+      "poster": "https://image.tmdb.org/t/p/w500/m8MQJH3sBR8xM8m9dVvQMpon5Ii.jpg",
+      "director": "Jason Friedberg",
+      "cast": [
+        "Travis Van Winkle",
+        "Sean Maguire",
+        "Carmen Electra"
+      ],
+      "tmdbId": 7278,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B0B6L2Z9PG?&linkCode=ll2&tag=ajsretro-21&linkId=28aeb36b72eb162b718d23afeeae37ad&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Kiss Kiss Bang Bang",
       "originalTitle": "Kiss Kiss Bang Bang",
       "year": "2005",
@@ -1399,6 +1645,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0B8Q1214X?&linkCode=ll2&tag=ajsretro-21&linkId=f18e83fcbe35ca6b74ab2943ea301102&ref_=as_li_ss_tl"
     },
     {
+      "title": "Neid",
+      "originalTitle": "Envy",
+      "year": "2004",
+      "genres": [
+        "Komödie"
+      ],
+      "runtime": "99",
+      "rating": "4.9",
+      "overview": "Tim und Nick sind Nachbarn, Arbeitskollegen und gute Freunde. Nick erfindet ein Spray, das Hundekot verschwinden lässt und wird dadurch stinkreich. Tim wird neidisch auf seinen Kumpel, der mit seinem Luxus rumprotzt. Bestärkt wird sein Neid durch den dubiosen J-Mann, der ihn zu einer verhängnisvollen Tat überredet.",
+      "poster": "https://image.tmdb.org/t/p/w500/dVeY84MSx3z5ofqg8chbM2i3H8d.jpg",
+      "director": "Barry Levinson",
+      "cast": [
+        "Ben Stiller",
+        "Jack Black",
+        "Rachel Weisz"
+      ],
+      "tmdbId": 10710,
+      "genre": "Leichte Kost",
+      "url": "https://www.amazon.de/gp/video/detail/B00HHZQ7YY?&linkCode=ll2&tag=ajsretro-21&linkId=ed92e58ed0391399043c5344bcd8b810&ref_=as_li_ss_tl"
+    },
+    {
       "title": "Scary Movie 3",
       "originalTitle": "Scary Movie 3",
       "year": "2003",
@@ -1420,308 +1687,27 @@
       "url": "https://www.amazon.de/gp/video/detail/B0DNMLK9BR?&linkCode=ll2&tag=ajsretro-21&linkId=2c783983748ffe54ed0e99fd84cbac3e&ref_=as_li_ss_tl"
     },
     {
-      "title": "Schmalspurganoven",
-      "originalTitle": "Small Time Crooks",
-      "year": "2000",
+      "title": "Bridget Jones - Schokolade zum Frühstück",
+      "originalTitle": "Bridget Jones's Diary",
+      "year": "2001",
       "genres": [
         "Komödie",
-        "Krimi"
-      ],
-      "runtime": "94",
-      "rating": "6.5",
-      "overview": "Woody Allen ist in der Rolle des Kleinganoven Ray zu sehen, der mit seinen Freunden extra ein Restaurant aufmacht, um von dort einen Tunnel zur gegenüberliegenden Bank zu graben. Aus den geplanten Pizzen werden Kekse, aber diese verkaufen sich bestens. Der Weg zur Bank gestaltet sich allerdings erschwerlicher.",
-      "poster": "https://image.tmdb.org/t/p/w500/1zfny3ja32Nz3hhjifjlQHu19Hz.jpg",
-      "director": "Woody Allen",
-      "cast": [
-        "Woody Allen",
-        "Tracey Ullman",
-        "Michael Rapaport"
-      ],
-      "tmdbId": 10569,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GKNRSDZR?&linkCode=ll2&tag=ajsretro-21&linkId=a98256bcca83984c38cfaef1bc7d38ca&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Clueless - Was sonst!",
-      "originalTitle": "Clueless",
-      "year": "1995",
-      "genres": [
-        "Komödie",
-        "Liebesfilm"
-      ],
-      "runtime": "93",
-      "rating": "7.2",
-      "overview": "Es ist nicht leicht das beliebteste und bestangezogendste Mädchen der Beverly Hills High School zu sein. Vor allem, wenn man dazu noch den Neid zahlreicher Möchtegern- Schönheiten auf sich zieht. Für Cher ist das alles kein Problem. Sie findet sogar noch etwas Zeit für ihre Hobbies: Zum Beispiel für ihre Lehrerin einen Liebhaber zu finden, oder ein schüchternes Mauerblümchen in ein Objekt männlicher Begierde zu verwandeln. Erst als Justin, ein verdammt gutaussehender Junge, und ihr Ex-Stiefbruder Josh unerwartet auf der Bildfläche erscheinen, gerät auch Chers Gefühlsleben beträchtlich durcheinander",
-      "poster": "https://image.tmdb.org/t/p/w500/AoeWEfurXBC6Qy3VNn1oPX18YlI.jpg",
-      "director": "Amy Heckerling",
-      "cast": [
-        "Alicia Silverstone",
-        "Stacey Dash",
-        "Brittany Murphy"
-      ],
-      "tmdbId": 9603,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0HM4GPWG4?&linkCode=ll2&tag=ajsretro-21&linkId=4c1baa6087c06f636a87332439b26e7d&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Dumm und Dümmer",
-      "originalTitle": "Dumb and Dumber",
-      "year": "1994",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "107",
-      "rating": "6.7",
-      "overview": "Lloyd und sein Kumpel Harry sind einer dümmer als der andere, leben gemeinsam in einem heruntergekommen Appartment und träumen von einem eigenen Tiershop mit integrierter Würmerzucht. Die Beiden halten sich mit Gelegenheitsjobs über Wasser: Lloyd ist Chauffeur bei einem Limousinen-Service, während Harry als Hundefriseur arbeitet. Eines Tages lernt Lloyd auf einer seiner Fahrten die hübsche Mary Swanson kennen. Als er sie am Flughafen absetzt, vergisst sie scheinbar ihren Koffer. Lloyd stürmt hinterher, um ihr das Gepäckstück zurückzugeben - ohne zu ahnen, dass es sich dabei um das Lösegeld für Marys entführten Ehemann handelt. Die beiden Entführer staunen nicht schlecht, als sich Lloyd den Koffer vor ihrer Nase wegschnappt und damit verschwindet. Da er Mary nicht mehr erwischt, machen sich Lloyd und Harry auf eine verrückte Reise, um den Koffer zurückzubringen...",
-      "poster": "https://image.tmdb.org/t/p/w500/mHBOd829YSKLYNeeUziZgdYes0y.jpg",
-      "director": "Peter Farrelly",
-      "cast": [
-        "Jim Carrey",
-        "Jeff Daniels",
-        "Lauren Holly"
-      ],
-      "tmdbId": 8467,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0CV5F8L5Y?&linkCode=ll2&tag=ajsretro-21&linkId=a9b029cb92a6df80d3772fc75bf76709&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Tess und ihr Bodyguard",
-      "originalTitle": "Guarding Tess",
-      "year": "1994",
-      "genres": [
-        "Komödie",
+        "Liebesfilm",
         "Drama"
-      ],
-      "runtime": "96",
-      "rating": "6.0",
-      "overview": "Nachdem der Präsident der Vereinigten Staaten im Dienst gestorben ist, zieht sich die Lieblings-First Lady des Landes Tess Carlisle in ihre verschlafene Heimatstadt in Ohio zurück. Eine der wenigen Konstanten in ihrem Leben ist der Secret Service-Agent Doug Chesnic. Doug, ein ehrgeiziger, engagierter Agent, der im Weißen Haus den Carlisles gedient hatte, leitet nun das siebenköpfige Secret Service-Team, das Tess Schutz gibt. Obwohl sich Doug nach Action und Gefahr pur sehnt, sitzt er stattdessen in einer Kleinstadt im Mittleren Westen fest, wo ihn Tess auf Trab hält, und wenn's nur darum geht, ihr das Frühstück ans Bett zu bringen. Nichts in den Schulungsunterlagen der Behörde bereitete Doug auf diese Art von Aufgaben vor und schließlich rebelliert er und löst einen witzigen Schlagabtausch mit der Person aus, die er zu beschützen schwor.",
-      "poster": "https://image.tmdb.org/t/p/w500/uqapiy8T5yEyOX2F4hgOtBCQ9u.jpg",
-      "director": "Hugh Wilson",
-      "cast": [
-        "Shirley MacLaine",
-        "Nicolas Cage",
-        "Austin Pendleton"
-      ],
-      "tmdbId": 6472,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0DK4FRJ6Q?&linkCode=ll2&tag=ajsretro-21&linkId=7d6fda285489a1ff2dae65d1a09d14bc&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Bullets Over Broadway",
-      "originalTitle": "Bullets Over Broadway",
-      "year": "1994",
-      "genres": [
-        "Komödie",
-        "Krimi"
-      ],
-      "runtime": "98",
-      "rating": "7.1",
-      "overview": "Der bisher recht erfolglose Theaterautor David Shayne möchte bei seinem neuen Stück „Gott unserer Väter“ selbst Regie führen. Um das Geld dazu zu bekommen, lässt er sich auf ein Geschäft mit dem Mafiaboss Nick Valenti ein. Dieser fordert als Gegenleistung, dass seine Freundin Olive Neal eine Rolle bekommt. Olive, die bisher nur als Revuetänzerin aufgetreten ist, erweist sich jedoch bald als überaus untalentiert und lässt einige Turbulenzen bei den Proben entstehen, ebenso wie die Fresssucht des Schauspielers Warner Purcell und die Launen der alternden Diva Helen Sinclair.",
-      "poster": "https://image.tmdb.org/t/p/w500/mY9D1oCLeDKNMdUO8EV7MoCZ3up.jpg",
-      "director": "Woody Allen",
-      "cast": [
-        "John Cusack",
-        "Chazz Palminteri",
-        "Dianne Wiest"
-      ],
-      "tmdbId": 11382,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GW97FTSB?&linkCode=ll2&tag=ajsretro-21&linkId=2674a0d674bce96247d4210b5756c1a6&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "LOL 2.0",
-      "originalTitle": "LOL 2.0",
-      "year": "2026",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "105",
-      "rating": "6.0",
-      "overview": "Anne, Mitte 50, genießt erstmals seit dem Auszug ihrer Kinder einen selbstbestimmten Alltag und kann sich auf sich, ihre Karriere und ihr Liebesleben konzentrieren. Doch die neue Ruhe währt nur kurz: Ihre 23-jährige Tochter Louise kehrt nach beruflichen Rückschlägen und einer gescheiterten Beziehung zurück ins Familienheim. Mit ihr wird das Haus wieder lebendig, alte Konflikte treten zutage, und Mutter wie Tochter müssen ihre Beziehung neu definieren. Als wäre das nicht genug, verkündet Sohn Theo die größte Überraschung: Anne wird Großmutter. Zwischen Generationenkonflikten, Selbstzweifeln und neuen Gefühlen gerät ihr Selbstbild ins Wanken. Begleitet und auf die Probe gestellt von ihrem Umfeld, darunter ihr Ex-Partner und enge Familienmitglieder, erkennt sie: Das Leben verläuft selten nach Plan, und es ist nie zu spät, zu wachsen und sich neu zu entdecken.",
-      "poster": "https://image.tmdb.org/t/p/w500/gvt809Qf02EXrQqONOnqbTEUK31.jpg",
-      "director": "Lisa Azuelos",
-      "cast": [
-        "Sophie Marceau",
-        "Thaïs Alessandrin",
-        "Vincent Elbaz"
-      ],
-      "tmdbId": 1477170,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0HFKM55F7?&linkCode=ll2&tag=ajsretro-21&linkId=1738227ceaa3b09a688f3fe78daed1b5&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Love Hurts - Liebe tut weh",
-      "originalTitle": "Love Hurts",
-      "year": "2025",
-      "genres": [
-        "Action",
-        "Komödie",
-        "Liebesfilm"
-      ],
-      "runtime": "83",
-      "rating": "5.6",
-      "overview": "Du kannst mit allem Schluss machen, nur nicht mit deiner Vergangenheit. Das Leben als Makler in den Vororten von Milwaukee ist nicht gerade aufregend, und so soll es auch bleiben, ginge es nach Marvin. Aber wer fragt schon Marvin? Jedenfalls nicht Rose, die er einst vor dem Tod bewahrt hat.",
-      "poster": "https://image.tmdb.org/t/p/w500/34eXocG52upW1xPsea5nIA6SQBd.jpg",
-      "director": "Jonathan Eusebio",
-      "cast": [
-        "Ke Huy Quan",
-        "Ariana DeBose",
-        "Daniel Wu"
-      ],
-      "tmdbId": 1226406,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0DCXZWLLF?&linkCode=ll2&tag=ajsretro-21&linkId=e746150ac9ec94b4a867b2417ee7a4c7&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Fackham Hall",
-      "originalTitle": "Fackham Hall",
-      "year": "2025",
-      "genres": [
-        "Komödie"
       ],
       "runtime": "97",
-      "rating": "6.6",
-      "overview": "Fackham Hall ist eine Parodie, die Downton Abbey, Airplane! und Monty Python auf humorvolle Weise miteinander vereint. Im Mittelpunkt steht der liebenswerte Taschendieb Eric Noone, der eine Anstellung in einem außergewöhnlichen englischen Herrenhaus findet. Schon bald steigt er in der Hierarchie auf und beginnt eine verbotene Affäre mit der Tochter des Hauses, Rose Davenport. Denn eine standesgemäße Heirat Roses ist für die Davenports finanziell überlebenswichtig. Als ein Mord geschieht, gerät Eric unter Verdacht und die Zukunft der Familie Davenport steht auf dem Spiel.",
-      "poster": "https://image.tmdb.org/t/p/w500/224sRcLcZ391Zorvnk06POL8SsB.jpg",
-      "director": "Jim O'Hanlon",
+      "rating": "6.7",
+      "overview": "Völlig verkatert und immer noch Single, beschließt Bridget Jones am Neujahrstag, ihr Leben endlich in den Griff zu kriegen - und Tagebuch zu führen: \"Vorsatz Nummer eins: Muss unbedingt zwanzig Pfund abnehmen! Vorsatz Nummer zwei: Netten, einfühlsamen Freund suchen und nie wieder eine Beziehung mit Spannern, Größenwahnsinnigen, emotionalen Flachwichsern oder Perversen eingehen!\" Leichter gesagt als getan - immerhin muss sich Bridget zwischen dem \"amtlichen-Sex-Gott-mit-dickem-Auto\" Daniel Cleaver  und dem \"unnahbar-wirkenden-aber-dennoch-nachdenklich-sensiblen\" Mark Darcy  entscheiden ...",
+      "poster": "https://image.tmdb.org/t/p/w500/pQW8oUZ6prwG0hD3UUQ4FEyFfqg.jpg",
+      "director": "Sharon Maguire",
       "cast": [
-        "Damian Lewis",
-        "Katherine Waterston",
-        "Thomasin McKenzie"
+        "Renée Zellweger",
+        "Colin Firth",
+        "Hugh Grant"
       ],
-      "tmdbId": 1175174,
+      "tmdbId": 634,
       "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GLDZWZZ9?&linkCode=ll2&tag=ajsretro-21&linkId=a6c73ff2cad8cb48c1affc3c728a322e&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Vacances forcées",
-      "originalTitle": "Vacances forcées",
-      "year": "2025",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "100",
-      "rating": "6.2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rxU0b5zCS0HL7updpQiypQL3uBU.jpg",
-      "director": "Stéphan Archinard",
-      "cast": [
-        "Clovis Cornillac",
-        "Aure Atika",
-        "Bertrand Usclat"
-      ],
-      "tmdbId": 1284505,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0F8JLDYJQ?&linkCode=ll2&tag=ajsretro-21&linkId=fe6297cbb8812aa3c2f3dc93518e986a&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "So klingt das Leben",
-      "originalTitle": "Rondallas",
-      "year": "2025",
-      "genres": [
-        "Drama",
-        "Musik"
-      ],
-      "runtime": "112",
-      "rating": "7.4",
-      "overview": "Zwei Jahre nach einem tragischen Schiffsunglück, versucht das kleine Fischerdorf A Guarda an der galicischen Küste, wieder Halt zu finden. Als die Dorfgemeinschaft beschließt, ihr traditionelles Musikensemble wieder aufleben zu lassen, übernimmt die 18-jährige Andrea die Leitung – in Erinnerung an ihren Vater, der bei der Katastrophe ums Leben kam. Mit Mut und Entschlossenheit bringt sie frischen Wind in die Proben für den regionalen Wettbewerb, verbindet vertraute Instrumente mit zeitgenössischen Hits und weckt so nach und nach die Lebensfreude und Zuversicht der Menschen. Doch der Weg zurück ist kein leichter: Die Lücken, die das Unglück hinterlassen hat, sind auch im Ensemble spürbar, und zwischen Hoffnung, Zweifel und Trauer gerät die Harmonie der Gemeinschaft immer wieder ins Wanken.",
-      "poster": "https://image.tmdb.org/t/p/w500/oryWZcq1UDfWcQlhxfB57qEqUq4.jpg",
-      "director": "Daniel Sánchez Arévalo",
-      "cast": [
-        "Javier Gutiérrez",
-        "María Vázquez",
-        "Judith Fernández"
-      ],
-      "tmdbId": 1437873,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GXN9CWJM?&linkCode=ll2&tag=ajsretro-21&linkId=84637c6a9639084b7a6bbe3a656c1c7b&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Hypnose",
-      "originalTitle": "Hypnosen",
-      "year": "2024",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "runtime": "100",
-      "rating": "6.5",
-      "overview": "Vera und André sind ein junges Liebes- und Geschäftspaar. Gemeinsam haben sie eine revolutionäre App für Frauengesundheit entwickelt und bekommen die Chance, diese auf einem Pitching-Event vorzustellen. Am Tag zuvor versucht Vera, mit einer Hypnosetherapie das Rauchen aufzuhören. Doch statt von der Sucht befreit sie sich von allen gesellschaftlichen Konventionen. Ohne Hemmungen startet sie in das Wochenende mit den Investoren und stellt dabei nicht nur ihre Karriere und ihre Beziehung, sondern auch alle um sie herum auf die Probe.",
-      "poster": "https://image.tmdb.org/t/p/w500/xXM8dt91i3UWTMqro2du9NIj4W.jpg",
-      "director": "Ernst De Geer",
-      "cast": [
-        "Asta Kamma August",
-        "Herbert Nordrum",
-        "Andrea Edwards"
-      ],
-      "tmdbId": 1005972,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0FRQ941DF?&linkCode=ll2&tag=ajsretro-21&linkId=4820360527d1b315453d5b098cd455ff&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Monsieur Robert kennt kein Pardon",
-      "originalTitle": "Les Vengeances de Maître Poutifard",
-      "year": "2023",
-      "genres": [
-        "Komödie",
-        "Familie"
-      ],
-      "runtime": "80",
-      "rating": "5.1",
-      "overview": "Endlich kann Robert Poutifard in Rente gehen.  Nach über 30 Jahren treuer Dienste als Lehrer an einer Grundschule könnte er nun seinen verdienten Ruhestand genießen. Aber er hat da noch drei Rechnungen mit ehemaligen Schülern offen, die ihm besonders übel mitgespielt haben.  Sie waren es, die ihn um die Liebe seines Lebens zu einer Kollegin aus Québec gebracht haben. Und Robert Poutifard will keine süße Rache, sondern den kleinen vorlauten Gören von damals die Karriere und ihr erfolgreiches Leben zerstören. So hat er den erfolgreichen Chefkoch Anthony, die inzwischen populären Influencer-Zwillinge und Audrey, eine Pop-Diva im Visier.",
-      "poster": "https://image.tmdb.org/t/p/w500/coGPvuURqVqXCb4gTpULGuaiFay.jpg",
-      "director": "Pierre-François Martin-Laval",
-      "cast": [
-        "Christian Clavier",
-        "Isabelle Nanty",
-        "Jennie-Anne Walker"
-      ],
-      "tmdbId": 1005685,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GSD1FP94?&linkCode=ll2&tag=ajsretro-21&linkId=5ed4172495841b3a7982eaed7938adfc&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Catfight",
-      "originalTitle": "Catfight",
-      "year": "2017",
-      "genres": [
-        "Komödie",
-        "Drama"
-      ],
-      "runtime": "96",
-      "rating": "5.6",
-      "overview": "Die erfolgreich verheiratete Veronica und Künstlerin Ashley waren sich schon auf dem College nicht grün. Jetzt - 20 Jahre später - begegnen sich die beiden narzisstischen und egozentrischen Ladies auf einer Party und lassen ihre Aversionen in einem blutig-brutalen Kampf mit allen Mitteln aneinander aus. Mit verheerenden Folgen: Veronica landet für zwei Jahre im Koma und sieht sich anschließend mit dem unerwarteten Erfolg der verhassten Künstlerin konfrontiert. Der Auftakt für einen bitterbösen, satirischen (und blutigen) Reigen, der nur Verliererinnen kennt...",
-      "poster": "https://image.tmdb.org/t/p/w500/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg",
-      "director": "Onur Tukel",
-      "cast": [
-        "Sandra Oh",
-        "Anne Heche",
-        "Alicia Silverstone"
-      ],
-      "tmdbId": 408272,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B071VGNC9Q?&linkCode=ll2&tag=ajsretro-21&linkId=5c05235187b3c9469e747b558f550486&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Nur für Personal!",
-      "originalTitle": "Les Femmes du 6e étage",
-      "year": "2011",
-      "genres": [
-        "Komödie"
-      ],
-      "runtime": "106",
-      "rating": "6.8",
-      "overview": "In einem vornehmen Stadthaus leben der Börsenmakler Joubert und seine fast schon spröde Frau mit ihren Kindern. In den Dachkammern der 6. Etage sind die Dienstmädchen der feinen Leute, allesamt Spanierinnen, untergebracht. Als die langjährige Haushälterin der Jouberts Hals über Kopf kündigt, nimmt die junge und schöne Maria deren Platz ein. Monsieur Joubert fühlt sich sofort von ihrer temperamentvollen und lebensbejahenden Art angezogen und freundet sich mit ihr an. Da erst merkt er, wie trist sein Leben eigentlich ist, und trifft sich immer häufiger mit Maria und den anderen spanischen Dienstmädchen.Bald verbringt er die meiste Zeit mit den Angestellten, so dass schnell der Haussegen schief hängt. Nach einem Streit mit seiner Frau packt Joubert kurzerhand seine Sachen und zieht zu den Frauen in die sechste Etage ...",
-      "poster": "https://image.tmdb.org/t/p/w500/3hQ1sONNIqCcRBqzGqIdNmrGt6R.jpg",
-      "director": "Philippe Le Guay",
-      "cast": [
-        "Fabrice Luchini",
-        "Sandrine Kiberlain",
-        "Natalia Verbeke"
-      ],
-      "tmdbId": 57243,
-      "genre": "Leichte Kost",
-      "url": "https://www.amazon.de/gp/video/detail/B0GVGYRQGB?&linkCode=ll2&tag=ajsretro-21&linkId=aa65c60b7aaa6c79846cab163e8fe739&ref_=as_li_ss_tl"
+      "url": "https://www.amazon.de/gp/video/detail/B0HHYCWDGT?&linkCode=ll2&tag=ajsretro-21&linkId=0d40523ee1956a22a27575997e998b1d&ref_=as_li_ss_tl"
     },
     {
       "title": "Mother Mary",
@@ -6806,6 +6792,468 @@
       "tmdbId": 511548,
       "genre": "Dokus",
       "url": "https://www.amazon.de/gp/video/detail/B0HKY77H57?&linkCode=ll2&tag=ajsretro-21&linkId=126219769e3de5e8de014835c1f324ad&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Running Wild - Der Preis der Freiheit",
+      "originalTitle": "Running Wild",
+      "year": "2017",
+      "genres": [
+        "Drama"
+      ],
+      "runtime": "99",
+      "rating": "6.0",
+      "overview": "Stella Davis (Dorian Brown) ist eine Witwe, die sich ihr Leben finanziert, indem sie auf ihrer Ranch versucht, Strafgefangene wieder auf das Leben in Freiheit vorzubereiten. Dabei versucht die ungewöhnliche Truppe sich um eine Herde Wildpferde, die auf die Ranch gewandert ist, zu kümmern. Doch immer wieder werden Stella Hürden in den Weg gestellt, die sie selbst nicht versteht: Sie kämpft gegen Vorurteile, Gier und die kaltherzige Bürokratie bis sie erkennt, dass es nichts besseres gibt, als anderen zu helfen.",
+      "poster": "https://image.tmdb.org/t/p/w500/zjHrv7U0uEm9338Fd9pQZLgUODN.jpg",
+      "director": "Alex Ranarivelo",
+      "cast": [
+        "Dorian Brown Pham",
+        "Jason Lewis",
+        "Sharon Stone"
+      ],
+      "tmdbId": 430406,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0DK9WZC5C?&linkCode=ll2&tag=ajsretro-21&linkId=19eed7dfff6372652ac7ee3ff67c47c1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dead in Tombstone 2",
+      "originalTitle": "Dead Again in Tombstone",
+      "year": "2017",
+      "genres": [
+        "Western",
+        "Action",
+        "Fantasy",
+        "Horror"
+      ],
+      "runtime": "100",
+      "rating": "5.0",
+      "overview": "Guerrero (Danny Trejo) ist zurück. Erneut auferstanden von den Toten, zwingt ihn sein Fluch ein weiteres Mal, im Namen des Teufels auszureiten. Der grimmige Outlaw muss ein wichtiges, gestohlenes Artefakt vor den gierigen Händen der Soldatengang um Jackson Boomer (Jake Busey) bewahren, der vor nichts zurückschreckt, um seine gefallenen Kameraden aus ihren Gräbern zurückzuholen und den Zorn der Hölle über die Welt zu bringen. Guerrero bleibt nichts anderes übrig, als all seine dunklen Kräfte auf seinem blutigen Feldzug einzusetzen. Nur so kann er Jackson besiegen und endlich Erlösung finden.",
+      "poster": "https://image.tmdb.org/t/p/w500/tIoXA9uyIMFfymYWnT9yHOwSq5Y.jpg",
+      "director": "Roel Reiné",
+      "cast": [
+        "Danny Trejo",
+        "Jake Busey",
+        "Elysia Rotaru"
+      ],
+      "tmdbId": 473165,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0FBHSVYPQ?&linkCode=ll2&tag=ajsretro-21&linkId=ef608c65186c6dce07c9842b666ff1aa&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Forsaken",
+      "originalTitle": "Forsaken",
+      "year": "2015",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "86",
+      "rating": "6.2",
+      "overview": "Reverend Clayton  hat seinen Sohn John Henry schon vor Jahren schweren Herzens aufgegeben. Damals verließ dieser seine Heimatstadt, um als Revolverheld den Wilden Westen noch unsicherer zu machen. Tatsächlich gilt er nach kurzer Zeit schon als ruchloser, treffsicherer Revolverheld. Johns rücksichtsloses Verhalten hat die Vater-Sohn-Beziehung jedoch zerstört. Nach Jahren des unehrenhaften Lebens als Outlaw hängt John Henry seinen Colt allerdings an den Nagel und sucht seine Heimat auf, um sich mit seinem Vater zu versöhnen und seine Vergangenheit zu vergessen. Darüber hinaus lernt er die schöne Mary-Alice Watson kennen, mit der er ein ruhiges Leben führen möchte. Doch das Idyll ist nur von kurzer Dauer, denn schon bald sucht eine Horde gesetzloser Banditen das kleine Städtchen auf...",
+      "poster": "https://image.tmdb.org/t/p/w500/5D2c88YiAha1lOLhYd2aOsBA8Xn.jpg",
+      "director": "Jon Cassar",
+      "cast": [
+        "Kiefer Sutherland",
+        "Donald Sutherland",
+        "Demi Moore"
+      ],
+      "tmdbId": 354110,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0GW4RFN7V?&linkCode=ll2&tag=ajsretro-21&linkId=290a13d188945ea78031842d7981e303&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Erbarmungslos",
+      "originalTitle": "Unforgiven",
+      "year": "1992",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "131",
+      "rating": "7.9",
+      "overview": "William Munny ist ein ausgebrannter Revolverheld. Für ein paar Dollar verläßt er Farm und Kinder, um zwei Männer zu jagen, die einer Hure das Gesicht zerschnitten haben. Mit seinem alten Partner Ned und dem unerfahrenen Kid reitet Munny nach Big Whiskey, einem Prärienest, das Sheriff Little Bill Daggett mit harter Hand führt. Dies bekommen auch Munny, dessen Schießkünste inzwischen stark nachgelassen haben, und seine Kollegen bald zu spüren ...",
+      "poster": "https://image.tmdb.org/t/p/w500/1H4DIND9wyJoimp7Zz2RXurhaIh.jpg",
+      "director": "Clint Eastwood",
+      "cast": [
+        "Clint Eastwood",
+        "Gene Hackman",
+        "Morgan Freeman"
+      ],
+      "tmdbId": 33,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0BZXJ1TWS?&linkCode=ll2&tag=ajsretro-21&linkId=890ef03c794a2d93f04e08a15084b0cb&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Dawn Rider",
+      "originalTitle": "Dawn Rider",
+      "year": "2012",
+      "genres": [
+        "Action",
+        "Western"
+      ],
+      "runtime": "94",
+      "rating": "5.6",
+      "overview": "John Mason hat gerade erst seinen lange vermissten Vater wiedergetroffen, da geraten auch beide schon in einen Zugüberfall. Johns Vater wird dabei im hitzigen Gefecht erschossen und er selbst schwer verwundet. Auf einer nahe gelegenen Ranch kann er zwar wieder zu Kräften kommen, doch tatsächlich lauert hier erneut tödliche Gefahr: Der Bruder der Ranchbesitzerin ist der Kopf der Gangsterbande... und der Mörder seines Vaters!",
+      "poster": "https://image.tmdb.org/t/p/w500/kbVAmKavszhLg7REGZTbaBiN7r3.jpg",
+      "director": "Terry Miles",
+      "cast": [
+        "Donald Sutherland",
+        "Christian Slater",
+        "Jill Hennessy"
+      ],
+      "tmdbId": 109500,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B085DR6CZS?&linkCode=ll2&tag=ajsretro-21&linkId=754aae0af3b57a86452df232e6eb9129&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "No Country for Old Men",
+      "originalTitle": "No Country for Old Men",
+      "year": "2007",
+      "genres": [
+        "Krimi",
+        "Thriller",
+        "Western"
+      ],
+      "runtime": "122",
+      "rating": "8.0",
+      "overview": "Ein Mann stolpert förmlich über einen blutigen Tatort, einen Pick-up-Truck, vollgeladen mit Heroin, und unwiderstehlichen zwei Millionen Dollar in bar. Seine Entscheidung, das Geld für sich zu behalten, setzt eine gewaltvolle Kettenreaktion in Gang, die noch nicht einmal das Gesetz von West-Texas aufhalten kann.",
+      "poster": "https://image.tmdb.org/t/p/w500/nVaCwvzqy14tj5mBwzjWPZdDL02.jpg",
+      "director": "Joel Coen",
+      "cast": [
+        "Javier Bardem",
+        "Tommy Lee Jones",
+        "Josh Brolin"
+      ],
+      "tmdbId": 6977,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0HC5Q2FR8?&linkCode=ll2&tag=ajsretro-21&linkId=b137f33e7c6fe8ff0051b66b7b7f64d1&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Ermordung des Jesse James durch den Feigling Robert Ford",
+      "originalTitle": "The Assassination of Jesse James by the Coward Robert Ford",
+      "year": "2007",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "runtime": "156",
+      "rating": "7.1",
+      "overview": "Die USA im Jahre 1881: Der 34-jährige Jesse James ist der berühmteste und meist gefürchtete Gangster des Landes und führt mit seinem älteren Bruder Frank die wohl bekannteste Gangsterbande des Landes an, die für unzählige Zug-, Postkutschen- und Banküberfälle verantwortlich ist. Zwar wird James von einem Großteil der Bevölkerung als eine Art Robin Hood verehrt und von der Presse bewundert, aber ebenso gnadenlos wird er von der Staatsmacht verfolgt und bringt seinen Bandenmitgliedern nur noch Misstrauen gegenüber, seitdem die meisten Angehörigen der legendären James-Younger-Bande entweder Tod oder inhaftiert sind. Als sich sein Bruder aus dem gefährlichen Geschäft zurückzieht und sich zur Ruhe setzt, kann Jesse James nur noch den Brüdern Charley und Robert Ford vertrauen, die vor kurzem zu den Gangstern gestoßen sind. Dies stellt sich als fataler Fehler heraus ...",
+      "poster": "https://image.tmdb.org/t/p/w500/hDIoubHJ5oVzYcIWBTxpeIt64ak.jpg",
+      "director": "Andrew Dominik",
+      "cast": [
+        "Brad Pitt",
+        "Casey Affleck",
+        "Sam Rockwell"
+      ],
+      "tmdbId": 4512,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0B8SPYLSS?&linkCode=ll2&tag=ajsretro-21&linkId=8c3bd68ef8c52b3bd8b40cd91793e543&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Texas Rangers",
+      "originalTitle": "Texas Rangers",
+      "year": "2001",
+      "genres": [
+        "Western",
+        "Action",
+        "Abenteuer",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "86",
+      "rating": "5.9",
+      "overview": "Texas 1875: Das Land ist mehr oder weniger gesetzlos. Die Armee ist durch Indianeraufstände voll gebunden und so haben gesetzlose Banden die Herrschaft übernommen. Der Gouverneur bittet den todkranken Kriegsveteranen McNelly ihm zu helfen und wieder eine Einheit der legendären Texas Ranger aufzustellen. Zusammen mit zwei alten Kameraden schart McNelly einen Haufen junger Männer als Rekruten um sich, um diese auf Ihren ersten Gegner vorzubereiten. Doch mit Fisher und seiner ihnen zahlenmäßig weit überlegenen Bande haben sich die neuen Ranger einen erbarmungslosen Feind ausgesucht und schon bald müssen auch die ersten Ranger sterben...",
+      "poster": "https://image.tmdb.org/t/p/w500/69tMHlxiCYlYKGZm1aPH1u7hY88.jpg",
+      "director": "Steve Miner",
+      "cast": [
+        "James Van Der Beek",
+        "Rachael Leigh Cook",
+        "Ashton Kutcher"
+      ],
+      "tmdbId": 13503,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0HNGRH2S7?&linkCode=ll2&tag=ajsretro-21&linkId=43bf36dc3ded19e8906ea55d3364e08a&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Schneller als der Tod",
+      "originalTitle": "The Quick and the Dead",
+      "year": "1995",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "107",
+      "rating": "6.6",
+      "overview": "Redemption, ein ödes Kaff im Wilden Westen. Hier organisiert der skrupellose John Herod jedes Jahr einen Schießwettbewerb. Diesmal streiten u.a. Profikiller Cantrell, Pokerspieler Ace, Priester Cort und der smarte Kid um die Prämie. Aufsehen aber erregt eine wortkarge Blondine in staubiger Westmannskutte: Auch Ellen will am gnadenlosen Duell teilnehmen...",
+      "poster": "https://image.tmdb.org/t/p/w500/ghR7N2Wj1xwTR2lI2PJZhWmuBh5.jpg",
+      "director": "Sam Raimi",
+      "cast": [
+        "Sharon Stone",
+        "Gene Hackman",
+        "Russell Crowe"
+      ],
+      "tmdbId": 12106,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B09Q5Y7BV5?&linkCode=ll2&tag=ajsretro-21&linkId=3fb1e7f792664c1d101794d82ae8e591&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Ferner Donner",
+      "originalTitle": "Alien Thunder",
+      "year": "1974",
+      "genres": [
+        "Drama",
+        "Western"
+      ],
+      "runtime": "89",
+      "rating": "5.2",
+      "overview": "Saskatchewan, Kanada, Ende des 19. Jahrhunderts. Die Nachlässigkeit von Dan Candy, Sergeant der Royal Canadian Mounted Police, ermöglicht Almighty Voice, einem jungen Cree-Krieger, die Flucht.",
+      "poster": "https://image.tmdb.org/t/p/w500/rMzpXYAxHg8wE5mqZCGsUCjrsBS.jpg",
+      "director": "Claude Fournier",
+      "cast": [
+        "Donald Sutherland",
+        "Gordon Tootoosis",
+        "Chief Dan George"
+      ],
+      "tmdbId": 98387,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0HN3VQ7M8?&linkCode=ll2&tag=ajsretro-21&linkId=eb2d1e1e817981b6145ee4b3037ec276&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Chisum",
+      "originalTitle": "Chisum",
+      "year": "1970",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "111",
+      "rating": "6.6",
+      "overview": "New Mexiko 1878. John Simpson Chisum ist nach zehn Jahren harter Arbeit zu einem der wohlhabensten Rinderzüchter des Landes geworden. Da taucht Lawrence Murphy auf, ein gerissener Ganove, der ihn um seinen Besitz und die ganze Stadt unter seinen Einfluß bringen will. Mit freundlicher Unterstützung des korrupten Sheriffs Brady. Es kommt zu immer härteren Kämpfen zwischen Chisum und Murphy. Als Murphy, immer dreister geworden, die letzte Entscheidung sucht, wird seine Gang von Chisum und dem jungen Draufgänger Billy the Kid in die Zange genommen. Chisum ist mit seiner Geduld am Ende. Und damit beginnt ein Inferno, wie man es selbst in den härtesten Western nur selten erlebt.",
+      "poster": "https://image.tmdb.org/t/p/w500/1KIeG3pn5naPRiFPwOd6G3OLjcn.jpg",
+      "director": "Andrew V. McLaglen",
+      "cast": [
+        "John Wayne",
+        "Forrest Tucker",
+        "Christopher George"
+      ],
+      "tmdbId": 38765,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B00NPC8GNI?&linkCode=ll2&tag=ajsretro-21&linkId=1c4244d5f486a9a51a8340ae85498d2c&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Vier für ein Ave Maria",
+      "originalTitle": "I quattro dell'Ave Maria",
+      "year": "1968",
+      "genres": [
+        "Western",
+        "Action",
+        "Komödie"
+      ],
+      "runtime": "137",
+      "rating": "6.5",
+      "overview": "Das flotte Team räumt zuerst bei dem Exgangster Harold, jetzt ehrenwerter Bankdirektor ab und erleichtert ihn um 300.000 Dollar. Harold hält wenig von dieser unfreiwilligen Sozialhilfe und hetzt Cacapoulus ebenfalls ein ehrenwerter Gangster auf die Spur. Gauner jagt Gauner und Glück und Beute wechseln. Mal sind sie Kampfgenossen, dann wieder Gegner. Schließlich formiert sich das schlagfertige Kleeblatt zum letzten entscheidenden Kampf...",
+      "poster": "https://image.tmdb.org/t/p/w500/yrCv3LJRZKM7LMMrDERoKfbbjNc.jpg",
+      "director": "Giuseppe Colizzi",
+      "cast": [
+        "Eli Wallach",
+        "Terence Hill",
+        "Bud Spencer"
+      ],
+      "tmdbId": 11874,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0GW5MWT2V?&linkCode=ll2&tag=ajsretro-21&linkId=806131d0f08f39ee22d854b1b99a0f31&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Nevada Smith",
+      "originalTitle": "Nevada Smith",
+      "year": "1966",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "128",
+      "rating": "6.7",
+      "overview": "Als die Eltern des Halbbluts Max Sand von drei Männern brutal ermordet werden und das Haus in Flammen aufgeht, kennt er von nun an nur ein Ziel: Rache. Etwas unbeholfen, ohne lesen und schreiben zu können, macht er sich auf, um die Mörder zur Strecke zu bringen. Dafür ist ihm jedes Mittel recht. Erst ein Priester scheint seine unbändige Wut ausbremsen zu können...",
+      "poster": "https://image.tmdb.org/t/p/w500/9v0xI5o8sKKpb0ZRX9tCqTfp8i5.jpg",
+      "director": "Henry Hathaway",
+      "cast": [
+        "Steve McQueen",
+        "Karl Malden",
+        "Brian Keith"
+      ],
+      "tmdbId": 5921,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0C4Z8F348?&linkCode=ll2&tag=ajsretro-21&linkId=54823991d76bc7d54e3199c3b0476bb8&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Carrasco, der Schänder",
+      "originalTitle": "The Outrage",
+      "year": "1964",
+      "genres": [
+        "Drama",
+        "Krimi",
+        "Western"
+      ],
+      "runtime": "96",
+      "rating": "5.9",
+      "overview": "In der Nähe des amerikanischen Städtchens Silver Gulch wird die Leiche eines Mannes gefunden. Als ein Suchtrupp daraufhin in der Nähe des Fundortes den berüchtigten mexikanischen Banditen  Carrasco aufgreift, scheint der Fall klar. Doch vier Zeugenaussagen schildern die Vorgänge, die zum Tod des Mannes führten, völlig unterschiedlich …",
+      "poster": "https://image.tmdb.org/t/p/w500/hGYoJWWTU4b0bLcUZqZJNOsev9R.jpg",
+      "director": "Martin Ritt",
+      "cast": [
+        "Paul Newman",
+        "Laurence Harvey",
+        "Claire Bloom"
+      ],
+      "tmdbId": 85609,
+      "genre": "Western",
+      "url": "https://www.amazon.de/Outrage-Martin-Ritt/dp/B0B5PQ71S7?crid=2X6N9M8GMPF7Y&dib=eyJ2IjoiMSJ9._qh48AujIfnmh9IpmpGH6MQjlgAzrD6xePk-IvOAev3ZwHO9aq1kMNteIQ-JfY5FpFSqyvD8t3GNXvlISYyCGj2gBwauz8m-l1_hMo4fIUOYsYYrCDvhSIU76247j1vOFIgz5jF1DPrlElFdm4cIM7h1a2mHdDJp3WTNK4dYFFM.7cJQsC7M2ktoWdJgd88Mtcwt8XNC6akPxCiFbGbcQ1Q&dib_tag=se&keywords=carrasco+der+sch%C3%A4nder&qid=1795086758&sprefix=carrasco+der%2Caps%2C109&sr=8-1&linkCode=ll2&tag=ajsretro-21&linkId=1d97d35069abeafb2a5964d488065782&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Comancheros",
+      "originalTitle": "The Comancheros",
+      "year": "1961",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "107",
+      "rating": "6.7",
+      "overview": "Der Texas Ranger Jake Cutter und sein Freund, ein ausgefuchster Spieler, haben den Comancheros den Kampf angesagt. Die Comancheros sind eine Bande skrupelloser Weißer, die mit den Indianern einen regen Waffen- und Whiskyhandel betreiben. Die beiden ungleichen Männer haben nur ein Ziel - das Treiben dieser Bande zu beenden. Für dieses Ziel riskieren sie alles!",
+      "poster": "https://image.tmdb.org/t/p/w500/rHtGbgnHw86fs7S2bFiYOROetAk.jpg",
+      "director": "Michael Curtiz",
+      "cast": [
+        "John Wayne",
+        "Stuart Whitman",
+        "Ina Balin"
+      ],
+      "tmdbId": 30462,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0DHKPFSM1?&linkCode=ll2&tag=ajsretro-21&linkId=ca6de8c657550aab05c9ce04fc3a5424&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der letzte Zug von Gun Hill",
+      "originalTitle": "Last Train from Gun Hill",
+      "year": "1959",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "95",
+      "rating": "7.1",
+      "overview": "Die Frau von U.S. Marshall Matt Morgan wird vergewaltigt und ermordet, weil indianisches Blut in ihren Adern fließt. Die Mörder hinterlassen einen Sattel, der als Eigentum von Craig Belden identifiziert wird, einem reichen Rinderzüchter aus der benachbarten Stadt Gun Hill. Als Morgan herausfindet, dass Beldens Sohn Rick einer der Killer ist, reist er nach Gun Hill, um ihn festzunehmen. Doch Beldon Senior weigert sich, seinen Sohn dem Sheriff zu übergeben, weil beide noch eine Rechnung zu begleichen haben: Belden hat Morgan einst das Leben gerettet. Morgan muss jedoch seinen Auftrag erfüllen, bevor der letzte Zug von Gun Hill abfährt. Während die ganze Stadt hinter Belden steht, bekommt Morgan unerwartete Hilfe von der lokalen Bordellbesitzerin.",
+      "poster": "https://image.tmdb.org/t/p/w500/p2TMWlvEYMKhmd0BMb5vKMiXlYJ.jpg",
+      "director": "John Sturges",
+      "cast": [
+        "Kirk Douglas",
+        "Anthony Quinn",
+        "Earl Holliman"
+      ],
+      "tmdbId": 14677,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0H8CYHFFJ?&linkCode=ll2&tag=ajsretro-21&linkId=2a06a1c5ede1f0690fbb9d14f5acdd82&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Zähl bis drei und bete",
+      "originalTitle": "3:10 to Yuma",
+      "year": "1957",
+      "genres": [
+        "Western",
+        "Drama",
+        "Thriller"
+      ],
+      "runtime": "88",
+      "rating": "7.3",
+      "overview": "Der bescheidene Farmer Dan Evans (Van Heflin) wird zusammen mit seinen Söhnen Zeuge, wie bei einem Postkutschenüberfall der Räuberbandenboss Ben Wade (Glenn Ford) eiskalt den Kutscher erschießt. Wenig später wird Wade gefangen genommen, während dem Rest der Bande unter Leitung seiner nicht minder skrupellosen Nummer 2, Charlie Prince (Richard Jaeckel), die Flucht gelingt.  Der Marshal von Bisbee (Ford Rainey) will den Gefangenen nach Contention City bringen, von wo aus der Zug um 3:10 Uhr Richtung Yuma und dem dortigen Gefängnis losfahren soll. In der Gewissheit um die Gefährlichkeit der Reise lobt Zuglininienbesitzer Mr. Butterfield (Robert Emhardt) eine Prämie von 200 Dollar für die Gewährleistung des erfolgreichen Eskorts aus. Gegen den Rat seiner Frau Alice (Leora Dana) nimmt er das Angebot an, wie auch der stadtbekannte Trinker Alex Potter (Henry Jones). Die Zeit drängt, und schon geht die Gruppe ihrem schicksalhaften Ziel entgegen …",
+      "poster": "https://image.tmdb.org/t/p/w500/lm1f4hT20q9JaE8DYHPCIGa1o5L.jpg",
+      "director": "Delmer Daves",
+      "cast": [
+        "Glenn Ford",
+        "Van Heflin",
+        "Felicia Farr"
+      ],
+      "tmdbId": 14168,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B00FZEVI0M?&linkCode=ll2&tag=ajsretro-21&linkId=08835fddcc81206301aa163bec0b548b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Rio Grande",
+      "originalTitle": "Rio Grande",
+      "year": "1950",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "103",
+      "rating": "6.8",
+      "overview": "Kirby Yorke ist Kavallerieoffizier in einem texanischen Fort. Seine Aufgabe ist es, den Südwesten für Ansiedler zu sichern und die Überfälle der Apachen einzudämmen. Aber die Regierung der Vereinigten Staaten hat mit Mexiko ein Abkommen getroffen, wonach die Streitkräfte der Union den Grenzfluß Rio Grande nicht passieren dürfen. Dies bedeutet, dass die Indianer jederzeit in Mexiko Unterschlupf finden. Für Yorke gibt es nur eine Möglichkeit, die Indianer zu überwältigen: Er muß den Rio Grande überschreiten. In dieser schwierigen Situation tauchen auch noch Kirbys Frau und sein Sohn Jeff, die er seit 15 Jahren nicht gesehen hat, im Fort auf...",
+      "poster": "https://image.tmdb.org/t/p/w500/o1lRutvn50hs9qptHUii2xzpvI7.jpg",
+      "director": "John Ford",
+      "cast": [
+        "John Wayne",
+        "Maureen O'Hara",
+        "Ben Johnson"
+      ],
+      "tmdbId": 11617,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0DKNRDYKG?&linkCode=ll2&tag=ajsretro-21&linkId=5d5ae02c60a5503bbb384bd7b1dfa55b&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Der weiße Apache - Die Rache des Halbbluts",
+      "originalTitle": "Bianco Apache",
+      "year": "1987",
+      "genres": [
+        "Western"
+      ],
+      "runtime": "96",
+      "rating": "4.8",
+      "overview": "Bei einem Massaker an weißen Siedlern wird jeder getötet, nur eine hochschwangere Frau wird von den friedlichen Apachen gerettet. Zwar stirbt sie, doch ihr Kind kann überleben und wächst unter den Namen \"Leuchtender Stern\" als Sohn des Häuptlings auf. Als er im Streit um eine Frau seinen Bruder \"Schwarzer Wolf\" unbeabsichtigt tötet, wird er in die Welt der Weißen entsendet, um dort seine Wurzeln zu ergründen.",
+      "poster": "https://image.tmdb.org/t/p/w500/rXqsKyipvdtFHBEZGi2bWhqb8E2.jpg",
+      "director": "Bruno Mattei",
+      "cast": [
+        "Sebastian Harrison",
+        "Lola Forner",
+        "Alberto Farnese"
+      ],
+      "tmdbId": 158050,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0H46M3KMH?&linkCode=ll2&tag=ajsretro-21&linkId=1eac693f47080264fc2d6e524d350372&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Duell am Wind River",
+      "originalTitle": "The Mountain Men",
+      "year": "1980",
+      "genres": [
+        "Abenteuer",
+        "Western",
+        "Drama"
+      ],
+      "runtime": "102",
+      "rating": "5.9",
+      "overview": "Bill Tyler (Oscar®-Gewinner Charlton Heston, 1959, Bester Hauptdarsteller, BEN HUR) und Henry Frapp (Brian Keith) sind die rauesten, härtesten Pelztrapper, die je durch die nordamerikanische Wildnis geritten sind. Sie sind wahre Meister im Schießen, Trinken und Fluchen, doch ihr größtes Talent besteht darin, feindlichen Indianern zu entkommen - eine Beschäftigung, mit der sie den Großteil ihrer Zeit verbringen. Als sie herausfinden, dass ihre neue Reisegefährtin Running Moon (Victoria Racimo) in Wirklichkeit die geflohene Squaw eines Häuptlings ist, müssen Bill und Henry entscheiden, was ihnen wichtiger ist: das Mädchen oder ihre Skalps. Schnell sind sich die beiden einig, dass sie das einzig Ehrenhafte tun werden - so viele Meilen wie möglich zwischen sich und Running Moon zu bringen.",
+      "poster": "https://image.tmdb.org/t/p/w500/laEZdCkKenFhhHwNERIRrRlALVI.jpg",
+      "director": "Richard Lang",
+      "cast": [
+        "Charlton Heston",
+        "Brian Keith",
+        "Victoria Racimo"
+      ],
+      "tmdbId": 75552,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B00G0MIT8C?&linkCode=ll2&tag=ajsretro-21&linkId=33c34282c2762deaa020e22fbca49f7e&ref_=as_li_ss_tl"
+    },
+    {
+      "title": "Die Spur des Wolfes",
+      "originalTitle": "Il richiamo del lupo",
+      "year": "1975",
+      "genres": [
+        "Abenteuer",
+        "Western"
+      ],
+      "runtime": "95",
+      "rating": "4.1",
+      "overview": "Ein Junge und seine Schwester verbringen den Winter in einer Blockhütte unweit der Goldgräberstadt Dawson City. Ihr Vater wurde auf der Suche nach Proviant von Indianern getötet. Jim und Mary haben nur einen Freund, Buck - halb Hund, halb Wolf. Ein Tier, das den beiden bedingungslos ergeben ist, sie beschützt und aus mancher gefährlichen Situation gerettet hat...",
+      "poster": "https://image.tmdb.org/t/p/w500/2wGb5WePI5K1pxQSE2CnQW5hQTA.jpg",
+      "director": "Gianfranco Baldanello",
+      "cast": [
+        "Jack Palance",
+        "Joan Collins",
+        "Manuel de Blas"
+      ],
+      "tmdbId": 127143,
+      "genre": "Western",
+      "url": "https://www.amazon.de/gp/video/detail/B0DKB6K7LF?&linkCode=ll2&tag=ajsretro-21&linkId=0c2fe3a87de741b4edfe97ec8c0a64d2&ref_=as_li_ss_tl"
     }
   ]
 }
