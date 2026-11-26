@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T15:35:06.295Z",
+  "generatedAt": "2026-11-26T15:41:03.091Z",
   "shelves": [
     {
       "genre": "Alex' Tips",
@@ -23,7 +23,7 @@
       "genre": "X-Mas",
       "room": 1,
       "wall": "back",
-      "count": 23
+      "count": 20
     },
     {
       "genre": "RomCom",
@@ -7340,16 +7340,6 @@
       "url": "https://www.amazon.de/gp/video/detail/B0HN2H24JX?&linkCode=ll2&tag=ajsretro-21&linkId=7458670731ad4de5819d6e01d2eb9437&ref_=as_li_ss_tl"
     },
     {
-      "title": "Melt my Heart this Christmas - Ein Funke zu Weihnachten",
-      "genre": "X-Mas",
-      "url": "https://www.amazon.de/gp/video/detail/B0HKGYVRPW?&linkCode=ll2&tag=ajsretro-21&linkId=858d66269ee8768b3df067483b652d01&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2025",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
-    },
-    {
       "title": "A European Christmas - Weihnachten ohne Drehbuch",
       "originalTitle": "A European Christmas",
       "year": "2024",
@@ -7371,16 +7361,6 @@
       "tmdbId": 1377331,
       "genre": "X-Mas",
       "url": "https://www.amazon.de/gp/video/detail/B0HJ17JMMM?&linkCode=ll2&tag=ajsretro-21&linkId=903783b703f26322da7a08b348868223&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Ein Geschenk des Schicksals",
-      "genre": "X-Mas",
-      "url": "https://www.amazon.de/gp/video/detail/B0HHW264W7?&linkCode=ll2&tag=ajsretro-21&linkId=6983d0a010f9046a26c965e9695c445c&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2024",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "The Perfect Christmas Date - Verliebt nach Plan",
@@ -7426,16 +7406,6 @@
       "tmdbId": 1361232,
       "genre": "X-Mas",
       "url": "https://www.amazon.de/gp/video/detail/B0HF5YH1FC?&linkCode=ll2&tag=ajsretro-21&linkId=6ea6aa1d753cdab82d6a716c373fe808&ref_=as_li_ss_tl"
-    },
-    {
-      "title": "Der Festclub",
-      "genre": "X-Mas",
-      "url": "https://www.amazon.de/gp/video/detail/B0DN6XX1DD?&linkCode=ll2&tag=ajsretro-21&linkId=b64deb4d642f4e229104e3615ba1f3cd&ref_=as_li_ss_tl",
-      "poster": null,
-      "year": "2024",
-      "runtime": null,
-      "rating": null,
-      "overview": ""
     },
     {
       "title": "Ein sehr englisches Weihnachtsfest",
